@@ -2,11 +2,12 @@
 
 <div>
     <a href="{{.URL}}">{{.Title}}</a>
-  </div>
+</div>
   
   {{ partial "byline.html" . }}
   
   <div>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+  <div>{{ .ReadingTime }} min read</div>
     <article>
       {{.Content}}
     </article>
