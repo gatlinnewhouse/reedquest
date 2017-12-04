@@ -24,20 +24,22 @@ header {
     background-color: #fff;
     border-bottom: 1px solid black;
     width: 80%;
+    height: 11em;
     color: #870400;
 }
 
-
-.logo {
-    display: flex;
-    align-items: center;
+#logo {
+    background-image: url(/images/QuestCalligraphyLogo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: block;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 100%;
+    height: 100%;
 }
-
-.logo, header a {
-    color: inherit;
-    text-decoration: none;
-}
-
 
 header a:hover {
     text-decoration: underline;
