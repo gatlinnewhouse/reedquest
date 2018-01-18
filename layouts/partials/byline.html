@@ -9,8 +9,8 @@
 -->
 
 {{ with .Params.authors }}
-<div class="post-metadeta">
-  By:
+<span class="byline">
+  By
   {{ $len := len . }}
   {{ if eq $len 1 }}
     {{ partial "byline-link" (index . 0) }}
@@ -21,6 +21,6 @@
     {{ $clean := apply $links "chomp" "." }}
     {{ delimit $clean ", " ", and " }}
   {{ end }}
-</div>
+</span>
 {{ end }}
 
