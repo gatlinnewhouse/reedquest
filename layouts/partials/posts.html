@@ -3,26 +3,12 @@
 {{ range (.Paginator 10).Pages }}  
 	{{ if eq .Type "post" }}
 		<div class="post">
-			<div>
-					<a href="{{.URL}}">{{.Title}}</a>
+			<div id="headline">
+					<a id="headline" href="{{.URL}}">{{.Title}}</a>
 			</div>
 
-			{{ partial "byline.html" . }}
-			
-			<div class="post-metadata">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
-			<div>{{ .ReadingTime }} min read</div>
-			<div class="post-metadata">
-				{{ if .Params.tags }}
-				<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-				{{end}}
-				{{end}}
-			</div>
-			<div class="post-metadata">
-				{{ if .Params.categories }}
-				<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
-				{{end}}
-				{{end}}
-			</div>
+			{{ partial "byline.html" . }} <span class="date">{{ dateFormat "Jan. 2, 2006" .Date | upper }}</span>
+      <div class="reading-time">{{ .ReadingTime }} min read</div>
 			<p>{{.Summary}}</p>
 		</div>
 	{{ end }}

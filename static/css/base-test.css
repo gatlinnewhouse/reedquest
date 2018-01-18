@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond:700i|Lato:400,400i,700,700i&subset=latin-ext');
+ @import url('https://fonts.googleapis.com/css?family=EB+Garamond:700i|Lato:400,400i,700,700i&subset=latin-ext');
 
 body {
     font-family: "Lato", sans-serif;
@@ -15,8 +15,6 @@ body {
 }
 
 #site-container {
-    margin-right: auto;
-    margin-left: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -80,14 +78,19 @@ main {
     flex-direction: column;
     background-color: #E0E0E0;
     padding: 15px;
-	width: 80%;
+    width: 80%;
 }
 
 .post {
+    display: grid;
+    grid-template-columns: 1fr;
+    /* two thirds of post item has picture */
+    /* make a conditional for when posts have pictures vs not */
+    grid-template-rows: 2fr 1fr;
     padding: 10px;
     background-color: #fff;
+    width: 75%;
     margin-bottom: 15px;
-	width: 75%;
 }
 
 #headline {
@@ -149,4 +152,22 @@ footer {
     border-top: 1px solid black;
     padding-right: 10px;
     padding-left: 10px;
+}
+
+/* TODO: write pagination control styling */
+
+.single-post {
+    display: grid;
+    grid-template-columns: 1fr 1fr 10px 740px 10px 1fr 1fr;
+}
+
+/* All content on articles goes in middle column */
+.single-post > * {
+    grid-column: 4;
+}
+
+/* All inline images are larger than the text but not full-width */
+.single-post > .inline-image {
+    grid-column: 2 / -2;
+    margin: 15px 0;
 }
