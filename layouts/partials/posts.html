@@ -10,6 +10,7 @@
 			{{ partial "byline.html" . }}
 			
 			<div class="post-metadata">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+			<div>{{ .ReadingTime }} min read</div>
 			<div class="post-metadata">
 				{{ if .Params.tags }}
 				<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 

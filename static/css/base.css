@@ -2,56 +2,65 @@
     box-sizing: border-box;
 }
 
-html {
-    height: 100vh;
-}
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:700i|Lato:400,400i,700,700i&subset=latin-ext');
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: medium;
     margin: 0px;
     background-color: #F5F5F5;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 #site-container {
     margin-right: auto;
     margin-left: auto;
-    display: grid;
-    grid-template-columns: 3fr 1fr;
-    grid-template-rows: 10% 2fr 10%;
-    grid-gap: 1rem;
-    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
 }
 
 header {
-    grid-column: 1 / 3;
     display: flex;
     flex-direction: column;
     margin: 0px;
-    padding: 15px;
+    padding: 15px 15px 0px 15px;
     background-color: #fff;
-    border-bottom: 1px solid black;
+    width: 100%;
+    height: 11em;
     color: #870400;
 }
 
 
 .logo {
-    display: flex;
-    align-items: center;
+	background-image: url(/images/QuestCalligraphyLogo.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	display: block;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	max-width: 100%;
+	height: 100%;
 }
-
-.logo, header a {
-    color: inherit;
-    text-decoration: none;
-}
-
 
 header a:hover {
     text-decoration: underline;
 }
 
 nav {
-    margin-top: 5px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: rgb(0, 0, 0);
+    margin-top: 8px;
+    padding-top: 6px;
+    padding-bottom: 2px;
+    font-size: 0.75rem;
+    text-align: center;
 }
 
 nav ul {
@@ -68,21 +77,18 @@ nav li {
 
 
 main {
-    grid
     display: flex;
     flex-direction: column;
     background-color: #E0E0E0;
     padding: 15px;
-}
-
-.sidebar {
-    border: 1px solid black;
+	width: 80%;
 }
 
 .post {
     padding: 10px;
     background-color: #fff;
     margin-bottom: 15px;
+	width: 75%;
 }
 
 .post-metadata {
@@ -90,8 +96,56 @@ main {
     color: grey;
 }
 
+#headline {
+    font-size: 1.75rem;
+    line-height: 1.875rem;
+    font-weight: 700;
+    font-style: italic;
+    font-family: "EB Garamond", georgia, "times new roman", serif;
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 4px;
+}
+
+#headline a:hover {
+    box-shadow: inset 0 -2px 0 white, inset 0 -3px 0 black;
+}
+
+#headline a:active {
+    border-bottom: 1px solid black;
+}
+
+#headline a:visited {
+    color: #000;
+}
+
+.reading-time {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 80%;
+    color: rgb(135, 4, 0)
+}
+
+.byline {
+    font-family: "Lato", sans-serif;
+    font-size: 95%;
+    font-weight: 400;
+    color: rgb(153, 153, 153);
+}
+
+.byline a {
+    text-decoration: none;
+}
+
+.date {
+    font-family: "Lato", sans-serif;
+    font-size: 80%;
+    font-weight: 400;
+    color: rgb(153, 153, 153);
+    padding-left: 5px;
+}
+
 footer {
-    grid-column: 1 / 3;
     display: flex;
     border-top: 1px solid black;
     padding-right: 10px;

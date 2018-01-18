@@ -19,7 +19,7 @@
   {{ else }}
     {{ $links := apply . "partial" "byline-link" "." }}
     {{ $clean := apply $links "chomp" "." }}
-    {{ delimit $clean ", " " and " }}
+    {{ delimit $clean ", " ", and " }}
   {{ end }}
 </div>
 {{ end }}
