@@ -80,7 +80,7 @@ main {
     flex-direction: column;
     background-color: #E0E0E0;
     padding: 15px;
-	width: 80%;
+    width: 100%;
 }
 
 .post {
