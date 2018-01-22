@@ -86,7 +86,7 @@ nav li {
 
 main {
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 2fr 1fr;
     grid-template-rows: 10000fr 1fr;
     grid-gap: 10px;
     background-color: #F5F5F5;
@@ -206,7 +206,17 @@ main {
     color: grey;
 }
 
+@media all and (max-device-width: 364px) {
+    .dividerdot {
+        margin-right: 1em;
+    }
+    .dividerdot::after {
+        display: none;
+    }
+}
+
 .dividerdot {
+    display: inline-block;
     font-size: 80%;
 }
 
@@ -215,6 +225,7 @@ main {
 }
 
 .reading-time {
+    display: inline-block;
     font-family: "Lato", sans-serif;
     font-weight: 400;
     font-size: 80%;
@@ -223,6 +234,7 @@ main {
 }
 
 .byline {
+    display: inline-block;
     font-family: "Lato", sans-serif;
     font-weight: 400;
     color: rgb(153, 153, 153);
@@ -234,6 +246,7 @@ main {
 }
 
 .date {
+    display: inline-block;
     font-family: "Lato", sans-serif;
     font-size: 80%;
     font-weight: 400;
