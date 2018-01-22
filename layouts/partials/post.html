@@ -12,20 +12,23 @@
                 {{.Content}}
         </article>
         <div class="post-metadata">
-                <div class="post-tags">
+                <div>
                         {{ if .Params.tags }}
-                                <strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                                <strong>Tags:</strong>
+                                {{range .Params.tags}}
+                                <a class="post-tags" 
+                                href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
                                 {{end}}
                         {{end}}
                 </div>
-                <div class="post-categories">
+                <div>
                         {{ if .Params.categories }}
-                                <strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> 
+                                <strong>Categories:</strong>
+                                {{range .Params.categories}}
+                                <a class="post-categories" 
+                                href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
                                 {{end}}
                         {{end}}
                 </div>
         </div>
 </div>
-<span class="sidebar">
-  <iframe class="searchbar" src="https://duckduckgo.com/search.html?site=https://www.reedquest.org/&prefill=Search" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
-</span>

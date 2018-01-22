@@ -1,8 +1,11 @@
 {{ define "main" }}
-<span class="post-list">
-  {{ partial "posts.html" . }}
+<span>
+  <div class="section-title">
+    <h1>Latest Stories</h1>
+  </div>
+  <div class="post-list">
+    {{ partial "posts.html" . }}
+  </div>
 </span>
-<span class="sidebar">
-  <iframe class="searchbar" src="https://duckduckgo.com/search.html?site=https://www.reedquest.org/&prefill=Search" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
-</span>
+{{ partial "sidebar.html" . }}
 {{ end }}

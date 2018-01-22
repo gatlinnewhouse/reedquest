@@ -66,9 +66,9 @@ header a:hover {
 }
 
 nav {
-    padding-top: 6px;
-    padding-bottom: 2px;
-    font-size: 0.75rem;
+    padding-top: 0em;
+    padding-bottom: 1em;
+    font-size: 1em;
 }
 
 nav ul {
@@ -106,8 +106,20 @@ main {
     }
 }
 
-.searchbar {
-    width: 100%!important;
+#search {
+    background-color: rgb(135, 4, 0);
+    padding: 16px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    margin-bottom: 8px;
+}
+
+#searchbar {
+    display: block;
+    width: 99%;
+    margin: auto;
 }
 
 .sidebar {
@@ -119,9 +131,46 @@ main {
     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
 }
 
+#sidebarlink {
+    display: inline-block;
+    font-weight: 400;
+    font-size: 95%;
+    color: rgb(135, 4, 0);
+    text-decoration: none;
+}
+
+#sidebar-headline {
+    font-style: italic;
+    font-family: "EB Garamond", georgia, "times new roman", serif;
+    color: #000;
+    text-decoration: none;
+    margin: 0px;
+}
+
+#sidebar-content {
+    margin-top: 0.5em;
+    margin-bottom: 0px;
+}
+
+#readmore {
+    margin-left: 2px;
+    vertical-align: -0.05em;
+    display: inline-block;
+    font-size: 0.8em;
+}
+
 .post {
     border-bottom: 1px solid #d9d9d9;
     margin-bottom: 0.5em;
+}
+
+.section-title {
+    background-color: rgb(135, 4, 0);
+    color: #fff;
+    padding: 16px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    font-size: x-small;
 }
 
 .post-list {
@@ -131,11 +180,6 @@ main {
     -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
     -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
-}
-
-.post-tags {
-    border-top: 1px solid #d9d9d9;
-    padding-top: 0.5em;
 }
 
 .single-post {
@@ -154,7 +198,9 @@ main {
     background-color: #FFFFFF;
     padding: 16px;
     border-radius: 2px;
-    box-shadow: 0.1px 4px 0 rgba(0,0,0,0,0.14)
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
 }
 
 .author-title {
@@ -206,8 +252,31 @@ main {
 }
 
 .post-metadata {
+    font-size: 80%;
+    color: rgb(153, 153, 153);
+    border-top: 1px solid #d9d9d9;
+    padding-top: 0.5em;
+
+}
+
+.post-categories {
+    display: inline-block;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
     font-size: 95%;
-    color: grey;
+    color: rgb(135, 4, 0);
+    margin: 0.5em 0em;
+    text-decoration: none;
+}
+
+.post-tags {
+    display: inline-block;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 95%;
+    color: rgb(135, 4, 0);
+    margin: 0.5em 0em;
+    text-decoration: none;
 }
 
 @media all and (max-device-width: 364px) {
