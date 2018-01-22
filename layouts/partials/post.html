@@ -1,13 +1,13 @@
 <!-- The post.html partial displays the contents of a single article -->
 <div class="single-post">
-        <div>
-                <a id="headline" href="{{.URL}}">{{.Title}}</a>
+        <div id="single-headline">
+                <a id="single-headline" href="{{.URL}}">{{.Title}}</a>
         </div>
         
         {{ partial "byline.html" . }}
-        
-        <div>{{ dateFormat "Jan. 2, 2006" .Date | upper }}</div>
-        <div class="reading-time">{{ .ReadingTime }} min read</div>
+        <span class="date">{{ dateFormat "Jan. 2, 2006" .Date | upper }}</span>
+        <span class="dividerdot"></span>
+        <span class="reading-time">{{ .ReadingTime }} min read</span>
         <article>
                 {{.Content}}
         </article>

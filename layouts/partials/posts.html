@@ -1,5 +1,4 @@
 <!-- The posts.html partial displays a list of articles, includes pagination template -->
-
 {{ range (.Paginator 10).Pages }}  
 	{{ if eq .Type "post" }}
 		<div class="post">
@@ -7,9 +6,11 @@
 					<a id="headline" href="{{.URL}}">{{.Title}}</a>
 			</div>
 
-			{{ partial "byline.html" . }} <span class="date">{{ dateFormat "Jan. 2, 2006" .Date | upper }}</span>
-      <div class="reading-time">{{ .ReadingTime }} min read</div>
-			<p>{{.Summary}}</p>
+			<span class="byline">{{ partial "byline.html" . }}</span>
+      <span class="date">{{ dateFormat "Jan. 2, 2006" .Date | upper }}</span>
+      <span class="dividerdot"></span>
+      <span class="reading-time">{{ .ReadingTime }} min read</span>
+			<p class="summary">{{.Summary}}</p>
 		</div>
 	{{ end }}
 {{ end }}

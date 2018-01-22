@@ -1,9 +1,11 @@
 <nav class="paginator">
   {{ if .Paginator.HasPrev }}
-    <a class="" href="{{ .Paginator.Prev.URL }}">&larr; Previous Page</a>
+    <a align="left" class="material-icons" style="float: left;" 
+    href="{{ .Paginator.Prev.URL }}">navigate_before</a>
   {{ end }}
 
   {{ if .Paginator.HasNext }}
-    <a class="" href="{{ .Paginator.Next.URL }}">Next Page &rarr;</a>
+    <a align="right" class="material-icons" style="float: right;" 
+    href="{{ .Paginator.Next.URL }}">navigate_next</a>
   {{ end }}
 </nav>

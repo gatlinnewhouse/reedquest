@@ -11,11 +11,14 @@
 	3: terms.html (default template for displaying list of all taxonomy terms, e.g., /authors, /tags, /categories)
 -->
 <!DOCTYPE html>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <html lang="en">
+  <div class="whitebackground">
+  </div>
   {{ partial "head.html" . }}
   <body>
 		<div id="site-container">
-			{{ partial "header.html" . }}
+        {{ partial "header.html" . }}
 
 			<!-- The "main" block is the part of the page that begins to differ between templates-->
 			<main>
@@ -26,4 +29,6 @@
 			{{ partial "footer.html" . }}
 		</div>
   </body>
+  <script type="text/javascript" src="ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript" src="js/nav.js"></script>
 </html>

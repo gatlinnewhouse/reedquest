@@ -1,9 +1,9 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-
+<span class="author-page">
+  <h1 class="author-title">{{ .Title }}</h1>
+  
   {{ .Content }}
-
-  <h2>Story Archive</h2>
- 
+  
   {{ partial "posts.html" . }}
+</span>
 {{ end }}
