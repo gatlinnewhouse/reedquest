@@ -107,19 +107,17 @@ main {
 }
 
 #search {
-    background-color: rgb(135, 4, 0);
-    padding: 16px;
     border-radius: 2px;
     -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
     -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 #searchbar {
-    display: block;
-    width: 99%;
-    margin: auto;
+    width: 100%;
+    padding: 8px;
+    border: none;
 }
 
 .sidebar {
@@ -129,6 +127,7 @@ main {
     -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
     -moz-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+    margin-bottom: 1em;
 }
 
 #sidebarlink {
@@ -140,7 +139,6 @@ main {
 }
 
 #sidebar-headline {
-    font-style: italic;
     font-family: "EB Garamond", georgia, "times new roman", serif;
     color: #000;
     text-decoration: none;
@@ -159,18 +157,17 @@ main {
     font-size: 0.8em;
 }
 
+#section-title {
+    margin: 0px;
+    margin-bottom: 0.25em;
+    padding-bottom: 0.5em;
+    font-family: "EB Garamond", georgia, "times new roman", serif;
+    border-bottom: 1px solid #d9d9d9;
+}
+
 .post {
     border-bottom: 1px solid #d9d9d9;
     margin-bottom: 0.5em;
-}
-
-.section-title {
-    background-color: rgb(135, 4, 0);
-    color: #fff;
-    padding: 16px;
-    border-top-left-radius: 2px;
-    border-top-right-radius: 2px;
-    font-size: x-small;
 }
 
 .post-list {

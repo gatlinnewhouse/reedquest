@@ -1,11 +1,7 @@
 {{ define "main" }}
-<span>
-  <div class="section-title">
-    <h1>Latest Stories</h1>
-  </div>
-  <div class="post-list">
-    {{ partial "posts.html" . }}
-  </div>
-</span>
+<div class="post-list">
+  <h1 id="section-title">Latest Stories</h1>
+  {{ partial "posts.html" . }}
+</div>
 {{ partial "sidebar.html" . }}
 {{ end }}
