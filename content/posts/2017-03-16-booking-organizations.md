@@ -2,11 +2,11 @@
 authors:
 - Tyler Adams
 type: post
-date: 2017-03-16
+date: 2017-03-16 00:00:00 +0000
 url: "/?p=11219"
 categories:
 - Uncategorized
-title: 'Booking Organizations and Upcoming Shows'
+title: Booking Organizations and Upcoming Shows
 draft: true
 
 ---

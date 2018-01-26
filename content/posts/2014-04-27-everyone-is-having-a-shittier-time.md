@@ -3,7 +3,7 @@ title: Everyone is Having a Shittier Time Than You
 authors:
 - Rebecca Turley
 type: post
-date: 2017-04-27
+date: 2017-04-27 00:00:00 +0000
 url: "/?p=3525"
 categories:
 - Uncategorized
