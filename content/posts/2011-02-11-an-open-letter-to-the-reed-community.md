@@ -1,17 +1,17 @@
 ---
 title: An Open Letter to the Reed Community
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-02-11T20:52:24+00:00
-url: /2011/02/11/an-open-letter-to-the-reed-community/
+date: 2011-02-11 20:52:24 +0000
+url: "/2011/02/11/an-open-letter-to-the-reed-community/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - honor principle
-  - J-Board
-  - policy
-  - sexual assault
+- honor principle
+- J-Board
+- policy
+- sexual assault
 
 ---
 Dear Reedies,

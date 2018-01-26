@@ -1,21 +1,21 @@
 ---
 title: Response to “Ask Mike”
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-11-18T01:26:33+00:00
-url: /2011/11/17/response-to-ask-mike/
+date: 2011-11-18 01:26:33 +0000
+url: "/2011/11/17/response-to-ask-mike/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - community
-  - engagement
-  - involvement
-  - jacob canter
-  - mike brody
-  - participation
-  - reed college
-  - reed senate
+- community
+- engagement
+- involvement
+- jacob canter
+- mike brody
+- participation
+- reed college
+- reed senate
 
 ---
 Mike: In last week’s segment of _Ask Mike!_, you responded to a question concerning the lack of participation in student government and Senate’s role in increasing said participation. In your response, you stated, “I don’t think it’s really on Senate or any other distinct group [to increase participation] so much as it is the responsibility of the entire community to establish and communicate a clear expectation that students get and stay involved.” While I agree with much of this statement—particularly the plea that all of us encourage one another to “get and stay involved”—I disagree with your claim that the Senate is free from the responsibility of working to improve the level of participation in student government. In fact, I would argue that improving participation should be a high priority for the Senate, as well as for all other student groups.

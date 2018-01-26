@@ -1,13 +1,13 @@
 ---
 title: FSU Panel Discusses Gender, Stuff
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-12-09T22:46:30+00:00
-url: /2012/12/09/fsu-panel-discusses-gender-stuff/
+date: 2012-12-09 22:46:30 +0000
+url: "/2012/12/09/fsu-panel-discusses-gender-stuff/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “Pretend that Reed has a gender studies program,” read the banner in Gray Campus Center advertising the Feminist Student Union&#8217;s Gender and Stuff Panel, or G.A.S.P. Although Reedies often do a lot of writing about gender, it never really sees the light of day because gender isn&#8217;t the focus of our classes, said Stella Jones &#8217;13, an FSU member and the creator of G.A.S.P. <span style="color: #1a1a1a;">“Especially in the wake of the comedy incident, FSU is renewing its efforts to reach out to the student body,” Stella explained, referencing a <a href="http://www.reedquest.org/2012/11/comedian-under-fire-for-comments-about-diversity-gender-equality-and-sexual-assault/" target="_blank">controversial performance</a> at a Reed stand-up comedy event.</span>

@@ -1,14 +1,15 @@
 ---
 title: Zumba Classes to Return Next Quarter
-authors: 
-  - "Lauren Nelson"
+authors:
+- Lauren Nelson
 type: post
-date: 2012-09-14T16:59:57+00:00
-excerpt: Zumba, one of Reed’s most popular physical education classes of the last few years, was cancelled two weeks before the start of the fall semester.
-url: /2012/09/14/zumba-classes-to-return-next-quarter/
+date: 2012-09-14 16:59:57 +0000
+excerpt: Zumba, one of Reed’s most popular physical education classes of the last
+  few years, was cancelled two weeks before the start of the fall semester.
+url: "/2012/09/14/zumba-classes-to-return-next-quarter/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Zumba, one of Reed’s most popular physical education classes of the last few years, was cancelled two weeks before the start of the fall semester. The class was cancelled after the former instructor resigned, and the Sports Center faced difficulties in process of hiring a new one, says  Michael Lombardo, director of athletics.

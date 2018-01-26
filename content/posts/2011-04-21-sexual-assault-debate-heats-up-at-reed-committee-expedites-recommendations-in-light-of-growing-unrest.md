@@ -1,15 +1,16 @@
 ---
-title: 'Sexual Assault Debate Heats Up at Reed: Committee Expedites Recommendations in Light of Growing Unrest'
-authors: 
-  - Staff
+title: 'Sexual Assault Debate Heats Up at Reed: Committee Expedites Recommendations
+  in Light of Growing Unrest'
+authors:
+- Staff
 type: post
-date: 2011-04-22T02:12:44+00:00
-url: /2011/04/21/sexual-assault-debate-heats-up-at-reed-committee-expedites-recommendations-in-light-of-growing-unrest/
+date: 2011-04-22 02:12:44 +0000
+url: "/2011/04/21/sexual-assault-debate-heats-up-at-reed-committee-expedites-recommendations-in-light-of-growing-unrest/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - sexual assault
+- sexual assault
 
 ---
 <div id="attachment_757" style="width: 310px" class="wp-caption alignleft">

@@ -1,13 +1,13 @@
 ---
 title: 'Answers Elude Rick Bass: Prolific Writer Kicks Off Visiting Writers Series'
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2012-09-28T16:50:42+00:00
-url: /2012/09/28/answers-elude-rick-bass-prolific-writer-kicks-off-visiting-writers-series/
+date: 2012-09-28 16:50:42 +0000
+url: "/2012/09/28/answers-elude-rick-bass-prolific-writer-kicks-off-visiting-writers-series/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “I don’t know what it is, but it is magic,” Rick Bass, author of over 30 books of fiction and nonfiction, told his audience in the Psych Building the night of Thursday Sept. 20. Bass kicked off Reed’s annual Visiting Writers series not with a bang, but with a thoughtful stare.

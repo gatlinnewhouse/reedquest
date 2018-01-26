@@ -1,17 +1,17 @@
 ---
 title: Quest, Senate Debate Quest Reform
-authors: 
-  - "Brent Bailey"
+authors:
+- Brent Bailey
 type: post
-date: 2012-04-13T21:12:35+00:00
-url: /2012/04/13/quest-senate-debate-quest-reform/
+date: 2012-04-13 21:12:35 +0000
+url: "/2012/04/13/quest-senate-debate-quest-reform/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - quest
-  - reform
-  - senate
+- quest
+- reform
+- senate
 
 ---
 <div>

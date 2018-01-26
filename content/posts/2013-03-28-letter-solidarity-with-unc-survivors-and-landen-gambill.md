@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Solidarity with UNC Survivors and Landen Gambill'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-03-28T07:51:21+00:00
-url: /2013/03/28/letter-solidarity-with-unc-survivors-and-landen-gambill/
+date: 2013-03-28 07:51:21 +0000
+url: "/2013/03/28/letter-solidarity-with-unc-survivors-and-landen-gambill/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _**TW: Discussion of Sexual Assault **_

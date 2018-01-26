@@ -1,13 +1,13 @@
 ---
 title: 'Thoughts About Thoughts: Convocation 2013'
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-09-08T21:21:16+00:00
-url: /2013/09/08/thoughts-about-thoughts-convocation-2013/
+date: 2013-09-08 21:21:16 +0000
+url: "/2013/09/08/thoughts-about-thoughts-convocation-2013/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The class of 2017 gathered together as a group for the first time last week for Reed College’s annual Convocation address. President John Kroger opened by welcoming the new class and saying a few words about the value of a liberal arts education. He understood that spending four years devoted to intellectual pursuits was an “immense investment of money, time, and effort;” but also said it was “the greatest decision someone could make.”  He urged the entering class towards “self-critical, rigorous thinking” and implored them to “think critically for themselves” before calling them “totally awesome” and stating his confidence in their “creativity and intellectual firepower.”

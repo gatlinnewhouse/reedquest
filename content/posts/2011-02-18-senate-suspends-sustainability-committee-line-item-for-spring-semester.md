@@ -1,16 +1,16 @@
 ---
 title: Senate Suspends Sustainability Committee Line Item for Spring Semester
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-02-18T20:14:00+00:00
-url: /2011/02/18/senate-suspends-sustainability-committee-line-item-for-spring-semester/
+date: 2011-02-18 20:14:00 +0000
+url: "/2011/02/18/senate-suspends-sustainability-committee-line-item-for-spring-semester/"
 categories:
-  - News
+- News
 tags:
-  - funding
-  - senate
-  - sustainability
+- funding
+- senate
+- sustainability
 
 ---
 During the Fall of 2009, Senate agreed to allocate two percent of the Study Body Funds to the Sustainability Committee, a faculty-heavy group that is tasked with supporting the school’s quest to making our lives more green in whatever way it sees fit. These funds, on two different occasions (in the Fall of ’09 and Spring of ’10), have even been matched by the President’s Office, resulting in a total of $12,000. The hope is that this money will be used, said Senator Jenny Calvert-Warren, for “student projects that create tangible improvements in sustainability on campus.” This has in actuality only happened very little so far, and thus Senate has chosen to suspend any further investment into the fund this semester.

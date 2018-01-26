@@ -1,13 +1,13 @@
 ---
 title: An Alumna’s Open Letter to the Board of Trustees
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-07T06:15:02+00:00
-url: /2013/02/06/an-alumnas-open-letter-to-the-board-of-trustees/
+date: 2013-02-07 06:15:02 +0000
+url: "/2013/02/06/an-alumnas-open-letter-to-the-board-of-trustees/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Hello! My name is Rebecca Ok. I met several of you during the retreat in San Diego in 2008. I&#8217;m writing today to express concern over the increasingly disappointing way in which the Reed College administration has been approaching the fact of drug experimentation and underage drinking at Reed. Mr. Kroger&#8217;s censorship of a handful of Paideia classes (besides being blatantly in violation of the [college&#8217;s operating principles][1]{.broken_link} and the Community Constitution, as other alumni have pointed out) is simply another example of this trend. (If you are unaware of this incident, please click [here][2] to find the original Quest article covering the incident and [here][3] for Mr. Kroger&#8217;s response.)

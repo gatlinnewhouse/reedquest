@@ -1,22 +1,23 @@
 ---
-title: 'Towards a More Perfect Union: Community Gathers for Reevaluation of the Honor Principle'
-authors: 
-  - "Katy Joseph"
+title: 'Towards a More Perfect Union: Community Gathers for Reevaluation of the Honor
+  Principle'
+authors:
+- Katy Joseph
 type: post
-date: 2011-04-07T19:31:23+00:00
+date: 2011-04-07 19:31:23 +0000
 excerpt: |
   |
     <p>A Reed Union on the state of the Honor Principle occurred Monday  night before a crowd of over 400 students, faculty, staff and alumni,  nearly filling Kaul Auditorium.</p>
     <p>The Union, the first since 2007, was proposed by members of Honor  Council to discuss the “state of the Honor Principle.” Reed Unions are  described by the college as “moderated discussion featuring panels of  experts in dialogue with members of the audience” and are intended to  serve as a Reed-wide forum for addressing topics of importance to the  community.</p>
-url: /2011/04/07/towards-a-more-perfect-union-community-gathers-for-reevaluation-of-the-honor-principle/
+url: "/2011/04/07/towards-a-more-perfect-union-community-gathers-for-reevaluation-of-the-honor-principle/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - honor principle
-  - Reed
-  - sexual assault
-  - union
+- honor principle
+- Reed
+- sexual assault
+- union
 
 ---
 A Reed Union on the state of the Honor Principle occurred Monday night before a crowd of over 400 students, faculty, staff and alumni, nearly filling Kaul Auditorium.

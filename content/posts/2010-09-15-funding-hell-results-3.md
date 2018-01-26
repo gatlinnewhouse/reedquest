@@ -1,16 +1,16 @@
 ---
 title: Funding Hell Results
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T18:31:11+00:00
+date: 2010-09-15 18:31:11 +0000
 excerpt: |
   |
     <p style="text-align: center;"><a href="../wp-content/uploads/2010/09/fundinghell.jpg"><img class="size-full wp-image-202   aligncenter" title="fundinghell" src="../wp-content/uploads/2010/09/fundinghell.jpg" alt="" width="265" height="204" /></a></p>
-url: /2010/09/15/funding-hell-results-3/
+url: "/2010/09/15/funding-hell-results-3/"
 categories:
-  - Features
-  - Senate
+- Features
+- Senate
 
 ---
 <div id="attachment_202" style="width: 640px" class="wp-caption aligncenter">

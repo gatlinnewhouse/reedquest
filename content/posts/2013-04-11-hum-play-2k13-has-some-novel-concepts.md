@@ -1,13 +1,13 @@
 ---
 title: Hum Play 2K13 Has Some Novel Concepts
-authors: 
-  - "Michael Song"
+authors:
+- Michael Song
 type: post
-date: 2013-04-11T22:58:44+00:00
-url: /2013/04/11/hum-play-2k13-has-some-novel-concepts/
+date: 2013-04-11 22:58:44 +0000
+url: "/2013/04/11/hum-play-2k13-has-some-novel-concepts/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2242" alt="Hum Play Direktors" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/04/HumPlayDirektors_web.jpg?resize=770%2C508" data-recalc-dims="1" />][1]

@@ -1,13 +1,13 @@
 ---
 title: Reed Envisions Face-Blindness
-authors: 
-  - "Charles Nunziato"
+authors:
+- Charles Nunziato
 type: post
-date: 2013-09-27T22:56:24+00:00
-url: /2013/09/27/reed-envisions-face-blindness/
+date: 2013-09-27 22:56:24 +0000
+url: "/2013/09/27/reed-envisions-face-blindness/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 Imagine not being able to recognize your own mother. For the majority of the population, this simple task is second nature. However, for those like Dr. Holly Hinson, who presented a lecture on face blindness this past Thursday, such associations are not so simple.

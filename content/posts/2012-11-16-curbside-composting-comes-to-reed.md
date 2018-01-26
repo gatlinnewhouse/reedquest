@@ -1,13 +1,13 @@
 ---
 title: Curbside Composting Comes to Reed
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-16T18:53:41+00:00
-url: /2012/11/16/curbside-composting-comes-to-reed/
+date: 2012-11-16 18:53:41 +0000
+url: "/2012/11/16/curbside-composting-comes-to-reed/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 As part of an increased effort to move the campus towards more sustainable policies, Reed will begin to participate in the city&#8217;s public composting program. The curbside service will only apply to residents of the Birchwoods, Reed College Apartments, Garden and Farm Houses, and select Language Houses.

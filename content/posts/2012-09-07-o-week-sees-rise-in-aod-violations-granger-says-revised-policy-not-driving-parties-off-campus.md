@@ -1,14 +1,20 @@
 ---
-title: 'O-Week Sees Rise in AOD Violations: Granger Says Revised Policy Not Driving Parties Off Campus'
-authors: 
-  - "Elisa Cibils"
+title: 'O-Week Sees Rise in AOD Violations: Granger Says Revised Policy Not Driving
+  Parties Off Campus'
+authors:
+- Elisa Cibils
 type: post
-date: 2012-09-07T18:24:36+00:00
-excerpt: This year’s O-Week saw a rise in the number of AODs given out to freshmen and upperclassmen, according to last week’s Community Safety Activity Report. CSOs handed out a total of 25 AODs during O-Week this year, compared to 16 last year. Alcohol-related violations increased the most this year, with freshmen accounting for most of the infractions. The number of marijuana and other drug-related violations remained the same.
-url: /2012/09/07/o-week-sees-rise-in-aod-violations-granger-says-revised-policy-not-driving-parties-off-campus/
+date: 2012-09-07 18:24:36 +0000
+excerpt: This year’s O-Week saw a rise in the number of AODs given out to freshmen
+  and upperclassmen, according to last week’s Community Safety Activity Report. CSOs
+  handed out a total of 25 AODs during O-Week this year, compared to 16 last year.
+  Alcohol-related violations increased the most this year, with freshmen accounting
+  for most of the infractions. The number of marijuana and other drug-related violations
+  remained the same.
+url: "/2012/09/07/o-week-sees-rise-in-aod-violations-granger-says-revised-policy-not-driving-parties-off-campus/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 This year’s O-Week saw a rise in the number of AODs given out to freshmen and upperclassmen, according to last week’s Community Safety Activity Report. CSOs handed out a total of 25 AODs during O-Week this year, compared to 16 last year. Alcohol-related violations increased the most this year, with freshmen accounting for most of the infractions. The number of marijuana and other drug-related violations remained the same.

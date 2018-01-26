@@ -1,13 +1,13 @@
 ---
 title: Hum 110 to Begin with Gilgamesh Instead of Homer
-authors: 
-  - "Michael Song"
+authors:
+- Michael Song
 type: post
-date: 2013-03-28T07:45:56+00:00
-url: /2013/03/28/hum-110-to-begin-with-gilgamesh-instead-of-homer/
+date: 2013-03-28 07:45:56 +0000
+url: "/2013/03/28/hum-110-to-begin-with-gilgamesh-instead-of-homer/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The epic of _Gilgamesh_ will replace the _Odyssey_ as the first book discussed by freshman in Hum 110. The faculty committee overseeing the Hum 110 syllabus is revising the syllabus, which is in its final stages of completion, in order to provide a more holistic approach to the ancient Mediterranean world. Hum 110 will not begin with Homer for the first time in the course’s history, though the _Iliad_ will still be sent to freshmen to read over the summer.

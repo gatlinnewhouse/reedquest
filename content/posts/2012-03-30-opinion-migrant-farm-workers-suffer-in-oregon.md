@@ -1,13 +1,13 @@
 ---
 title: 'Opinion: Migrant Farm Workers Suffer in Oregon'
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-03-30T18:45:32+00:00
-url: /2012/03/30/opinion-migrant-farm-workers-suffer-in-oregon/
+date: 2012-03-30 18:45:32 +0000
+url: "/2012/03/30/opinion-migrant-farm-workers-suffer-in-oregon/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 We talk a lot about where our food comes from and whether it is organic or fresh, but what about the question of who picked it? On Wednesday night, I was reminded that the apples and berries we buy and eat in Oregon are often picked by young children who have been pulled out of school in order to work as migrants around the U.S. Many of their families lack steady incomes and live in abominable housing circumstances. Can food be rightly considered sustainable by virtue of its being organic? Should we not be at least as concerned about the conditions and lives of the workers who picked it?

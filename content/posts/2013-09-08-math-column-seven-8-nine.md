@@ -1,16 +1,16 @@
 ---
 title: 'Math Column: Seven 8 Nine'
-authors: 
-  - "Joshua Gancher"
+authors:
+- Joshua Gancher
 type: post
-date: 2013-09-08T20:47:49+00:00
-url: /2013/09/08/math-column-seven-8-nine/
+date: 2013-09-08 20:47:49 +0000
+url: "/2013/09/08/math-column-seven-8-nine/"
 categories:
-  - Features
-  - Front Page
-  - Math Column
+- Features
+- Front Page
+- Math Column
 tags:
-  - Math Column
+- Math Column
 
 ---
 How many numbers are there?

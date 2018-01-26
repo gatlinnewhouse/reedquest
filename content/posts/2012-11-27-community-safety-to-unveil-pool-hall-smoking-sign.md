@@ -1,17 +1,17 @@
 ---
 title: Community Safety to Unveil Pool Hall Smoking Sign
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-11-28T07:17:58+00:00
-url: /2012/11/27/community-safety-to-unveil-pool-hall-smoking-sign/
+date: 2012-11-28 07:17:58 +0000
+url: "/2012/11/27/community-safety-to-unveil-pool-hall-smoking-sign/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - community safety
-  - Pool Hall
-  - smoking
+- community safety
+- Pool Hall
+- smoking
 
 ---
 Last week, Vice President Ed McFarlane received a letter from the Multnomah County Department of Health. The Department of Health had received an anonymous complaint about smoking in the pool hall, which is illegal in any indoor area. This will add fuel to the fire that is the debate about smoking in the GCC pool hall.

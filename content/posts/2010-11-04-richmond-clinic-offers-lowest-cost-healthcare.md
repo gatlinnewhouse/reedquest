@@ -1,20 +1,20 @@
 ---
 title: Richmond Clinic Offers Lowest-Cost Healthcare
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-04T20:25:12+00:00
+date: 2010-11-04 20:25:12 +0000
 excerpt: |
   |
     <p>Reed Alumna Jessica Glenn ‘06 had just lost her health insurance and  didn’t know where to turn. She had been divorced, and even though she  was a healthy thirty year-old, insurance companies</p>
-url: /2010/11/04/richmond-clinic-offers-lowest-cost-healthcare/
+url: "/2010/11/04/richmond-clinic-offers-lowest-cost-healthcare/"
 categories:
-  - Features
-  - News
+- Features
+- News
 tags:
-  - clinic
-  - healthcare
-  - portland
+- clinic
+- healthcare
+- portland
 
 ---
 **Erica Boulay**

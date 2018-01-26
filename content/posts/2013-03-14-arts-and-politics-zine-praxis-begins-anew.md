@@ -1,13 +1,13 @@
 ---
 title: Arts and Politics Zine Praxis Begins Anew
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-03-14T21:51:59+00:00
-url: /2013/03/14/arts-and-politics-zine-praxis-begins-anew/
+date: 2013-03-14 21:51:59 +0000
+url: "/2013/03/14/arts-and-politics-zine-praxis-begins-anew/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Music and dumpster donuts drew students last week to the HotBoxx, where a house show celebrated the reincarnation of the arts and politics zine _Praxis_. This year’s first issue of _Praxis_ includes poetry, political analyses, and art – all by Reed students. While the zine will be published monthly, originally _Praxis_ was simply a weekly newsletter. The word “praxis” signifies practice as distinguished from theory, but editors Andrew Barney and Spenser Silbey say that the central goal of the zine is to produce good art.

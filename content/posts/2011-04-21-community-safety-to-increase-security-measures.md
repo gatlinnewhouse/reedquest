@@ -1,12 +1,12 @@
 ---
 title: Community Safety to Increase Security Measures
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-21T23:14:28+00:00
-url: /2011/04/21/community-safety-to-increase-security-measures/
+date: 2011-04-21 23:14:28 +0000
+url: "/2011/04/21/community-safety-to-increase-security-measures/"
 categories:
-  - News
+- News
 
 ---
 Over the next several months, community safety will be increasing efforts to secure computers and other expensive equipment in academic buildings. These efforts come as a direct response to two massive technology thefts in the Physics building, both of which cost the college thousands of dollars in lost assets.

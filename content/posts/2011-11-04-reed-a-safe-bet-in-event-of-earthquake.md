@@ -1,12 +1,12 @@
 ---
 title: Reed a Safe Bet in Event of Earthquake
-authors: 
-  - "Colleen Sprat"
+authors:
+- Colleen Sprat
 type: post
-date: 2011-11-04T22:03:49+00:00
-url: /2011/11/04/reed-a-safe-bet-in-event-of-earthquake/
+date: 2011-11-04 22:03:49 +0000
+url: "/2011/11/04/reed-a-safe-bet-in-event-of-earthquake/"
 categories:
-  - News
+- News
 
 ---
 According to Townsend Angell, director of facilities and grounds at Reed, being on campus during an earthquake might be safer than previously thought. He says that he would rather be in any building on campus than in one of the towers in downtown Portland. Although the newest buildings are safest by current standards, because the standards change each time there’s an earthquake, building standards might be outdated; thus, it’s important to continually improve the safety of buildings as time and budget allow. Buildings on campus have been and are routinely retrofitted to ensure that they measure up to the standards of the given time. Moreover, unified connecting structures, seismic joints placed where two buildings come together and other modes of anchoring are found throughout edifices on campus.

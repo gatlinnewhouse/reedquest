@@ -1,14 +1,14 @@
 ---
 title: Multilcultural Resource Center Announces Racial Profiling Listening Project
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-03-23T23:20:22+00:00
-url: /2012/03/23/multilcultural-resource-center-announces-racial-profiling-listening-project/
+date: 2012-03-23 23:20:22 +0000
+url: "/2012/03/23/multilcultural-resource-center-announces-racial-profiling-listening-project/"
 categories:
-  - Left Sidebar
-  - News
-  - Opinion
+- Left Sidebar
+- News
+- Opinion
 
 ---
 _By Andrew Barney and Sita Goetschius, MRC Interns_

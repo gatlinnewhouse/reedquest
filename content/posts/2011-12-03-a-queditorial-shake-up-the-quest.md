@@ -1,18 +1,18 @@
 ---
 title: 'A Queditorial: Shake Up The Quest'
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2011-12-03T22:11:36+00:00
-url: /2011/12/03/a-queditorial-shake-up-the-quest/
+date: 2011-12-03 22:11:36 +0000
+url: "/2011/12/03/a-queditorial-shake-up-the-quest/"
 categories:
-  - From the Editors
+- From the Editors
 tags:
-  - katelyn best
-  - queditorial
-  - reed quest
-  - shake up the quest
-  - the quest
+- katelyn best
+- queditorial
+- reed quest
+- shake up the quest
+- the quest
 
 ---
 As you may or may not be aware, only two of my colleagues, Alex Blum and Alex “Sketchy” Walker will be on next semester&#8217;s Quest Board. They will be joined by some of our friends from the freshman class, and I have great confidence that they will continue working to make this a great paper. Why are the other six of us calling it quits?

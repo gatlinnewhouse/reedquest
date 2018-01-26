@@ -1,19 +1,19 @@
 ---
 title: Armed Robbery at Naito/Sullivan
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-12-03T22:01:23+00:00
-url: /2011/12/03/armed-robbery-at-naitosullivan/
+date: 2011-12-03 22:01:23 +0000
+url: "/2011/12/03/armed-robbery-at-naitosullivan/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - armed robbery
-  - naito
-  - reed college
-  - rob shryock
-  - sullivan
+- armed robbery
+- naito
+- reed college
+- rob shryock
+- sullivan
 
 ---
 Perhaps the most alarming statistic about the armed robbery that took place on campus on Wednesday, November 16 is the fact that the perpetrators hung out on campus for several hours beforehand, stopped by the library, and were noticed by at least four or five Reedies. These Reedies informed the CSOs after the robbery that they thought that they had seen the possible perpetrators hanging around campus, and reported that they had made them feel uncomfortable. One of them tried to bum a cigarette from a student.

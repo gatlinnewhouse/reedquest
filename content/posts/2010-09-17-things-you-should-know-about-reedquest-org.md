@@ -1,17 +1,17 @@
 ---
 title: 'Things You Should Know About ReedQuest.org (Updated: Submit articles online!)'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-17T21:52:05+00:00
+date: 2010-09-17 21:52:05 +0000
 excerpt: |
   |
     <p>Hey guys,</p>
     <p>Given the level of controversy this site has inspired, I thought it might be good to make some clarifications.</p>
     <p>1. If you submit to the Quest, you have the right to choose whether or not your article is published publicly on the webpage.</p>
-url: /2010/09/17/things-you-should-know-about-reedquest-org/
+url: "/2010/09/17/things-you-should-know-about-reedquest-org/"
 categories:
-  - Features
+- Features
 
 ---
 Hey guys,

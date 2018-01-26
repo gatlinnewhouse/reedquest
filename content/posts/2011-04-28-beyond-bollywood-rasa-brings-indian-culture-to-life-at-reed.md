@@ -1,12 +1,12 @@
 ---
 title: 'Beyond Bollywood: RASA brings Indian culture to life at Reed'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:30:13+00:00
-url: /2011/04/28/beyond-bollywood-rasa-brings-indian-culture-to-life-at-reed/
+date: 2011-04-28 18:30:13 +0000
+url: "/2011/04/28/beyond-bollywood-rasa-brings-indian-culture-to-life-at-reed/"
 categories:
-  - Features
+- Features
 
 ---
 On Tuesday evening, students packed into a classroom on the lower level of Vollum for a lecture by Dr. David Campion, Associate Professor in the History Department at Lewis and Clark College. The event, sponsored by the Reed Association for South Asia (RASA), featured a talk by Dr. Campion titled “India: From Colonial Crown Jewel to Democratic Superpower?” with food catered by local Indian restaurant Namaste Indian Cuisine.

@@ -1,19 +1,19 @@
 ---
 title: Commons to Host ‘Eat Local Challenge’
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-22T18:42:15+00:00
+date: 2010-09-22 18:42:15 +0000
 excerpt: |
   |
     <p>The countdown for Bon Appétit Management Company’s sixth annual Eat Local Challenge begins!</p>
     <p>On Tuesday, September 28th, every Bon Appétit café across the country will feature a special meal</p>
-url: /2010/09/22/commons-to-host-eat-local-challenge/
+url: "/2010/09/22/commons-to-host-eat-local-challenge/"
 categories:
-  - Features
+- Features
 tags:
-  - commons
-  - food
+- commons
+- food
 
 ---
 **Daxton King**

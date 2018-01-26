@@ -1,13 +1,13 @@
 ---
 title: Title IX Complaint Filed Against Nude Revelers
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-09-14T05:18:19+00:00
-url: /2013/09/13/title-ix-complaint-filed-against-nude-revelers/
+date: 2013-09-14 05:18:19 +0000
+url: "/2013/09/13/title-ix-complaint-filed-against-nude-revelers/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 In an email sent out to the entire Reed community Tuesday afternoon, President Kroger announced that a Title IX complaint had been registered regarding the nudity of revelers outside the first Hum 110 lecture. In an interview Wednesday, Sept. 11, President Kroger stated that, because the nudity was relatively public, the investigation will include discussion with individuals in an attempt to establish the indisputable facts of the case.

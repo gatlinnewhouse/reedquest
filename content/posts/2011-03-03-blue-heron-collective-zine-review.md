@@ -1,16 +1,16 @@
 ---
 title: Blue Heron Collective Zine Review
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-03T20:04:39+00:00
-url: /2011/03/03/blue-heron-collective-zine-review/
+date: 2011-03-03 20:04:39 +0000
+url: "/2011/03/03/blue-heron-collective-zine-review/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - blue heron infoshop
-  - review
-  - zine
+- blue heron infoshop
+- review
+- zine
 
 ---
 **Surviving the Witch-Hunt: Battle Notes from Portland’s 82nd Avenue, 2007-2010**

@@ -1,12 +1,12 @@
 ---
 title: Greenboard Direct Action
-authors: 
-  - "Mathilde Mouw"
+authors:
+- Mathilde Mouw
 type: post
-date: 2011-09-28T22:30:20+00:00
-url: /2011/09/28/greenboard-direct-action/
+date: 2011-09-28 22:30:20 +0000
+url: "/2011/09/28/greenboard-direct-action/"
 categories:
-  - News
+- News
 
 ---
 _Editor&#8217;s Note: Mathilde Mouw is a member of Greenboard_

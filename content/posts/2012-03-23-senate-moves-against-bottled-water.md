@@ -1,13 +1,13 @@
 ---
 title: Senate Moves Against Bottled Water
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-03-23T23:52:43+00:00
-url: /2012/03/23/senate-moves-against-bottled-water/
+date: 2012-03-23 23:52:43 +0000
+url: "/2012/03/23/senate-moves-against-bottled-water/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/senate-moves-against-bottled-water/img_1921-slider/" rel="attachment wp-att-1447"><img class="aligncenter size-full wp-image-1447" title="Yes." src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/03/IMG_1921-slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>Senate ratified Greenboard’s “Take Back the Tap” resolution to “effectively ban the sale of bottled water on campus” during its March 15 Senate Meeting. Greenboard said it received one hundred forty-six signatures in support of the resolution and encountered only one staunch opponent of the measure.

@@ -1,13 +1,13 @@
 ---
 title: Gender Studies Makes Steady Progress
-authors: 
-  - "Jennifer McNeal"
+authors:
+- Jennifer McNeal
 type: post
-date: 2013-03-07T23:16:24+00:00
-url: /2013/03/07/gender-studies-makes-steady-progress/
+date: 2013-03-07 23:16:24 +0000
+url: "/2013/03/07/gender-studies-makes-steady-progress/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 A gender studies major may still be a distant possibility at Reed, but a group of faculty are working to ensure that the discipline still has a place at the college. Reed’s Gender Faculty Consortium, a group of professors interested in gender-related issues, has been busy building an intercollegiate association on gender studies and organizing an annual Sex, Gender, and Sexuality Symposium for next fall.

@@ -1,17 +1,17 @@
 ---
 title: A Word from Your Friends at Beer Nation
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-28T17:57:45+00:00
+date: 2010-10-28 17:57:45 +0000
 excerpt: |
   |
     <p>Seeing as it is nearly time for our first event of the year,  (Oktoberfest is coming up on this Friday, the 29th), it seems like a  good time to introduce ourselves to all the new blood at Reed and to remind everyone of what exactly we do.</p>
-url: /2010/10/28/a-word-from-your-friends-at-beer-nation/
+url: "/2010/10/28/a-word-from-your-friends-at-beer-nation/"
 categories:
-  - Features
+- Features
 tags:
-  - beer nation
+- beer nation
 
 ---
 **Jeremy Lawrence**

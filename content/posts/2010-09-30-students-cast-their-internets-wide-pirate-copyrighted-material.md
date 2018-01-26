@@ -1,12 +1,12 @@
 ---
 title: Students Cast Their Internets Wide, Pirate Copyrighted Material
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-09-30T18:19:54+00:00
-url: /2010/09/30/students-cast-their-internets-wide-pirate-copyrighted-material/
+date: 2010-09-30 18:19:54 +0000
+url: "/2010/09/30/students-cast-their-internets-wide-pirate-copyrighted-material/"
 categories:
-  - News
+- News
 
 ---
 Five weeks into the semester, Reed has received five takedown notices as a result of students using the school’s Internet network for illegal file sharing. From the ’07-’08 to the ’09-’10 school year, takedown notices increased fourfold.

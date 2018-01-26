@@ -1,18 +1,18 @@
 ---
 title: AOD Implementation Strains Bonds between Students, CSOs
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-03-10T20:33:34+00:00
+date: 2011-03-10 20:33:34 +0000
 excerpt: |
   |
     <p>Last week, four anonymous students—three of which were falsely rumored  to have been evicted from their campus housing—voiced concerns about AOD  policy and its implementation on campus to the Quest. Among their  concerns was allegedly inappropriate behavior on behalf of patrolling  CSOs, behavior that, according to them, goes against the letter and  spirit of Reed College’s AOD policy. According to these sources, CSOs  have been targeting specific groups of students who they suspect to be  in violation of the AOD policy without any evidence of misbehavior. As  well, they cite instances of being unaware of AOD violations that have  been administered to them, and overall displeasure with the policy and  its enforcement.</p>
-url: /2011/03/10/aod-implementation-strains-bonds-between-students-csos/
+url: "/2011/03/10/aod-implementation-strains-bonds-between-students-csos/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - aod
+- aod
 
 ---
 Last week, four anonymous students—three of which were falsely rumored to have been evicted from their campus housing—voiced concerns about AOD policy and its implementation on campus to the Quest. Among their concerns was allegedly inappropriate behavior on behalf of patrolling CSOs, behavior that, according to them, goes against the letter and spirit of Reed College’s AOD policy. According to these sources, CSOs have been targeting specific groups of students who they suspect to be in violation of the AOD policy without any evidence of misbehavior. As well, they cite instances of being unaware of AOD violations that have been administered to them, and overall displeasure with the policy and its enforcement.

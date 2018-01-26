@@ -1,13 +1,13 @@
 ---
 title: Administration Frowns at Inaugural Drinking Game
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2012-09-28T17:00:53+00:00
-url: /2012/09/28/administration-frowns-at-inaugural-drinking-game/
+date: 2012-09-28 17:00:53 +0000
+url: "/2012/09/28/administration-frowns-at-inaugural-drinking-game/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 While the school seemed charged with energy in the days preceding President John Kroger’s inauguration, a number of students just couldn’t get that excited about the event. That is, until a certain game helped them see inauguration through a new lens: the lens of cheap and poor-tasting alcohol. An “Inauguration Drinking Game,” which instructed participants to drink if Kroger “talks about the ‘Life of the Mind,’” “quotes a philosopher,” or “says the word ‘Reedie,’” proliferated on Facebook amongst the student population, engaging them in a challenging new way to have fun at Kroger’s grand soiree.

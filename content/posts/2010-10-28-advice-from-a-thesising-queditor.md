@@ -1,15 +1,15 @@
 ---
 title: Advice from a Thesising Queditor
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-10-28T18:15:11+00:00
-url: /2010/10/28/advice-from-a-thesising-queditor/
+date: 2010-10-28 18:15:11 +0000
+url: "/2010/10/28/advice-from-a-thesising-queditor/"
 categories:
-  - Features
-  - From the Editors
+- Features
+- From the Editors
 tags:
-  - advice
+- advice
 
 ---
 It&#8217;s completely black and my alarm is screaming. I throw off the covers and stagger across a floor covered with discarded pieces of clothing and old papers. The cat runs under my legs as I stumble into the kitchen, meowing for attention and a bit of food, but the only thing on my mind is the desperate prayer that the sun may rise before I get to class.

@@ -1,13 +1,13 @@
 ---
 title: The Class of 2016 Rises
-authors: 
-  - "Meagan Harris"
+authors:
+- Meagan Harris
 type: post
-date: 2012-09-07T17:59:35+00:00
-url: /2012/09/07/the-class-of-2016-rises/
+date: 2012-09-07 17:59:35 +0000
+url: "/2012/09/07/the-class-of-2016-rises/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reed.edu/convocation/archive/2012/class_photo.html" rel="attachment wp-att-1554"><img class="size-full wp-image-1554 alignnone" title="class of 2016" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/09/class_of_2016_lg.jpg?resize=770%2C512" alt="" data-recalc-dims="1" /></a>

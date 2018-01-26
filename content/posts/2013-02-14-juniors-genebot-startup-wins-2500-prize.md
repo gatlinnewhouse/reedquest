@@ -1,13 +1,13 @@
 ---
 title: Juniors’ Genebot Startup Wins $2,500 Prize
-authors: 
-    - "Clara Rice"
+authors:
+- Clara Rice
 type: post
-date: 2013-02-15T03:18:33+00:00
-url: /2013/02/14/juniors-genebot-startup-wins-2500-prize/
+date: 2013-02-15 03:18:33 +0000
+url: "/2013/02/14/juniors-genebot-startup-wins-2500-prize/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <p style="text-align: center;">

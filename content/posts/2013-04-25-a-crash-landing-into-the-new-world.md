@@ -1,13 +1,13 @@
 ---
 title: A Crash Landing Into the New World
-authors: 
-  - "Lauren Cooper"
+authors:
+- Lauren Cooper
 type: post
-date: 2013-04-26T00:26:31+00:00
-url: /2013/04/25/a-crash-landing-into-the-new-world/
+date: 2013-04-26 00:26:31 +0000
+url: "/2013/04/25/a-crash-landing-into-the-new-world/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 All retro sci-fi worlds need an unidentified flying object, and this year’s New World-themed Renn Fayre will have its very own crashed spaceship, courtesy of the Russian House and Erica Edmondson.__

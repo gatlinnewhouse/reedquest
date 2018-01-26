@@ -1,13 +1,13 @@
 ---
 title: Alumni Board Votes to Drop Paideia Issue
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2013-04-18T08:30:40+00:00
-url: /2013/04/18/alumni-board-votes-to-drop-paideia-issue/
+date: 2013-04-18 08:30:40 +0000
+url: "/2013/04/18/alumni-board-votes-to-drop-paideia-issue/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The Alumni Board voted on Saturday, April 13 to not pursue further action regarding President Kroger’s canceling several Paideia classes in January. Alumni Board President Chantal Sudbrack ’97 says that “the motion had roughly 75 percent support for no further consideration as a body.”

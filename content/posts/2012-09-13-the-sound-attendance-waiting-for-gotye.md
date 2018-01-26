@@ -1,15 +1,17 @@
 ---
 title: 'The Sound Attendance: Waiting for Gotye'
-authors: 
-  - "Dorothy Howard"
+authors:
+- Dorothy Howard
 type: post
-date: 2012-09-14T01:23:44+00:00
-excerpt: Though I made a hefty pilgrimage to the Gotye concert at Edgefield Ampitheatre in Troutdale on a loaded, bouncing TriMet bus that wafted KFC odors into the night sky, I clumsily missed the prescribed date.
-url: /2012/09/13/the-sound-attendance-waiting-for-gotye/
+date: 2012-09-14 01:23:44 +0000
+excerpt: Though I made a hefty pilgrimage to the Gotye concert at Edgefield Ampitheatre
+  in Troutdale on a loaded, bouncing TriMet bus that wafted KFC odors into the night
+  sky, I clumsily missed the prescribed date.
+url: "/2012/09/13/the-sound-attendance-waiting-for-gotye/"
 categories:
-  - Features
-  - Left Sidebar
-  - The Sound Attendance
+- Features
+- Left Sidebar
+- The Sound Attendance
 
 ---
 **Gotye:** _Making Mirrors_ Album Tour: Universal Republic Records [SHOWBIZ POP]

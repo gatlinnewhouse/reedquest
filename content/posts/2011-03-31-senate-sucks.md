@@ -1,15 +1,15 @@
 ---
-title: “Senate Sucks.”
-authors: 
-  - "Johnny Flores"
+title: "“Senate Sucks.”"
+authors:
+- Johnny Flores
 type: post
-date: 2011-03-31T19:55:05+00:00
+date: 2011-03-31 19:55:05 +0000
 excerpt: |
   |
     <p>Sunday marked the end of a weeklong strike by Head Treasurer Torra  Spillaine and Assistant Treasurer Khagemba Adhikarimayum described by  Senator Robert “Schwartz” Khan during Monday’s Senate meeting as,  “almost semi-serious.”</p>
-url: /2011/03/31/senate-sucks/
+url: "/2011/03/31/senate-sucks/"
 categories:
-  - News
+- News
 
 ---
 _Bylaw Revision Controversy Strains Relationship between Senate, Treasury_

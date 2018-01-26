@@ -1,13 +1,13 @@
 ---
 title: Radio Journalism, Seed Money Attract Students to Working Weekend
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-02-06T13:00:53+00:00
-url: /2013/02/06/radio-journalism-seed-money-attract-students-to-working-weekend/
+date: 2013-02-06 13:00:53 +0000
+url: "/2013/02/06/radio-journalism-seed-money-attract-students-to-working-weekend/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Hundreds of students took the chance last Saturday to attend an event they had been receiving emails about for weeks on end: Working Weekend, a program put on by Career Services, the alumni committee Life Beyond Reed, and Alumni & Parent Relations (APR), to provide current students with insight and connections from Reed alumni in their respective fields. One hundred and ninety-one students and young alumni and 95 alumni attended the weekend.

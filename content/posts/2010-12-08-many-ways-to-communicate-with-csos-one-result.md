@@ -1,12 +1,12 @@
 ---
 title: Many Ways to Communicate with CSOs, One Result
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2010-12-08T23:07:53+00:00
-url: /2010/12/08/many-ways-to-communicate-with-csos-one-result/
+date: 2010-12-08 23:07:53 +0000
+url: "/2010/12/08/many-ways-to-communicate-with-csos-one-result/"
 categories:
-  - News
+- News
 
 ---
 In his first year at Reed, Director of Community Safety Gary Granger has spent a lot of time repeatedly emphasizing one point: communication with him and/or his CSO staff will help ease students’ concern about CSO engagement. If you don’t communicate with them, there’s no way Gary will be able to know how you feel. However, as you can see from the picture, and from across campus this past week, some unknown students have found a way to reach out to Gary that he didn’t initially expect.

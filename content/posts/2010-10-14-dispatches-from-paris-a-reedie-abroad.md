@@ -1,17 +1,17 @@
 ---
 title: 'Dispatches from Paris: A Reedie Abroad'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T17:48:46+00:00
+date: 2010-10-14 17:48:46 +0000
 excerpt: |
   |
     <p><em>Sara Tan is currently studying abroad in Paris for her sophomore  year. She writes of her first impressions of her new home – the coffee,  the cigarettes, and the Frenchness of it all.</em></p>
-url: /2010/10/14/dispatches-from-paris-a-reedie-abroad/
+url: "/2010/10/14/dispatches-from-paris-a-reedie-abroad/"
 categories:
-  - Features
+- Features
 tags:
-  - reedie abroad
+- reedie abroad
 
 ---
 **Sara Tan**

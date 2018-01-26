@@ -1,14 +1,14 @@
 ---
 title: 'Subgenre(s) of the Week: Nintendocore (feat. Holiday Pop)'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-12-09T22:29:29+00:00
-url: /2010/12/09/subgenres-of-the-week-nintendocore-feat-holiday-pop/
+date: 2010-12-09 22:29:29 +0000
+url: "/2010/12/09/subgenres-of-the-week-nintendocore-feat-holiday-pop/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - music
+- music
 
 ---
 As the holidays are fast approaching and light radio stations spin seasonal tunes 24/7, it was tempting to go easy with this week’s subgenre installment and discuss my mother’s favorite artist: Josh Groban, that pop-era star so fiendishly notorious for his overwhelmingly sentimental rendition of Christmas songs (especially among the middle-age mom set). But I would rather not talk about Mr. Groban any more than necessary right now, since I know that in a week’s time I’ll be back home and most probably be forced to listen to his latest album, Illuminations, all day, every day.

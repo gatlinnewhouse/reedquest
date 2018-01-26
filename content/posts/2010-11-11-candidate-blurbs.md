@@ -1,15 +1,15 @@
 ---
 title: Candidate Blurbs
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-11T19:03:03+00:00
-url: /2010/11/11/candidate-blurbs/
+date: 2010-11-11 19:03:03 +0000
+url: "/2010/11/11/candidate-blurbs/"
 categories:
-  - Senate
+- Senate
 tags:
-  - elections
-  - vote!
+- elections
+- vote!
 
 ---
 <p style="text-align: center;">

@@ -1,12 +1,12 @@
 ---
 title: 'Postcards from Thesis Hell: The Big T'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-10T20:02:23+00:00
-url: /2011/03/10/postcards-from-thesis-hell-the-big-t/
+date: 2011-03-10 20:02:23 +0000
+url: "/2011/03/10/postcards-from-thesis-hell-the-big-t/"
 categories:
-  - Features
+- Features
 
 ---
 I come in at 12:05, the taste of Reds still hanging at the back of my throat, and she’s there, lying on the table waiting for me. She’s pale, almost white, and the computer modern font meanders over her body. She’s taunting me – her pages are split at the staple, spread wide open to Chapter 5: Empirical Results. This has happened before, too many times. She just stares at me, waiting. The Big T.

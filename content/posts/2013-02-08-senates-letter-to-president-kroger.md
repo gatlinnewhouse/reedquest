@@ -1,13 +1,13 @@
 ---
 title: Senate’s Letter to President Kroger
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-09T04:15:25+00:00
-url: /2013/02/08/senates-letter-to-president-kroger/
+date: 2013-02-09 04:15:25 +0000
+url: "/2013/02/08/senates-letter-to-president-kroger/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Dear President Kroger,

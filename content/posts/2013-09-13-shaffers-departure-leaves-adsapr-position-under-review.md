@@ -1,13 +1,13 @@
 ---
 title: Shaffer’s Departure Leaves ADSAPR Position Under Review
-authors: 
-  - "Jordan Yu"
+authors:
+- Jordan Yu
 type: post
-date: 2013-09-14T05:10:42+00:00
-url: /2013/09/13/shaffers-departure-leaves-adsapr-position-under-review/
+date: 2013-09-14 05:10:42 +0000
+url: "/2013/09/13/shaffers-departure-leaves-adsapr-position-under-review/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Informed, unadulterated, hilarious, mentor, badass; these are all words students use to describe the former Assistant Dean of Sexual Assault Prevention and Response, Jyl Shaffer. Having left Reed for the University of Houston on Aug. 16 , Shaffer is now working to process Title IX sexual discrimination claims. Although she no longer walks around Reed’s campus, her impact can still be felt among the student body.

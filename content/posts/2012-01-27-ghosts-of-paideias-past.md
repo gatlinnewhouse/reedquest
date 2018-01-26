@@ -1,13 +1,13 @@
 ---
 title: Ghosts of Paideia’s Past
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-01-28T06:54:00+00:00
-url: /2012/01/27/ghosts-of-paideias-past/
+date: 2012-01-28 06:54:00 +0000
+url: "/2012/01/27/ghosts-of-paideias-past/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <div id="attachment_1202" style="width: 310px" class="wp-caption alignleft">

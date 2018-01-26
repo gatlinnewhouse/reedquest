@@ -1,12 +1,12 @@
 ---
 title: Trustees to Talk Greywood at Fall Meeting
-authors: 
-  - "Katy Joseph"
+authors:
+- Katy Joseph
 type: post
-date: 2010-09-30T18:10:00+00:00
-url: /2010/09/30/trustees-to-talk-greywood-at-fall-meeting/
+date: 2010-09-30 18:10:00 +0000
+url: "/2010/09/30/trustees-to-talk-greywood-at-fall-meeting/"
 categories:
-  - News
+- News
 
 ---
 The Reed Board of Trustees will convene for their first meeting of the 2010-11 fiscal year on Friday, October 1. The trustees will spend Friday afternoon in committee meetings, followed by dinner with Reed administrators and the student body president and vice president. On Saturday they will come together for a series of formal plenary sessions.

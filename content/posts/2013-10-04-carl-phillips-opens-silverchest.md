@@ -1,13 +1,13 @@
 ---
 title: Carl Phillips Opens Silverchest
-authors: 
-  - "Charles Nunziato"
+authors:
+- Charles Nunziato
 type: post
-date: 2013-10-05T01:14:56+00:00
-url: /2013/10/04/carl-phillips-opens-silverchest/
+date: 2013-10-05 01:14:56 +0000
+url: "/2013/10/04/carl-phillips-opens-silverchest/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 Last Thursday evening, as light darkened beyond the windows of Eliot Chapel, Carl Phillips, described in the New Yorker as, “a candidate for the most interesting contemporary English sentences,” presented an audience with a selection of his compelling poems. Over the past twenty-one years, Phillips has authored twelve books of poetry, including most recently _Silverchest_ and _Double Shadow._ His works have garnered him copious awards, including fellowships from the Guggenheim Foundation, the Library of Congress, and the Academy of American Poets, to which he was also appointed Chancellor in 2006.

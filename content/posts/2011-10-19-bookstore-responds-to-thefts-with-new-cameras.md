@@ -1,13 +1,13 @@
 ---
 title: Bookstore Responds to Thefts With New Cameras
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-10-20T03:32:06+00:00
-url: /2011/10/19/bookstore-responds-to-thefts-with-new-cameras/
+date: 2011-10-20 03:32:06 +0000
+url: "/2011/10/19/bookstore-responds-to-thefts-with-new-cameras/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 At 1:30pm on Tuesday September 27<sup>th</sup>, a man was arrested by the Portland Police from the Reed College grounds for attempting to steal a textbook from the Reed College Bookstore. The CSOs and Bookstore staff were notified of the possible theft by an anonymous source not one hour before the perpetrator arrived at the scene of the crime (_this news reporter was at the Bookstore when the accused individual arrived at the location and was present for all the events up until the man was taken away by the on guard CSOs. An eyewitness account can be found in the piece next to this article_). This event comes after the Bookstore accrued around $1,500 in loses due to textbook thefts over centennial weekend and comes only two weeks before the Bookstore plans to put six security cameras up in strategic locations to deter future crimes.

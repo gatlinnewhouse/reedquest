@@ -1,12 +1,12 @@
 ---
 title: An Optimist’s Response To ‘At A Crossroad’
-authors: 
-  - "Michael Turvey"
+authors:
+- Michael Turvey
 type: post
-date: 2011-11-18T22:24:39+00:00
-url: /2011/11/18/an-optimists-response-to-at-a-crossroads/
+date: 2011-11-18 22:24:39 +0000
+url: "/2011/11/18/an-optimists-response-to-at-a-crossroads/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 I know this is a little late in the semester, and that the article that prompted this unfortunately belated response may have already faded totally from our collective consciousness, but I felt that Lev Navarre&#8217;s [piece in the October 6 issue of The Quest][1] was one of the more deeply troubling things I&#8217;ve read in our glorious student newspaper over the past three years. Because I don&#8217;t think I&#8217;m alone, I thought it would be worth beginning a conversation about some of the ideas presented in his article as fact—namely, that it seems as though Mr. Navarre&#8217;s piece proceeds from the premise that sexual assault is inextricably linked to certain basic facts of human sexuality. With this concept fixed in place, but conveniently never directly addressed, the article seems to imply that the issue at hand isn&#8217;t that we should work to deter sexual assault, it&#8217;s that people at Reed just don&#8217;t really understand what sexual assault is or isn&#8217;t—or who should be held accountable for it.

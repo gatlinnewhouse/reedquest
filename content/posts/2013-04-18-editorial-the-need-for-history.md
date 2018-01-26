@@ -1,13 +1,13 @@
 ---
 title: 'Editorial: The Need for History'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-04-19T05:05:15+00:00
-url: /2013/04/18/editorial-the-need-for-history/
+date: 2013-04-19 05:05:15 +0000
+url: "/2013/04/18/editorial-the-need-for-history/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Imagine a Hum conference with dozens, instead of a dozen, participants. It can take more than an hour for a normal conference’s discussion to bear fruit. This huge conference faces a Sisyphean task.

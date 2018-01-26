@@ -1,12 +1,12 @@
 ---
 title: Ad-hoc Committee on Sexual Assault Report, 04/26/2011
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-29T19:23:10+00:00
-url: /2011/04/29/ad-hoc-committee-on-sexual-assault-report-04262011/
+date: 2011-04-29 19:23:10 +0000
+url: "/2011/04/29/ad-hoc-committee-on-sexual-assault-report-04262011/"
 categories:
-  - News
+- News
 
 ---
 ## Reed College Ad-hoc Committee on Sexual Assault Findings and Recommendations

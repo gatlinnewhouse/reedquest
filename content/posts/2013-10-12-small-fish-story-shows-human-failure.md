@@ -1,13 +1,13 @@
 ---
 title: Small Fish Story Shows Human Failure
-authors: 
-  - "Jaelin Cola"
+authors:
+- Jaelin Cola
 type: post
-date: 2013-10-12T23:38:26+00:00
-url: /2013/10/12/small-fish-story-shows-human-failure/
+date: 2013-10-12 23:38:26 +0000
+url: "/2013/10/12/small-fish-story-shows-human-failure/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 “Everything is connected to everything else,” Zygmunt Plater, a professor at Boston School of Law, declared on Thursday night in Vollum Lecture Hall, in a lecture about the endangered snail darter. Plater, an environmental lawyer, has worked on seven law faculties and written a number of articles about varius endangered species, a subject very close to his heart.

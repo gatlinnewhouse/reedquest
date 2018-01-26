@@ -1,13 +1,14 @@
 ---
-title: 'Villain Sells Chemistry Handouts to Course Hero: Website Offers Study Material, for a Fee'
-authors: 
-  - "Kieran Hanrahan"
+title: 'Villain Sells Chemistry Handouts to Course Hero: Website Offers Study Material,
+  for a Fee'
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:17:04+00:00
-url: /2012/11/15/villain-sells-chemistry-handouts-to-course-hero-website-offers-study-material-for-a-fee/
+date: 2012-11-15 20:17:04 +0000
+url: "/2012/11/15/villain-sells-chemistry-handouts-to-course-hero-website-offers-study-material-for-a-fee/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Members of the Chemistry department discovered early September that their class materials were being offered for sale on the academic assistance website Course Hero. These materials, which consisted primarily of course handouts and lecture slides, had been distributed to students enrolled in chemistry courses or posted to the Reed Chemistry webpage for download. Course Hero, a clearinghouse of study documents, made these resources available to students who pay for access to the website.

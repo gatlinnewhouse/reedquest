@@ -1,13 +1,13 @@
 ---
 title: Senate Discusses Bike Theft
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-11-08T09:04:18+00:00
-url: /2012/11/08/senate-discusses-bike-theft/
+date: 2012-11-08 09:04:18 +0000
+url: "/2012/11/08/senate-discusses-bike-theft/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Junior Andrew Watson got a bike for his birthday last April—but he didn&#8217;t get to keep it long. He says the gift was recently stolen from behind Eliot Hall, where he had locked it. He is concerned that there is not enough to prevent thieves from stealing bikes on campus.

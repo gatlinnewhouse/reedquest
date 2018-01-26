@@ -1,12 +1,12 @@
 ---
 title: SEEDS Cultivates a “Giving Tree” Spirit
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:37:55+00:00
-url: /2011/04/28/seeds-cultivates-a-giving-tree-spirit/
+date: 2011-04-28 18:37:55 +0000
+url: "/2011/04/28/seeds-cultivates-a-giving-tree-spirit/"
 categories:
-  - Features
+- Features
 
 ---
 The showers never run cold at Reed.

@@ -1,13 +1,13 @@
 ---
 title: Housing Justice Movement Sees Dedicated Local Support
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2012-11-09T01:13:11+00:00
-url: /2012/11/08/housing-justice-movement-sees-dedicated-local-support/
+date: 2012-11-09 01:13:11 +0000
+url: "/2012/11/08/housing-justice-movement-sees-dedicated-local-support/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Reedies, high school students, and other citizens of Portland were recently pepper-sprayed in two different protests addressing flaws in the US economic system. The students asked not to be named, due to potential legal action from the law enforcement. According to the press releases from the Multnomah County Sheriff&#8217;s Office, in both instances the police were threatened and pushed with signs. A Reedie present at both protests said that the police were never in physical danger from the protesters.

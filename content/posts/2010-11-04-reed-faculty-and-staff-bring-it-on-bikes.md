@@ -1,15 +1,15 @@
 ---
 title: Reed Faculty and Staff Bring It On Bikes
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2010-11-04T20:22:56+00:00
+date: 2010-11-04 20:22:56 +0000
 excerpt: |
   |
     <p>If Adidas employees challenged Reed College employees to an athletic  challenge, who do you think would win? What about the Nike staff  challenging our Reed professors in this sports feat? Do you think our  faculty and staff could defeat any of these companies filled with jocks?</p>
-url: /2010/11/04/reed-faculty-and-staff-bring-it-on-bikes/
+url: "/2010/11/04/reed-faculty-and-staff-bring-it-on-bikes/"
 categories:
-  - Features
+- Features
 
 ---
 _Community Members Win Bike Commute Challenge_

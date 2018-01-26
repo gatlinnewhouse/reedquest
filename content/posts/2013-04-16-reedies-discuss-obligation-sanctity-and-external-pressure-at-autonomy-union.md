@@ -1,13 +1,13 @@
 ---
 title: Reedies Discuss Obligation, Sanctity, and External Pressure at Union
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-04-16T23:28:36+00:00
-url: /2013/04/16/reedies-discuss-obligation-sanctity-and-external-pressure-at-autonomy-union/
+date: 2013-04-16 23:28:36 +0000
+url: "/2013/04/16/reedies-discuss-obligation-sanctity-and-external-pressure-at-autonomy-union/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2255" alt="Autonomy Union" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/04/IMG_1874_web.jpg?resize=770%2C513" data-recalc-dims="1" />][1]

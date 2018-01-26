@@ -1,13 +1,13 @@
 ---
 title: New Reactor Director Brings Dose of New Ideas
-authors: 
-  - "Ryn Linthicum"
+authors:
+- Ryn Linthicum
 type: post
-date: 2011-09-28T22:45:12+00:00
-url: /2011/09/28/new-reactor-director-brings-dose-of-new-ideas/
+date: 2011-09-28 22:45:12 +0000
+url: "/2011/09/28/new-reactor-director-brings-dose-of-new-ideas/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Equipped with scientific knowledge, enthusiasm, and an intriguing international arrest record, Melinda Krahenbuhl has arrived on campus as the new director of the Reed Research Reactor. During an exhaustive search last spring, which included flying in candidates from as far away as Austria, Krahenbuhl impressed operators with her candor and familiarity with various reactor research possibilities. She began her new position in June, allowing for a smooth transition at the reactor from previous director Stephen Frantz.

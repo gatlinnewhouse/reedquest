@@ -1,13 +1,13 @@
 ---
 title: First Biannual Bioinformatics Workshop Provides Insight Into a Booming Field
-authors: 
-  - "Michael Song"
+authors:
+- Michael Song
 type: post
-date: 2013-04-26T00:30:47+00:00
-url: /2013/04/25/first-biannual-bioinformatics-workshop-provides-insight-into-a-booming-field/
+date: 2013-04-26 00:30:47 +0000
+url: "/2013/04/25/first-biannual-bioinformatics-workshop-provides-insight-into-a-booming-field/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="alignright size-full wp-image-2336" alt="Bioinformatics" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/04/workshop2013_1_web.jpg?resize=770%2C430" data-recalc-dims="1" />][1]

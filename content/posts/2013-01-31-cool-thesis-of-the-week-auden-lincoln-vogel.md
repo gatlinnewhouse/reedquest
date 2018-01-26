@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Auden Lincoln-Vogel'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-01-31T23:09:54+00:00
-url: /2013/01/31/cool-thesis-of-the-week-auden-lincoln-vogel/
+date: 2013-01-31 23:09:54 +0000
+url: "/2013/01/31/cool-thesis-of-the-week-auden-lincoln-vogel/"
 categories:
-  - Cool Thesis of the Week
-  - Left Sidebar
+- Cool Thesis of the Week
+- Left Sidebar
 
 ---
 <div id="attachment_1998" style="width: 310px" class="wp-caption alignright">

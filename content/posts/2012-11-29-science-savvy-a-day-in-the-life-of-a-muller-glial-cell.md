@@ -1,13 +1,13 @@
 ---
 title: 'Science Savvy: A Day in the Life of a Müller Glial Cell'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-29T20:40:08+00:00
-url: /2012/11/29/science-savvy-a-day-in-the-life-of-a-muller-glial-cell/
+date: 2012-11-29 20:40:08 +0000
+url: "/2012/11/29/science-savvy-a-day-in-the-life-of-a-muller-glial-cell/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 _**As told to Miranda Lyons-Cohen and Rachel Yahn.**_

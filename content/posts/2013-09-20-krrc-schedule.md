@@ -1,13 +1,13 @@
 ---
 title: KRRC Schedule
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-09-20T21:34:43+00:00
-url: /2013/09/20/krrc-schedule/
+date: 2013-09-20 21:34:43 +0000
+url: "/2013/09/20/krrc-schedule/"
 categories:
-  - From the Editors
-  - Front Page
+- From the Editors
+- Front Page
 
 ---
 SUNDAY:

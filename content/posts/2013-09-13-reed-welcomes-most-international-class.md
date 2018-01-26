@@ -1,13 +1,13 @@
 ---
 title: Reed Welcomes Most International Class
-authors: 
-  - "Ki Choi"
+authors:
+- Ki Choi
 type: post
-date: 2013-09-14T04:57:47+00:00
-url: /2013/09/13/reed-welcomes-most-international-class/
+date: 2013-09-14 04:57:47 +0000
+url: "/2013/09/13/reed-welcomes-most-international-class/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 This academic year, Reed College welcomed the largest group of international students ever into its community—making the Class of 2017 the most internationally and ethnically diverse class of students in the history of the college. This group includes 11 exchange students from three different nations, 39 students on visas from 24 different nations, and seven US citizens who identify themselves as international students as well.

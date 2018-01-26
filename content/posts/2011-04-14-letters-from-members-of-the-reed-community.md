@@ -1,14 +1,14 @@
 ---
 title: Letters from Members of the Reed Community
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-14T19:15:20+00:00
-url: /2011/04/14/letters-from-members-of-the-reed-community/
+date: 2011-04-14 19:15:20 +0000
+url: "/2011/04/14/letters-from-members-of-the-reed-community/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - letters
+- letters
 
 ---
 To the Editors:

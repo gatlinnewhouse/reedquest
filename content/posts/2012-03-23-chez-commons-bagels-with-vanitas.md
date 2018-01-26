@@ -1,14 +1,14 @@
 ---
 title: 'Chez Commons: Bagels with Vanitas'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-03-23T23:20:04+00:00
-url: /2012/03/23/chez-commons-bagels-with-vanitas/
+date: 2012-03-23 23:20:04 +0000
+url: "/2012/03/23/chez-commons-bagels-with-vanitas/"
 categories:
-  - Chez Commons
-  - Features
-  - Top Stories
+- Chez Commons
+- Features
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/chez-commons-bagels-with-vanitas/img_1904slider/" rel="attachment wp-att-1445"><img class="aligncenter size-full wp-image-1445" title="Vanitas vanitatum, omnia vanitas." src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/03/IMG_1904slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>I see the torus of dough that is breakfast, and staring at me it suggests not just dough but void not-sitting in the center of the ouroboric coil. The bagel subverts its thing-ness with this suggestion of no-thing. Does a bagel have buddha-nature? The answer is neither yes nor no; it is not. It is, and is not, the bagel-void.

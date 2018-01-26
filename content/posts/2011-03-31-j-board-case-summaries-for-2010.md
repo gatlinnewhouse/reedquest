@@ -1,14 +1,14 @@
 ---
 title: J-Board Case Summaries – 2010
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-31T18:46:21+00:00
-url: /2011/03/31/j-board-case-summaries-for-2010/
+date: 2011-03-31 18:46:21 +0000
+url: "/2011/03/31/j-board-case-summaries-for-2010/"
 categories:
-  - Announcements
-  - Features
-  - J-Board Case Summaries
+- Announcements
+- Features
+- J-Board Case Summaries
 
 ---
 What follows is a summary of Judicial Board cases for the Spring and Fall semesters of 2010. The Judicial Board publishes an annual report of its activities in order to keep the Reed community well informed of the judicial proceedings of the College.

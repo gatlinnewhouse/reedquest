@@ -1,13 +1,13 @@
 ---
 title: Being Old(e) at Reed
-authors: 
-  - "Lillian Karabaic"
+authors:
+- Lillian Karabaic
 type: post
-date: 2011-09-28T22:36:15+00:00
-url: /2011/09/28/being-olde-at-reed/
+date: 2011-09-28 22:36:15 +0000
+url: "/2011/09/28/being-olde-at-reed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 There&#8217;s a group of students that aren&#8217;t Olde Reed, but they sure are old for Reed. Nontraditionally aged students have existed at Reed for a long time, but for the first time in Reed&#8217;s history, the Multicultural Resource Center and the Student Activities office are joining together to offer specific programming for nontraditional students. Why now? Kyle Webster, assistant director of Student Activities says &#8220;It&#8217;s about time. There&#8217;s a visibility of nontraditional student leaders right now… We&#8217;re hoping to figure out what we can do to better assist nontrads. We don&#8217;t totally know what nontrads need yet.&#8221;

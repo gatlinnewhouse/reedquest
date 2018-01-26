@@ -1,16 +1,16 @@
 ---
 title: 'Fulbright Scholarships and Reedies: Why You Should Apply'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-03-31T19:52:32+00:00
+date: 2011-03-31 19:52:32 +0000
 excerpt: |
   |
     <p>So what exactly does one do after graduating from Reed? That seems to be  a question plaguing most rising juniors and underclassmen as each  academic year comes to a close. Internships, jobs, grad school: all of  these options, while exciting and promising for some, might not be  exactly what you’re looking for. Maybe you’re looking for adventure;  maybe you want to travel the world. Reed wants nothing more than for its  students to pursue their dreams as far as they can, and that’s why the  college is eager to expose eligible students to the prestigious  Fulbright Scholarship—among other equally exciting fellowship and  scholarship opportunities—this month.</p>
-url: /2011/03/31/fulbright-scholarships-and-reedies-why-you-should-apply/
+url: "/2011/03/31/fulbright-scholarships-and-reedies-why-you-should-apply/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 So what exactly does one do after graduating from Reed? That seems to be a question plaguing most rising juniors and underclassmen as each academic year comes to a close. Internships, jobs, grad school: all of these options, while exciting and promising for some, might not be exactly what you’re looking for. Maybe you’re looking for adventure; maybe you want to travel the world. Reed wants nothing more than for its students to pursue their dreams as far as they can, and that’s why the college is eager to expose eligible students to the prestigious Fulbright Scholarship—among other equally exciting fellowship and scholarship opportunities—this month.

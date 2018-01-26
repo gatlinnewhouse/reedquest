@@ -1,13 +1,13 @@
 ---
 title: Eurydice Mixes the Tragic, the Comic, and the Shamelessly Greek
-authors: 
-  - "Drew Garcia"
+authors:
+- Drew Garcia
 type: post
-date: 2013-04-04T17:21:21+00:00
-url: /2013/04/04/eurydice-mixes-the-tragic-the-comic-and-the-shamelessly-greek/
+date: 2013-04-04 17:21:21 +0000
+url: "/2013/04/04/eurydice-mixes-the-tragic-the-comic-and-the-shamelessly-greek/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 For many, _Eurydice_ represents one of the greatest stories of a promise broken and a love unfulfilled ever told in literary history. Indeed, Orpheus’ looking back at his beloved Eurydice is a scene that still resonates with readers today for its tragic pathos, and for its graceful evocation of love, loss, and the ties that bind. In Ovid’s _Metamorphoses,_ the story was originally told from the Orphic perspective; however, in Sarah Ruhl’s 2003 adaptation, _Eurydice_ both literally and figuratively takes center stage, giving theatergoers a fresh take on Eurydice’s character and the tragic events of the myth. Theater professor Catherine Duffly will be putting on a production of this unique perspective in Reed’s Mainstage Theater on April 5, 6, 11, 12, and 13 at 7:30 p.m.

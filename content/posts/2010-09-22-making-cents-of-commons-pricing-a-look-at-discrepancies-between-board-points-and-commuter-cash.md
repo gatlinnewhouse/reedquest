@@ -1,14 +1,15 @@
 ---
-title: 'Making Cents of Commons Pricing: A Look at Discrepancies Between Board Points and Commuter Cash'
-authors: 
-  - Staff
+title: 'Making Cents of Commons Pricing: A Look at Discrepancies Between Board Points
+  and Commuter Cash'
+authors:
+- Staff
 type: post
-date: 2010-09-22T19:19:00+00:00
-url: /2010/09/22/making-cents-of-commons-pricing-a-look-at-discrepancies-between-board-points-and-commuter-cash/
+date: 2010-09-22 19:19:00 +0000
+url: "/2010/09/22/making-cents-of-commons-pricing-a-look-at-discrepancies-between-board-points-and-commuter-cash/"
 categories:
-  - News
+- News
 tags:
-  - commons
+- commons
 
 ---
 **Ben Williams**

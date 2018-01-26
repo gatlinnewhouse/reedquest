@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Alan Montecillo'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-09-28T17:00:21+00:00
-url: /2012/09/28/cool-thesis-of-the-week-alan-montecillo/
+date: 2012-09-28 17:00:21 +0000
+url: "/2012/09/28/cool-thesis-of-the-week-alan-montecillo/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/?attachment_id=1650" rel="attachment wp-att-1650"><img class="alignnone size-full wp-image-1650" title="Alan Montecillo 2" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/09/alan_web.jpg?resize=770%2C513" alt="" data-recalc-dims="1" /></a>

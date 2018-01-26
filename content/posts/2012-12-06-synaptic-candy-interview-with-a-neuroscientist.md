@@ -1,13 +1,13 @@
 ---
 title: 'Synaptic Candy: Interview with a Neuroscientist'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-12-06T19:53:14+00:00
-url: /2012/12/06/synaptic-candy-interview-with-a-neuroscientist/
+date: 2012-12-06 19:53:14 +0000
+url: "/2012/12/06/synaptic-candy-interview-with-a-neuroscientist/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 <div id="attachment_1904" style="width: 233px" class="wp-caption alignright">

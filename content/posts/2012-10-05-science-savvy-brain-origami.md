@@ -1,13 +1,13 @@
 ---
 title: 'Science Savvy: Brain Origami'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-05T16:50:09+00:00
-url: /2012/10/05/science-savvy-brain-origami/
+date: 2012-10-05 16:50:09 +0000
+url: "/2012/10/05/science-savvy-brain-origami/"
 categories:
-  - Features
-  - Front Page
+- Features
+- Front Page
 
 ---
 _By Tess Myers and Uji Venkat_

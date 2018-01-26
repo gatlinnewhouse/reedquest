@@ -1,14 +1,16 @@
 ---
 title: Canyon Day Through the Ages
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-05T19:14:24+00:00
-excerpt: In a school where traditions go extinct in a week and the ways of last term are dismissed as "Olde Reed," the continuing existence of Canyon Day is something akin to a miracle.
-url: /2012/10/05/canyon-day-through-the-ages/
+date: 2012-10-05 19:14:24 +0000
+excerpt: In a school where traditions go extinct in a week and the ways of last term
+  are dismissed as "Olde Reed," the continuing existence of Canyon Day is something
+  akin to a miracle.
+url: "/2012/10/05/canyon-day-through-the-ages/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _by Zac Perry _

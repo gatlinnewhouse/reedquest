@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: Senate Too Slow on Student Body Wages'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-03-30T22:03:16+00:00
-url: /2012/03/30/op-ed-senate-too-slow-on-student-body-wages/
+date: 2012-03-30 22:03:16 +0000
+url: "/2012/03/30/op-ed-senate-too-slow-on-student-body-wages/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Senate has demonstrated that it remains a sluggish bureaucracy. Student Body Wage Review Committee has failed to deliver a report on student body wages by the time it said it would. Not only do Honor Council members effectively make $1.73 an hour for their work, according to _Quest_ research, but the Senate Secretary effectively makes $7.50 an hour, which is still more than twice as much as a Senator’s effective $3.50 per hour wage.

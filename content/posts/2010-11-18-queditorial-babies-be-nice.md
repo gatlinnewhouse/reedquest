@@ -1,12 +1,12 @@
 ---
 title: 'Queditorial: Babies, Be Nice'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-11-18T18:52:24+00:00
-url: /2010/11/18/queditorial-babies-be-nice/
+date: 2010-11-18 18:52:24 +0000
+url: "/2010/11/18/queditorial-babies-be-nice/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 It’s nearly the end of the semester and work is starting to get a lil’ crazy. Though Reedies don’t yet have what has been dubbed “April syndrome,” or that really gloomy feeling you get towards the end of the year when a) it’s been raining for 100 days straight b) you are fed up with your friends/your profs/commons food/humanity at large and c) you haven’t done laundry in a week/have been wearing the same pair of jeans for a week, the blues are starting to settle in a little. Existential crises are getting progressively more common: More than one student has been spotted standing on Commons’ patio, alone and in the rain, staring blankly off into the distance with an empty expression. Sometimes Reed can begin to feel overwhelming, especially when you are greeted every morning by gray skies and drizzle. It could drive anyone nuts.

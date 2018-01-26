@@ -1,19 +1,19 @@
 ---
 title: Conservative Bloggers Attack Reed Alumna, Congressional Candidate Suzan DelBene
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-10-28T18:24:38+00:00
+date: 2010-10-28 18:24:38 +0000
 excerpt: |
   |
     <p><a href="../wp-content/uploads/2010/10/DelBene_headshot.jpg"><img class="alignleft" style="margin: 7px;" title="DelBene_headshot" src="../wp-content/uploads/2010/10/DelBene_headshot.jpg" alt="" width="123" height="184" /></a>During a particularly tight political race in Washington this fall, the  media has pulled out all the stops in getting dirt on candidates.  Unfortunately, multiple conservative bloggers have taken to criticizing  Suzan DelBene – Reed trustee and alumna – by using her affiliation to  the College as a means of attacking her candidacy. Running as a  Democratic candidate for Washington’s eighth congressional district this  year, DelBene’s ties to Reed have been the subject of much excoriation  from the Republican community.</p>
-url: /2010/10/28/conservative-bloggers-attack-reed-alumna-congressional-candidate-suzan-delbene/
+url: "/2010/10/28/conservative-bloggers-attack-reed-alumna-congressional-candidate-suzan-delbene/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - politics
-  - Suzan DelBene
+- politics
+- Suzan DelBene
 
 ---
 <div id="attachment_430" style="width: 215px" class="wp-caption alignleft">

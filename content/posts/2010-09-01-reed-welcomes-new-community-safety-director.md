@@ -1,19 +1,19 @@
 ---
 title: Reed welcomes new Community Safety Director
-authors: 
-  - "Katy Joseph"
+authors:
+- Katy Joseph
 type: post
-date: 2010-09-01T19:45:03+00:00
+date: 2010-09-01 19:45:03 +0000
 excerpt: |
   |
     <p>After over a year of vacancy, Gary Granger joined the Reed community in  July as the new Director of Community Safety. Though not a Reedie  himself, Granger already seems to have a handle on the rigorous, if not  slightly silly, atmosphere here.</p>
-url: /2010/09/01/reed-welcomes-new-community-safety-director/
+url: "/2010/09/01/reed-welcomes-new-community-safety-director/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - community safety
-  - CSO
+- community safety
+- CSO
 
 ---
 <div id="attachment_143" style="width: 375px" class="wp-caption alignleft">

@@ -1,12 +1,12 @@
 ---
 title: Videogame Consoles Stolen, Honor Principle feels Violated
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-12-09T22:55:19+00:00
-url: /2010/12/09/videogame-consoles-stolen-honor-principle-feels-violated/
+date: 2010-12-09 22:55:19 +0000
+url: "/2010/12/09/videogame-consoles-stolen-honor-principle-feels-violated/"
 categories:
-  - News
+- News
 
 ---
 On Monday, Dec. 7, Andrew Choi and Rebecca Richman reported three video game consoles belonging to Reed’s resident video game collective, Handling Controllers Collaboratively (HCC), stolen.

@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Cherenkov Radiation to Characterize a Reactor'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-10-13T19:22:21+00:00
-url: /2011/10/13/cool-thesis-of-the-week-cherenkov-radiation-to-characterize-a-reactor/
+date: 2011-10-13 19:22:21 +0000
+url: "/2011/10/13/cool-thesis-of-the-week-cherenkov-radiation-to-characterize-a-reactor/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 _<a href="http://www.reedquest.org/2011/10/cool-thesis-of-the-week-cherenkov-radiation-to-characterize-a-reactor/ctw-ahmad/" rel="attachment wp-att-1367"><img class="aligncenter size-full wp-image-1367" title="CTW Ahmad" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/02/CTW-Ahmad.png?resize=770%2C430" alt="" data-recalc-dims="1" /></a>_

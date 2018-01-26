@@ -1,13 +1,13 @@
 ---
 title: Biological Perspective on Gender Identity in Babies
-authors: 
-  - "Jaelin Cola"
+authors:
+- Jaelin Cola
 type: post
-date: 2013-10-05T01:11:15+00:00
-url: /2013/10/04/biological-perspective-on-gender-identity-in-babies/
+date: 2013-10-05 01:11:15 +0000
+url: "/2013/10/04/biological-perspective-on-gender-identity-in-babies/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 At one and a half, a child has a clear notion of what is stereotypically gender normal. At three years old, a child knows its gender. At four, a child’s toy preference is based off gender symbolism: pink for girls and blue for boys. Surprisingly, sex and gender are more prominent in the early stages of a child’s life than previously assumed. On Thursday, in Vollum Lecture Hall, Anne Fausto-Sterling, the Biology and Gender Studies Professor at Brown University, led Reed’s very first gender and sexuality symposium on this topic.

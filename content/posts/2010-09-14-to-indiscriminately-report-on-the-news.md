@@ -1,17 +1,17 @@
 ---
-title: “To indiscriminately report on the news”?
-authors: 
-  - Staff
+title: "“To indiscriminately report on the news”?"
+authors:
+- Staff
 type: post
-date: 2010-09-14T21:26:40+00:00
+date: 2010-09-14 21:26:40 +0000
 excerpt: |
   |
     <p>The current Quest editors (who were won that position in an uncontested  election) have made a decision about what kind of newspaper they want to  run.  They want the Quest to be taken seriously</p>
-url: /2010/09/14/to-indiscriminately-report-on-the-news/
+url: "/2010/09/14/to-indiscriminately-report-on-the-news/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - quest
+- quest
 
 ---
 **Sam Gellar**

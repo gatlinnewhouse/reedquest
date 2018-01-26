@@ -1,13 +1,13 @@
 ---
 title: The True Dean, Nigel Nicholson
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-03-07T23:10:11+00:00
-url: /2013/03/07/the-true-dean-nigel-nicholson/
+date: 2013-03-07 23:10:11 +0000
+url: "/2013/03/07/the-true-dean-nigel-nicholson/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2126" alt="Nigel Nicholson" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/03/Nigel-Horiz_web.jpg?resize=770%2C513" data-recalc-dims="1" />][1]

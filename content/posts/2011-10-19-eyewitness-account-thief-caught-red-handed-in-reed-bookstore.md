@@ -1,12 +1,12 @@
 ---
 title: 'Eyewitness Account: Thief Caught Red-Handed in Reed Bookstore'
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-10-20T03:34:01+00:00
-url: /2011/10/19/eyewitness-account-thief-caught-red-handed-in-reed-bookstore/
+date: 2011-10-20 03:34:01 +0000
+url: "/2011/10/19/eyewitness-account-thief-caught-red-handed-in-reed-bookstore/"
 categories:
-  - News
+- News
 
 ---
 At around 12:20pm on Tuesday the 27<sup>th</sup>, I walked into Marianna Mullen’s office to ask her questions for a Quest article on the Bookstore thefts that occurred over the summer (see page X). At the same moment she received a call from the CSOs, who told her that an anonymous tip had just called dispatch, with information that a man was just leaving his house with plans to steal textbooks from the Bookstore. Dhyana Cabarga, a community safety officer, along with Gina Ensunsa and Mullens planted themselves in locations around the bookstore and kept an eye on the door for any suspicious activity. The plan was to keep Cabarga in clear view of the door, to deter the possible perpetrator from entering at all. I went to the candy section, and spent time choosing between yogurt raisins and sour Skittles.

@@ -1,13 +1,13 @@
 ---
 title: Alumni Map Reed’s Future
-authors: 
-  - "Elisa Cibils"
+authors:
+- Elisa Cibils
 type: post
-date: 2012-09-27T19:29:21+00:00
-url: /2012/09/27/alumni-map-reeds-future/
+date: 2012-09-27 19:29:21 +0000
+url: "/2012/09/27/alumni-map-reeds-future/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Unbeknownst to students, the alumni flooding campus last weekend were here not only to celebrate President Kroger’s inauguration, but to plot the future of the college as a whole.

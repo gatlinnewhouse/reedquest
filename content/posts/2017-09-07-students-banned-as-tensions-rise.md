@@ -1,14 +1,14 @@
 ---
 title: Students Banned as Tensions Rise
-authors: 
-  - "David James"
+authors:
+- David James
 type: post
-date: 2017-09-06T02:50:39+00:00
-url: /2017/09/06/students-banned-as-tensions-rise/
+date: 2017-09-06 02:50:39 +0000
+url: "/2017/09/06/students-banned-as-tensions-rise/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - "Don't Miss"
+- Don't Miss
 
 ---
 Long standing tensions between student protesters and members of the Hum 110 faculty reached a breaking point late last month as the Class of 2021 first took their seats. On Monday, August 28, the freshman class arrived in Vollum Lecture Hall (VLH) to hear from a panel of three faculty members, Christian Kroll, Jay Dickson, and Lucía Martίnez Valdivia. As is customary, the members of the faculty introduced themselves at the beginning of lecture. After this, three members of student activist group Reedies Against Racism (RAR), Addison Bates, Alex Boyd and Tiffany Chang, stepped up to introduce themselves and discuss their mission to reform the course. Professor Libby Drumm, chair of Hum 110, then approached the microphone and announced, after a short back and forth between Libby and Bates, that due to the interruption they would not be able to hold lecture that morning. Bates, Boyd, and Chang remained in the well after the cancellation and continued to give their prepared introduction until their microphone was cut.

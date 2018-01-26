@@ -1,13 +1,13 @@
 ---
 title: Alumni Gain Access to JSTOR
-authors: 
-  - "Cristina Cambianica"
+authors:
+- Cristina Cambianica
 type: post
-date: 2013-10-06T22:17:25+00:00
-url: /2013/10/06/alumni-gain-access-to-jstor/
+date: 2013-10-06 22:17:25 +0000
+url: "/2013/10/06/alumni-gain-access-to-jstor/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Olde Reed may be dead, but now they can access JSTOR from their shallow grave. Last month, Reed expanded JSTOR access to alumni, giving them the same JSTOR usage available to current Reedies. On the first day of this change alone, 200 alumni called in to Parent and Alumni Services frantically asking for help with accessing their IRIS account, and therefore JSTOR.

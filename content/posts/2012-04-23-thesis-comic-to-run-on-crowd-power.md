@@ -1,16 +1,16 @@
 ---
 title: Thesis Comic to Run on Crowd Power
-authors: 
-  - "Lucy B"
+authors:
+- Lucy B
 type: post
-date: 2012-04-24T02:46:57+00:00
-url: /2012/04/23/thesis-comic-to-run-on-crowd-power/
+date: 2012-04-24 02:46:57 +0000
+url: "/2012/04/23/thesis-comic-to-run-on-crowd-power/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - comic
-  - thesis
+- comic
+- thesis
 
 ---
 <a href="http://www.reedquest.org/2012/04/thesis-comic-to-run-on-crowd-power/lucy-11/" rel="attachment wp-att-1513"><img class="alignright size-medium wp-image-1513" title="Lucy-11" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/04/Lucy-11-201x300.jpg?resize=201%2C300" alt="" data-recalc-dims="1" /></a>Hello, all you lovely Reed People.

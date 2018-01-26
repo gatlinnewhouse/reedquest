@@ -1,16 +1,16 @@
 ---
 title: 5 Songs to Get You Through Your Hum Paper
-authors: 
-  - "Katy Joseph"
+authors:
+- Katy Joseph
 type: post
-date: 2010-09-15T04:24:55+00:00
-url: /2010/09/15/five-songs-to-get-you-through-your-hum-paper/
+date: 2010-09-15 04:24:55 +0000
+url: "/2010/09/15/five-songs-to-get-you-through-your-hum-paper/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - hum 110
-  - music
-  - paper
+- hum 110
+- music
+- paper
 
 ---
 In an effort to match up the readings with the paper topics, the new syllabus has bumped up the deadline for the first Hum paper to this Saturday. If you’re anything like I was as a freshman, you have sixteen million ideas swirling around in your head and nothing on paper. Or maybe you have zero ideas and tons of scribbling.

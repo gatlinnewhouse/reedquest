@@ -1,13 +1,13 @@
 ---
 title: 'Letter: What is Honor?'
-authors: 
-  - "August Wissmath"
+authors:
+- August Wissmath
 type: post
-date: 2013-09-20T18:47:39+00:00
-url: /2013/09/20/what-is-honor/
+date: 2013-09-20 18:47:39 +0000
+url: "/2013/09/20/what-is-honor/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 I want to instigate a community-wide discussion about what does the Honor Principle ‘really’ mean. This discussion should happen and needs to happen on the level of individuals and their peer groups.

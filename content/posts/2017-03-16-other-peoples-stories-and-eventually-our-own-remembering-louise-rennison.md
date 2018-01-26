@@ -1,18 +1,18 @@
 ---
 title: 'Other People’s Stories, And Eventually, Our Own: Remembering Louise Rennison'
-authors: 
-  - "Tyler Adams"
+authors:
+- Tyler Adams
 type: post
-date: 2017-03-16T02:39:46+00:00
-url: /2017/03/16/other-peoples-stories-and-eventually-our-own-remembering-louise-rennison/
+date: 2017-03-16 02:39:46 +0000
+url: "/2017/03/16/other-peoples-stories-and-eventually-our-own-remembering-louise-rennison/"
 custom_sidebar:
-  - none
+- none
 polymer_components:
-  - 'a:0:{}'
+- a:0:{}
 categories:
-  - Entertainment
+- Entertainment
 tags:
-  - "Don't Miss"
+- Don't Miss
 
 ---
 This past Tuesday, Louise Rennison died. A prolific author—and former member of Women with Beards, an all-female feminist cabaret group—her most famous books were the Confessions of Georgia Nicolson series, the first of which was made into a 2008 film titled Angus, Thongs, and Perfect Snogging. 

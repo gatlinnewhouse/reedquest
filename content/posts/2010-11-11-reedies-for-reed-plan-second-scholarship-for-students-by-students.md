@@ -1,17 +1,17 @@
 ---
-title: “Reedies for Reed” Plan Second Scholarship for Students by Students
-authors: 
-  - Staff
+title: "“Reedies for Reed” Plan Second Scholarship for Students by Students"
+authors:
+- Staff
 type: post
-date: 2010-11-11T19:18:36+00:00
+date: 2010-11-11 19:18:36 +0000
 excerpt: |
   |
     <p>The search has begun to rename the “Class of 2010 Scholarship,” an  on-campus fundraiser to establish a scholarship for an incoming  freshman. Meetings have only just begun for the new campaign</p>
-url: /2010/11/11/reedies-for-reed-plan-second-scholarship-for-students-by-students/
+url: "/2010/11/11/reedies-for-reed-plan-second-scholarship-for-students-by-students/"
 categories:
-  - News
+- News
 tags:
-  - scholarship
+- scholarship
 
 ---
 <div id="attachment_475" style="width: 262px" class="wp-caption alignleft">

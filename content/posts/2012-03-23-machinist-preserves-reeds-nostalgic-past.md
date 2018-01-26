@@ -1,13 +1,13 @@
 ---
 title: Machinist Preserves Reed’s Nostalgic Past
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2012-03-23T23:41:57+00:00
-url: /2012/03/23/machinist-preserves-reeds-nostalgic-past/
+date: 2012-03-23 23:41:57 +0000
+url: "/2012/03/23/machinist-preserves-reeds-nostalgic-past/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/machinist-preserves-reeds-nostalgic-past/img_1097slider/" rel="attachment wp-att-1441"><img class="aligncenter size-full wp-image-1441" title="Eibel" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/03/IMG_1097slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,18 +1,18 @@
 ---
 title: Smokin’ In The Rain
-authors: 
-  - "Rachel Fox"
+authors:
+- Rachel Fox
 type: post
-date: 2011-10-13T22:43:43+00:00
-url: /2011/10/13/smokin-in-the-rain/
+date: 2011-10-13 22:43:43 +0000
+url: "/2011/10/13/smokin-in-the-rain/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - cigarettes
-  - rachel fox
-  - smoking
-  - smoking pavillion
+- cigarettes
+- rachel fox
+- smoking
+- smoking pavillion
 
 ---
 Senate has put in a proposal to the Community Affairs Committee for the building of a covered smoking structure. Rain is an obvious problem for smokers, and a survey taken last year indicated that 70% of students felt that “there were not adequate covered spaces on campus for smokers,” sparking the new plan. The covered area in question would be constructed between the ETC and the library, and would likely be permanent or semi-permanent. The plan is to create an aesthetically pleasing pavilion that allows smokers a place to go that is out of the rain and not right in front of a public thoroughfare. According to Reed Senator Aidan Sigman, the plans are still in the works and have to go through C.A.C. before the details are established.

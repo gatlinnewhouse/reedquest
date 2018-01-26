@@ -1,13 +1,13 @@
 ---
 title: Reed’s New Philosophy Society
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-04-04T17:47:48+00:00
-url: /2013/04/04/reeds-new-philosophy-society/
+date: 2013-04-04 17:47:48 +0000
+url: "/2013/04/04/reeds-new-philosophy-society/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 On March 28, approximately 15 students—along with Philosophy Professor Troy Cross—gathered for the first meeting of Reed’s Philosophy Society. The intimate confines of Winch provided the perfect setting for the passionate intellectual conversation that lasted far longer than the presentation itself, and the first gathering of this new society took on the feeling of a long-standing Reed tradition. Sanjeev Verma presented on “Agency: Killing and Letting Die,” a defense of British philosopher Philippa Foot’s distinction between the two, in light of later criticisms put forth by American philosopher Jeff McMahan. Verma plans on giving the presentation at Pacific University’s Undergraduate Philosophy Conference taking place on April 19 and 20. He saw this as an opportunity to practice delivering the presentation and to get suggestions for improvement during the question and answer session.

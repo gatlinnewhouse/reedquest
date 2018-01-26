@@ -1,13 +1,13 @@
 ---
 title: Performance Suggests Das Racist Might Not Be Joking
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2011-09-29T00:25:02+00:00
-url: /2011/09/28/performance-suggests-das-racist-might-not-be-joking/
+date: 2011-09-29 00:25:02 +0000
+url: "/2011/09/28/performance-suggests-das-racist-might-not-be-joking/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The visuals, an amalgam of movie and television clips and _Tim and Eric_-esque psychedelic imagery, were well-done; the group was enthusiastic and a master of their medium; the beats were pumping; and the crowd was totally into it. Das Racist pranced around the stage as a mob of students oscillated before them. But Kaul was, well, Kaul: sterile, vacuous, and more suggestive of the pep-rally scene in _Heathers_ than of an actual auditorium.

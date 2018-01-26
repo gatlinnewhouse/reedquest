@@ -1,13 +1,13 @@
 ---
 title: Reedies Find Runaway Kickstarter Success
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-09-21T18:27:27+00:00
-url: /2012/09/21/reedies-find-runaway-kickstarter-success/
+date: 2012-09-21 18:27:27 +0000
+url: "/2012/09/21/reedies-find-runaway-kickstarter-success/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Reed success stories are plentiful, but when there’s a trend in the way Reedies pursue that success, it’s even more noteworthy. To date, at least ten Reedies have realized their creative projects through Kickstarter, an online funding platform.

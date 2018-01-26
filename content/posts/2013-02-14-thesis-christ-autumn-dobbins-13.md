@@ -1,18 +1,17 @@
 ---
 title: 'Thesis Christ: Autumn Dobbins ‘13'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-02-15T03:33:33+00:00
-excerpt: |
-  |
-    Sometimes, at the end of an odyssey, you have to walk around, waiting for someone to ask if your oar is a fan for winnowing grain. Sometimes you do a thesis. 
-    
-    Autumn Dobbins ’13, of Kirksville, Missouri is doing her Theater thesis on a new way of designing for the stage to reflect the digital age.
-url: /2013/02/14/thesis-christ-autumn-dobbins-13/
+date: 2013-02-15 03:33:33 +0000
+excerpt: "|\n  Sometimes, at the end of an odyssey, you have to walk around, waiting
+  for someone to ask if your oar is a fan for winnowing grain. Sometimes you do a
+  thesis. \n  \n  Autumn Dobbins ’13, of Kirksville, Missouri is doing her Theater
+  thesis on a new way of designing for the stage to reflect the digital age.\n"
+url: "/2013/02/14/thesis-christ-autumn-dobbins-13/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <p style="text-align: center;">

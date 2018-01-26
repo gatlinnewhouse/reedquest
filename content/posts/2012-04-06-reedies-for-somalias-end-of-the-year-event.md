@@ -1,15 +1,15 @@
 ---
 title: The Reedies for Somalia End of the Year Event
-authors: 
-  - "Jeremy Melloul"
+authors:
+- Jeremy Melloul
 type: post
-date: 2012-04-06T20:51:39+00:00
-url: /2012/04/06/reedies-for-somalias-end-of-the-year-event/
+date: 2012-04-06 20:51:39 +0000
+url: "/2012/04/06/reedies-for-somalias-end-of-the-year-event/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - somalia
+- somalia
 
 ---
 <a href="http://www.reedquest.org/2011/11/1000/somaliaslider/" rel="attachment wp-att-1157"><img class="alignnone size-full wp-image-1157" title="somaliaslider" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2011/11/somaliaslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

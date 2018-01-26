@@ -1,14 +1,14 @@
 ---
 title: 'Marijuana Law Reform on the West Coast: Prop 19 and Measure 74'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-07T17:54:40+00:00
-url: /2010/10/07/marijuana-law-reform-on-the-west-coast-prop-19-and-measure-74/
+date: 2010-10-07 17:54:40 +0000
+url: "/2010/10/07/marijuana-law-reform-on-the-west-coast-prop-19-and-measure-74/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - prop 19
+- prop 19
 
 ---
 **Rachel Cole-Jansen**

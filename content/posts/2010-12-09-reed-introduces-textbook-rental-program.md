@@ -1,15 +1,15 @@
 ---
 title: Reed Introduces Textbook Rental Program
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-09T22:41:19+00:00
+date: 2010-12-09 22:41:19 +0000
 excerpt: |
   |
     <p>Textbook rental programs have exploded in college bookstores across the country. To test the program’s logistics and relative benefit to students, the Reed Bookstore made five titles available for rental last semester,</p>
-url: /2010/12/09/reed-introduces-textbook-rental-program/
+url: "/2010/12/09/reed-introduces-textbook-rental-program/"
 categories:
-  - Features
+- Features
 
 ---
 **Marianna Mullens**

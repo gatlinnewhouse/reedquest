@@ -1,13 +1,13 @@
 ---
 title: ODB Fumigates for Bed Bugs
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2012-09-21T17:35:39+00:00
-url: /2012/09/21/odb-fumigates-for-bed-bugs/
+date: 2012-09-21 17:35:39 +0000
+url: "/2012/09/21/odb-fumigates-for-bed-bugs/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Whilst studying Ancient Egypt in Hum 110 last week, some freshman residents of Old Dorm Block might have felt a little closer to the study material than they cared for. One of the ten biblical plagues, that of lice and nits, descended onto Kerr in the terrifying form of the common bedbug. Rooms had to be evacuated, possessions fumigated, and beds burned.

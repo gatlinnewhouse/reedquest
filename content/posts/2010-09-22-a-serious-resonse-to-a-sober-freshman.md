@@ -1,14 +1,14 @@
 ---
 title: A Serious Resonse to a Sober Freshman
-authors: 
-  - "Zach Weinberg"
+authors:
+- Zach Weinberg
 type: post
-date: 2010-09-22T18:08:48+00:00
-url: /2010/09/22/a-serious-resonse-to-a-sober-freshman/
+date: 2010-09-22 18:08:48 +0000
+url: "/2010/09/22/a-serious-resonse-to-a-sober-freshman/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - advice
+- advice
 
 ---
 <div id="attachment_286" style="width: 166px" class="wp-caption alignleft">

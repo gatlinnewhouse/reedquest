@@ -1,13 +1,13 @@
 ---
 title: Dylan, A Well-Loved Dog
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-10-11T23:40:38+00:00
-url: /2013/10/11/dylan-a-well-loved-dog/
+date: 2013-10-11 23:40:38 +0000
+url: "/2013/10/11/dylan-a-well-loved-dog/"
 categories:
-  - From the Editors
-  - Front Page
+- From the Editors
+- Front Page
 
 ---
 _[<img class="alignleft size-medium wp-image-2914" alt="Dylan and shadow" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/10/Dylan-and-shadow-225x300.jpg?resize=225%2C300" data-recalc-dims="1" />][1]The most-loved demographic of Reed College is, arguably, not the professors, or the students, or even President Kroger, but the Reed Dogs. This week, we lost one of the most well-known and well-petted dogs on campus. Professor Lena Lencek’s poodle Dylan was tragically taken from us last Sunday. Dylan was a member of the community just like any of us, and has probably been around campus for longer than all of us students (and many professors as well). That is to say, Dylan will be missed. Although nearly all of us have met Dylan at one point or another, perhaps the words of someone closer to Dylan can best sum up this feeling of loss. Here is the letter that Bianca Bosker wrote to her mother, Lena Lencek, in memory of Dylan. Please keep Lena in your thoughts._

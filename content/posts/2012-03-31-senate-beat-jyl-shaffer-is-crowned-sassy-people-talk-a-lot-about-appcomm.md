@@ -1,15 +1,15 @@
 ---
 title: 'Senate Beat: Jyl Shaffer is crowned “Sassy,” People Talk a Lot About AppComm'
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2012-03-31T20:13:34+00:00
-url: /2012/03/31/senate-beat-jyl-shaffer-is-crowned-sassy-people-talk-a-lot-about-appcomm/
+date: 2012-03-31 20:13:34 +0000
+url: "/2012/03/31/senate-beat-jyl-shaffer-is-crowned-sassy-people-talk-a-lot-about-appcomm/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 tags:
-  - senate
+- senate
 
 ---
 This week&#8217;s Senate meeting opened with Assistant Dean of Sexual Assault Prevention and Response Jyl Shaffer, responding to her characterization as “totally adequate,” moving that she also be known as “sassy.” Dean of Students Mike Brody wondered if this title would carry over to the next ADSAPR, leading to Jyl express mock concern for her job security. At least I hope it was mock concern! At any rate, the motion was passed unanimously.

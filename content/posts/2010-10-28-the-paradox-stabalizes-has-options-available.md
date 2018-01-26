@@ -1,14 +1,14 @@
 ---
 title: The Paradox Stabilizes, Has Options Available
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2010-10-28T17:55:34+00:00
-url: /2010/10/28/the-paradox-stabalizes-has-options-available/
+date: 2010-10-28 17:55:34 +0000
+url: "/2010/10/28/the-paradox-stabalizes-has-options-available/"
 categories:
-  - News
+- News
 tags:
-  - paradox
+- paradox
 
 ---
 <div id="attachment_416" style="width: 226px" class="wp-caption alignleft">

@@ -1,13 +1,13 @@
 ---
 title: Trustees Shoot Down Greywood Proposal
-authors: 
-  - "Martha Janicki"
+authors:
+- Martha Janicki
 type: post
-date: 2010-10-07T18:19:23+00:00
-url: /2010/10/07/trustees-shoot-down-greywood-proposal/
+date: 2010-10-07 18:19:23 +0000
+url: "/2010/10/07/trustees-shoot-down-greywood-proposal/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The plans to rebuild the Greywood building have been put on hold. The Board of Trustees, who met this weekend, decided that a new Performing Arts building remains a greater priority than the reconstruction of Greywood.

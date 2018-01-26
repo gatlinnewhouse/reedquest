@@ -1,12 +1,12 @@
 ---
 title: A Letter from Your Queditors
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-15T00:23:13+00:00
-url: /2011/04/14/a-letter-from-your-queditors-2/
+date: 2011-04-15 00:23:13 +0000
+url: "/2011/04/14/a-letter-from-your-queditors-2/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 Last week’s issue of the Quest showed images from two hundred volumes of Reed College’s free press. If anything, the image spread demonstrates that the Quest has always been there—always—to highlight stories, present perspectives, and propagate information in a fair and creative way.

@@ -1,13 +1,13 @@
 ---
 title: Philip Metres Sings Abu Ghraib an Aria
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:12:31+00:00
-url: /2012/11/15/philip-metres-sings-abu-ghraib-an-aria/
+date: 2012-11-15 20:12:31 +0000
+url: "/2012/11/15/philip-metres-sings-abu-ghraib-an-aria/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 When I first met Philip Metres, I was surprised by the ease with which he spoke of _Abu Ghraib Arias,_ his heart-wrenching book of poems and winner of this year’s Arab American Book award for poetry. __In the hours I spent listening to his experiences writing the book, however, I realized that this ease sprung was rooted in his view of torture as a reality, not a horrific image constructed by the news.

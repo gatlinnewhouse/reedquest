@@ -1,13 +1,13 @@
 ---
 title: MusicfestNW Caters to All Tastes
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2011-09-29T00:30:56+00:00
-url: /2011/09/28/musicfestnw-caters-to-all-tastes/
+date: 2011-09-29 00:30:56 +0000
+url: "/2011/09/28/musicfestnw-caters-to-all-tastes/"
 categories:
-  - Events
-  - News
+- Events
+- News
 
 ---
 MusicfestNW, billed as “Portland&#8217;s largest and most successful music festival,” ran from last Wednesday to Sunday. With more than 170 bands in 18 venues that are sprinkled across the city, the festival offered something for everyone. There were popular acts and bands that even the most seasoned music veteran would likely be unable to identify.

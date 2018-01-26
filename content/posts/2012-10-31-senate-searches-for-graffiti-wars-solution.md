@@ -1,13 +1,13 @@
 ---
 title: Senate Searches for Graffiti Wars Solution
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2012-10-31T20:38:42+00:00
-url: /2012/10/31/senate-searches-for-graffiti-wars-solution/
+date: 2012-10-31 20:38:42 +0000
+url: "/2012/10/31/senate-searches-for-graffiti-wars-solution/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Senate is seeking an olive branch between students and administrators in the ongoing struggle over campus graffiti. This fall semester has been marked by a conflict in which students repeatedly graffitied the gender-neutral bathrooms while administration repeatedly painted over the walls. The painting over of graffiti stopped for about a week just before fall break, but it has since started up again.

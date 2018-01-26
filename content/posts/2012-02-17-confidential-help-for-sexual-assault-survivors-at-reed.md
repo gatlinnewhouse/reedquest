@@ -1,13 +1,13 @@
 ---
 title: Confidential Help For Sexual Assault Survivors at Reed
-authors: 
-  - "Jyl Shaffer"
+authors:
+- Jyl Shaffer
 type: post
-date: 2012-02-18T05:05:21+00:00
-url: /2012/02/17/confidential-help-for-sexual-assault-survivors-at-reed/
+date: 2012-02-18 05:05:21 +0000
+url: "/2012/02/17/confidential-help-for-sexual-assault-survivors-at-reed/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 _Jyl Shaffer is the Assistant Dean for Sexual Assault Prevention & Response._

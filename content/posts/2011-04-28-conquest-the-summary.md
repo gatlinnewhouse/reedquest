@@ -1,12 +1,12 @@
 ---
 title: 'ConQuest: The Summary'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:24:56+00:00
-url: /2011/04/28/conquest-the-summary/
+date: 2011-04-28 18:24:56 +0000
+url: "/2011/04/28/conquest-the-summary/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 So, you all elected ConQuest as your Quest Board for the fall of 2011, and that’s great.  We appreciate it, we really do.  But some of you—those who don’t frequent SIN, perhaps, or who didn’t attend Elections Assembly—are probably wondering what is this ConQuest thing?  Well then.  We are a group of eleven students (yep, eleven) who wish to focus on informative reporting and relevant, respectful opinions and dialogue.  Some key issues that we were previously asked about:

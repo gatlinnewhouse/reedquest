@@ -1,13 +1,13 @@
 ---
 title: Sustainability Committee Sits on $13,000
-authors: 
-  - "Cristina Cambianica"
+authors:
+- Cristina Cambianica
 type: post
-date: 2012-09-28T19:50:39+00:00
-url: /2012/09/28/sustainability-committee-sits-on-13000/
+date: 2012-09-28 19:50:39 +0000
+url: "/2012/09/28/sustainability-committee-sits-on-13000/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Though Reed’s Sustainability Committee has $13,000 in reserve, it does not have any plans to spend it. The committee, founded in the spring of 2009, has been “a dead horse” for much of its life, says Senator Marie Perez ’12, Senate liaison to the committee.

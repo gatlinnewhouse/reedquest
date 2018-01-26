@@ -1,13 +1,13 @@
 ---
 title: Honor Council Case Opinion
-authors: 
-  - "Adrian Dannis"
+authors:
+- Adrian Dannis
 type: post
-date: 2013-10-06T22:34:46+00:00
-url: /2013/10/06/honor-council-case-opinion/
+date: 2013-10-06 22:34:46 +0000
+url: "/2013/10/06/honor-council-case-opinion/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 As you’ll read in today’s Quest, John Kroger has passed his duty of reviewing J-Board sanctions on to Mike Brody, Vice President and Dean of Student Services. From my perspective, as a former member of Honor Council, current senator, and member of the student body, this announcement presents serious cause for concern. As Anonymous wrote in “The Hollowing,” we are not perceiving the change, the slow current that is shaping the future of Honor at Reed-a future that is more administrative than autonomous, more process than Principle.   In and of itself, this passing off of duties is not an outstanding event, and I am sure Brody will do his duty in ensuring due process. I beg of you, however, to look at this with a more critical eye: to me, this is a prime example of the phenomenon of increasing administrative presence in the Honor Process. The shift itself is small, but it is one step closer to a new process that interweaves the Honor Principle, administration, and policy into one complex and warped “Honor Process.&#8221;

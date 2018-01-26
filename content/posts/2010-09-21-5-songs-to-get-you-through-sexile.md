@@ -1,13 +1,13 @@
 ---
 title: 5 Songs to Get You Through Sexile
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-09-21T13:30:36+00:00
-url: /2010/09/21/5-songs-to-get-you-through-sexile/
+date: 2010-09-21 13:30:36 +0000
+url: "/2010/09/21/5-songs-to-get-you-through-sexile/"
 categories:
-  - Features
-  - Infotainment
+- Features
+- Infotainment
 
 ---
 At some point in your college career, you’re sure to get sexiled. Instead of taking it lying down (I’m sure there’s a lame pun in there somewhere), you should definitely use this playlist to turn what could be a miserable experience into a wonderful opportunity to make your roommate and whomever they’re bangin’ to feel just as awkward as you do. Some of these songs will make them realize the pain you’re feeling, some of them will just make them feel awkward. The bottom line is this: if the walls are thin enough for you to hear them opening their third condom wrapper, they’re definitely thin enough for them to hear you blasting these songs.

@@ -1,15 +1,14 @@
 ---
 title: Ass’t Treasurer Position Open
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-01T02:32:47+00:00
-url: /2010/09/01/asst-treasurer-position-open/
+date: 2010-09-01 02:32:47 +0000
+url: "/2010/09/01/asst-treasurer-position-open/"
 categories:
-  - Senate
+- Senate
 
 ---
-
 Classes have started, but the key position of student body assistant treasurer remains open, said Cori Savaiano, head treasurer of the student body.
 
 Typically the assistant treasurer position is filled at the end of each semester.

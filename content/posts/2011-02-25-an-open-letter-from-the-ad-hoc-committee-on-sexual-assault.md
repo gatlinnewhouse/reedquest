@@ -1,17 +1,17 @@
 ---
 title: An Open Letter from the Ad-hoc Committee on Sexual Assault
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-26T01:16:02+00:00
-url: /2011/02/25/an-open-letter-from-the-ad-hoc-committee-on-sexual-assault/
+date: 2011-02-26 01:16:02 +0000
+url: "/2011/02/25/an-open-letter-from-the-ad-hoc-committee-on-sexual-assault/"
 categories:
-  - News
+- News
 tags:
-  - crime
-  - rape
-  - reed college
-  - sexual assault
+- crime
+- rape
+- reed college
+- sexual assault
 
 ---
 At the beginning of the fall semester, President Diver appointed an ad-hoc committee on sexual assault. The committee is comprised of students, faculty, and staff. As our work is well underway, and due to recent campus-wide concern about this issue, we wanted to inform the community about the particulars of our mission.

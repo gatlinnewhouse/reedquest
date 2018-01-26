@@ -1,13 +1,13 @@
 ---
 title: 'Bill Cronon: Disciplines in Dialogue'
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-04-25T23:47:48+00:00
-url: /2013/04/25/bill-cronon-disciplines-in-dialogue/
+date: 2013-04-25 23:47:48 +0000
+url: "/2013/04/25/bill-cronon-disciplines-in-dialogue/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 [<img class="alignright size-full wp-image-2314" alt="Bill Cronon" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/04/IMG_1992_web.jpg?resize=770%2C513" data-recalc-dims="1" />][1]

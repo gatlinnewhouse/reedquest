@@ -1,20 +1,20 @@
 ---
 title: Senate Liaisons/Committee Appointments
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T18:41:17+00:00
+date: 2010-09-15 18:41:17 +0000
 excerpt: |
   |
     <p>Admission and Financial Aid:         A. Campbell<br />
     Alumni Liaison:            S. Carlisle<br />
     Appeals:                R. Schwartz<br />
     Bookstore:            T. Spillane</p>
-url: /2010/09/15/senate-liaisonscommittee-appointments/
+url: "/2010/09/15/senate-liaisonscommittee-appointments/"
 categories:
-  - Senate
+- Senate
 tags:
-  - appointments
+- appointments
 
 ---
 Admission and Financial Aid:         A. Campbell

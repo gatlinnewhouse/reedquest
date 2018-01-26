@@ -1,15 +1,15 @@
 ---
-title: 'Student Body President  Nora McConnell-Johnson Addresses Smoking on Campus'
-authors: 
-  - Staff
+title: Student Body President  Nora McConnell-Johnson Addresses Smoking on Campus
+authors:
+- Staff
 type: post
-date: 2011-03-10T20:11:35+00:00
-url: /2011/03/10/student-body-president-nora-mcconnell-johnson-addresses-smoking-on-campus/
+date: 2011-03-10 20:11:35 +0000
+url: "/2011/03/10/student-body-president-nora-mcconnell-johnson-addresses-smoking-on-campus/"
 categories:
-  - News
+- News
 tags:
-  - honor principle
-  - smoking
+- honor principle
+- smoking
 
 ---
 Though I feel like I really connect to the student body through my (amazing) biweekly SB Info links, I’ve decided that it may be time to take the conversation in a more serious direction. At this week’s Senate meeting, we began a discussion about smoking on campus. While it was our best-attended meeting of the semester, I’d like to get the 1,000+ students who couldn’t make it involved in the conversation. Though this has obviously been a constant debate on campus, Senate’s discussion on the matter this week was prompted by an email from a faculty member. This faculty member asked us to do something about the covered areas around the library, and the fact that, especially when it’s raining, smokers tend to congregate under them. This persists despite signs designating the area as non-smoking (it’s a thoroughfare).

@@ -1,12 +1,12 @@
 ---
 title: OPB Documentary Uncovers Origins of Reed’s Quest for Truth
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2011-11-04T21:27:56+00:00
-url: /2011/11/04/look-ma-im-on-tv/
+date: 2011-11-04 21:27:56 +0000
+url: "/2011/11/04/look-ma-im-on-tv/"
 categories:
-  - News
+- News
 
 ---
 <div id="attachment_947" style="width: 310px" class="wp-caption alignright">

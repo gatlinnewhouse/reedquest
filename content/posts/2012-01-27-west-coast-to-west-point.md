@@ -1,13 +1,13 @@
 ---
 title: West Coast to West Point
-authors: 
-  - "John Iselin"
+authors:
+- John Iselin
 type: post
-date: 2012-01-28T07:01:35+00:00
-url: /2012/01/27/west-coast-to-west-point/
+date: 2012-01-28 07:01:35 +0000
+url: "/2012/01/27/west-coast-to-west-point/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Never let it be said that the military doesn’t have a sense of humor. Outside the West Point Library stands a statue of General George Patton, a powerful figure in World War II and a West Point Graduate. Patton is clasping his binoculars, staring proudly out over the Hudson River, facing defiantly away from the library. The careful choice by the sculptor, as explained to me by a second year cadet, reflects Patton’s distain for book learning and the library. As a Reedie, such an active display of disrespect towards the library was both horrifying and oddly liberating, and it contrasted the cadets’ beliefs with Reedies’. At Reed we pride ourselves on our singular devotion to academics, while West Point’s stated policy is that academics stand with athletics and enhancing the qualities of a good soldier as the three pillars of education.

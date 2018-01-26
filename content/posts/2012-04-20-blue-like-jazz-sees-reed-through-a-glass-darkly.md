@@ -1,16 +1,16 @@
 ---
 title: Blue Like Jazz Sees Reed Through a Glass, Darkly
-authors: 
-  - "Meagan Harris"
+authors:
+- Meagan Harris
 type: post
-date: 2012-04-20T16:00:27+00:00
-url: /2012/04/20/blue-like-jazz-sees-reed-through-a-glass-darkly/
+date: 2012-04-20 16:00:27 +0000
+url: "/2012/04/20/blue-like-jazz-sees-reed-through-a-glass-darkly/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - blue like jazz
-  - gray fund
+- blue like jazz
+- gray fund
 
 ---
 **_<a href="http://www.reedquest.org/2012/04/blue-like-jazz-sees-reed-through-a-glass-darkly/rennfayre/" rel="attachment wp-att-1508"><img class="alignnone size-full wp-image-1508" title="&quot;Renn Fayre&quot;" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/04/rennfayre.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>_**

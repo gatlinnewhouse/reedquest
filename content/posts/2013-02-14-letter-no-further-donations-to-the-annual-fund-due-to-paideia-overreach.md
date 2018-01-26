@@ -1,13 +1,13 @@
 ---
 title: 'Letter: No Further Donations to the Annual Fund Due to Paideia Overreach'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-15T03:17:08+00:00
-url: /2013/02/14/letter-no-further-donations-to-the-annual-fund-due-to-paideia-overreach/
+date: 2013-02-15 03:17:08 +0000
+url: "/2013/02/14/letter-no-further-donations-to-the-annual-fund-due-to-paideia-overreach/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 I am addressing this email to the President&#8217;s office, the Development office, and _The_ _Quest_, regarding the recent report that the President&#8217;s office has overreached its mandate to censor classes at Paideia, as reported in the Daily Caller.

@@ -1,13 +1,13 @@
 ---
 title: Reedie Bequeaths Economics Post
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2011-11-04T21:16:01+00:00
-url: /2011/11/04/reedie-bequeaths-economics-post/
+date: 2011-11-04 21:16:01 +0000
+url: "/2011/11/04/reedie-bequeaths-economics-post/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The search for a new tenure-track professor of economics has commenced after Lester Lave ’60, who majored in economics at Reed, passed away last May, leaving nearly $3 million to establish the position and improve the economics department.

@@ -1,13 +1,13 @@
 ---
 title: 'KRRC Το Lose Frequency To Finances: Station To Be Online Only'
-authors: 
-  - "Aaron Smith"
+authors:
+- Aaron Smith
 type: post
-date: 2011-10-06T08:59:16+00:00
-url: /2011/10/06/krrc-το-lose-frequency-to-finances-station-to-be-online-only/
+date: 2011-10-06 08:59:16 +0000
+url: "/2011/10/06/krrc-το-lose-frequency-to-finances-station-to-be-online-only/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 According to Alexa Ross, signator for KRRC, Reed’s student-run radio station will transition from terrestrial broadcasting to online-only because of lack of funds to maintain equipment and keep the station’s frequency, 97.9 FM. Two years ago, the station nearly lost its frequency to the interests of commercial station KNRQ-FM.

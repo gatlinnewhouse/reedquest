@@ -1,12 +1,12 @@
 ---
-title: -ism Plans Feminist Bakesale
-authors: 
-  - Staff
+title: "-ism Plans Feminist Bakesale"
+authors:
+- Staff
 type: post
-date: 2011-03-31T19:53:48+00:00
-url: /2011/03/31/ism-plans-feminist-bakesale/
+date: 2011-03-31 19:53:48 +0000
+url: "/2011/03/31/ism-plans-feminist-bakesale/"
 categories:
-  - News
+- News
 
 ---
 Despite the Equal Pay Act passed in 1963, men and women continue to face unequal pay in the workplace. This Friday, the student diversity group ”-ism” hopes to raise awareness about male privilege in the workplace by hosting a Feminist Bake Sale for Pay Equity. The bakesale will charge men and women proportionally, based on the amount of money they earn as published by the 2008 Census Bureau. Women, in equal jobs with equal education and experience as their male counterparts, make only 77 cents to the man’s dollar. This iniquity has resulted in, over the past 40 years, the real median earnings of women falling short by an estimated $700,000 to $2 million, depending on their education level (~$1.2 million for a college graduate!).

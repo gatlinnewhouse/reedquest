@@ -1,13 +1,13 @@
 ---
 title: 'Au Revoir, My Darling Lutz: Eulogies by Reedies'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-30T18:02:54+00:00
-url: /2010/09/30/au-revoir-my-darling-lutz-eulogies-by-reedies/
+date: 2010-09-30 18:02:54 +0000
+url: "/2010/09/30/au-revoir-my-darling-lutz-eulogies-by-reedies/"
 categories:
-  - Features
-  - The Lutz Report
+- Features
+- The Lutz Report
 
 ---
 The door. That door. You know the one. Years of forgetting have painted it red in my mind. Or black. But it was probably blue. And faded. As is my memory of it.

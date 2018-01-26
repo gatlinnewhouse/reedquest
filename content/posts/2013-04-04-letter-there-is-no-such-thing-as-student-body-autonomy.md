@@ -1,14 +1,22 @@
 ---
 title: 'Letter: There is No Such Thing as Student Body Autonomy'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-04-05T00:38:31+00:00
-excerpt: 'Next week there will be a Reed Union discussing the topic of student body autonomy. Lots of things come to mind when anyone discusses student body autonomy. Most often, student body autonomy seems to be brought up in the context of lifestyle choices of the various members of the student body. Shouldn’t we as adult students be allowed to live our lives as we see fit? Perhaps, but I don’t think that is what student body autonomy is at all. In fact, that strikes me to be more related to the personal autonomy of students. Such issues should, to my mind, not be discussed at the union because they fundamentally miss what student autonomy is, properly speaking. '
-url: /2013/04/04/letter-there-is-no-such-thing-as-student-body-autonomy/
+date: 2013-04-05 00:38:31 +0000
+excerpt: 'Next week there will be a Reed Union discussing the topic of student body
+  autonomy. Lots of things come to mind when anyone discusses student body autonomy.
+  Most often, student body autonomy seems to be brought up in the context of lifestyle
+  choices of the various members of the student body. Shouldn’t we as adult students
+  be allowed to live our lives as we see fit? Perhaps, but I don’t think that is what
+  student body autonomy is at all. In fact, that strikes me to be more related to
+  the personal autonomy of students. Such issues should, to my mind, not be discussed
+  at the union because they fundamentally miss what student autonomy is, properly
+  speaking. '
+url: "/2013/04/04/letter-there-is-no-such-thing-as-student-body-autonomy/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 _**By David Azrael ’13**_

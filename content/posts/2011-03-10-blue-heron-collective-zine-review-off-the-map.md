@@ -1,14 +1,14 @@
 ---
 title: 'Blue Heron Collective Zine Review: Off the Map'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-10T20:08:39+00:00
-url: /2011/03/10/blue-heron-collective-zine-review-off-the-map/
+date: 2011-03-10 20:08:39 +0000
+url: "/2011/03/10/blue-heron-collective-zine-review-off-the-map/"
 categories:
-  - Features
+- Features
 tags:
-  - zine review
+- zine review
 
 ---
 _Off the Map_, a compilation of zines turned into a short book, is a true account of the adventures of two American females in Europe. Spending all of their money on plane tickets across the Atlantic, these ladies survive and explore by hitchhiking, sleeping on the side of the road, and hanging out in squats. They put their faith in strangers and embrace the chaotic existence of street life.  Kika Kat (the author’s pen name) infuses this intense travelogue with musings about the need for freedom from our commercialistic culture and the state of loneliness and isolation often accepted in our society. According to Kika, “The adventurer gives into the tides of chaos, trusts the world to support her &#8211; and in doing so, turns her back on the fear and obedience she has been taught. She rejects the indoctrination of impossibility.” Kika offers a unique and inspiring take on what is truly valuable. She throws off the chains fear and doubt that society has placed upon her and ventures into the unknown world with nothing more than a good friend and a backpack. This contemporary _On The Road_ is empowering for any woman who has been warned that it is too dangerous to travel alone. Want to read something full of adventure, idealism, and beautiful writing? Come check it out!

@@ -1,16 +1,16 @@
 ---
 title: Student Body Wage Changes
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-04-17T17:53:50+00:00
-url: /2012/04/17/student-body-wage-changes/
+date: 2012-04-17 17:53:50 +0000
+url: "/2012/04/17/student-body-wage-changes/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - senate
-  - wages
+- senate
+- wages
 
 ---
 Student body position wage changes made on Thursday, April 12.

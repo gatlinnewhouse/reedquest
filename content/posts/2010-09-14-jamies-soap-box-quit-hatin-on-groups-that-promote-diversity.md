@@ -1,18 +1,18 @@
 ---
 title: 'Jamie’s Soap Box: Quit Hatin’ on Groups that Promote Diversity'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-14T21:28:22+00:00
+date: 2010-09-14 21:28:22 +0000
 excerpt: |
   |
     <p>Funding Poll is tallied, and congratulations are in order for those  organizations that raked in Top Six and approval points. But I’m not  particularly interested in where our Top Six votes went, rather I’m more  occupied by what organizations we seem to really dislike.</p>
-url: /2010/09/14/jamies-soap-box-quit-hatin-on-groups-that-promote-diversity/
+url: "/2010/09/14/jamies-soap-box-quit-hatin-on-groups-that-promote-diversity/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - diversity
-  - funding poll
+- diversity
+- funding poll
 
 ---
 Funding Poll is tallied, and congratulations are in order for those organizations that raked in Top Six and approval points. But I’m not particularly interested in where our Top Six votes went, rather I’m more occupied by what organizations we seem to really dislike. I’m talking the things people hate enough to dole out one of their precious Top Six/Bottom Six votes, even though the scoring system wages more points to Top Sixes than it does to Bottom Sixes. The votes are in, and while Deep Sixers make up just a small proportion of Funding Poll voters, I think it’s worthwhile to look at a breakdown of what we dislike, and just how much we detest it.

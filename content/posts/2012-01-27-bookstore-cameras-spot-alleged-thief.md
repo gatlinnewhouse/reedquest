@@ -1,12 +1,12 @@
 ---
 title: Bookstore Cameras Spot Alleged Thief
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2012-01-28T06:12:53+00:00
-url: /2012/01/27/bookstore-cameras-spot-alleged-thief/
+date: 2012-01-28 06:12:53 +0000
+url: "/2012/01/27/bookstore-cameras-spot-alleged-thief/"
 categories:
-  - News
+- News
 
 ---
 On December 28<sup>th</sup>, a man entered the Reed College Bookstore with a briefcase, which he apparently used to steal over a thousand dollars worth of textbooks. The act was caught on camera, and the suspect’s picture was turned over to the Portland police. The same individual returned to the bookstore on January 4<sup>th</sup> for unknown reasons and was noticed by bookstore manager Ueli Stauder, who followed him to an area behind the GCCs where he was approached by Community Safety Officers. During their conversation, the man told them his real name and date of birth. When one of the Community Safety Officers left to meet arriving police and direct them to the spot to make an arrest, the suspect ran into the bushes and escaped.

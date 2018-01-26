@@ -1,14 +1,14 @@
 ---
 title: Second Mugging Raises Alarms
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2012-01-28T06:13:41+00:00
-url: /2012/01/27/second-mugging-raises-alarms/
+date: 2012-01-28 06:13:41 +0000
+url: "/2012/01/27/second-mugging-raises-alarms/"
 categories:
-  - Front Page
-  - Left Sidebar
-  - News
+- Front Page
+- Left Sidebar
+- News
 
 ---
 On December 7<sup>th</sup>, a second mugging at gunpoint occurred on the Reed Campus. A student and her mother, while entering the Reed campus near the Prexy parking lot, were robbed at gunpoint by two men. The robbers took a cell phone, a purse, a small amount of cash, as well as credit cards. Much like the first robbery, the suspects are unlikely to be caught. And much like the last robbery, the police have nothing substantial to go on.

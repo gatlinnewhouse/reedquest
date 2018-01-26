@@ -1,14 +1,14 @@
 ---
 title: WATSON FELLOWSHIP NOMINEES ANNOUNCED
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-07T18:08:23+00:00
-url: /2010/10/07/watson-fellowship-nominees-announced/
+date: 2010-10-07 18:08:23 +0000
+url: "/2010/10/07/watson-fellowship-nominees-announced/"
 categories:
-  - Features
+- Features
 tags:
-  - watson fellowship
+- watson fellowship
 
 ---
 Each year, graduating Reedies are offered the opportunity to apply for the Thomas J. Watson Fellowship. The Watson Fellowship is a one-year grant for independent study and travel outside the United States. Awarded to graduating college seniors at forty liberal arts colleges, applicants are nominated by their respective institutions and forty fellowships are granted each year.

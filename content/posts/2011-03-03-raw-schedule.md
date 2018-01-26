@@ -1,15 +1,15 @@
 ---
 title: RAW Schedule
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-03T20:23:53+00:00
-url: /2011/03/03/raw-schedule/
+date: 2011-03-03 20:23:53 +0000
+url: "/2011/03/03/raw-schedule/"
 categories:
-  - Features
+- Features
 tags:
-  - RAW
-  - reed arts week
+- RAW
+- reed arts week
 
 ---
 **Reed Student Art**

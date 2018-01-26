@@ -1,14 +1,18 @@
 ---
 title: 'Cool Thesis of the Week: Max Maller'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-11-08T10:30:33+00:00
-excerpt: "Much of the material academics study is the product of the elite. But Max Maller '13 seeks to study an art form that rose out of the lower echelons of 19th Century China. His Chinese thesis, which he is working on with Professor Hyong Rhew, explores the art and evolution of Xiangsheng, a popular form of comedy in China that originated in the markets and temple fairs of Beijing during the Qing Dynasty. "
-url: /2012/11/08/cool-thesis-of-the-week-max-maller/
+date: 2012-11-08 10:30:33 +0000
+excerpt: 'Much of the material academics study is the product of the elite. But Max
+  Maller ''13 seeks to study an art form that rose out of the lower echelons of 19th
+  Century China. His Chinese thesis, which he is working on with Professor Hyong Rhew,
+  explores the art and evolution of Xiangsheng, a popular form of comedy in China
+  that originated in the markets and temple fairs of Beijing during the Qing Dynasty. '
+url: "/2012/11/08/cool-thesis-of-the-week-max-maller/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/11/cool-thesis-of-the-week-max-maller/r1025650/" rel="attachment wp-att-1794"><img class="alignnone size-full wp-image-1794" title="Max Maller" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/11/R1025650.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,13 +1,13 @@
 ---
 title: 'Greening Garbage: Reed Composts, And Now Portland Too'
-authors: 
-  - "Blake Rosenthal"
+authors:
+- Blake Rosenthal
 type: post
-date: 2012-01-28T06:10:35+00:00
-url: /2012/01/27/greening-garbage-reed-composts-and-now-portland-too/
+date: 2012-01-28 06:10:35 +0000
+url: "/2012/01/27/greening-garbage-reed-composts-and-now-portland-too/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 About 30% of the contents of a typical trashcan is compostable. Far from being just a random heap of empty plastic pens, candy wrappers, and the occasional hapless high-school freshman, the trash is also a graveyard for unwanted food scraps, used napkins, and pizza boxes. Although high-school freshmen are typically not compostable, much of the other contents have a higher calling beyond the landfill.

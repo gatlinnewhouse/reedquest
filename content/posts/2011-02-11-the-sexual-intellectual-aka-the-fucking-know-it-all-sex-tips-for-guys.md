@@ -1,16 +1,19 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: Sex Tips for Guys'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2011-02-11T20:42:07+00:00
-excerpt: I’m not out to teach you the ultimate secret to sex like some kung-fu sex master or a Men’s Health magazine will promise to. After speaking to some close and sexually active female friends, though, I have devised some guidelines for men in approaching sex.
-url: /2011/02/11/the-sexual-intellectual-aka-the-fucking-know-it-all-sex-tips-for-guys/
+date: 2011-02-11 20:42:07 +0000
+excerpt: I’m not out to teach you the ultimate secret to sex like some kung-fu sex
+  master or a Men’s Health magazine will promise to. After speaking to some close
+  and sexually active female friends, though, I have devised some guidelines for men
+  in approaching sex.
+url: "/2011/02/11/the-sexual-intellectual-aka-the-fucking-know-it-all-sex-tips-for-guys/"
 categories:
-  - Features
-  - The Sexual Intellectual
+- Features
+- The Sexual Intellectual
 tags:
-  - sex
+- sex
 
 ---
 Woman – supposedly the most complicated thing any man may encounter. How to approach them, how to talk to them, how to convince them that you are a decent enough guy to sleep with?? These three questions alone could take up several volumes of research and discourse (plus diagrams) that would make your average dude’s head explode. For now, I’m going to leave those tricky topics to the pick-up artists. This here is for the winner’s circle – the men who’ve managed to scrape together enough resolve, patience, and charm to earn that golden “yes” of consent dripping from a woman’s lips into his ears. This is what to do, when to do it, and how to do it when you’re doin’ it.

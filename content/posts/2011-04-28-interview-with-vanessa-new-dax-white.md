@@ -1,12 +1,12 @@
 ---
 title: Interview with Vanessa “New Dax” White
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:44:32+00:00
-url: /2011/04/28/interview-with-vanessa-new-dax-white/
+date: 2011-04-28 18:44:32 +0000
+url: "/2011/04/28/interview-with-vanessa-new-dax-white/"
 categories:
-  - News
+- News
 
 ---
 I’d once heard second-hand information that Dax King, Commons’ former points-man, drives a monster truck. “I followed him home one day, and he was driving a monster truck!” the source assured my friend. Aside from the cartoonish image of a man driving a behemoth with wheels as tall as he himself, the story—factual or not—speaks to the admiration and mythology enveloping the real man. At Commons, where an employee can suddenly shock all of us with a glamorous and fascinating life operating layers beneath the surface of what we see daily (case-in-point: Twinka Thiebauld), Dax had a special reputation. Though there are no lives-of-famous-persons books or tell-all memoirs to his name—I checked—we remember him for his quick swiping hand, his unsurpassed efficiency, and his rallying cry.

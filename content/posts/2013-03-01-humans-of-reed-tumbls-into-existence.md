@@ -1,13 +1,13 @@
 ---
 title: Humans of Reed Tumbls into Existence
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-03-01T22:45:19+00:00
-url: /2013/03/01/humans-of-reed-tumbls-into-existence/
+date: 2013-03-01 22:45:19 +0000
+url: "/2013/03/01/humans-of-reed-tumbls-into-existence/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 A new Tumblr blog materialized this semester with the mission of cataloguing an eclectic community of individuals: [Humans of Reed][1], run by freshman Eren Veziroglu and inspired by the Tumblr blog [Humans of New York][2], features portraits of students, along with a unique bit of personal insight and their responses to, “Why Reed?”

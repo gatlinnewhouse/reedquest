@@ -1,17 +1,17 @@
 ---
 title: 'Subgenre of the Week: “Disney Shit”'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-14T19:07:16+00:00
-url: /2011/04/14/subgenre-of-the-week-disney-shit/
+date: 2011-04-14 19:07:16 +0000
+url: "/2011/04/14/subgenre-of-the-week-disney-shit/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - friday
-  - music
-  - rebecca black
-  - subgenre
+- friday
+- music
+- rebecca black
+- subgenre
 
 ---
 This week’s subby is a quicky but goodie.

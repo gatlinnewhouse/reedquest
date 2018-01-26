@@ -1,17 +1,17 @@
 ---
 title: New Semester Brings Shift in AOD Enforcement
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-22T19:16:10+00:00
-url: /2010/09/22/new-semester-brings-shift-in-aod-enforcement/
+date: 2010-09-22 19:16:10 +0000
+url: "/2010/09/22/new-semester-brings-shift-in-aod-enforcement/"
 categories:
-  - News
+- News
 tags:
-  - alcohol
-  - community safety
-  - drugs
-  - policy
+- alcohol
+- community safety
+- drugs
+- policy
 
 ---
 The beginning of the semester has seen changes to the enforcement of Alcohol and Other Drugs (AOD) Policy on campus. As a result many students have expressed uncertainty regarding the policy and its enforcement, causing rampant speculation.

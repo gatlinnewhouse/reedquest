@@ -1,14 +1,14 @@
 ---
 title: 'Sweet and Sour: Queditorial Mixology'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-02-25T22:29:32+00:00
-url: /2011/02/25/sweet-and-sour-queditorial-mixology/
+date: 2011-02-25 22:29:32 +0000
+url: "/2011/02/25/sweet-and-sour-queditorial-mixology/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - queditorial
+- queditorial
 
 ---
 This past Saturday, your hard-working Queditors got together to plan this week’s issue. And to help, um, lubricate the weekend’s collaboration, we introduced a cocktail shaker into our efforts to create the Quest. A few tumblers (and several Cher hits) later, we found ourselves having mapped out a pretty solid paper. So in this spirit, of, well, spirits (har har), we bring you our ideal deadline drinks: cocktails that make deadline oh-duh-so-easy because they go down easy.

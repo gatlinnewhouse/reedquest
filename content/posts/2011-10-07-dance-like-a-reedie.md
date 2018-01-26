@@ -1,13 +1,13 @@
 ---
 title: Dance Like a Reedie
-authors: 
-  - "Kiri Strack-Grose"
+authors:
+- Kiri Strack-Grose
 type: post
-date: 2011-10-07T20:30:01+00:00
-url: /2011/10/07/dance-like-a-reedie/
+date: 2011-10-07 20:30:01 +0000
+url: "/2011/10/07/dance-like-a-reedie/"
 categories:
-  - Infotainment
-  - News
+- Infotainment
+- News
 
 ---
 A blues dancing epidemic has emerged on campus. There are Reedies dancing in Winch, in the SU, in Commons… anywhere there’s a flat surface. These dancers were infected at the Thursday night P.E. class titled “Lindy-Hop and Jazz Dance,” currently taught by Kayce Spear ‘03 and Jae Wilson. The class is a combination of faux threats, faux sexual advances and real dancing. In the two years it has been offered, it has created a pathological need to dance. It encourages students to dance anywhere and everywhere. Mica Peacock, ‘13, has succumbed to the illness. “Once you get in the habit of listening to music with your entire body you dance everywhere,” she said.

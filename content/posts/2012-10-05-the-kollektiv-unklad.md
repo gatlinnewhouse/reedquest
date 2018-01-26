@@ -1,13 +1,13 @@
 ---
 title: The Kollektiv Unklad
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2012-10-05T19:10:23+00:00
-url: /2012/10/05/the-kollektiv-unklad/
+date: 2012-10-05 19:10:23 +0000
+url: "/2012/10/05/the-kollektiv-unklad/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Many young buttocks were displayed last week as freshmen streaked through campus, chanting the celebrated phrase, “We have no names, we’re part of the kollektiv!” Last Thursday night, RKSK initiated the freshmen, as it always does, with a lesson in group solidarity.

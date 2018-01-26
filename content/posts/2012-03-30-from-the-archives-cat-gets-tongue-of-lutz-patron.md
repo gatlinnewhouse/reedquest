@@ -1,15 +1,15 @@
 ---
 title: 'From the Archives: Cat Gets Tongue of Lutz Patron'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-03-30T22:10:03+00:00
-url: /2012/03/30/from-the-archives-cat-gets-tongue-of-lutz-patron/
+date: 2012-03-30 22:10:03 +0000
+url: "/2012/03/30/from-the-archives-cat-gets-tongue-of-lutz-patron/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 tags:
-  - lutz
+- lutz
 
 ---
 _[Editor&#8217;s Note: This story ran on the front page of_ The Quest _on November 8, 1994 and was written by Adam Warner.]_

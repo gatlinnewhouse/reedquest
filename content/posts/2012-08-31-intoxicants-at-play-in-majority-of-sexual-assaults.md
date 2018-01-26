@@ -1,13 +1,13 @@
 ---
 title: Intoxicants at Play in Majority of Sexual Assaults
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-08-31T17:00:35+00:00
-url: /2012/08/31/intoxicants-at-play-in-majority-of-sexual-assaults/
+date: 2012-08-31 17:00:35 +0000
+url: "/2012/08/31/intoxicants-at-play-in-majority-of-sexual-assaults/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Alcohol or other intoxicants were involved in at least 70% of cases of sexual assault reported in the 2010-11 and 2011-12 school years, according to information collected by Community Safety. In a further 17% of cases, it was reported “unknown” whether intoxicants were involved.

@@ -1,13 +1,13 @@
 ---
 title: Captured! Doyle Owl Changes Hands, Four Injured In Struggle
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-11-12T03:24:23+00:00
-url: /2011/11/11/captured-doyle-owl-changes-hands-four-injured-in-struggle/
+date: 2011-11-12 03:24:23 +0000
+url: "/2011/11/11/captured-doyle-owl-changes-hands-four-injured-in-struggle/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The Doyle Owl has new owners. After a long fight Saturday night, the Owl was eventually taken by a team made up of various members of Frisbee and PIG dorm. A high-speed chase ensued. According to one student involved in the chase, a silver mid-2000&#8217;s Honda CRV had the owl in it, three cars pursued that car, then the owl car was joined by a blue Honda Civic as backup in the event of a confrontation. The Owl was carried towards Mount Hood. The chasers had to give up around 2:00 AM when the road became too icy for them to continue. Wherever the Owl has been taken, it will remain there until the owners decide to bring it back out, or it is stolen in the dead of night.

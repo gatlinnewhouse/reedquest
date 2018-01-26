@@ -1,13 +1,13 @@
 ---
 title: 'Some Student Groups Suffer From Funding Poll Glitch: Senate will “let it ride”'
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2011-09-29T03:20:02+00:00
-url: /2011/09/28/some-student-groups-suffer-from-funding-poll-glitch-senate-will-let-it-ride/
+date: 2011-09-29 03:20:02 +0000
+url: "/2011/09/28/some-student-groups-suffer-from-funding-poll-glitch-senate-will-let-it-ride/"
 categories:
-  - News
-  - Senate
+- News
+- Senate
 
 ---
 Mysterious technical problems in the Student Information Network (SIN) caused a number of student organizations to disappear from Funding Poll last week.  Affected organizations were re-added to Funding Poll by the SIN administrators, but only after many students had already voted. After discussing the issue with several signators and other observers on Wednesday the 7<sup>th</sup>, Senate decided not to rerun Funding Poll.

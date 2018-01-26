@@ -1,16 +1,16 @@
 ---
 title: Senate Receives Wage Recommendations
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2012-04-13T21:20:19+00:00
-url: /2012/04/13/senate-receives-wage-recommendations/
+date: 2012-04-13 21:20:19 +0000
+url: "/2012/04/13/senate-receives-wage-recommendations/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - senate
-  - wages
+- senate
+- wages
 
 ---
 The Student Body Wage Review Board presented its recommendations to Senate on Thursday, April 5. The set of recommendations is “moderate” according to Senator Shabab Mirza, who worked on the SBWRB before being elected to Senate, since it would only cost the student body $1,741 per semester. Many positions would receive a raise under the recommendations, as seen in the table below, but several would receive significant pay cuts, including all three treasurers and the Senate Secretary.

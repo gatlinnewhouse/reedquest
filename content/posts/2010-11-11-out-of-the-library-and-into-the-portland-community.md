@@ -1,18 +1,18 @@
 ---
 title: Out of the Library and Into the Portland Community
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-11T18:55:27+00:00
+date: 2010-11-11 18:55:27 +0000
 excerpt: |
   |
     <p>A bell shakes the air, ushering stampedes of small children out of their  classrooms and down the hallway. A handful congregate near the school’s  front entrance, by six Reed students. “What were you for Halloween?”</p>
-url: /2010/11/11/out-of-the-library-and-into-the-portland-community/
+url: "/2010/11/11/out-of-the-library-and-into-the-portland-community/"
 categories:
-  - Features
+- Features
 tags:
-  - activism
-  - portland
+- activism
+- portland
 
 ---
 _</p> 

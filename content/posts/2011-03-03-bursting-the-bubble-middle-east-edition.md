@@ -1,17 +1,17 @@
 ---
 title: 'Bursting the Bubble: Middle East Edition'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-03-03T20:30:49+00:00
+date: 2011-03-03 20:30:49 +0000
 excerpt: |
   |
     <p>Protesters have taken over much of the eastern Libya in a set of bloody   riots and demonstrations. Gaddafi, who has ruled for 41 years, has used   helicopter gunships, fighter jets and mercenaries to keep the  protesters  at bay.</p>
-url: /2011/03/03/bursting-the-bubble-middle-east-edition/
+url: "/2011/03/03/bursting-the-bubble-middle-east-edition/"
 categories:
-  - News
+- News
 tags:
-  - bursting the bubble
+- bursting the bubble
 
 ---
 **Libya**

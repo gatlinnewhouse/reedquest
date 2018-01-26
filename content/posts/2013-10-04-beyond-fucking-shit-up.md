@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Beyond “Fucking Shit Up”'
-authors: 
-  - "Paul Messick"
+authors:
+- Paul Messick
 type: post
-date: 2013-10-05T00:37:20+00:00
-url: /2013/10/04/beyond-fucking-shit-up/
+date: 2013-10-05 00:37:20 +0000
+url: "/2013/10/04/beyond-fucking-shit-up/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 At Nü Reed, self-reliance is no longer the defining characteristic of the Reed experience outside the classroom. Nü Reed is certainly a friendlier, more forgiving place than Olde Reed, but there is also a vague feeling that something has been lost, that Reed isn’t quite the _college of distinction_ it once was. Reed has not lost something so much as forgotten it. In its transition from a rebellious pressure-cooker to a respectable institution of higher learning Reed has forgotten the value of self-reliance. Because student body autonomy is so tightly intertwined with principled self-reliance (in some ways, the former is the expression of the latter), the disremembering of self-reliance endangers student body autonomy. In this Nü era, the maintenance of student body autonomy is dependent upon us opposing the administration by acting responsibly while creatively subverting attempts to expand the administration’s sphere of influence. In other words, maintaining our autonomy is dependent upon both playing the liability game, and fucking shit up.

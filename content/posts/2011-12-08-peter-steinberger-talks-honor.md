@@ -1,17 +1,17 @@
 ---
 title: Peter Steinberger Talks Honor
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2011-12-08T08:00:04+00:00
-url: /2011/12/08/peter-steinberger-talks-honor/
+date: 2011-12-08 08:00:04 +0000
+url: "/2011/12/08/peter-steinberger-talks-honor/"
 categories:
-  - News
+- News
 tags:
-  - honor
-  - honor principle
-  - julia selker
-  - peter steinberger
+- honor
+- honor principle
+- julia selker
+- peter steinberger
 
 ---
 Peter Steinberger discussed his understanding of the Honor Principle last Wednesday as part of a series of talks sponsored by the Honor Council. Steinberger’s grim phrasing gave the discussion an absolutist flavor that is often absent in discussions about the Honor Principle. He was comfortable defining the Honor Principle, which some consider too subjective for definition. But Steinberger also asserted that the questions of whether Reed should have an Honor Principle and how it should be applied were both too subjective for analysis.

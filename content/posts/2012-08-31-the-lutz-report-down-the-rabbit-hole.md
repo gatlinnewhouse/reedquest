@@ -1,12 +1,12 @@
 ---
 title: 'The Lutz Report: Down the Rabbit Hole'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-08-31T17:00:09+00:00
-url: /2012/08/31/the-lutz-report-down-the-rabbit-hole/
+date: 2012-08-31 17:00:09 +0000
+url: "/2012/08/31/the-lutz-report-down-the-rabbit-hole/"
 categories:
-  - The Lutz Report
+- The Lutz Report
 
 ---
 <a href="http://www.reedquest.org/2012/01/the-lutz-report/lutz-report/" rel="attachment wp-att-1186"><img class="alignright size-medium wp-image-1186" title="Lutz Report" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/01/Lutz-Report-300x121.jpg?resize=300%2C121" alt="" data-recalc-dims="1" /></a>There’s nowhere to go but down. The surface is empty and exhausted (épuisé). On top of that, your compatriots ask you nicely to leave. So you DIIIIIiiiiiiivvvvvvvvveee.

@@ -1,12 +1,12 @@
 ---
 title: A Letter from Your Queditors
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:23:59+00:00
-url: /2010/10/14/a-letter-from-your-queditors/
+date: 2010-10-14 18:23:59 +0000
+url: "/2010/10/14/a-letter-from-your-queditors/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 In a lovely reminder of the bad blood from the beginning of the semester, we’ve received a pile of criticism as of late. Most of it, unfortunately, has attacked our newspaper anonymously and not been constructive. If you have problems with the product we are publishing, please come talk to us instead of sending harsh anonymous e-mails and requesting that Senate withhold our funds.

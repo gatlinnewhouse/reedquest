@@ -1,12 +1,12 @@
 ---
 title: Bursting the Bubble
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:42:45+00:00
-url: /2011/04/28/bursting-the-bubble-8/
+date: 2011-04-28 18:42:45 +0000
+url: "/2011/04/28/bursting-the-bubble-8/"
 categories:
-  - News
+- News
 
 ---
 **Statue of Turkey-Armenia Friendship Being Demolished**

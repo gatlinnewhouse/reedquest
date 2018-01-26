@@ -1,13 +1,13 @@
 ---
 title: Portland Opera Presents an Untamed Tosca
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2013-02-07T04:00:56+00:00
-url: /2013/02/06/portland-opera-presents-an-untamed-tosca/
+date: 2013-02-07 04:00:56 +0000
+url: "/2013/02/06/portland-opera-presents-an-untamed-tosca/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 _Tosca_ plays at Keller Auditorium on Saturday, February 9<sup>th</sup> at 7:30 pm. Student rush tickets are available 1 hour before the show for $10 with ID.

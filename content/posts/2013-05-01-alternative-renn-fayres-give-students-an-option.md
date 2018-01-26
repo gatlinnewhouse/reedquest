@@ -1,13 +1,13 @@
 ---
 title: Alternative Renn Fayres Give Students an Option
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-05-02T01:05:37+00:00
-url: /2013/05/01/alternative-renn-fayres-give-students-an-option/
+date: 2013-05-02 01:05:37 +0000
+url: "/2013/05/01/alternative-renn-fayres-give-students-an-option/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Renn Fayre is nearly upon us, and while this may cause many to vibrate with excitement, the chaos of Renn Fayre is not something that might appeal to every person on campus. In order to better accommodate these students, the Office for Institutional Diversity and Student Services is offering up a couple of options for Alternative Renn Fayres that students can take part in.

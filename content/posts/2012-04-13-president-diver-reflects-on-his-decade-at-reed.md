@@ -1,16 +1,16 @@
 ---
 title: President Diver Reflects on His Decade at Reed
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2012-04-13T21:36:30+00:00
-url: /2012/04/13/president-diver-reflects-on-his-decade-at-reed/
+date: 2012-04-13 21:36:30 +0000
+url: "/2012/04/13/president-diver-reflects-on-his-decade-at-reed/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - Colin Diver
-  - president
+- Colin Diver
+- president
 
 ---
 <a href="http://www.reedquest.org/2012/04/president-diver-reflects-on-his-decade-at-reed/colindiver-2/" rel="attachment wp-att-1497"><img class="alignnone size-full wp-image-1497" title="President Diver" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/04/ColinDiver.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

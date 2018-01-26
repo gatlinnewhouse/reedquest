@@ -1,12 +1,12 @@
 ---
 title: Missed Connections
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:42:53+00:00
-url: /2010/09/08/missed-connections/
+date: 2010-09-08 04:42:53 +0000
+url: "/2010/09/08/missed-connections/"
 categories:
-  - Uncategorized
+- Uncategorized
 
 ---
 1. Tall dude working in Paradox around 4. Akira shirt. Super cute. I liked ur smile. My lips have been vacant for 2 long. Get at me on facebook <3

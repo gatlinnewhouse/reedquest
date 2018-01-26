@@ -1,14 +1,14 @@
 ---
 title: 'Byzantine Story Told in Tongues: Horror or Her Mirror Reviewed'
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2011-03-03T20:14:41+00:00
-url: /2011/03/03/byzantine-story-told-in-tongues-horror-or-her-mirror-reviewed/
+date: 2011-03-03 20:14:41 +0000
+url: "/2011/03/03/byzantine-story-told-in-tongues-horror-or-her-mirror-reviewed/"
 categories:
-  - Features
+- Features
 tags:
-  - theatre
+- theatre
 
 ---
 Her face covered in a black hood, a woman in military fatigues speaks at the urging of the devil at her side. As she tells us the set description of Ibsen’s Hedda Gabler, light tosses the image of a dead woman on dual screens built into the set. She is played by the same actress as the hooded figure, and killed herself onscreen only minutes before; she will do so again on stage before the night is through. As she bleeds three masked figures stuff what look to be dollar bills into her mouth.

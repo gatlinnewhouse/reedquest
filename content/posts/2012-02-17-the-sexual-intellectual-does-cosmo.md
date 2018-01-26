@@ -1,13 +1,13 @@
 ---
 title: The Sexual Intellectual Does Cosmo
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2012-02-18T04:47:51+00:00
-url: /2012/02/17/the-sexual-intellectual-does-cosmo/
+date: 2012-02-18 04:47:51 +0000
+url: "/2012/02/17/the-sexual-intellectual-does-cosmo/"
 categories:
-  - Left Sidebar
-  - The Sexual Intellectual
+- Left Sidebar
+- The Sexual Intellectual
 
 ---
 _ Trigger Warning: rampant sexism/heteronormativism_

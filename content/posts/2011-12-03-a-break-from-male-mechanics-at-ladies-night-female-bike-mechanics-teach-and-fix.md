@@ -1,18 +1,18 @@
 ---
 title: A Break From Male Mechanics
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2011-12-03T22:14:15+00:00
-url: /2011/12/03/a-break-from-male-mechanics-at-ladies-night-female-bike-mechanics-teach-and-fix/
+date: 2011-12-03 22:14:15 +0000
+url: "/2011/12/03/a-break-from-male-mechanics-at-ladies-night-female-bike-mechanics-teach-and-fix/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - bike coop
-  - marie perez
-  - reed college
-  - sasha peters
+- bike coop
+- marie perez
+- reed college
+- sasha peters
 
 ---
 <div id="attachment_1048" style="width: 209px" class="wp-caption alignright">

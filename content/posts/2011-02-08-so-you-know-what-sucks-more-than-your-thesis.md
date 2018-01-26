@@ -1,18 +1,18 @@
 ---
-title: “So you know what sucks more than your thesis?”
-authors: 
-  - Staff
+title: "“So you know what sucks more than your thesis?”"
+authors:
+- Staff
 type: post
-date: 2011-02-08T20:11:49+00:00
+date: 2011-02-08 20:11:49 +0000
 excerpt: |
   |
     <p>Dear Reedie,</p>
     <p>Two weeks after I graduated from Reed I drove over 2,000 miles to the Mississippi Delta to teach 6th grade science for Teach for America. Unless you have been trapped in the bubble for the past few years, you have probably heard of TFA.</p>
-url: /2011/02/08/so-you-know-what-sucks-more-than-your-thesis/
+url: "/2011/02/08/so-you-know-what-sucks-more-than-your-thesis/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - teach for america
+- teach for america
 
 ---
 _A Letter from a Reed Alumnae_

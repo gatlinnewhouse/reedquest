@@ -1,20 +1,20 @@
 ---
 title: 'Sexy Desperate Senior:  Jamie Perkins'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-14T21:20:37+00:00
+date: 2010-09-14 21:20:37 +0000
 excerpt: |
   |
     <p>Major:<br />
     Sociology</p>
     <p>Favorite edible treat:<br />
     Cadbury Creme Eggs, watermelon, Pix macarons. I’m also easily won over with Diet Coke.</p>
-url: /2010/09/14/sexy-desperate-senior-jamie-perkins/
+url: "/2010/09/14/sexy-desperate-senior-jamie-perkins/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - sexy desperate senior
+- sexy desperate senior
 
 ---
 <div id="attachment_248" style="width: 262px" class="wp-caption alignright">

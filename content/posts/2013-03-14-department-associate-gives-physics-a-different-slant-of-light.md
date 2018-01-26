@@ -1,13 +1,13 @@
 ---
 title: Department Associate Gives Physics A Different Slant of Light
-authors: 
-  - "Michael Song"
+authors:
+- Michael Song
 type: post
-date: 2013-03-14T08:30:17+00:00
-url: /2013/03/14/department-associate-gives-physics-a-different-slant-of-light/
+date: 2013-03-14 08:30:17 +0000
+url: "/2013/03/14/department-associate-gives-physics-a-different-slant-of-light/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2162" alt="Jay Ewing" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2013/03/jay-ewing_web.jpg?resize=770%2C513" data-recalc-dims="1" />][1]

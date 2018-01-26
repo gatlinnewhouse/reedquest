@@ -1,13 +1,13 @@
 ---
 title: SU Piano – The Piano Technician’s Verdict
-authors: 
-  - "Denise VanLeuven"
+authors:
+- Denise VanLeuven
 type: post
-date: 2013-10-05T01:08:10+00:00
-url: /2013/10/04/su-piano-the-piano-technicians-verdict/
+date: 2013-10-05 01:08:10 +0000
+url: "/2013/10/04/su-piano-the-piano-technicians-verdict/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 Yesterday I took our piano technician over to the Student Union to assess the damage to the piano.  Although I had previously taken a look at the damage, my heart broke again when I comprehended the brute force it took to destroy the instrument, and yes, it is destroyed…beyond repair.

@@ -1,12 +1,12 @@
 ---
 title: Two Seniors Say, “Thanks!”
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:32:10+00:00
-url: /2011/04/28/two-seniors-say-thanks/
+date: 2011-04-28 18:32:10 +0000
+url: "/2011/04/28/two-seniors-say-thanks/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 We’re seniors now, mostly meeting outside the library in breaks from thesis. Between mutual progress reports and various thesis grumblings, we’ve been taking stock of our experiences and remembering the last four years. Reed seems recently more vivid, now that we’re about to leave. So many instances stand out as worth sharing, in the semi-detachment of premature nostalgia, and we have a full-bodied wonder at the place itself. Reed is amazing. We’ve discussed how the education we received here was incredible; we’re also blown over with gratitude for the overall experience as it affected our lives here. On leaving, we want to express our appreciation for this unique place. Not just for the faculty—incredible teachers and academic mentors—but also for the staff here at Reed.

@@ -1,13 +1,13 @@
 ---
 title: Icarus Project brings “Crazies” Together for a Common Cause
-authors: 
-  - "Elizabeth Crisman"
+authors:
+- Elizabeth Crisman
 type: post
-date: 2011-10-20T03:38:44+00:00
-url: /2011/10/19/icarus-project-brings-crazies-together-for-a-common-cause/
+date: 2011-10-20 03:38:44 +0000
+url: "/2011/10/19/icarus-project-brings-crazies-together-for-a-common-cause/"
 categories:
-  - Features
-  - News
+- Features
+- News
 
 ---
 There’s one topic nobody, not even Reedies, likes to talk about: mental illness. The Reed Icarus Project is out to change that.

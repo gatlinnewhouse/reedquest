@@ -1,13 +1,13 @@
 ---
 title: Senior Debunks Reed Myths
-authors: 
-  - "Alan Montecillo"
+authors:
+- Alan Montecillo
 type: post
-date: 2012-08-31T16:59:05+00:00
-url: /2012/08/31/senior-debunks-reed-myths/
+date: 2012-08-31 16:59:05 +0000
+url: "/2012/08/31/senior-debunks-reed-myths/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Dear New Reedies,

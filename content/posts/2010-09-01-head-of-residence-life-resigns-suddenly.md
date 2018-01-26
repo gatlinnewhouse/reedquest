@@ -1,14 +1,14 @@
 ---
 title: Head of Residence Life Resigns Suddenly
-authors: 
-  - "Katy Joseph"
+authors:
+- Katy Joseph
 type: post
-date: 2010-09-01T02:38:09+00:00
-url: /2010/09/01/head-of-residence-life-resigns-suddenly/
+date: 2010-09-01 02:38:09 +0000
+url: "/2010/09/01/head-of-residence-life-resigns-suddenly/"
 categories:
-  - News
+- News
 tags:
-  - residence life
+- residence life
 
 ---
 In a surprise announcement on Friday morning, Assistant Dean of Residence Life Serilda Summers submitted her immediate resignation just as returning students began moving into their dorms for the fall 2010 semester.

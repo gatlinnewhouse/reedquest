@@ -1,20 +1,20 @@
 ---
 title: Blue Like Jazz Crew Shoots on Campus
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-02-08T20:31:41+00:00
+date: 2011-02-08 20:31:41 +0000
 excerpt: |
   |
     <p>The cast and crew of Blue Like Jazz arrived on campus last week to a bittersweet surprise: sun. Saturday was one of Portland’s rare breaks from the winter gloom, a perfect day of blue skies, near-warm weather, and vitamin D. For those of us back from winter break, it was a glorious (if deceptively optimistic) start to the semester. For director Steve Taylor, however, the bright skies came with a dose of irony -- on its first day filming at Reed College, the crew of Blue Like Jazz had to make its own rain.</p>
-url: /2011/02/08/blue-like-jazz-crew-shoots-on-campus/
+url: "/2011/02/08/blue-like-jazz-crew-shoots-on-campus/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - blue like jazz
-  - movie
-  - Reed
+- blue like jazz
+- movie
+- Reed
 
 ---
 The cast and crew of Blue Like Jazz arrived on campus last week to a bittersweet surprise: sun. Saturday was one of Portland’s rare breaks from the winter gloom, a perfect day of blue skies, near-warm weather, and vitamin D. For those of us back from winter break, it was a glorious (if deceptively optimistic) start to the semester. For director Steve Taylor, however, the bright skies came with a dose of irony &#8212; on its first day filming at Reed College, the crew of Blue Like Jazz had to make its own rain.

@@ -1,13 +1,13 @@
 ---
 title: 'Letter: A Defense of Mary Poplin'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-21T21:30:13+00:00
-url: /2012/11/21/letter-a-defense-of-mary-poplin/
+date: 2012-11-21 21:30:13 +0000
+url: "/2012/11/21/letter-a-defense-of-mary-poplin/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 <div>

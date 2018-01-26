@@ -1,16 +1,16 @@
 ---
 title: 'Senate Beat: Honor Class and Renn Fayre Funding'
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2012-04-19T05:27:54+00:00
-url: /2012/04/18/senate-beat-honor-class-and-renn-fayre-funding/
+date: 2012-04-19 05:27:54 +0000
+url: "/2012/04/18/senate-beat-honor-class-and-renn-fayre-funding/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - renn fayre
-  - senate
+- renn fayre
+- senate
 
 ---
 At the start of this week’s Senate meeting, it seemed like the meeting would result in nothing more than a droll presentation of student bureaucracy. This _Quest_ reporter was privileged to be one of four students watching the Senators at work (this is not counting the burner who quickly scurried off as the gavel struck down), but administrators and student life workers buttressed attendance. However, not only did the heat and action rise up in this Senate meeting, but a glimpse into the minds and hearts of several Senators reflected off of the large SU windows on that day.

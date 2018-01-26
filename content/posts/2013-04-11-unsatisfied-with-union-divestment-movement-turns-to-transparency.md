@@ -1,13 +1,13 @@
 ---
 title: Unsatisfied with Union, Divestment Movement Turns to Transparency
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2013-04-11T23:14:19+00:00
-url: /2013/04/11/unsatisfied-with-union-divestment-movement-turns-to-transparency/
+date: 2013-04-11 23:14:19 +0000
+url: "/2013/04/11/unsatisfied-with-union-divestment-movement-turns-to-transparency/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Unsatisfied with last month’s [Reed Union on climate change][1] and denied a list of the college’s investment managers by the Board of Trustees Investment Committee, [Fossil Free Reed][2], Reed’s nascent divestment movement, has set its sights on a new target. Before the group, spearheaded by members of Greenboard and founded as part of [350.org][3]’s national college divestment campaign, can make a strong case for divestment from fossil fuel companies, it needs information. Now, Fossil Free Reed is demanding transparency from the Investment Committee as the first step in its larger campaign to persuade the college to divest the endowment from [200 fossil fuel companies.][4]

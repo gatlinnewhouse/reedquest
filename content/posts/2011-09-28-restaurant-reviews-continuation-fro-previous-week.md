@@ -1,12 +1,12 @@
 ---
 title: Restaurant Reviews (Continuation fro Previous Week)
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2011-09-28T22:47:27+00:00
-url: /2011/09/28/restaurant-reviews-continuation-fro-previous-week/
+date: 2011-09-28 22:47:27 +0000
+url: "/2011/09/28/restaurant-reviews-continuation-fro-previous-week/"
 categories:
-  - Infotainment
+- Infotainment
 
 ---
 Continued from last week&#8217;s edition, here are a few more Southeast-area restaurants for you to check out.

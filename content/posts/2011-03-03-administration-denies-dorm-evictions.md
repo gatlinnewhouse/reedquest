@@ -1,14 +1,14 @@
 ---
 title: Administration Denies Dorm Evictions
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-03-03T20:37:54+00:00
-url: /2011/03/03/administration-denies-dorm-evictions/
+date: 2011-03-03 20:37:54 +0000
+url: "/2011/03/03/administration-denies-dorm-evictions/"
 categories:
-  - News
+- News
 tags:
-  - aod
+- aod
 
 ---
 Rumors that students have been evicted from their Reed dorms or apartments due to Alcohol and Other Drug (AOD) policy violations have been circulating campus this week. According to Mike Brody, Vice President and Dean of Student Services, there is no truth to these rumors at all.

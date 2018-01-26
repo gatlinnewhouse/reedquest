@@ -1,13 +1,13 @@
 ---
 title: 'Eileen Myles: Laughter and Short Poems'
-authors: 
-    - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-04-11T22:47:18+00:00
-url: /2013/04/11/eileen-myles-laughter-and-short-poems/
+date: 2013-04-11 22:47:18 +0000
+url: "/2013/04/11/eileen-myles-laughter-and-short-poems/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2236" alt="Eileen Myles" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/04/R1026118_web.png?resize=770%2C513" data-recalc-dims="1" />][1]

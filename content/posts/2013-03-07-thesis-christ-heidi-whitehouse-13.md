@@ -1,14 +1,20 @@
 ---
 title: 'Thesis Christ: Heidi Whitehouse ‘13'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-03-07T23:01:36+00:00
-excerpt: In the Congo in the time of King Leopold II, Belgian colonists and companies brutally exploited indigenous Congolese peoples in the name of “civilization.” Such is the premise of Joseph Conrad’s Heart of Darkness, a Victorian-era novella that is touted in academic circles as a scathing criticism of racist imperialists. But with her thesis, Heidi Whitehouse ’13 points out that Conrad’s novella may not be as anti-racist as academics are prone to believe—and that, in fact, Conrad’s language bolsters the racist language of the Victorian Era.
-url: /2013/03/07/thesis-christ-heidi-whitehouse-13/
+date: 2013-03-07 23:01:36 +0000
+excerpt: In the Congo in the time of King Leopold II, Belgian colonists and companies
+  brutally exploited indigenous Congolese peoples in the name of “civilization.” Such
+  is the premise of Joseph Conrad’s Heart of Darkness, a Victorian-era novella that
+  is touted in academic circles as a scathing criticism of racist imperialists. But
+  with her thesis, Heidi Whitehouse ’13 points out that Conrad’s novella may not be
+  as anti-racist as academics are prone to believe—and that, in fact, Conrad’s language
+  bolsters the racist language of the Victorian Era.
+url: "/2013/03/07/thesis-christ-heidi-whitehouse-13/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <p style="text-align: center;">

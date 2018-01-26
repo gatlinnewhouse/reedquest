@@ -1,13 +1,13 @@
 ---
 title: 'Das Racist to Visit Reed: Rap Group Defies Easy Interpretation'
-authors: 
-  - "Lyle Daniel"
+authors:
+- Lyle Daniel
 type: post
-date: 2011-09-28T22:25:04+00:00
-url: /2011/09/28/das-racist-to-visit-reed-rap-group-defies-easy-interpretation/
+date: 2011-09-28 22:25:04 +0000
+url: "/2011/09/28/das-racist-to-visit-reed-rap-group-defies-easy-interpretation/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 On September 9<sup>th</sup>, the controversial art rap group Das Racist (DR) will perform in Kaul Auditorium at 8 P.M as the Multicultural Resource Center’s inaugural event of the year. This enigmatic group inspires questions like “what the hell is this song ‘Combination Pizza Hut and Taco Bell’&#8211; a commentary on American consumerism or a bad joke?” and “does this band want me to dance, to laugh or to join a protest? Can I do all of those things at once?”

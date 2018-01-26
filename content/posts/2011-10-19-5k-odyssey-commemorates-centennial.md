@@ -1,12 +1,12 @@
 ---
 title: 5k Odyssey Commemorates Centennial
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2011-10-20T03:28:21+00:00
-url: /2011/10/19/5k-odyssey-commemorates-centennial/
+date: 2011-10-20 03:28:21 +0000
+url: "/2011/10/19/5k-odyssey-commemorates-centennial/"
 categories:
-  - News
+- News
 
 ---
 Sing to me, muse, of the swift-footed competitors of the Reed 5K Odyssey. When young Dawn with her rose-red fingers shone once more on the idyllic Reed campus Saturday morning, runners and walkers alike came together at Eliot Circle to support local elementary schools. The sky was gray, but dispositions were sunny as participants crowded around the well-staffed registration center to pick up their race bibs. Colin Diver made an appearance at the starting line, wishing racers well before they embarked on their odyssey around the five-kilometer course laid out earlier that morning. Around ten minutes after the race was scheduled to start, a voice atop a scissor lift told runners to congregate at the starting line. As at the start of any odyssey, a great deal of emotion swirled amongst participants. Nerves ran hot, stomachs churned, “Eye of the Tiger” played over the loudspeakers, and runners kissed loved ones goodbye before the air horn sounded, signaling the beginning of the race.

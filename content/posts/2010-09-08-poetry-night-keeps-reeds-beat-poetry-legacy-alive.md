@@ -1,15 +1,15 @@
 ---
 title: Poetry Night Keeps Reed’s Beat Poetry Legacy Alive
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-09-08T04:33:35+00:00
-url: /2010/09/08/poetry-night-keeps-reeds-beat-poetry-legacy-alive/
+date: 2010-09-08 04:33:35 +0000
+url: "/2010/09/08/poetry-night-keeps-reeds-beat-poetry-legacy-alive/"
 categories:
-  - Features
+- Features
 tags:
-  - poetry
-  - poetry night
+- poetry
+- poetry night
 
 ---
 It’s Wednesday night. Cigarette smoke and the sound of snaps fill the air in the SU as students perched on thrift store couches and plastic folding chairs drink in the beer from their bottles and the syncopated rhythms of Reedies reading their poems. This is Dead Beat Reed Poets’ Poetry Night.

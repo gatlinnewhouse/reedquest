@@ -1,13 +1,13 @@
 ---
 title: Inside The Pamphlette
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-03-02T17:23:06+00:00
-url: /2012/03/02/inside-the-pamplette/
+date: 2012-03-02 17:23:06 +0000
+url: "/2012/03/02/inside-the-pamplette/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <p style="text-align: center;">

@@ -1,14 +1,16 @@
 ---
 title: Committee Explores New Ethnic Studies Program
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-12-06T19:46:54+00:00
-excerpt: Ethnic studies is being considered as a new major at Reed. An exploratory committee of faculty members is currently discussing questions such as the structure of the major, hiring new faculty, and cost—among other issues.
-url: /2012/12/06/committee-explores-new-ethnic-studies-program/
+date: 2012-12-06 19:46:54 +0000
+excerpt: Ethnic studies is being considered as a new major at Reed. An exploratory
+  committee of faculty members is currently discussing questions such as the structure
+  of the major, hiring new faculty, and cost—among other issues.
+url: "/2012/12/06/committee-explores-new-ethnic-studies-program/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Ethnic studies is being considered as a new major at Reed. An exploratory committee of faculty members is currently discussing questions such as the structure of the major, hiring new faculty, and cost—among other issues.

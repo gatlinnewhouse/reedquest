@@ -1,12 +1,12 @@
 ---
 title: Portland Opera’s “Marriage of Figaro” Jokes And Muses
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2011-11-12T03:43:07+00:00
-url: /2011/11/11/portland-operas-marriage-of-figaro-jokes-and-muses/
+date: 2011-11-12 03:43:07 +0000
+url: "/2011/11/11/portland-operas-marriage-of-figaro-jokes-and-muses/"
 categories:
-  - News
+- News
 
 ---
 The Portland Opera has begun its 47<sup>th</sup> season with a charming satire. Though this year’s theme (“When Our World Changes”) will be more evident in the rest of the season (Galileo Galilei by Philip Glass should definitely deliver in April), their rendition of Mozart’s _The Marriage of Figaro_ is strikingly successful, in a beautiful, funny way.

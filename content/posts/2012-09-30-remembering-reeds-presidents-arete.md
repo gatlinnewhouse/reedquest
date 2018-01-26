@@ -1,13 +1,13 @@
 ---
 title: Remembering Reed’s Presidents’ Areté
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2012-10-01T04:18:51+00:00
-url: /2012/09/30/remembering-reeds-presidents-arete/
+date: 2012-10-01 04:18:51 +0000
+url: "/2012/09/30/remembering-reeds-presidents-arete/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Muriel Wyatt started Reed College as a freshman in 1943. Her mother attended Reed under William Foster, Reed’s very first president, but dropped out during World War One to get married and attend secretarial school. When Wyatt’s mother moved to Corvallis, Oregon, with her husband and her growing family, President Foster made the trip down to visit his old student. At the time, Reed College could boast no more than three hundred undergraduates. To celebrate the inauguration of our new president, alumni, including Muriel Wyatt, gathered in Eliot on Friday afternoon to hear Cricket Palmaree, class of ’67, recite stories of Reed’s past presidents.

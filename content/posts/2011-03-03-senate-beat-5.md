@@ -1,12 +1,12 @@
 ---
 title: Senate Beat
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-03T20:28:32+00:00
-url: /2011/03/03/senate-beat-5/
+date: 2011-03-03 20:28:32 +0000
+url: "/2011/03/03/senate-beat-5/"
 categories:
-  - Senate
+- Senate
 
 ---
 The meeting started out wet ‘n’ wild: Celia’s bottle of TJ’s sparkling limey water wildly sprayed everywhere, distracting Cori from her notes and the rest of senate from their bidness. Luckily, they had no bidness&#8230; LOLz.

@@ -1,13 +1,13 @@
 ---
 title: Senate Beat and the Sorcerer’s Stone
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-02-13T00:15:18+00:00
-url: /2012/02/12/senate-beat-and-the-sorcerers-stone/
+date: 2012-02-13 00:15:18 +0000
+url: "/2012/02/12/senate-beat-and-the-sorcerers-stone/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 On Thursday Senate discussed next year’s theme dorms, Appointments Committee bylaw changes, free condom availability, approved [the Top 40 budget][1], and allocated funds to Women’s Rugby for an event. Senator Dana Loutey ’12 addressed a proposed gender neutral bathroom in the chemistry building and said that she had sent out an email to chemistry majors regarding the issue.

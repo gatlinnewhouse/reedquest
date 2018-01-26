@@ -1,20 +1,20 @@
 ---
 title: 'Desperate Sexy Senior:  Ethan Knudson'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:22:57+00:00
+date: 2010-09-08 04:22:57 +0000
 excerpt: |
   |
     <p><strong>Is chivalry dead?</strong><br />
     For the most part, and good riddance.</p>
     <p><strong>The Reedie hipster: nature or nurture?</strong><br />
     Clearly nurture. The freshmen would never start wearing skinny jeans and  growing mullets if they didn’t have Todd and Luca to look up to.</p>
-url: /2010/09/08/desperate-sexy-senior-ethan-knudson/
+url: "/2010/09/08/desperate-sexy-senior-ethan-knudson/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - desperate sexy senior
+- desperate sexy senior
 
 ---
 <div id="attachment_186" style="width: 279px" class="wp-caption alignright">

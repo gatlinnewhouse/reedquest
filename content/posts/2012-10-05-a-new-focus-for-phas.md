@@ -1,12 +1,12 @@
 ---
 title: A New Focus for PHAs
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-05T19:29:07+00:00
-url: /2012/10/05/a-new-focus-for-phas/
+date: 2012-10-05 19:29:07 +0000
+url: "/2012/10/05/a-new-focus-for-phas/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 _by Peer Health Advocate Torrey Payne _

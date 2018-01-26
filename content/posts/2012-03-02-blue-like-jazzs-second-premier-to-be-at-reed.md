@@ -1,13 +1,13 @@
 ---
 title: Blue Like Jazz’s Second Premier to be at Reed
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-03-02T23:06:39+00:00
-url: /2012/03/02/blue-like-jazzs-second-premier-to-be-at-reed/
+date: 2012-03-02 23:06:39 +0000
+url: "/2012/03/02/blue-like-jazzs-second-premier-to-be-at-reed/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 _Blue Like Jazz,_ the film adaptation of the New York Times bestseller of the same name, will hold its second public premiere in Kaul auditorium on April 11 after premiering at the South by Southwest film festival on March 13. The book, Christian author Donald Miller&#8217;s semi-autobiographical recount of exploring his spirituality while auditing classes at Reed, was released in 2003 to an enthusiastic reception by Christian audiences, selling over 1.3 million copies. In the adaptation, Don, the 19-year-old protagonist transfers from junior college, and his conservative Southern Baptist church in Houston, to Reed.

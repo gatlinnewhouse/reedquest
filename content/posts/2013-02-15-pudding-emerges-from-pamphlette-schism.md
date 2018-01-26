@@ -1,13 +1,13 @@
 ---
 title: Pudding Emerges from Pamphlette Schism
-authors: 
-  - "Drew Garcia"
+authors:
+- Drew Garcia
 type: post
-date: 2013-02-15T08:01:02+00:00
-url: /2013/02/15/pudding-emerges-from-pamphlette-schism/
+date: 2013-02-15 08:01:02 +0000
+url: "/2013/02/15/pudding-emerges-from-pamphlette-schism/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Mat Olson &#8217;15 and Sean Howard &#8217;13 are excited about the future, and justifiably so: they are planning the publication of _The Pamphlette_&#8216;s first competitor in recent memory. Their paper, called _The Pudding_, is meant to be a humor paper that looks beyond the Reed bubble and reminds Reedies that laughs can be found everywhere. &#8220;We&#8217;re going to deemphasize the need to stay within the context of Reed. The reason for printing an article should be that it&#8217;s funny,&#8221; said Olson of _The Pudding_&#8216;s focus.

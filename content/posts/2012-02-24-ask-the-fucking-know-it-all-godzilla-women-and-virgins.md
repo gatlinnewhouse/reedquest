@@ -1,13 +1,13 @@
 ---
 title: 'Ask The Fucking Know-It-All: Godzilla-Women and Virgins'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2012-02-24T18:55:36+00:00
-url: /2012/02/24/ask-the-fucking-know-it-all-godzilla-women-and-virgins/
+date: 2012-02-24 18:55:36 +0000
+url: "/2012/02/24/ask-the-fucking-know-it-all-godzilla-women-and-virgins/"
 categories:
-  - Front Page
-  - The Sexual Intellectual
+- Front Page
+- The Sexual Intellectual
 
 ---
 **Q:** Hey, Tristan, So my straight male friend, a pretty confident, good-looking guy without really any problem getting girls, came out to me the other day as having a giantess fetish. He loves looking up these photoshopped photos of super tall women walking all over cities like Godzilla or lifting up men in their fingers. I&#8217;ve got no problem with it, I&#8217;m just wondering, what the hell is behind this fetish?  What&#8217;s the deal? Are there other fetishes like this?

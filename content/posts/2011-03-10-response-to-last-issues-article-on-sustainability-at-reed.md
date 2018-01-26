@@ -1,12 +1,12 @@
 ---
 title: Response to Last Issue’s Article on Sustainability at Reed
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-11T01:20:40+00:00
-url: /2011/03/10/response-to-last-issues-article-on-sustainability-at-reed/
+date: 2011-03-11 01:20:40 +0000
+url: "/2011/03/10/response-to-last-issues-article-on-sustainability-at-reed/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 I’ve heard stories about the seniors of 2011 and their impressive persistence in pushing sustainability onto an institution that is hesitant to use solar panels for fear of making too large a political statement.  It is a difficult job indeed. So far this year, no one has interrupted Colin Diver onstage to advocate for a sustainability coordinator.  However, this does not mean that “sustainability is dead” at Reed. I would suppose that as member of both Greenboard and Sustainability Committee and a major in the new Environmental Studies program, I’m in as good a position as anyone to inform the student body of what is being done so far this year, and what we hope to do in the near future.

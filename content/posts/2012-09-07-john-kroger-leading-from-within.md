@@ -1,17 +1,17 @@
 ---
 title: 'John Kroger: Leading from Within'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-09-07T19:38:54+00:00
-url: /2012/09/07/john-kroger-leading-from-within/
+date: 2012-09-07 19:38:54 +0000
+url: "/2012/09/07/john-kroger-leading-from-within/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - john kroger
-  - president
-  - reed college
+- john kroger
+- president
+- reed college
 
 ---
 <a href="http://www.reedquest.org/2012/09/john-kroger-leading-from-within/krogerslider/" rel="attachment wp-att-1569"><img class="alignright size-full wp-image-1569" title="kroger interview" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/09/krogerslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

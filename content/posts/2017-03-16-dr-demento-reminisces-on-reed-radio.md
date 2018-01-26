@@ -1,22 +1,22 @@
 ---
 title: Dr Demento Reminisces on Reed, Radio
-authors: 
-  - "Tyler Adams"
+authors:
+- Tyler Adams
 type: post
-date: 2017-03-16T02:33:35+00:00
-url: /2017/03/16/dr-demento-reminisces-on-reed-radio/
+date: 2017-03-16 02:33:35 +0000
+url: "/2017/03/16/dr-demento-reminisces-on-reed-radio/"
 custom_sidebar:
-  - none
+- none
 polymer_components:
-  - 'a:0:{}'
+- a:0:{}
 categories:
-  - Entertainment
-  - Front Page
+- Entertainment
+- Front Page
 tags:
-  - "Don't Miss"
-  - interview
-  - music
-  - radio
+- Don't Miss
+- interview
+- music
+- radio
 
 ---
 <span style="font-weight: 400;">There are a few events that, here at Reed, we mark our calendars by: Renn Fayre, Spring/Fall, RKSK, and for those of us on campus during Paideia, alum Dr. Demento’s Paideia speeches. After graduating with a degree in music in 1963, Demento has been giving lectures at Paideia for 43 years now, since 1973. This year, his three-night residency spanned Jan 21 to Jan 23 and covered topics such as cultural appropriation in music, Frank Zappa, and the history of punk. </span>

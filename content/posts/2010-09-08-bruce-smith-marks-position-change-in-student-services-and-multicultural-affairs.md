@@ -1,16 +1,16 @@
 ---
 title: Bruce Smith Marks Position Change in Student Services and Multicultural Affairs
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-08T04:44:09+00:00
-url: /2010/09/08/bruce-smith-marks-position-change-in-student-services-and-multicultural-affairs/
+date: 2010-09-08 04:44:09 +0000
+url: "/2010/09/08/bruce-smith-marks-position-change-in-student-services-and-multicultural-affairs/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - MRC
-  - Student Services
+- MRC
+- Student Services
 
 ---
 <div id="attachment_180" style="width: 280px" class="wp-caption alignleft">

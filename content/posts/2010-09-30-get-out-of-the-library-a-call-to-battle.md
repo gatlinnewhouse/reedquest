@@ -1,14 +1,14 @@
 ---
 title: 'Get Out of the Library: A Call to Battle'
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-30T18:03:22+00:00
-url: /2010/09/30/get-out-of-the-library-a-call-to-battle/
+date: 2010-09-30 18:03:22 +0000
+url: "/2010/09/30/get-out-of-the-library-a-call-to-battle/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - rksk
+- rksk
 
 ---
 Last Thursday generated a lot of stories: speeches were given, slogans were chanted, and somewhere along the way naked freshmen crowded into a U-Haul and streaked the Lewis & Clark Library.

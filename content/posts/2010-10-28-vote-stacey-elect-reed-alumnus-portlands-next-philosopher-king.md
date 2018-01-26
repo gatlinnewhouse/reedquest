@@ -1,19 +1,19 @@
 ---
 title: 'Vote Stacey: Elect Reed Alumnus Portland’s Next Philosopher-King'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-28T17:46:55+00:00
+date: 2010-10-28 17:46:55 +0000
 excerpt: |
   |
     <p><strong>Joel Batterman ‘10</strong></p>
     <p>[crackle] Hope you can hear me through this bubble, folks. I’m at the edge of metro Detroit, hollering back some advice on the Oregon ballot you may have in your mailbox.</p>
-url: /2010/10/28/vote-stacey-elect-reed-alumnus-portlands-next-philosopher-king/
+url: "/2010/10/28/vote-stacey-elect-reed-alumnus-portlands-next-philosopher-king/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - politics
-  - portland
+- politics
+- portland
 
 ---
 **Joel Batterman ‘10**

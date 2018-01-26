@@ -1,13 +1,13 @@
 ---
 title: Activists Prepare to Occupy Portland
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2011-10-13T22:22:21+00:00
-url: /2011/10/13/activists-prepare-to-occupy-portland/
+date: 2011-10-13 22:22:21 +0000
+url: "/2011/10/13/activists-prepare-to-occupy-portland/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 In solidarity with the “Occupy Wall Street” protests taking place in New York City, citizens of Portland will be holding a “Occupy Portland” protest. At noon today (Thursday the 6<sup>th</sup>), those assembled will march from Tom McCall Park at 1020 SW Naito Parkway to Pioneer Square, then back to the Waterfront, which they plan to occupy as long as they can.

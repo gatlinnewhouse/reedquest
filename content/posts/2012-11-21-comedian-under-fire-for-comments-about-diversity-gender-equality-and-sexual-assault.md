@@ -1,17 +1,20 @@
 ---
 title: Comedian Under Fire for “misogynistic, racist, and homophobic” Comments
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-11-21T21:29:56+00:00
-excerpt: |
-  Controversy roiled Saturday at a stand-up comedy show in the Student Union. During the set of comedian Sal Rodriguez, a student took the stage and grabbed the microphone from Rodriguez to criticize him for what she called his “blatantly misogynistic, racist, and homophobic” performance. 
-  
-  Debate has continued since the event, with a discussion and support group hosted by the Feminist Student Union on Monday, and discussion of a possible honor case against Rodriguez. Rodriguez, for his part, said via email, “I apologize for nothing.”
-url: /2012/11/21/comedian-under-fire-for-comments-about-diversity-gender-equality-and-sexual-assault/
+date: 2012-11-21 21:29:56 +0000
+excerpt: "Controversy roiled Saturday at a stand-up comedy show in the Student Union.
+  During the set of comedian Sal Rodriguez, a student took the stage and grabbed the
+  microphone from Rodriguez to criticize him for what she called his “blatantly misogynistic,
+  racist, and homophobic” performance. \n\nDebate has continued since the event, with
+  a discussion and support group hosted by the Feminist Student Union on Monday, and
+  discussion of a possible honor case against Rodriguez. Rodriguez, for his part,
+  said via email, “I apologize for nothing.”\n"
+url: "/2012/11/21/comedian-under-fire-for-comments-about-diversity-gender-equality-and-sexual-assault/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <p style="text-align: center;">

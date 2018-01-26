@@ -1,17 +1,21 @@
 ---
 title: Reed Sees More Post-Docs in Past Two Years
-authors: 
-  - "Michael Song"
+authors:
+- Michael Song
 type: post
-date: 2013-03-14T08:31:02+00:00
-excerpt: |
-  The number of post-docs in Biology, Phycology, and Chemistry at Reed increased over the past two years, but their presence remains largely unnoticed. There are currently four post-docs, and one more is expected to arrive by April.  
-  
-  At Reed, Post-docs act as liaisons between students and facility, especially in the realms of research. In contrast, post-docs in research universities primarily deal with pursuing their own research to develop skills needed for their profession. While at Reed, the post-doc experience is non-traditional, as greater interaction with undergrads creates a mentor-mentee relationship.
-url: /2013/03/14/reed-sees-more-post-docs-in-past-two-years/
+date: 2013-03-14 08:31:02 +0000
+excerpt: "The number of post-docs in Biology, Phycology, and Chemistry at Reed increased
+  over the past two years, but their presence remains largely unnoticed. There are
+  currently four post-docs, and one more is expected to arrive by April.  \n\nAt Reed,
+  Post-docs act as liaisons between students and facility, especially in the realms
+  of research. In contrast, post-docs in research universities primarily deal with
+  pursuing their own research to develop skills needed for their profession. While
+  at Reed, the post-doc experience is non-traditional, as greater interaction with
+  undergrads creates a mentor-mentee relationship.\n"
+url: "/2013/03/14/reed-sees-more-post-docs-in-past-two-years/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 <p style="text-align: center;">

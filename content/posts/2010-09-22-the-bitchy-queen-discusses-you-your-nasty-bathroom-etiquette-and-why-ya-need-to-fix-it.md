@@ -1,12 +1,13 @@
 ---
-title: 'The Bitchy Queen Discusses You,  Your Nasty Bathroom Etiquette, and Why Ya’ Need to Fix It'
-authors: 
-  - Staff
+title: The Bitchy Queen Discusses You,  Your Nasty Bathroom Etiquette, and Why Ya’
+  Need to Fix It
+authors:
+- Staff
 type: post
-date: 2010-09-22T18:14:47+00:00
-url: /2010/09/22/the-bitchy-queen-discusses-you-your-nasty-bathroom-etiquette-and-why-ya-need-to-fix-it/
+date: 2010-09-22 18:14:47 +0000
+url: "/2010/09/22/the-bitchy-queen-discusses-you-your-nasty-bathroom-etiquette-and-why-ya-need-to-fix-it/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 HOLD UP!

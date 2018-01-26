@@ -1,12 +1,12 @@
 ---
 title: Upcoming Events
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-30T18:16:39+00:00
-url: /2010/09/30/upcoming-events/
+date: 2010-09-30 18:16:39 +0000
+url: "/2010/09/30/upcoming-events/"
 categories:
-  - Events
+- Events
 
 ---
 **Make your own patbingsu and learn a dance routine!**

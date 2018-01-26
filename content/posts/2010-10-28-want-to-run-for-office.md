@@ -1,12 +1,12 @@
 ---
 title: Want to Run for Office?
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-28T18:11:37+00:00
-url: /2010/10/28/want-to-run-for-office/
+date: 2010-10-28 18:11:37 +0000
+url: "/2010/10/28/want-to-run-for-office/"
 categories:
-  - Senate
+- Senate
 
 ---
 Beginning on Tuesday, October 25th, petitions will be available for candidates wishing to run in the upcoming election. Open terms beginning in the spring semester include President, Vice President, four year-long Senate seats, and Quest Board. Students may run for multiple positions, but may only hold one. Petitions can also be used to submit recalls, referenda, initiatives, or polls—please consult the bylaws for further information.

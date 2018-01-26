@@ -1,13 +1,13 @@
 ---
 title: Neuroscience Major Approaches Official Status
-authors: 
-  - "Sydney Scarlata"
+authors:
+- Sydney Scarlata
 type: post
-date: 2013-03-29T18:06:00+00:00
-url: /2013/03/29/neuroscience-major-approaches-official-status/
+date: 2013-03-29 18:06:00 +0000
+url: "/2013/03/29/neuroscience-major-approaches-official-status/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 After a year and a half of planning a new neuroscience program at Reed, Initiative organizers Leah Cepko ’15, Psychology Professor Paul Currie believe the major will be official and in the course guide within the next few years. Also involved in the planning of the program is Biology Professor Suzy Renn.

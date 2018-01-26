@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: A Qing Dynasty Social Satire'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-02-03T21:06:49+00:00
-url: /2012/02/03/cool-thesis-of-the-week-a-qing-dynasty-social-satire/
+date: 2012-02-03 21:06:49 +0000
+url: "/2012/02/03/cool-thesis-of-the-week-a-qing-dynasty-social-satire/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

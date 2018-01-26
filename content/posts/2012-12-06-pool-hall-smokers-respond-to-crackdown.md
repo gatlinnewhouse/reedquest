@@ -1,13 +1,13 @@
 ---
 title: Pool Hall Smokers Respond to Crackdown
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-12-06T08:18:02+00:00
-url: /2012/12/06/pool-hall-smokers-respond-to-crackdown/
+date: 2012-12-06 08:18:02 +0000
+url: "/2012/12/06/pool-hall-smokers-respond-to-crackdown/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The nonchalant student playing pool with a cigarette in hand is under threat of becoming an icon of the good olde days. Although Community Safety’s policy has always been that smoking is not allowed indoors—pool hall included—this year, CSO’s have begun to crack down on it.

@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: Reed Activists Face Apathy'
-authors: 
-  - "Jeremy Melloul"
+authors:
+- Jeremy Melloul
 type: post
-date: 2012-02-16T19:36:07+00:00
-url: /2012/02/16/op-ed-reed-activists-face-apathy/
+date: 2012-02-16 19:36:07 +0000
+url: "/2012/02/16/op-ed-reed-activists-face-apathy/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 Last Friday various student groups came together for Love and Rage Part Deux, this semester&#8217;s Activism Fair. Intended to allow members of groups like Blue Heron Infoshop, Greenboard, Feminist Student Unit, and Students for Sensible Drug Policy to get to know each other, the event didn&#8217;t seem too successful.

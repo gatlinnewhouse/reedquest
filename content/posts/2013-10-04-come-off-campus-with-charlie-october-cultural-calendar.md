@@ -1,14 +1,14 @@
 ---
 title: 'Come off Campus with Charlie: October Cultural Calendar'
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-10-05T01:20:38+00:00
-url: /2013/10/04/come-off-campus-with-charlie-october-cultural-calendar/
+date: 2013-10-05 01:20:38 +0000
+url: "/2013/10/04/come-off-campus-with-charlie-october-cultural-calendar/"
 categories:
-  - Events
-  - From the Editors
-  - Left Sidebar
+- Events
+- From the Editors
+- Left Sidebar
 
 ---
 It’s beginning to look a lot like rainy season here at Reed, and you know what that means. Amidst all of this work, you’ll look outside, see the sheets of rain pitter-pattering on your window, and you’ll feel even less like getting out and doing something off-campus. But, let me tell you, October is shaping up to be a great month for movies, music, and books, and you shouldn’t spend all of it cooped up in the library. As such, I’ve taken it upon myself to tell you where I will be going this month, because I’ve been told multiple times that I have great taste in music and movies (this is, ahem, _totally true_), and you should like/go to all the things that I like (I mean, if you want). Anyways, this is where yours truly will be in the month of October. Say hi if you see me there.

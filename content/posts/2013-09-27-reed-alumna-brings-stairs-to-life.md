@@ -1,13 +1,13 @@
 ---
 title: Reed Alumna Brings Stairs to Life
-authors: 
-  - "Jaelin Cola"
+authors:
+- Jaelin Cola
 type: post
-date: 2013-09-27T23:09:59+00:00
-url: /2013/09/27/reed-alumna-brings-stairs-to-life/
+date: 2013-09-27 23:09:59 +0000
+url: "/2013/09/27/reed-alumna-brings-stairs-to-life/"
 categories:
-  - Events
-  - Top Stories
+- Events
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2673" alt="Cover Photo" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2013/09/Cover-Photo.jpg?resize=645%2C430" data-recalc-dims="1" />][1]

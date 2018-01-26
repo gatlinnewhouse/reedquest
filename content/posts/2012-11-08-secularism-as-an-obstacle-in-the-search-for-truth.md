@@ -1,13 +1,13 @@
 ---
 title: Is Secularism an Obstacle in the Search for Truth?
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2012-11-08T09:28:25+00:00
-url: /2012/11/08/secularism-as-an-obstacle-in-the-search-for-truth/
+date: 2012-11-08 09:28:25 +0000
+url: "/2012/11/08/secularism-as-an-obstacle-in-the-search-for-truth/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/11/secularism-as-an-obstacle-in-the-search-for-truth/rimg0004_web/" rel="attachment wp-att-1788"><img class="alignnone size-full wp-image-1788" title="Mary Poplin" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/11/RIMG0004_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,13 +1,14 @@
 ---
-title: 'Senate to Hire Student Sustainability Coordinator: Hopes Administration Will Follow Example'
-authors: 
-  - "Kieran Hanrahan"
+title: 'Senate to Hire Student Sustainability Coordinator: Hopes Administration Will
+  Follow Example'
+authors:
+- Kieran Hanrahan
 type: post
-date: 2013-03-01T22:43:09+00:00
-url: /2013/03/01/senate-to-hire-student-sustainability-coordinator-hopes-administration-will-follow-example/
+date: 2013-03-01 22:43:09 +0000
+url: "/2013/03/01/senate-to-hire-student-sustainability-coordinator-hopes-administration-will-follow-example/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 When it comes to prospies with a passion for sustainability, the Admissions Office has plenty of material for promotional mailings: a $5.4 million energy efficiency contract the college signed last fall, the ecological gem that is the Canyon, and a performing arts building with a green roof on the way.

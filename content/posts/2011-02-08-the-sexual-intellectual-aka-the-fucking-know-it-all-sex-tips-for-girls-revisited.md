@@ -1,16 +1,16 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: Sex Tips for Girls Revisited'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2011-02-08T20:17:01+00:00
-url: /2011/02/08/the-sexual-intellectual-aka-the-fucking-know-it-all-sex-tips-for-girls-revisited/
+date: 2011-02-08 20:17:01 +0000
+url: "/2011/02/08/the-sexual-intellectual-aka-the-fucking-know-it-all-sex-tips-for-girls-revisited/"
 categories:
-  - Features
-  - The Sexual Intellectual
+- Features
+- The Sexual Intellectual
 tags:
-  - sex
-  - sexual intellectual
+- sex
+- sexual intellectual
 
 ---
 This past summer I came across a book entitled “Sex Tips for Girls” in the bargain bin of a vintage store called Smut. The cover sported a pair of fishnetted legs in red heels, enough to capture my attention and interest (as it should any het male). Penned by humorist and journalist Cynthia Heimel (whose name curiously sounds like “hymen”) circa 1985, the tome is a bit dated, but full of useful tidbits for males and females alike. I suggest you glimpse it, if not for informational purposes, then for the many hours giggling uncontrollably you’ll doubtlessly spend while reading it (unless you’re clueless, in which case it’s purely for the former reason). As a sex advice enthusiast, I feel it necessary to share some of Ms. Heimel’s wisdom.

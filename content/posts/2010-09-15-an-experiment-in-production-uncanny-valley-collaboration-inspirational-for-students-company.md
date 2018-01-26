@@ -1,15 +1,16 @@
 ---
-title: 'An Experiment in Production: “Uncanny Valley” Collaboration Inspirational for Students, Company'
-authors: 
-  - "Ethan Knudson"
+title: 'An Experiment in Production: “Uncanny Valley” Collaboration Inspirational
+  for Students, Company'
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-15T19:07:00+00:00
-url: /2010/09/15/an-experiment-in-production-uncanny-valley-collaboration-inspirational-for-students-company/
+date: 2010-09-15 19:07:00 +0000
+url: "/2010/09/15/an-experiment-in-production-uncanny-valley-collaboration-inspirational-for-students-company/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - theater
+- theater
 
 ---
 [<img class="alignleft size-full wp-image-229" style="margin: 7px;" title="hand2mouth" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/09/hand2mouth.jpg?resize=216%2C145" alt="" data-recalc-dims="1" />][1]“I can see a light,” says the scout, stepping cautiously across the memory field in his white jumpsuit. He steps deeper into his memory, and three ghostly figures join him on stage. Then he’s gone.

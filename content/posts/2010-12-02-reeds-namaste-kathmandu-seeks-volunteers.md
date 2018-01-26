@@ -1,18 +1,18 @@
 ---
 title: Reed’s Namaste Kathmandu Seeks Volunteers
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-02T19:20:08+00:00
+date: 2010-12-02 19:20:08 +0000
 excerpt: |
   |
     <p><strong>Erica Boulay</strong></p>
     <p>Ten-year-old Asmita wanted to go to school, but her mother couldn’t afford to continue sending her.</p>
     <p>At  the local private school, tuition was free, but books and supplies were  not. Asmita, a bright little girl with pigtails and a huge smile loved  school more than anything else. She wore her uniform even on days off.  At age nine, she had already read through half of her science book by  teaching herself at home. Forced to drop out at age ten, Asmita came to  my second grade classroom</p>
-url: /2010/12/02/reeds-namaste-kathmandu-seeks-volunteers/
+url: "/2010/12/02/reeds-namaste-kathmandu-seeks-volunteers/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Ten-year-old Asmita wanted to go to school, but her mother couldn’t afford to continue sending her.

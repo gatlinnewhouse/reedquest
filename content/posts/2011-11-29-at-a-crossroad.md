@@ -1,12 +1,12 @@
 ---
 title: At A Crossroad
-authors: 
-  - "Lev Navarre"
+authors:
+- Lev Navarre
 type: post
-date: 2011-11-30T00:43:38+00:00
-url: /2011/11/29/at-a-crossroad/
+date: 2011-11-30 00:43:38 +0000
+url: "/2011/11/29/at-a-crossroad/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 Last week, Reed community members interviewed candidates for the position of Assistant Dean of Sexual Assault Prevention and Response.  The creation of this position is the primary administrative response to both internal and external pressures to change the way that Reed treats the idea of sexual assault.  In a larger sense, it represents a formalized decision by our school to deliberately shift our community norms regarding sexuality as a whole.  It is therefore highly significant that the two final candidates for this position bring to the table significantly disparate approaches to this deeply moral and increasingly politicized issue.

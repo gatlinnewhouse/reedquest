@@ -1,13 +1,13 @@
 ---
 title: 'MFNW: Barely Remembered, Barely Reviewed'
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-09-14T05:05:40+00:00
-url: /2013/09/13/mfnw-barely-remembered-barely-reviewed/
+date: 2013-09-14 05:05:40 +0000
+url: "/2013/09/13/mfnw-barely-remembered-barely-reviewed/"
 categories:
-  - Features
-  - Front Page
+- Features
+- Front Page
 
 ---
 Musicfest NW has the well-earned reputation for being Portland’s resident music festival, the only event truly worthy of PDX’s music-heavy culture. Around Reed, it has a somewhat different reputation: that thing with the bands that you want to see but you can’t because it’s the fucking first week of classes and you have to read Dante’s Inferno for Hum 210 and you don’t have the goddamn time for this shit. Well, never fear, all you beleaguered upperclassmen already drowning in work and wide-eyed freshmen too daunted by the bus system to venture out to find the Wonder Ballroom or the Roseland Theatre (But seriously, it’s impossible to get to the Wonder), someone went out into the world and saw those concerts for you. That’s right, yours truly shook off the responsibilities of classes, extracurriculars, and even basic human functions to bring you to the front lines of the best shows of MFNW.

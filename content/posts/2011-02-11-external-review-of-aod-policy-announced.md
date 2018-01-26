@@ -1,15 +1,15 @@
 ---
-title: '“External  Review” of  AOD Policy  Announced'
-authors: 
-  - questadmin
+title: "“External  Review” of  AOD Policy  Announced"
+authors:
+- questadmin
 type: post
-date: 2011-02-11T21:02:46+00:00
-url: /2011/02/11/external-review-of-aod-policy-announced/
+date: 2011-02-11 21:02:46 +0000
+url: "/2011/02/11/external-review-of-aod-policy-announced/"
 categories:
-  - News
+- News
 tags:
-  - aod
-  - policy
+- aod
+- policy
 
 ---
 On Monday evening, the Reed community received an open letter that seems to have raised more questions than it initially intended to ask. 

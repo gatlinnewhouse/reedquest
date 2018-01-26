@@ -1,15 +1,15 @@
 ---
 title: 5 Songs to Bone To
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T18:14:25+00:00
-url: /2010/09/15/5-songs-to-bone-to/
+date: 2010-09-15 18:14:25 +0000
+url: "/2010/09/15/5-songs-to-bone-to/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - music
-  - sex
+- music
+- sex
 
 ---
 [<img class="alignleft size-full wp-image-197" style="margin: 7px;" title="trey-songz-ready" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/09/trey-songz-ready.jpg?resize=194%2C194" alt="" data-recalc-dims="1" />][1]After a certain Queditor had an unfortunate experience involving copulation to the tunes of Animal Collective (seriously?!), one of our rank decided to rectify the situation with by compiling a short playlist of songs more appropriate for everyone’s favorite extracurricular activity…besides having pretentious conversations about your favorite Lethem book during your downtime –  goddamn hipsters. Reedies, while brilliant and lovely people, tend towards being socially inept in some form or another. Consider this a complimentary guide to avoiding some serious awkwardness during your more romantic endeavors.**

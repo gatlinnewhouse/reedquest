@@ -1,13 +1,13 @@
 ---
 title: 'Alumna’s Letter to the Editor: Kroger Means Well, But Falls Flat'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-07T09:13:53+00:00
-url: /2013/02/07/alumnas-letter-to-the-editor-kroger-means-well-but-falls-flat/
+date: 2013-02-07 09:13:53 +0000
+url: "/2013/02/07/alumnas-letter-to-the-editor-kroger-means-well-but-falls-flat/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 I grew up in the &#8220;Just Say No&#8221; &#8217;80s, and I went to a Jesuit high school. While I spent most of my high school years avoiding alcohol and drugs because I had been told they were morally wrong and I could die if I were to use them (and the idea of disappointing my parents by dying from snorting cocaine was too horrifying for me to imagine), during my junior and senior years of high school, I became friends with people who used drugs and were not only alive, but interesting people who seemed morally neutral. I remember feeling that I had been completely duped by my parents, my teachers, and my government. Had I attended any school but Reed, I could easily see myself experimenting with any and all drugs which came my way—yes, I know, Reed has a reputation among some for being a &#8220;drug college&#8221; but if the stories I have been told by the alumni of other institutions is any indication, ALL colleges are &#8220;drug colleges,&#8221; Reed is just less dishonest about it. But I went to Reed.

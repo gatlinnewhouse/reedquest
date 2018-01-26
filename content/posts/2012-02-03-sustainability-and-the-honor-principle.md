@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: Sustainability and the Honor Principle'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-02-03T22:25:47+00:00
-url: /2012/02/03/sustainability-and-the-honor-principle/
+date: 2012-02-03 22:25:47 +0000
+url: "/2012/02/03/sustainability-and-the-honor-principle/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 In the 80’s during apartheid, students occupied Eliot Hall and brought classes to a halt after the Board of Trustees refused to divest in South Africa. The Board held that Reed made good money from its investments in South Africa, but they ultimately relented. We face a similar situation today with Reed’s attitude toward sustainability. The Board of Trustees is willing to make environmentally sustainable decisions as long as they are also financially sustainable.

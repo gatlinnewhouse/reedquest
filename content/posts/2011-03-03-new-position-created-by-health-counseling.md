@@ -1,15 +1,15 @@
 ---
-title: 'New Position Created By Health & Counseling'
-authors: 
-  - "Jacob Canter"
+title: New Position Created By Health & Counseling
+authors:
+- Jacob Canter
 type: post
-date: 2011-03-03T20:35:39+00:00
+date: 2011-03-03 20:35:39 +0000
 excerpt: |
   |
     <p>Sometime within the next few weeks, health and counseling services will  begin accepting positions for two new student jobs on IRIS. The  positions, one designated for each gender, requires students to roam the  campus on Friday and Saturday nights</p>
-url: /2011/03/03/new-position-created-by-health-counseling/
+url: "/2011/03/03/new-position-created-by-health-counseling/"
 categories:
-  - News
+- News
 
 ---
 _Karma Patrol-like Student Job to Increase Nighttime Safety_

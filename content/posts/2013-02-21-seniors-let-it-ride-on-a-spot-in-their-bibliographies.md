@@ -1,13 +1,13 @@
 ---
 title: Seniors Let It Ride on a Spot in Their Bibliographies
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-02-21T10:12:26+00:00
-url: /2013/02/21/seniors-let-it-ride-on-a-spot-in-their-bibliographies/
+date: 2013-02-21 10:12:26 +0000
+url: "/2013/02/21/seniors-let-it-ride-on-a-spot-in-their-bibliographies/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Reading aloud from John Gray, Ph.D&#8217;s bestselling _Men are from Mars, Women are from Venus_ in a friend’s common room one night after the library had closed, Johnny Flores ’13 joked about the potential relevance of the work to his thesis on the linguistic construction of ‘top’ and ‘bottom’ identities for homosexual men. Gray, who received his Ph.D. under dubious circumstances from Columbia Pacific University after completing a correspondence course, wrote his book on the notion that understanding his titular proposition is the key to dealing with the opposite sex. When Flores looked through a copy that had been left at his thesis desk by his friend, he saw that parts might be adequately suited to understanding the gender binary as a comical, but applicable, addition to his thesis. “To make my friend laugh when he read my draft,” said Flores, “I decided to try to cite it. […] I ended up including it [… and] when my advisor didn&#8217;t mention anything about it, decided to leave it in.”

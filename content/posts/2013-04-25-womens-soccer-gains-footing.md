@@ -1,13 +1,13 @@
 ---
 title: Women’s Soccer Gains Footing
-authors: 
-  - "Jordan Yu"
+authors:
+- Jordan Yu
 type: post
-date: 2013-04-26T00:10:44+00:00
-url: /2013/04/25/womens-soccer-gains-footing/
+date: 2013-04-26 00:10:44 +0000
+url: "/2013/04/25/womens-soccer-gains-footing/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="alignright size-full wp-image-2317" alt="Women's Soccer" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2013/04/DSC_0255_web.jpg?resize=770%2C515" data-recalc-dims="1" />][1]

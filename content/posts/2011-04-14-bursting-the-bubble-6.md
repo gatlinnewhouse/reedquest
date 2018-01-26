@@ -1,14 +1,14 @@
 ---
 title: Bursting the Bubble
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-04-15T00:13:21+00:00
-url: /2011/04/14/bursting-the-bubble-6/
+date: 2011-04-15 00:13:21 +0000
+url: "/2011/04/14/bursting-the-bubble-6/"
 categories:
-  - News
+- News
 tags:
-  - portland
+- portland
 
 ---
 Police are hunting for a serial killer who is plaguing New York. The death toll reached eight victims on Tuesday when three bodies were found on a Long Island beach. This is terrifying news for those among us who are diehard fans of Law & Order and have watched every single episode of SVU. Where are Benson and Stabler when you need them most? This is just a little too real…

@@ -1,13 +1,13 @@
 ---
 title: 'Editorial: Upcoming Union is Kroger’s Chance to Shine'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-04-05T00:43:47+00:00
-url: /2013/04/04/editorial-upcoming-union-is-krogers-chance-to-shine/
+date: 2013-04-05 00:43:47 +0000
+url: "/2013/04/04/editorial-upcoming-union-is-krogers-chance-to-shine/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 The powers that be didn’t hold the Reed Union on climate change to discuss Reedies’ opinions about climate change. The Union was an attempt to address—or appease—the nascent fossil fuel divestment movement. By framing the Union as one about climate change, the Union committee, inadvertently or not, painted over new concerns with a gloss of the familiar. Who wants to discuss climate change anymore? Surely we all agree on that. In defining the Union, the committee tacitly disregarded divestment, the issue actually at hand.

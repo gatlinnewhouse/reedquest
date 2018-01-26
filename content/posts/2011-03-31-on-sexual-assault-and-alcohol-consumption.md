@@ -1,17 +1,17 @@
 ---
 title: On Sexual Assault and Alcohol Consumption
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-01T05:33:32+00:00
-url: /2011/03/31/on-sexual-assault-and-alcohol-consumption/
+date: 2011-04-01 05:33:32 +0000
+url: "/2011/03/31/on-sexual-assault-and-alcohol-consumption/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - policy
-  - rape
-  - reed college
-  - sexual assault
+- policy
+- rape
+- reed college
+- sexual assault
 
 ---
 I wrote this essay because I have not heard many male opinions on the subject. I know for a fact I don’t address the entirety of the issue because to do so is to presume too much. I don’t want to trivialize this issue either, but I do want to have an opinion. I know this is a sensitive subject, and I don’t intend to offend anyone. I volunteer my opinion to _the Quest_ because I was asked to and I want to encourage more people on this campus to be open about this issue; in fact, I wish Reedies were having more spontaneous discussions, arguments about sexual assault, racism, classism, sexism, and everything that makes us uncomfortable. I do not volunteer my opinion because I think I am an authority on the subject; I just think there’s an unnecessary prevalence of sexual assault on a campus with only 1,400 students and it deserves our attention.

@@ -1,18 +1,18 @@
 ---
 title: Excerpts from the Book of Scrounge
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-22T18:25:05+00:00
+date: 2010-09-22 18:25:05 +0000
 excerpt: |
   |
     <p><em>Editor’s note: there has been much debate over the legitimacy and the  translations of the following texts. The following excerpts have been  pieced together from pages found on the floor of Commons. </em></p>
-url: /2010/09/22/excerpts-from-the-book-of-scrounge/
+url: "/2010/09/22/excerpts-from-the-book-of-scrounge/"
 categories:
-  - Features
+- Features
 tags:
-  - book of scrounge
-  - scrounge
+- book of scrounge
+- scrounge
 
 ---
 _<a rel="attachment wp-att-292" href="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/09/scrounge.jpg"><img class="aligncenter size-full wp-image-292" title="scrounge" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/09/scrounge.jpg?resize=700%2C221" alt="" data-recalc-dims="1" /></a>Editor’s note: there has been much debate over the legitimacy and the translations of the following texts. The following excerpts have been pieced together from pages found on the floor of Commons. Members of the Quest have suffered through lengthy debate over the use of such holy texts in such a lowly newspaper. We hope that the included texts will serve to provide some instruction to those not yet familiar to the traditions of the Scrounge._

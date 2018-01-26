@@ -1,13 +1,13 @@
 ---
 title: Women’s Basketball Wins, in Spirit
-authors: 
-  - "Lauren Nelson"
+authors:
+- Lauren Nelson
 type: post
-date: 2012-11-09T00:59:38+00:00
-url: /2012/11/08/womens-basketball-wins-in-spirit/
+date: 2012-11-09 00:59:38 +0000
+url: "/2012/11/08/womens-basketball-wins-in-spirit/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The first women’s basketball game in recent memory was held last Friday, Nov. 2, in the gym. As the game against Pacific University was merely a scrimmage, official score could not be kept. However, Reed scored 4 points to Pacific’s 49 in the first half, and 9 to Pacific’s 51 in the second half. According to Reed point guard Maggie Black, the team “majorly improved” as the game went on, and the team was very pleased with their overall performance. The players cite the student and fan turnout as one of the higher points of the night, with one member stating that the cheers and support had a significant impact on them.

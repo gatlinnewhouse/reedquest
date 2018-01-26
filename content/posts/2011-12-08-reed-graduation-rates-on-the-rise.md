@@ -1,21 +1,21 @@
 ---
 title: Reed Graduation Rate Surges
-authors: 
-  - "Maha Pasha"
+authors:
+- Maha Pasha
 type: post
-date: 2011-12-08T08:00:16+00:00
-url: /2011/12/08/reed-graduation-rates-on-the-rise/
+date: 2011-12-08 08:00:16 +0000
+url: "/2011/12/08/reed-graduation-rates-on-the-rise/"
 categories:
-  - Front Page
-  - Left Sidebar
-  - News
-  - Top Stories
+- Front Page
+- Left Sidebar
+- News
+- Top Stories
 tags:
-  - graduation rate
-  - maha pasha
-  - Reed
-  - reed college
-  - reed graduation rate
+- graduation rate
+- maha pasha
+- Reed
+- reed college
+- reed graduation rate
 
 ---
 <div id="attachment_1114" style="width: 310px" class="wp-caption alignright">

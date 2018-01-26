@@ -1,12 +1,12 @@
 ---
 title: 'Cool Thesis of the Week: Cancer as a Social Construct'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-04-01T18:39:14+00:00
-url: /2012/04/01/cool-thesis-of-the-week-cancer-as-a-social-construct/
+date: 2012-04-01 18:39:14 +0000
+url: "/2012/04/01/cool-thesis-of-the-week-cancer-as-a-social-construct/"
 categories:
-  - Cool Thesis of the Week
+- Cool Thesis of the Week
 
 ---
 Most people with illnesses turn to science for the cure. Some turn to religion. Hunter Kirkland &#8217;12 turns to anthropology.

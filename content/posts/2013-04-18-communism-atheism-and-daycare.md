@@ -1,13 +1,13 @@
 ---
 title: Communism, Atheism, and Daycare
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-04-19T05:31:03+00:00
-url: /2013/04/18/communism-atheism-and-daycare/
+date: 2013-04-19 05:31:03 +0000
+url: "/2013/04/18/communism-atheism-and-daycare/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Campus may soon be bolstered by the addition of a Child Development Center by spring 2014. The center would provide daycare with an educational focus for children ranging in age from infancy to four years.

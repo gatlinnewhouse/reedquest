@@ -1,14 +1,16 @@
 ---
 title: 'Science Savvy: Experimental Hiccups'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-11T05:11:09+00:00
-excerpt: Science often appears to be a singular entity, united by a methodological paradigm and totally consistent in its depiction of reality. But science is an active process, full of hiccups.
-url: /2012/10/10/science-savvy-experimental-hiccups/
+date: 2012-10-11 05:11:09 +0000
+excerpt: Science often appears to be a singular entity, united by a methodological
+  paradigm and totally consistent in its depiction of reality. But science is an active
+  process, full of hiccups.
+url: "/2012/10/10/science-savvy-experimental-hiccups/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 _by Karen Dewey and Nathan Eisenberg_

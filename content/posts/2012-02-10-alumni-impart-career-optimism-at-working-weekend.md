@@ -1,13 +1,13 @@
 ---
 title: Alumni impart career optimism at Working Weekend
-authors: 
-  - "Jeremy Melloul"
+authors:
+- Jeremy Melloul
 type: post
-date: 2012-02-10T20:44:13+00:00
-url: /2012/02/10/alumni-impart-career-optimism-at-working-weekend/
+date: 2012-02-10 20:44:13 +0000
+url: "/2012/02/10/alumni-impart-career-optimism-at-working-weekend/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <div id="attachment_1287" style="width: 310px" class="wp-caption alignright">

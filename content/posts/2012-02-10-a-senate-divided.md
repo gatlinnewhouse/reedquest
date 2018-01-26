@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: A Senate Divided?'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-02-10T18:00:36+00:00
-url: /2012/02/10/a-senate-divided/
+date: 2012-02-10 18:00:36 +0000
+url: "/2012/02/10/a-senate-divided/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Senate spent over an hour last Thursday arguing about a wage increase for Honor Council members from forty-five to one hundred dollars per month. This would have been well and good—Senate is deliberating important matters during public meetings, rather than in closed executive sessions—if not for the loss of decorum and apparent division, which fell almost perfectly between newly elected senators and senators who are continuing their terms from the fall. Senator Dana Loutey, who served in the fall, went as far as to claim that the only reason wage increases were being proposed was that newly elected Student Body President Brian Moore ’13 previously served on Honor Council. The speaker’s stack was forgotten entirely for several minutes at the peak of the debate. Eyes were rolled and heads were lain on tables in exasperation.

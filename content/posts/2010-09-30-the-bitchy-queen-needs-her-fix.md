@@ -1,12 +1,12 @@
 ---
 title: The Bitchy Queen Needs Her Fix!
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-30T17:59:06+00:00
-url: /2010/09/30/the-bitchy-queen-needs-her-fix/
+date: 2010-09-30 17:59:06 +0000
+url: "/2010/09/30/the-bitchy-queen-needs-her-fix/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 I want to rip something apart. Where are the missed connections? Enough said!

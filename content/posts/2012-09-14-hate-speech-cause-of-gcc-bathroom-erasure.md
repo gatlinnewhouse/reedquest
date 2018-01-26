@@ -1,13 +1,13 @@
 ---
 title: Hate Speech Cause of GCC Bathroom Erasure
-authors: 
-  - "Cristina Cambianica"
+authors:
+- Cristina Cambianica
 type: post
-date: 2012-09-14T20:38:31+00:00
-url: /2012/09/14/hate-speech-cause-of-gcc-bathroom-erasure/
+date: 2012-09-14 20:38:31 +0000
+url: "/2012/09/14/hate-speech-cause-of-gcc-bathroom-erasure/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/hate-speech-cause-of-gcc-bathroom-erasure/graffitislider/" rel="attachment wp-att-1609"><img class="alignnone size-full wp-image-1609" title="GCC Graffiti" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/09/graffitislider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,15 +1,15 @@
 ---
 title: 'Portland Fashion Week: Locals Dress to Impress and Strut Their Stuff'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-10-14T18:03:30+00:00
-url: /2010/10/14/portland-fashion-week-locals-dress-to-impress-and-strut-their-stuff/
+date: 2010-10-14 18:03:30 +0000
+url: "/2010/10/14/portland-fashion-week-locals-dress-to-impress-and-strut-their-stuff/"
 categories:
-  - News
+- News
 tags:
-  - fashion
-  - portland
+- fashion
+- portland
 
 ---
 When someone mentions Fashion Week, the cities usually associated with the biannual event are New York, Paris, Milan, London, Tokyo, and other large, hyper-metropolitan cities known for producing design houses famous worldwide.

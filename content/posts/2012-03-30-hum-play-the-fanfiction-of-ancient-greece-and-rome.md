@@ -1,15 +1,15 @@
 ---
 title: 'Hum Play: The Fanfiction of Ancient Greece and Rome'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-03-30T22:25:48+00:00
-url: /2012/03/30/hum-play-the-fanfiction-of-ancient-greece-and-rome/
+date: 2012-03-30 22:25:48 +0000
+url: "/2012/03/30/hum-play-the-fanfiction-of-ancient-greece-and-rome/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - hum play
+- hum play
 
 ---
 <a href="http://www.reedquest.org/2012/03/hum-play-the-fanfiction-of-ancient-greece-and-rome/humplayslider/" rel="attachment wp-att-1464"><img class="alignright size-full wp-image-1464" title="HumPlay" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/03/HumPlayslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

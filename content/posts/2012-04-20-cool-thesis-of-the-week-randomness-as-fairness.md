@@ -1,16 +1,16 @@
 ---
 title: 'Cool Thesis of the Week: Randomness as Fairness'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-04-20T15:54:48+00:00
-url: /2012/04/20/cool-thesis-of-the-week-randomness-as-fairness/
+date: 2012-04-20 15:54:48 +0000
+url: "/2012/04/20/cool-thesis-of-the-week-randomness-as-fairness/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 tags:
-  - economics
-  - thesis
+- economics
+- thesis
 
 ---
 **<a href="http://www.reedquest.org/2012/04/cool-thesis-of-the-week-randomness-as-fairness/ctw/" rel="attachment wp-att-1506"><img class="alignnone size-full wp-image-1506" title="Justine Stewart" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/04/ctw.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>**

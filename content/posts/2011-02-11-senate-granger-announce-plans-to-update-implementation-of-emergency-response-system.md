@@ -1,14 +1,15 @@
 ---
-title: 'Senate, Granger Announce Plans to Update  Implementation of Emergency Response System'
-authors: 
-  - "Jacob Canter"
+title: Senate, Granger Announce Plans to Update  Implementation of Emergency Response
+  System
+authors:
+- Jacob Canter
 type: post
-date: 2011-02-11T20:56:41+00:00
-url: /2011/02/11/senate-granger-announce-plans-to-update-implementation-of-emergency-response-system/
+date: 2011-02-11 20:56:41 +0000
+url: "/2011/02/11/senate-granger-announce-plans-to-update-implementation-of-emergency-response-system/"
 categories:
-  - News
+- News
 tags:
-  - security
+- security
 
 ---
 Five years ago, before Justin Bieber sold over 4.5 million records and when Pink actually had cultural significance, the Reed Senate decided to make the new Emergency Notification System opt-in for all the student body. This meant that to get emails, text messages, or phone messages sent to you from the CSO Office during an on campus emergency, students had to sign in through Iris, in the Personal Info section. Not many people, in these five years, have chosen to opt-in, and “significantly less than half” of the current student body is part of the system, says Gary Granger, Community Safety Director at Reed.

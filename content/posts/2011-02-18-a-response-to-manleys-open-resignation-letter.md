@@ -1,17 +1,17 @@
 ---
 title: A Response to Manley’s Open Resignation Letter
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-18T20:07:11+00:00
-url: /2011/02/18/a-response-to-manleys-open-resignation-letter/
+date: 2011-02-18 20:07:11 +0000
+url: "/2011/02/18/a-response-to-manleys-open-resignation-letter/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - crime
-  - rape
-  - reed college
-  - sexual assault
+- crime
+- rape
+- reed college
+- sexual assault
 
 ---
 “Isabel is a hero,” reads one of the comments on post I made on Facebook of last week’s “Open Letter to the Reed Community.”  From that comment thread and several recent discussions with other Reedies, I am confident in saying that for many students that article hit right on the mark in describing the serious shortcomings in Reed’s current system for responding to and adjudicating cases of possible sexual harassment and assault.  For, as both a survivor of sexual assault at Reed and friend of many others in the same position, I will be the first to agree that, for all our supposedly progressive leanings, Reed is woefully behind the times in its response to needs of victims in our community.

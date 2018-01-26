@@ -1,12 +1,12 @@
 ---
 title: 'A Theism at Reed: Oh For Christ’s Sake'
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2011-10-20T03:42:22+00:00
-url: /2011/10/19/a-theism-at-reed-oh-for-christs-sake/
+date: 2011-10-20 03:42:22 +0000
+url: "/2011/10/19/a-theism-at-reed-oh-for-christs-sake/"
 categories:
-  - News
+- News
 
 ---
 Maybe you had heard them singing in praise on Thursday nights under the blue bridge. Or maybe you have no idea that they even exist. Regardless, the Christian group at Reed has grown into a large, closely knit community over the years. There are currently about 30 members in Oh For Christ’s&#8217; Sake, which is led by staff leaders Michael Havens and his wife SarrahLynne Havens. OFCS has actually grown so large that they have to divide into smaller groups during the week for their small and intimate bible studies. The entire group gathers to eat, pray and celebrate God on Sundays.

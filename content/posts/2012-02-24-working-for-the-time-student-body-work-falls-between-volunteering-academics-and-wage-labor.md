@@ -1,13 +1,14 @@
 ---
-title: 'Working for the Timé: Student body work falls between volunteering, academics, and wage labor'
-authors: 
-  - "Alex Walker"
+title: 'Working for the Timé: Student body work falls between volunteering, academics,
+  and wage labor'
+authors:
+- Alex Walker
 type: post
-date: 2012-02-24T22:31:39+00:00
-url: /2012/02/24/working-for-the-time-student-body-work-falls-between-volunteering-academics-and-wage-labor/
+date: 2012-02-24 22:31:39 +0000
+url: "/2012/02/24/working-for-the-time-student-body-work-falls-between-volunteering-academics-and-wage-labor/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Although students who work as tutors, librarians, and SU cleaners are paid on an hourly basis, many student positions are paid with a monthly stipend, including the most important jobs in student body government. Senators, Judicial Board members, Honor Council members, and others fall into this category. When calculated as an hourly wage, many of these stipends fall far below minimum wage, according to information gathered by _The Quest_.

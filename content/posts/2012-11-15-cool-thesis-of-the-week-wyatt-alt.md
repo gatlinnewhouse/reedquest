@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Wyatt Alt'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:20:39+00:00
-url: /2012/11/15/cool-thesis-of-the-week-wyatt-alt/
+date: 2012-11-15 20:20:39 +0000
+url: "/2012/11/15/cool-thesis-of-the-week-wyatt-alt/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/11/cool-thesis-of-the-week-wyatt-alt/r1025682_web/" rel="attachment wp-att-1816"><img class="alignnone size-full wp-image-1816" title="Wyatt Alt" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/11/R1025682_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

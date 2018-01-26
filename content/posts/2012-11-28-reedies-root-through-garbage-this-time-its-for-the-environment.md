@@ -1,13 +1,13 @@
 ---
 title: 'Reedies Root Through Garbage: This Time, It’s for the Environment'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-29T06:33:56+00:00
-url: /2012/11/28/reedies-root-through-garbage-this-time-its-for-the-environment/
+date: 2012-11-29 06:33:56 +0000
+url: "/2012/11/28/reedies-root-through-garbage-this-time-its-for-the-environment/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 As part of a larger sustainability effort that has included an energy-savings contract and a curbside composting initiative, Reed College students have performed “trash autopsies” to help assess the waste habits of campus community members. The autopsies consist of investigators looking through trash cans to catalogue the types of waste being thrown away. The particular focus of these autopsies is on recycling: The investigators intend to discern how much recyclable material is being thrown away in the trash and recycling bins.

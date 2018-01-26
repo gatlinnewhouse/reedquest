@@ -1,13 +1,13 @@
 ---
 title: Two Freshmen Win $5,000 in Lottery
-authors: 
-  - "Daniel Hong"
+authors:
+- Daniel Hong
 type: post
-date: 2013-10-12T23:47:49+00:00
-url: /2013/10/12/two-freshmen-win-5000-in-lottery/
+date: 2013-10-12 23:47:49 +0000
+url: "/2013/10/12/two-freshmen-win-5000-in-lottery/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 [<img class="alignright size-medium wp-image-2944" alt="IMG_8768" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2013/10/IMG_8768-200x300.jpg?resize=200%2C300" data-recalc-dims="1" />][1]The odds proved very profitable for two freshman in the start of this fall semester. Last month, Freshman Jack Lent and his friend (who would like to remain anonymous) won $5,000 from a single _Scratch-It_ lottery ticket bought at the 7-Eleven on 28th and Steele.

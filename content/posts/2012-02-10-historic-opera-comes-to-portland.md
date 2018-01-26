@@ -1,13 +1,13 @@
 ---
 title: Historic Opera Comes to Portland
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2012-02-10T16:01:52+00:00
-url: /2012/02/10/historic-opera-comes-to-portland/
+date: 2012-02-10 16:01:52 +0000
+url: "/2012/02/10/historic-opera-comes-to-portland/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Giacomo Puccini’s Madame Butterfly is playing at the Portland Opera on Saturday, February 11<sup>th</sup>. In 1994 it was the fourth most popular opera in the world, beloved for its heartbreaking heroine. However, heartbreak is to opera as squirrels are to Reed: Honestly, you’re surprised when it’s not there.

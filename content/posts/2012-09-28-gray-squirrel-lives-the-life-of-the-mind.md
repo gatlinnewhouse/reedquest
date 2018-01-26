@@ -1,13 +1,13 @@
 ---
 title: Gray Squirrel Lives the Life of the Mind
-authors: 
-  - "James Curry"
+authors:
+- James Curry
 type: post
-date: 2012-09-28T17:02:30+00:00
-url: /2012/09/28/gray-squirrel-lives-the-life-of-the-mind/
+date: 2012-09-28 17:02:30 +0000
+url: "/2012/09/28/gray-squirrel-lives-the-life-of-the-mind/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/gray-squirrel-lives-the-life-of-the-mind/squirrel_web/" rel="attachment wp-att-1659"><img class="alignnone size-full wp-image-1659" title="Mary the Squirrel" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/09/squirrel_web.jpg?resize=770%2C511" alt="" data-recalc-dims="1" /></a>

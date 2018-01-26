@@ -1,12 +1,12 @@
 ---
 title: MRC Gives $2000 In Grants
-authors: 
-  - "Shabab Mirza"
+authors:
+- Shabab Mirza
 type: post
-date: 2011-10-28T20:43:27+00:00
-url: /2011/10/28/mrc-gives-2000-in-grants/
+date: 2011-10-28 20:43:27 +0000
+url: "/2011/10/28/mrc-gives-2000-in-grants/"
 categories:
-  - News
+- News
 
 ---
 The Multicultural Resource Center (MRC) has allocated $2,000 for ‘New Voices’ grants. MRC interns Andrew Barney ’13 and Lily Garcia ’13 hope that the New Voices grants will empower students to develop their own projects relating to identity, diversity and social justice. As the name suggests, New Voices is designed to help students who may not have previously been involved in student projects realize their plans with the funding and the resources of the MRC, including assistance from the interns themselves.

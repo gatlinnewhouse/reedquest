@@ -1,13 +1,13 @@
 ---
 title: J-Board Understaffed
-authors: 
-  - "Marina Moro"
+authors:
+- Marina Moro
 type: post
-date: 2012-09-21T17:44:06+00:00
-url: /2012/09/21/j-board-understaffed/
+date: 2012-09-21 17:44:06 +0000
+url: "/2012/09/21/j-board-understaffed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Though designed to consist of twelve students, the Judicial Board is currently functioning with only eight members.

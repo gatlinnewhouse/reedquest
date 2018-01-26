@@ -1,12 +1,12 @@
 ---
 title: Bursting the Bubble
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-26T01:31:38+00:00
-url: /2011/02/25/bursting-the-bubble-3/
+date: 2011-02-26 01:31:38 +0000
+url: "/2011/02/25/bursting-the-bubble-3/"
 categories:
-  - News
+- News
 
 ---
 **World**

@@ -1,13 +1,13 @@
 ---
 title: Survey Will Measure Campus Climate
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-05T19:31:26+00:00
-url: /2012/10/05/survey-will-measure-campus-climate/
+date: 2012-10-05 19:31:26 +0000
+url: "/2012/10/05/survey-will-measure-campus-climate/"
 categories:
-  - Opinion
-  - The Sexual Intellectual
+- Opinion
+- The Sexual Intellectual
 
 ---
 _By Kathy Oleson, Melissa Osborne, and Crystal Williams_

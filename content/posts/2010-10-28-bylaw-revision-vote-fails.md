@@ -1,16 +1,16 @@
 ---
 title: Bylaw Revision Vote Fails
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-10-28T18:17:32+00:00
+date: 2010-10-28 18:17:32 +0000
 excerpt: |
   |
     <p>Student Senate bylaw revisions failed to pass the two-thirds  requirement three times at a public meeting Tuesday after lengthy  discussion.</p>
     <p>The proposed changes would have vacant Senate seats filled by  runner-ups from the last election only before fall or spring break,</p>
-url: /2010/10/28/bylaw-revision-vote-fails/
+url: "/2010/10/28/bylaw-revision-vote-fails/"
 categories:
-  - Senate
+- Senate
 
 ---
 _Senator replacement language rejected three times_

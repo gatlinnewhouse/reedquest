@@ -1,13 +1,13 @@
 ---
 title: Students Clash with Meghan McCain
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-10-31T21:02:22+00:00
-url: /2012/10/31/students-clash-with-meghan-mccain/
+date: 2012-10-31 21:02:22 +0000
+url: "/2012/10/31/students-clash-with-meghan-mccain/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/students-clash-with-meghan-mccain/mccain_web/" rel="attachment wp-att-1761"><img class="alignnone size-full wp-image-1761" title="Meghan McCain" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/10/mccain_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

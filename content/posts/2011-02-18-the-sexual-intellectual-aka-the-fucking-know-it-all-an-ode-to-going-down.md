@@ -1,15 +1,15 @@
 ---
 title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: An Ode to Going Down'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2011-02-18T20:00:31+00:00
-url: /2011/02/18/the-sexual-intellectual-aka-the-fucking-know-it-all-an-ode-to-going-down/
+date: 2011-02-18 20:00:31 +0000
+url: "/2011/02/18/the-sexual-intellectual-aka-the-fucking-know-it-all-an-ode-to-going-down/"
 categories:
-  - Features
-  - The Sexual Intellectual
+- Features
+- The Sexual Intellectual
 tags:
-  - sex
+- sex
 
 ---
 Lewis Black, the angry yet eloquent sociopolitical comedian once said, “Curling should be taken out of the Olympics and replaced with oral sex – it’s harder than curling, and if you’re any good at it, you deserve a medal!” I couldn’t agree more with Mr. Black. Unfortunately my written appeals to the IOC have all been blatantly disregarded. They must consider oral sex less of an Olympic sport than a fine art, which, I suppose, it is.

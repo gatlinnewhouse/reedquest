@@ -1,12 +1,12 @@
 ---
 title: For a Stress-Lesser Finals Week
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-12-09T22:39:26+00:00
-url: /2010/12/09/for-a-stress-lesser-finals-week/
+date: 2010-12-09 22:39:26 +0000
+url: "/2010/12/09/for-a-stress-lesser-finals-week/"
 categories:
-  - Features
+- Features
 
 ---
 At the end of every semester, the library has the potential of becoming a dark, dark place. It scares me and I usually don’t go near it until I need something, but this year I am hell-bent on using my thesis desk during Reading Week. So, in an effort to make this achievable, I offer to you, my fellow Reedies, advice on how to not be scary stress-consumed finals zombies. This is a selfish mission, yes – but you might just benefit, too.

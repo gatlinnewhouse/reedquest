@@ -1,17 +1,17 @@
 ---
 title: No Ballot Measure for Oregon Gay Marriage
-authors: 
-  - "questadmin"
+authors:
+- questadmin
 type: post
-date: 2011-12-03T22:49:00+00:00
-url: /2011/12/03/no-ballot-measure-for-oregon-gay-marriage/
+date: 2011-12-03 22:49:00 +0000
+url: "/2011/12/03/no-ballot-measure-for-oregon-gay-marriage/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - gay marriage
-  - gay rights
-  - michael delong
-  - oregon
+- gay marriage
+- gay rights
+- michael delong
+- oregon
 
 ---
 A couple of weeks ago, on Nov 9<sup>th</sup> Basic Rights Oregon (BRO) decided not to put a measure for gay marriage on the Oregon ballot in 2012, and to continue their public education campaign to build support in preparation for a ballot measure at a later date. After hearing feedback from supporters, running polls, and holding a town hall meeting, the Board of Directors concluded that they should not move forward into a political fight until they are ready to win, and that a second loss at the ballot on marriage equality would be too heavy a blow, especially for gay and lesbian youth.

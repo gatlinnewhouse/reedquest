@@ -1,13 +1,13 @@
 ---
 title: A History of the Honor Principle
-authors: 
-  - "Brian Moore"
+authors:
+- Brian Moore
 type: post
-date: 2012-08-31T16:59:02+00:00
-url: /2012/08/31/a-history-of-the-honor-principle/
+date: 2012-08-31 16:59:02 +0000
+url: "/2012/08/31/a-history-of-the-honor-principle/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 <p style="text-align: center;">

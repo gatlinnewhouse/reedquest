@@ -1,12 +1,12 @@
 ---
 title: Senate Beat
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-07T19:26:36+00:00
-url: /2011/04/07/senate-beat-7/
+date: 2011-04-07 19:26:36 +0000
+url: "/2011/04/07/senate-beat-7/"
 categories:
-  - Senate
+- Senate
 
 ---
 This week’s meeting was short to allow senators/your beat writers time to grab food between the meeting and the Reed Union. mmm, Tom Yum.

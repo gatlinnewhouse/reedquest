@@ -1,13 +1,13 @@
 ---
 title: CRS Case Summary
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-09-08T20:07:18+00:00
-url: /2013/09/08/crs-case-summary/
+date: 2013-09-08 20:07:18 +0000
+url: "/2013/09/08/crs-case-summary/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 _The Community Rights Subcommittee (CRS) of the Honor Council is required by Honor Council code to send a summary report, not violating confidentiality, of any cases that arise to The Quest. This is a belated case summary from last spring.*_

@@ -1,12 +1,12 @@
 ---
 title: 'Judgment Day Approaches: Postcards from Thesis Hell, Heaven'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-31T19:25:22+00:00
-url: /2011/03/31/judgment-day-approaches-postcards-from-thesis-hell-heaven/
+date: 2011-03-31 19:25:22 +0000
+url: "/2011/03/31/judgment-day-approaches-postcards-from-thesis-hell-heaven/"
 categories:
-  - Infotainment
+- Infotainment
 
 ---
 **Postcard from Thesis Hell**

@@ -1,13 +1,13 @@
 ---
 title: Women Take Center Stage in Retelling of Classic
-authors: 
-  - "Shabab Mirza"
+authors:
+- Shabab Mirza
 type: post
-date: 2011-11-04T20:59:03+00:00
-url: /2011/11/04/women-take-center-stage-in-retelling-of-classic/
+date: 2011-11-04 20:59:03 +0000
+url: "/2011/11/04/women-take-center-stage-in-retelling-of-classic/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 You may think you know the story of the House of Atreus, but the Reed Theatre production of Ellen McLaughlin’s _Iphigenia and Other Daughters_ will make you think again. The characters of Clytemnestra, Orestes, and Iphigenia all feature prominently in the Western canon (and have/will come up in your Humanities 110 readings). While the script is based on Athenian tragedies, this iteration of the classic shifts the focus to the women in the story: the wife left to rule a kingdom, the daughter left to remember a crime—all of them left to wait.

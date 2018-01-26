@@ -1,13 +1,13 @@
 ---
 title: Bike Theft Saga
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-10-05T01:13:01+00:00
-url: /2013/10/04/bike-theft-saga/
+date: 2013-10-05 01:13:01 +0000
+url: "/2013/10/04/bike-theft-saga/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 On Sept. 14, sophomore Ben Steele walked out of his off-campus house to find a small piece of a U-lock with a jagged edge; his bike had been stolen. “I had already lost one bike on campus as a freshman,” says Steele. “My friends had been teasing me about locking this one to a tree, it’s possible that seeing it on a tree might have prompted the bike thief to steal it.”

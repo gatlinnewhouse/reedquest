@@ -1,15 +1,15 @@
 ---
 title: Common Inspires, Evangelizes
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-02-18T20:18:34+00:00
-url: /2011/02/18/common-inspires-evangelizes/
+date: 2011-02-18 20:18:34 +0000
+url: "/2011/02/18/common-inspires-evangelizes/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - Common
+- Common
 
 ---
 <div id="attachment_614" style="width: 243px" class="wp-caption alignleft">

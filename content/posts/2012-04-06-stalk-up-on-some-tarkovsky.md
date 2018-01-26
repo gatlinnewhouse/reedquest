@@ -1,15 +1,15 @@
 ---
 title: Stalk up on some Tarkovsky
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-04-06T20:12:40+00:00
-url: /2012/04/06/stalk-up-on-some-tarkovsky/
+date: 2012-04-06 20:12:40 +0000
+url: "/2012/04/06/stalk-up-on-some-tarkovsky/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - music
+- music
 
 ---
 <p style="text-align: left;">

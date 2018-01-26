@@ -1,14 +1,14 @@
 ---
 title: Sexual Assault at Reed:What I know and what I think
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-22T02:22:05+00:00
-url: /2011/04/21/sexual-assault-at-reedwhat-i-know-and-what-i-think/
+date: 2011-04-22 02:22:05 +0000
+url: "/2011/04/21/sexual-assault-at-reedwhat-i-know-and-what-i-think/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - sexual assault
+- sexual assault
 
 ---
 When trying to understand sexual assault at Reed, it can sometimes be difficult to separate what we think from what we know. It is part of our mandate at Community Safety to gather statistics on campus regarding sexual assault, and from that information there are certain things I objectively know to be true. While I would like to share my opinions based on those facts, I will first share what I know.

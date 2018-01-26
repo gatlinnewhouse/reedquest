@@ -1,12 +1,12 @@
 ---
 title: Senate Beat
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-08T20:21:30+00:00
-url: /2011/02/08/senate-beat/
+date: 2011-02-08 20:21:30 +0000
+url: "/2011/02/08/senate-beat/"
 categories:
-  - Senate
+- Senate
 
 ---
 Did you notice the absence of chill peeps this Monday at 5? That’s probs because they were all at the Senate Town Hall Meeting – where you should have been, too, duh. If you had been there, you would have been able to chillax with your lovely Beat writers. You would have been with us, watching Will Gester tip tap away on his lappy top, new Prez Nora McCJ chomp away on her poppy corn, and Jenny CW lounging loungily on the couchy couch. But fo realz, Town Hall was hip hoppin. It was the place to be. 

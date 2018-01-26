@@ -1,13 +1,13 @@
 ---
 title: Reed Signs $5.4 Million Energy Efficiency Contract
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-08T11:29:23+00:00
-url: /2012/11/08/reed-signs-5-4-million-energy-efficiency-contract/
+date: 2012-11-08 11:29:23 +0000
+url: "/2012/11/08/reed-signs-5-4-million-energy-efficiency-contract/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Reed has signed a three-year $5.4 million energy efficiency contract with Ameresco Quantum, the energy efficiency company announced Wednesday.

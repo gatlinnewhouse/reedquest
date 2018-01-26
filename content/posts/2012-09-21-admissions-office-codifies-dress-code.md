@@ -1,13 +1,13 @@
 ---
 title: Admissions Office Codifies Dress Code
-authors: 
-  - "Lauren Nelson"
+authors:
+- Lauren Nelson
 type: post
-date: 2012-09-21T20:30:11+00:00
-url: /2012/09/21/admissions-office-codifies-dress-code/
+date: 2012-09-21 20:30:11 +0000
+url: "/2012/09/21/admissions-office-codifies-dress-code/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/admissions-office-codifies-dress-code/admissionsslider/" rel="attachment wp-att-1642"><img class="alignnone size-full wp-image-1642" title="Admission Dress Code Guide" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/09/admissionsslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

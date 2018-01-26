@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Transmisogyny Has No Place at Reed'
-authors: 
-  - "James Shelstad"
+authors:
+- James Shelstad
 type: post
-date: 2013-09-27T22:26:58+00:00
-url: /2013/09/27/transmisogyny-has-no-place-at-reed/
+date: 2013-09-27 22:26:58 +0000
+url: "/2013/09/27/transmisogyny-has-no-place-at-reed/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 <div>

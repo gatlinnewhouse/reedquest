@@ -1,13 +1,13 @@
 ---
 title: A Bright Day for the Canyon
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2012-10-11T23:33:40+00:00
-url: /2012/10/11/a-bright-day-for-the-canyon/
+date: 2012-10-11 23:33:40 +0000
+url: "/2012/10/11/a-bright-day-for-the-canyon/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/a-bright-day-for-the-canyon/canyonday-slider/" rel="attachment wp-att-1714"><img class="alignright size-full wp-image-1714" title="Canyon Day Fall 2012" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/10/canyonday-slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>The sound of English Ivy being ripped from the ground mingled with jovial conversation in the north corner of the canyon on Saturday, October 6<sup>th</sup>. The discarded weeds fell into piles along with the nightshade, Himalayan blackberries, and other undesirables as the forces of good united for Fall Canyon Day. Around thirty students, faculty, staff, and neighbors got down and dirty in an effort to clean up and protect the canyon. CAVE, the Ladies Pie Society, and the Brewers Guild all contributed to feeding and hydrating the Canyon Day participants as they did their noble work.

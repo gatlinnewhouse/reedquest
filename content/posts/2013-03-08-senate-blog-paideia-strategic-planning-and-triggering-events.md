@@ -1,13 +1,13 @@
 ---
 title: 'Senate Blog: Paideia, Strategic Planning, and Triggering Events'
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-03-09T05:43:40+00:00
-url: /2013/03/08/senate-blog-paideia-strategic-planning-and-triggering-events/
+date: 2013-03-09 05:43:40 +0000
+url: "/2013/03/08/senate-blog-paideia-strategic-planning-and-triggering-events/"
 categories:
-  - Left Sidebar
-  - Senate Beat
+- Left Sidebar
+- Senate Beat
 
 ---
 The committee on triggering events met for the first time today, March 8, to discuss guidelines for student groups to follow before putting on events. According to Senator Nina Liss-Schultz, the goal of the committee is to provide students with information about the content of an event before it happens; rather than to censor content. The committee has not decided if they are going to write entirely new guidelines for sexually explicit content, or if they are going to simply add guidelines to the existing ones.

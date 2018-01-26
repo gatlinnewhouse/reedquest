@@ -1,13 +1,13 @@
 ---
-title: '“We speak and breathe everything”: A Horse_etribute'
-authors: 
-  - "Charlie Wilcox"
+title: "“We speak and breathe everything”: A Horse_etribute"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-09-27T23:17:53+00:00
-url: /2013/09/27/we-speak-and-breathe-everything-a-horse_etribute/
+date: 2013-09-27 23:17:53 +0000
+url: "/2013/09/27/we-speak-and-breathe-everything-a-horse_etribute/"
 categories:
-  - From the Editors
-  - Left Sidebar
+- From the Editors
+- Left Sidebar
 
 ---
 The news hit me harder than the death of any other celebrity, public figure, distant relative, or even close friend could: Horse\_ebooks is intentional; Horse\_ebooks is people; most of all, Horse\_ebooks is dead. It is a melancholic moment, beyond bittersweet; it is a betrayal, a vindication, a success, and a sadness. Horse\_ebooks has been a companion to me for a long time now, it guided me through my first year at Reed with its ruminations, recommendations, and random snippets that seemed to always just make sense, in a sort of way. Nothing else could have given us such profound wisdom that fits the situation, like “Crying is great exercise” after a bad paper conference, or “Unfortunately, as you already know, people” when you just want to sit alone in your dorm room. Horse\_ebooks filled a hole for many people on campus. A giant, horse-sized hole. Now we are only left with the fond memories, of cracking open our laptops to anxiously find a 140-character present, of sharing the best snippets with our friends at lunch, of gasping at the sight of a thought so perfect, so right for the moment, of, well, Horse\_ebooks.

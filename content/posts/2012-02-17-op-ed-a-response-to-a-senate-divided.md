@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: A response to “A Senate Divided?”'
-authors: 
-  - "Dana Loutey"
+authors:
+- Dana Loutey
 type: post
-date: 2012-02-17T22:21:58+00:00
-url: /2012/02/17/op-ed-a-response-to-a-senate-divided/
+date: 2012-02-17 22:21:58 +0000
+url: "/2012/02/17/op-ed-a-response-to-a-senate-divided/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 _Dana Loutey is a current Senator._

@@ -1,12 +1,12 @@
 ---
 title: Notice from SSASS
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-22T20:28:44+00:00
-url: /2011/04/22/notice-from-ssass/
+date: 2011-04-22 20:28:44 +0000
+url: "/2011/04/22/notice-from-ssass/"
 categories:
-  - News
+- News
 
 ---
 To Members of the Reed Community,

@@ -1,15 +1,15 @@
 ---
 title: Chris Cahill is No Revolutionary
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-07T17:50:40+00:00
-url: /2010/10/07/chris-cahill-is-no-revolutionary/
+date: 2010-10-07 17:50:40 +0000
+url: "/2010/10/07/chris-cahill-is-no-revolutionary/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - rksk
-  - rryb
+- rksk
+- rryb
 
 ---
 My picture in the Quest’s last issue has sent a heavy load of painfully obstinate, deplorably sterile, and truly pungent RKSK fallout my way. In being forced into conversation with the Reed Institute’s lowest of the low, I am oft asked: Why does the Reed Revolutionary Youth Brigade (RRYB) supposedly “cower anonymously behind the ideals it puts fourth?” “Who are these brigands?” “Why were you there on the night of RKSK initiation?” “Clearly you must be involved, your photo is in the Quest!” To these statements, I would like to make the following clear:

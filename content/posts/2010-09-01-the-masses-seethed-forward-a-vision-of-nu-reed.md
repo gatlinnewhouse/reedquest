@@ -1,12 +1,12 @@
 ---
 title: 'The Masses Seethed Forward: A Vision of Nu Reed'
-authors: 
-  - Ethan Knudson
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-01T02:18:50+00:00
-url: /2010/09/01/the-masses-seethed-forward-a-vision-of-nu-reed/
+date: 2010-09-01 02:18:50 +0000
+url: "/2010/09/01/the-masses-seethed-forward-a-vision-of-nu-reed/"
 categories:
-  - Features
+- Features
 
 ---
 I had no intention of going to Noise Parade midday on Friday. I felt old and sluggish, disinterest in the affairs of new Reedies who would never know the pleasure of the Book of Ships or chant the first line of the Iliad. The event was even printed in the Orientation schedule; a genuine noise parade seemed impossible when they knew it was coming.

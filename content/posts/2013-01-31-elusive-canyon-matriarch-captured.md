@@ -1,13 +1,13 @@
 ---
 title: Elusive Canyon Matriarch Captured
-authors: 
-  - "Drew Garcia"
+authors:
+- Drew Garcia
 type: post
-date: 2013-01-31T09:01:04+00:00
-url: /2013/01/31/elusive-canyon-matriarch-captured/
+date: 2013-01-31 09:01:04 +0000
+url: "/2013/01/31/elusive-canyon-matriarch-captured/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 This week, Ms. Tuxedo Patches, the canyon’s feline matriarch, was finally spayed after over a year of effort on the part of campus staff.

@@ -1,13 +1,13 @@
 ---
 title: New Theme Dorms, PIG Appeals Cancellation
-authors: 
-  - "Emmeline Hill"
+authors:
+- Emmeline Hill
 type: post
-date: 2012-02-18T04:54:49+00:00
-url: /2012/02/17/new-theme-dorms-pig-appeals-cancellation/
+date: 2012-02-18 04:54:49 +0000
+url: "/2012/02/17/new-theme-dorms-pig-appeals-cancellation/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 Three new theme dorms were announced last Thursday: literature, art, and circus. After deliberation by Residence Life Committee, which includes several Housing Advisers, a Resident Director, and Student Body Vice President Aidan Sigman ’13, all of the current dorms were renewed with the exception of People Ingesting Gourmet (PIG). Decisions were made based on new guidelines from Residence Life and input from Community Safety, Residence Life, and the custodial staff.

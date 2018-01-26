@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Community Norms Around Violence at Reed'
-authors: 
-  - "Alberta Bleck"
+authors:
+- Alberta Bleck
 type: post
-date: 2013-09-08T21:03:49+00:00
-url: /2013/09/08/community-norms-around-violence-at-reed/
+date: 2013-09-08 21:03:49 +0000
+url: "/2013/09/08/community-norms-around-violence-at-reed/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Last semester may seem like a time ago, but I want to take a moment to reflect on some things I have continued to think about and that need to be addressed by this community as we approach the new semester and the coming years. In light of events that occurred at Stop Making Sense and the Doyle Owl Fight last April, I want to be unequivocal in stating that violence is not a part of this community’s norms. Beyond this, if we want to be the community we imagine ourselves to be, we must think long and hard about the ways we approach our lives outside of our classes and the atmosphere we are creating through our actions and interactions.

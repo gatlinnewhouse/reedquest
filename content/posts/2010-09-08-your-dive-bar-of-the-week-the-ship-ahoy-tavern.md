@@ -1,16 +1,16 @@
 ---
 title: 'Your Dive Bar of the Week: The Ship Ahoy Tavern'
-authors: 
-  - "Alice Newton"
+authors:
+- Alice Newton
 type: post
-date: 2010-09-08T04:31:20+00:00
-url: /2010/09/08/your-dive-bar-of-the-week-the-ship-ahoy-tavern/
+date: 2010-09-08 04:31:20 +0000
+url: "/2010/09/08/your-dive-bar-of-the-week-the-ship-ahoy-tavern/"
 categories:
-  - Features
+- Features
 tags:
-  - bars
-  - drink
-  - food
+- bars
+- drink
+- food
 
 ---
 <div id="attachment_169" style="width: 262px" class="wp-caption alignleft">

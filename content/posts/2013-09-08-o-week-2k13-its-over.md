@@ -1,13 +1,13 @@
 ---
 title: 'O-Week 2k13: It’s Over'
-authors: 
-  - "Jenn Lindell"
+authors:
+- Jenn Lindell
 type: post
-date: 2013-09-08T20:57:57+00:00
-url: /2013/09/08/o-week-2k13-its-over/
+date: 2013-09-08 20:57:57 +0000
+url: "/2013/09/08/o-week-2k13-its-over/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 First of all, a week-long Orientation for 400 new Reedies is a huge undertaking, so we would like to thank all the staff, faculty, HAs and other students who made O-Week 2013 as great as it was. Thank you! A lot of planning goes into making new students and their parents feel welcome and at ease when they arrive at Reed, so the Quest asked us to reflect on our experience as Orientation Coordinators (OCs), and say a little about the position. Basically, the OCs are responsible for working with student groups to plan student-run events, contacting relevant staff and faculty to ensure that informational sessions go smoothly, and for planning all the fun evening and weekend events. Some of the events we were most proud of include bringing back Critical Hit Burlesque, the late-night Hobbit showing, and the buzz-cut station – suggested by a couple of HAs. (Who knew it would be such a hit? You new students are crazy!)

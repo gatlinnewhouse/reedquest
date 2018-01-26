@@ -1,12 +1,12 @@
 ---
 title: Printing Fees Drop
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-11T20:47:59+00:00
-url: /2011/02/11/printing-fees-drop/
+date: 2011-02-11 20:47:59 +0000
+url: "/2011/02/11/printing-fees-drop/"
 categories:
-  - News
+- News
 
 ---
 Beginning this semester, we’ve decreased printing fees by 20 percent, lowering the cost from 10 cents to eight cents per side. Wait, what? Can that be right? In this economy, with prices rising for… everything?

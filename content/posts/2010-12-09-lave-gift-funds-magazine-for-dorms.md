@@ -1,15 +1,15 @@
 ---
 title: Lave Gift Funds Magazine for Dorms
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-09T22:37:21+00:00
+date: 2010-12-09 22:37:21 +0000
 excerpt: |
   |
     <p>This is the first year of a trial program that is providing a subscription of the nearly weekly magazine Science News to each Reed living unit. The magazine is published by the Society for Science and the Public</p>
-url: /2010/12/09/lave-gift-funds-magazine-for-dorms/
+url: "/2010/12/09/lave-gift-funds-magazine-for-dorms/"
 categories:
-  - Features
+- Features
 
 ---
 **Robert Reynolds, Emeritus Physics Professor**

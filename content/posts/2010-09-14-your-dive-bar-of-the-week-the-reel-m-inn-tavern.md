@@ -1,19 +1,19 @@
 ---
 title: 'Your Dive-Bar of the Week:  The Reel ‘m’ Inn Tavern'
-authors: 
-  - "Alice Newton"
+authors:
+- Alice Newton
 type: post
-date: 2010-09-14T21:30:43+00:00
+date: 2010-09-14 21:30:43 +0000
 excerpt: |
   |
     <p>I suck at choosing favorites. I’m one of those assholes who has, like,  30 “favorite” bands and untold millions of “favorite” Arrested  Development lines, probably because I am too CHICKEN to pick favorite.</p>
-url: /2010/09/14/your-dive-bar-of-the-week-the-reel-m-inn-tavern/
+url: "/2010/09/14/your-dive-bar-of-the-week-the-reel-m-inn-tavern/"
 categories:
-  - Features
+- Features
 tags:
-  - dive bar
-  - drink
-  - food
+- dive bar
+- drink
+- food
 
 ---
 **Alice Newton**

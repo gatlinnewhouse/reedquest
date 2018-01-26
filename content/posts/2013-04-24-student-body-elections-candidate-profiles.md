@@ -1,14 +1,15 @@
 ---
 title: Student Body Elections Candidate Profiles
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-04-24T07:16:23+00:00
-excerpt: "The profiles of this semester's candidates for Senate and Quest Board, accompanied by photographs of said candidates. "
-url: /2013/04/24/student-body-elections-candidate-profiles/
+date: 2013-04-24 07:16:23 +0000
+excerpt: 'The profiles of this semester''s candidates for Senate and Quest Board,
+  accompanied by photographs of said candidates. '
+url: "/2013/04/24/student-body-elections-candidate-profiles/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 <p style="text-align: center;">

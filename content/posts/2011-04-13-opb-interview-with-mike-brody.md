@@ -1,13 +1,13 @@
 ---
 title: OPB Interview with Mike Brody
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-13T18:35:30+00:00
-url: /2011/04/13/opb-interview-with-mike-brody/
+date: 2011-04-13 18:35:30 +0000
+url: "/2011/04/13/opb-interview-with-mike-brody/"
 categories:
-  - News
-  - Uncategorized
+- News
+- Uncategorized
 
 ---
 Listen to OPB&#8217;s interview with Mike Brody regarding Reed&#8217;s sexual assault policies.

@@ -1,17 +1,17 @@
 ---
 title: Financial Aid Rides Out Recession, Continues to Help Reedies
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-22T19:40:12+00:00
+date: 2010-09-22 19:40:12 +0000
 excerpt: |
   |
     <p>Last year the New York Times focused a story on Reed College faring in the face of the recession. A year later, the country’s economic recovery has slowed, and likewise, so has Reed’s.</p>
-url: /2010/09/22/financial-aid-rides-out-recession-continues-to-help-reedies/
+url: "/2010/09/22/financial-aid-rides-out-recession-continues-to-help-reedies/"
 categories:
-  - News
+- News
 tags:
-  - financial aid
+- financial aid
 
 ---
 **Caroline Blair and Ellen Levkoy**

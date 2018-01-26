@@ -1,14 +1,15 @@
 ---
 title: 'Science Savvy: Fish Eyes, Stem Cells, and Cancer'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-09-14T16:58:13+00:00
-excerpt: A tug-of-war between nature and nurture is alive and well inside each of us.
-url: /2012/09/14/science-savvy-fish-eyes-stem-cells-and-cancer/
+date: 2012-09-14 16:58:13 +0000
+excerpt: A tug-of-war between nature and nurture is alive and well inside each of
+  us.
+url: "/2012/09/14/science-savvy-fish-eyes-stem-cells-and-cancer/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 <p style="text-align: left;">

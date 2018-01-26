@@ -1,16 +1,16 @@
 ---
 title: Preventing Sexual Assault on Campus
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-03T20:09:17+00:00
-url: /2011/03/03/preventing-sexual-assault-on-campus/
+date: 2011-03-03 20:09:17 +0000
+url: "/2011/03/03/preventing-sexual-assault-on-campus/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - crime
-  - rape
-  - sexual assault
+- crime
+- rape
+- sexual assault
 
 ---
 _Feminist Student Union and The Sexual Assault Taskforce Provide Some Tips_

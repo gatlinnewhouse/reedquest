@@ -1,13 +1,13 @@
 ---
 title: The Pool Hall Cleans Up
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-04-19T05:15:50+00:00
-url: /2013/04/18/the-pool-hall-cleans-up/
+date: 2013-04-19 05:15:50 +0000
+url: "/2013/04/18/the-pool-hall-cleans-up/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Smoking in the Pool Hall has finally stopped, and the Pool Hall managers have led a thorough cleanup effort to erase its remains. “About 12 people came to the pool hall the Wednesday of Spring Break to assist in the clean up effort,” says Pool Hall Manager Molly Kimball ’16. They weren’t necessarily regulars, Kimball explains, “most people were regular visitors to the Pool Hall who showed up because they cared about the place and saw that something was wrong.” They removed most traces of cigarettes in the Pool Hall but still had an intervening week before the county health inspector was to return.

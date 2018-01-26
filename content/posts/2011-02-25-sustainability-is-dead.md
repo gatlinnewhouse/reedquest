@@ -1,14 +1,14 @@
 ---
 title: Sustainability is Dead
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2011-02-25T22:30:25+00:00
-url: /2011/02/25/sustainability-is-dead/
+date: 2011-02-25 22:30:25 +0000
+url: "/2011/02/25/sustainability-is-dead/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - sustainability
+- sustainability
 
 ---
 News from last week confirmed my long-standing suspicion that both the college administration and the student body have given up on sustainability as a topic of meaningful substance and as a goal worth working towards. Both Colin and Student Senate have forsaken that instrument of environmental justice, the sustainability committee, opting not to further fund community sustainability projects.

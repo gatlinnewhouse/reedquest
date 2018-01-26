@@ -1,19 +1,19 @@
 ---
 title: Hello From Your New Editors
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-12-09T06:03:07+00:00
-url: /2011/12/08/hello-from-your-new-editors/
+date: 2011-12-09 06:03:07 +0000
+url: "/2011/12/08/hello-from-your-new-editors/"
 categories:
-  - From the Editors
-  - Left Sidebar
-  - Top Stories
+- From the Editors
+- Left Sidebar
+- Top Stories
 tags:
-  - conquest
-  - editorial board
-  - queditorial
-  - quest board
+- conquest
+- editorial board
+- queditorial
+- quest board
 
 ---
 <div id="attachment_1113" style="width: 310px" class="wp-caption alignleft">

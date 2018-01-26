@@ -1,12 +1,12 @@
 ---
 title: 'This Year’s Hum Play: Different, but the Same'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:34:18+00:00
-url: /2011/04/28/this-years-hum-play-different-but-the-same/
+date: 2011-04-28 18:34:18 +0000
+url: "/2011/04/28/this-years-hum-play-different-but-the-same/"
 categories:
-  - Features
+- Features
 
 ---
 With Hum Play Friday fast approaching,  I spoke with director Jen Byers about what to expect. It has been a year of much change at Reed, with a dramatic shift in the Hum syllabus that replaced old favorites like Augustine and Apuleius with newcomers like Sallus and Cicero. Will Hum Play undergo similar changes?

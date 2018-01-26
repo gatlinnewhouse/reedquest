@@ -1,14 +1,21 @@
 ---
 title: 'Letter to the Editor: Teach Capitalism, Not Just Socialism'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-03-07T23:21:41+00:00
-excerpt: "My wife and I walked through your beautiful campus recently. During our stroll I perused the various placards on the student union building. One of the posters depicted in a lionizing way Marx, Engels, Lenin and Stalin, all socialists and/or communists. This caused me to think. I understand higher education ought teach all views, I understand students are idealistic and enthusiastic and I understand that much of academia's bent today is liberal and collectivistic. What I wondered was whether Reed College's professors were offering alternative views for students to ponder."
-url: /2013/03/07/letter-to-the-editor-teach-capitalism-not-just-socialism/
+date: 2013-03-07 23:21:41 +0000
+excerpt: My wife and I walked through your beautiful campus recently. During our stroll
+  I perused the various placards on the student union building. One of the posters
+  depicted in a lionizing way Marx, Engels, Lenin and Stalin, all socialists and/or
+  communists. This caused me to think. I understand higher education ought teach all
+  views, I understand students are idealistic and enthusiastic and I understand that
+  much of academia's bent today is liberal and collectivistic. What I wondered was
+  whether Reed College's professors were offering alternative views for students to
+  ponder.
+url: "/2013/03/07/letter-to-the-editor-teach-capitalism-not-just-socialism/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Dear Editor:

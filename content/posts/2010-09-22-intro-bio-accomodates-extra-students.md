@@ -1,13 +1,13 @@
 ---
 title: Intro Bio Accomodates Extra Students
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-22T19:46:22+00:00
-url: /2010/09/22/intro-bio-accomodates-extra-students/
+date: 2010-09-22 19:46:22 +0000
+url: "/2010/09/22/intro-bio-accomodates-extra-students/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 <div id="attachment_315" style="width: 298px" class="wp-caption alignleft">

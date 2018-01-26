@@ -1,13 +1,13 @@
 ---
 title: New Winter Break Housing Policy Enacted
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-10-28T20:35:34+00:00
-url: /2011/10/28/new-winter-break-housing-policy-enacted/
+date: 2011-10-28 20:35:34 +0000
+url: "/2011/10/28/new-winter-break-housing-policy-enacted/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Residence Life is now allowing any and all students to say over winter break for a price of $250. In the past, only students who lived outside the United States have been able to stay at Reed over winter break. This policy left domestic students who could not afford to go home or who had problems at home without anywhere to live. For some students, this price is a relief compared to the price of a plane ticket. But for others, its a burden that used to be nonexistent.

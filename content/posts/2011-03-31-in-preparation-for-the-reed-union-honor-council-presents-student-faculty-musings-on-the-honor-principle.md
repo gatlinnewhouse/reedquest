@@ -1,12 +1,13 @@
 ---
-title: In Preparation for the Reed Union, Honor Council presents student, faculty musings on the Honor Principle
-authors: 
-  - Staff
+title: In Preparation for the Reed Union, Honor Council presents student, faculty
+  musings on the Honor Principle
+authors:
+- Staff
 type: post
-date: 2011-03-31T19:43:35+00:00
-url: /2011/03/31/in-preparation-for-the-reed-union-honor-council-presents-student-faculty-musings-on-the-honor-principle/
+date: 2011-03-31 19:43:35 +0000
+url: "/2011/03/31/in-preparation-for-the-reed-union-honor-council-presents-student-faculty-musings-on-the-honor-principle/"
 categories:
-  - Features
+- Features
 
 ---
 Hey Reed,

@@ -1,12 +1,12 @@
 ---
 title: 'Letter: Carl Bernstein Talk Squandered?'
-authors: 
-  - "Staff"
+authors:
+- Staff
 type: post
-date: 2013-10-18T19:50:30+00:00
-url: /2013/10/18/letter-carl-bernstein-talk-squandered/
+date: 2013-10-18 19:50:30 +0000
+url: "/2013/10/18/letter-carl-bernstein-talk-squandered/"
 categories:
-  - Uncategorized
+- Uncategorized
 
 ---
 Last Thursday we squandered a great opportunity. The great opportunity being Carl Bernstein giving a talk followed by a Q&A. How we squandered it? By focusing our questions on and asking him to talk about political philosophy, which in turn became pseudo political philosophy. This is a misstep on our part because Bernstein is not a political philosopher. However, he does have a wealth of knowledge on other subjects that would have been insightful to hear about. Unfortunately, the advertisements for Bernstein’s talk prompted students to anticipate Police States as a topic instead of as a possible context surrounding the topic of whistleblowing. Police States as a topic is not Bernstein’s field of knowledge. Bernstein himself expressed his confusion about the topic by asking why he had been asked to lecture on this topic during his dinner with me and other students at the Parker House.

@@ -1,14 +1,14 @@
 ---
 title: Can you find the Health Center?
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-09-01T02:27:34+00:00
-url: /2010/09/01/can-you-find-the-health-center/
+date: 2010-09-01 02:27:34 +0000
+url: "/2010/09/01/can-you-find-the-health-center/"
 categories:
-  - News
+- News
 tags:
-  - health
+- health
 
 ---
 Reed is mixing things up by playing a little switcheroo this year with office locations! If you were around last year, you may have encountered some major confusion with the new arrangements, but never fear &#8211; we&#8217;ve got it all spelled out for you right here. So now you _really_ don&#8217;t have any excuse for not knowing where anything is.

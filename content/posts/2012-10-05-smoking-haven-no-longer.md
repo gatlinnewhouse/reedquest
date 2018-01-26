@@ -1,13 +1,13 @@
 ---
 title: Smoking Haven No Longer
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-10-05T17:01:54+00:00
-url: /2012/10/05/smoking-haven-no-longer/
+date: 2012-10-05 17:01:54 +0000
+url: "/2012/10/05/smoking-haven-no-longer/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/smoking-haven-no-longer/poolhall_slider/" rel="attachment wp-att-1708"><img class="alignnone size-full wp-image-1708" title="Pool Hall Smoking" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/10/poolhall_slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,13 +1,13 @@
 ---
 title: 'Senate Beat: Blowin’ Smoke'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-09-14T00:58:29+00:00
-url: /2012/09/13/senate-beat-blowin-smoke/
+date: 2012-09-14 00:58:29 +0000
+url: "/2012/09/13/senate-beat-blowin-smoke/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 Cigarette smokers at Reed may soon find that their favorite campus hangouts no longer welcome them.

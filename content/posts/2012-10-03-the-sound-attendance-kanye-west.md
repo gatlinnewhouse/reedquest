@@ -1,15 +1,16 @@
 ---
 title: 'The Sound Attendance: Kanye West'
-authors: 
-  - "Dorothy Howard"
+authors:
+- Dorothy Howard
 type: post
-date: 2012-10-04T06:10:35+00:00
-excerpt: If you’re in need of a conversation starter this week, you’re in luck because a new Kanye West release just came out.
-url: /2012/10/03/the-sound-attendance-kanye-west/
+date: 2012-10-04 06:10:35 +0000
+excerpt: If you’re in need of a conversation starter this week, you’re in luck because
+  a new Kanye West release just came out.
+url: "/2012/10/03/the-sound-attendance-kanye-west/"
 categories:
-  - Features
-  - Left Sidebar
-  - The Sound Attendance
+- Features
+- Left Sidebar
+- The Sound Attendance
 
 ---
 **Kanye West**: _Good Music Cruel Summer_ G.O.O.D. Music Label [COLLAB-O-RAP]

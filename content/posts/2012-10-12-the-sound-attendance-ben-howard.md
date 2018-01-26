@@ -1,13 +1,14 @@
 ---
 title: 'The Sound Attendance: Ben Howard'
-authors: 
-  - "Dorothy Howard"
+authors:
+- Dorothy Howard
 type: post
-date: 2012-10-12T22:00:53+00:00
-excerpt: Ben Howard plays a familiar type of folk that can seem mine dry and overworked or delicate and heartwarming depending on who you’re talking to.
-url: /2012/10/12/the-sound-attendance-ben-howard/
+date: 2012-10-12 22:00:53 +0000
+excerpt: Ben Howard plays a familiar type of folk that can seem mine dry and overworked
+  or delicate and heartwarming depending on who you’re talking to.
+url: "/2012/10/12/the-sound-attendance-ben-howard/"
 categories:
-  - The Sound Attendance
+- The Sound Attendance
 
 ---
 Concert Review: **Ben Howard**: Wonder Ballroom: October 4  [ACOUSTIC ROCK]

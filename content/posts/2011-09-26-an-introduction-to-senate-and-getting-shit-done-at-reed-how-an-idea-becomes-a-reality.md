@@ -1,14 +1,15 @@
 ---
-title: 'An Introduction to Senate and Getting Shit Done at Reed: How an Idea Becomes a Reality'
-authors: 
-  - "Rob Shryock"
+title: 'An Introduction to Senate and Getting Shit Done at Reed: How an Idea Becomes
+  a Reality'
+authors:
+- Rob Shryock
 type: post
-date: 2011-09-26T22:39:04+00:00
-url: /2011/09/26/an-introduction-to-senate-and-getting-shit-done-at-reed-how-an-idea-becomes-a-reality/
+date: 2011-09-26 22:39:04 +0000
+url: "/2011/09/26/an-introduction-to-senate-and-getting-shit-done-at-reed-how-an-idea-becomes-a-reality/"
 categories:
-  - Features
-  - News
-  - Senate
+- Features
+- News
+- Senate
 
 ---
 In third grade, we all learned about how a bill becomes a law to the tunes of Schoolhouse Rock&#8217;s “I&#8217;m Just a Bill”. Unfortunately, Schoolhouse Rock didn&#8217;t make a Reed College equivalent, because not many Reedies understand how to create change on their own campus. It&#8217;s probably a good thing nobody has made a catchy tune to guide Reedies from the moment when some Reedie (or Reed administrator) thinks, “There ought to be a policy change” to the point when the change occurs, because it would be a very long song and probably pretty convoluted. The process of how policies are made at Reed is not like the three branches of the United States government, nor is it the absolute monarchy Reedies sometimes think it is, and as such, policy making at Reed can seem foreign and complex. But this isn&#8217;t the case: Student Body President Nora McConnell-Johnson has noted, “It’s pretty remarkable how simple (the process) is considering the large amount of autonomy the Student Body has.” This guide is by no means perfect, but it represents an approximation of how an idea becomes a policy change, using some examples from the past year.

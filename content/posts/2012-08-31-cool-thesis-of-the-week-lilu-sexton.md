@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: LiLu Sexton'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-08-31T17:03:12+00:00
-url: /2012/08/31/cool-thesis-of-the-week-lilu-sexton/
+date: 2012-08-31 17:03:12 +0000
+url: "/2012/08/31/cool-thesis-of-the-week-lilu-sexton/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

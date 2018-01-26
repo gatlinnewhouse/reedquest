@@ -1,12 +1,12 @@
 ---
 title: 'Dive Bar of the Week:  Pub at the  End of the Universe'
-authors: 
-  - "Alice Newton"
+authors:
+- Alice Newton
 type: post
-date: 2010-10-14T17:50:37+00:00
-url: /2010/10/14/dive-bar-of-the-week-pub-at-the-end-of-the-universe/
+date: 2010-10-14 17:50:37 +0000
+url: "/2010/10/14/dive-bar-of-the-week-pub-at-the-end-of-the-universe/"
 categories:
-  - Features
+- Features
 
 ---
 A lot of people are going to want to punch me right in the mouth for saying this, but the Pub at the End of the Universe kind of sucks. Well, maybe it doesn’t outright suck, but every time I have been there I have been neither over- nor under-whelmed. The Pub is just kind of whelming (is that a word?) or mediocre (that’s definitely a word) at best.

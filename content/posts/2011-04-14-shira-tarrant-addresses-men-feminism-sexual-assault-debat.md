@@ -1,19 +1,19 @@
 ---
 title: Shira Tarrant Addresses Men, Feminism, Sexual Assault Debate
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-04-15T00:33:34+00:00
+date: 2011-04-15 00:33:34 +0000
 excerpt: |
   |
     <p><a href="../wp-content/uploads/2011/04/shira.jpg"><img class=" alignleft" style="margin: 7px;" title="shira" src="../wp-content/uploads/2011/04/shira.jpg" alt="" width="173" height="243" /></a>On Tuesday night, Shira Tarrant, a nationally distinguished expert on gender and sexual politics, spoke to a crowd of students and individuals from outside Reed in Vollum Lounge. The title of the discussion was<em> Politics and Pleasure: Men, Feminism, and Social Change</em>, though part of her lecture was devoted to giving suggestions on ways one can take an active role in stopping or prohibiting sexual assault and violence; the latter of which has become a controversial issue among students this past semester.</p>
     <p>&nbsp;</p>
-url: /2011/04/14/shira-tarrant-addresses-men-feminism-sexual-assault-debat/
+url: "/2011/04/14/shira-tarrant-addresses-men-feminism-sexual-assault-debat/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - sexual assault
+- sexual assault
 
 ---
 <div id="attachment_741" style="width: 257px" class="wp-caption alignleft">

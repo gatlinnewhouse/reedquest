@@ -1,13 +1,13 @@
 ---
 title: 'Science Savvy: The Science Behind the Sides'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-24T23:47:48+00:00
-url: /2012/11/24/science-savvy-the-science-behind-the-sides/
+date: 2012-11-24 23:47:48 +0000
+url: "/2012/11/24/science-savvy-the-science-behind-the-sides/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 _**By Emily Crotteau and Kara Cerveny**_

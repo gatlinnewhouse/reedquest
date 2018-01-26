@@ -1,12 +1,12 @@
 ---
 title: Burlesque CHERishes Has-Beens and Stanley Tucci
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-12-02T18:51:56+00:00
-url: /2010/12/02/burlesque-cherishes-has-beens-and-stanley-tucci/
+date: 2010-12-02 18:51:56 +0000
+url: "/2010/12/02/burlesque-cherishes-has-beens-and-stanley-tucci/"
 categories:
-  - Infotainment
+- Infotainment
 
 ---
 [<img class="alignleft size-full wp-image-512" style="margin: 7px;" title="flores in burlesque" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2010/12/flores-in-burlesque.jpg?resize=202%2C151" alt="" data-recalc-dims="1" />][1]Sequins, tits, a scruffy Southern man, a sassy gay man, Cher and Christina Aguilera. That’s Burlesque in a nutshell. Running at an hour and a half, Burlesque is the perfect escape from end-of-the-semester blues. It isn’t much more than that, though.

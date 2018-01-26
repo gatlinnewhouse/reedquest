@@ -1,14 +1,14 @@
 ---
-title: “The Boatman’s Call,” Nearly Twenty Years On
-authors: 
-  - "Tyler Adams"
+title: "“The Boatman’s Call,” Nearly Twenty Years On"
+authors:
+- Tyler Adams
 type: post
-date: 2017-03-16T02:50:39+00:00
-url: /2017/03/16/the-boatmans-call-nearly-twenty-years-on/
+date: 2017-03-16 02:50:39 +0000
+url: "/2017/03/16/the-boatmans-call-nearly-twenty-years-on/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - "Don't Miss"
+- Don't Miss
 
 ---
 Nick Cave cuts a fine figure, storming through the world in black, fervent emotion—and the dyed black hair and funereal suits to match. Together with his band, the Bad Seeds, he’s released a remarkable 22 albums in 32 years, ranging from rock to punk to murder ballads to strong blues to his own personal brand of hymns on 1997’s The Boatman’s Call. 

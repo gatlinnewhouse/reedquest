@@ -1,12 +1,12 @@
 ---
 title: Restaurant Review
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2011-09-26T21:31:18+00:00
-url: /2011/09/26/restaurant-review/
+date: 2011-09-26 21:31:18 +0000
+url: "/2011/09/26/restaurant-review/"
 categories:
-  - Infotainment
+- Infotainment
 
 ---
 Welcome to Reed, freshling! Portland is home to a great food culture, and Southeast in particular, with its quiet residential neighborhoods and tree-lined boulevards, has numerous delicious and accessible options. You&#8217;ve likely already discovered nearby institutions like Tom Yum, the Delta, and Saburo. We at the Quest** **have compiled a list of some of our favorite Southeast Portland eateries** **for you to check out when you&#8217;re not busy with your Hum reading.

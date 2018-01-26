@@ -1,13 +1,13 @@
 ---
 title: Glass, Silicone, and 11 Inches of Stainless Steel
-authors: 
-  - "Lauren Nelson"
+authors:
+- Lauren Nelson
 type: post
-date: 2013-02-07T10:30:37+00:00
-url: /2013/02/07/glass-silicon-and-11-inches-of-stainless-steel/
+date: 2013-02-07 10:30:37 +0000
+url: "/2013/02/07/glass-silicon-and-11-inches-of-stainless-steel/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="alignright size-full wp-image-2023" alt="tape and scissors" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/02/IMG_0220-Version-2_web.jpg?resize=770%2C430" data-recalc-dims="1" />][1]Reedies gathered around a table piled high with sex toys, many of them of unclear purpose, in Eliot Hall last Tuesday. The Joys of (Sex) Toys, hosted by ADSAPR Jyl Shaffer and Student Educators Taylor Bailey and Gabriele Slaughter, aimed to educate curious members of the Reed community on the history, types, and uses of sex toys. The workshop was facilitated by She Bop, a “female-friendly” boutique in North Portland.

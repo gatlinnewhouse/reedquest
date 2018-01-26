@@ -1,12 +1,12 @@
 ---
 title: National Book Award Poet Unites Humanity
-authors: 
-  - "Brent Bailey"
+authors:
+- Brent Bailey
 type: post
-date: 2012-03-23T23:08:02+00:00
-url: /2012/03/23/national-book-award-poet-unites-humanity/
+date: 2012-03-23 23:08:02 +0000
+url: "/2012/03/23/national-book-award-poet-unites-humanity/"
 categories:
-  - News
+- News
 
 ---
 Thursday evening before Spring Break, Nikky Finney visited the Chapel to read her poetry for the Visiting Writer Series. Finney, the Provost’s Distinguished Service Professor of English at the University of Kentucky, has written four books of poetry and a short story cycle. Her most recent book, _Head Off & Split_, published in 2011, earned her the National Book Award for Poetry. She received great acclaim for her acceptance speech, which was described by host John Lithgow as “a gorgeously stated discussion of race, reading, and writing,” and “the most beautiful acceptance speech for anything that I’ve ever heard in my life” in the Chicago Tribune.

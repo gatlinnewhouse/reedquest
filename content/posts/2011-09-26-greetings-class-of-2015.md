@@ -1,13 +1,13 @@
 ---
 title: Greetings, Class of 2015!
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2011-09-26T20:54:46+00:00
-url: /2011/09/26/greetings-class-of-2015/
+date: 2011-09-26 20:54:46 +0000
+url: "/2011/09/26/greetings-class-of-2015/"
 categories:
-  - Features
-  - Front Page
+- Features
+- Front Page
 
 ---
 Hello, freshmen.  Welcome to Reed! Congratulations on becoming part of our crazy and wonderful school.  Now gather round, and I will share with you some choice words of wisdom about Reed and the mystical process of “becoming a Reedie.”

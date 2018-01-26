@@ -1,12 +1,12 @@
 ---
 title: From Controversy to Constructive Action
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:27:44+00:00
-url: /2011/04/28/from-controversy-to-constructive-action/
+date: 2011-04-28 18:27:44 +0000
+url: "/2011/04/28/from-controversy-to-constructive-action/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 As students, we need to rethink what it means to work constructively with the administration.

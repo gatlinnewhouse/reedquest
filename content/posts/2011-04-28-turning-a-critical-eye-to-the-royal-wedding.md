@@ -1,12 +1,12 @@
 ---
 title: Turning a Critical Eye to the Royal Wedding
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:18:10+00:00
-url: /2011/04/28/turning-a-critical-eye-to-the-royal-wedding/
+date: 2011-04-28 18:18:10 +0000
+url: "/2011/04/28/turning-a-critical-eye-to-the-royal-wedding/"
 categories:
-  - Features
+- Features
 
 ---
 This Friday, I will stumble into my nine o’clock organic chemistry lecture in a haze of sleep deprivation. I will have spent the night watching the most elaborate union to be put on this decade: The marriage of His Royal Highness Prince William of Wales and Kate Middleton. I believe that even as I force my brain to absorb reaction mechanisms, it will have been worth it. “Why should I care about the wedding?” has been the question of most classmates I express excitement to. It is a legitimate question, with many answers. The following are a few reasons why the impending nuptials should matter, even to us Reedies.

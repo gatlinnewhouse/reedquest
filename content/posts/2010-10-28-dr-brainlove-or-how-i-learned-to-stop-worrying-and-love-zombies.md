@@ -1,15 +1,15 @@
 ---
 title: 'Dr. Brainlove or: How I Learned to Stop Worrying and Love Zombies'
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-10-28T17:48:01+00:00
-url: /2010/10/28/dr-brainlove-or-how-i-learned-to-stop-worrying-and-love-zombies/
+date: 2010-10-28 17:48:01 +0000
+url: "/2010/10/28/dr-brainlove-or-how-i-learned-to-stop-worrying-and-love-zombies/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - portland
-  - zombies
+- portland
+- zombies
 
 ---
 It was a drizzly Saturday in Pioneer Square. I had arrived early to get some homework done while I had a cup of coffee. On the corner, a group of young proselytizers banged on their Bibles and shouted: “Show me one scientist who can do what Our Lord has done! He is our almighty God, risen from the grave to forgive our sins!”

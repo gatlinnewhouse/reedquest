@@ -1,12 +1,12 @@
 ---
 title: 'Being on Quest Board: Reflections from a Queditor'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-11-04T20:32:48+00:00
-url: /2010/11/04/being-on-quest-board-reflections-from-a-queditor/
+date: 2010-11-04 20:32:48 +0000
+url: "/2010/11/04/being-on-quest-board-reflections-from-a-queditor/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 When I first was asked to join Quest Board for this semester last spring, I had no idea what I was really in for. Never did I imagine I would be sacrificing my Tuesday nights to slave over layout until the wee hours of the morning, proceeding to fall asleep at my desk while attempting to do history reading as the sun began to rise outside my window. Never did I envision myself, bleary-eyed, swigging coffee, and struggling to come up with creative synonyms while simultaneously thinking of what song to play next during my office DJ shift (lesson learned: when all else fails, turn to R. Kelly).

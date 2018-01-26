@@ -1,12 +1,12 @@
 ---
 title: Reed’s Resident Underground Celebrity Pens Tell-All Book
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-04-07T19:28:50+00:00
-url: /2011/04/07/reeds-resident-underground-celebrity-pens-tell-all-book/
+date: 2011-04-07 19:28:50 +0000
+url: "/2011/04/07/reeds-resident-underground-celebrity-pens-tell-all-book/"
 categories:
-  - News
+- News
 
 ---
 Monday nights on the Reed campus are usually pretty stressful, and this Monday’s dreary April weather certainly wasn’t making things any more pleasant. Drizzly and grey, students trucked dutifully from classrooms to the library to Commons and back, faces drawn and pallid from lack of sun exposure. The previous Friday’s glorious burst of sunshine looked, for all intents and purposes, like a sick joke the universe had decided to play on Portland.

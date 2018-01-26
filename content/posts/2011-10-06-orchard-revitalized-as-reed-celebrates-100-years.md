@@ -1,13 +1,13 @@
 ---
 title: Orchard Revitalized as Reed Celebrates 100 Years
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2011-10-06T09:00:39+00:00
-url: /2011/10/06/orchard-revitalized-as-reed-celebrates-100-years/
+date: 2011-10-06 09:00:39 +0000
+url: "/2011/10/06/orchard-revitalized-as-reed-celebrates-100-years/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Reed celebrates its centennial this weekend with multiple events around campus, including the dedication of the restored orchard, a student-body-initiated project that has been in the works for several years. President Diver will give a short speech and help plant a “centennial tree” at the event, which will also include a bluegrass band, tabling by student organizations, and a bicycle-powered cider press.

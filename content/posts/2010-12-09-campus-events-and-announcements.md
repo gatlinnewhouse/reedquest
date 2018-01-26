@@ -1,12 +1,12 @@
 ---
 title: Campus Events And Announcements
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-09T22:50:49+00:00
-url: /2010/12/09/campus-events-and-announcements/
+date: 2010-12-09 22:50:49 +0000
+url: "/2010/12/09/campus-events-and-announcements/"
 categories:
-  - Events
+- Events
 
 ---
 **Community Safety needs Office Assistants!**

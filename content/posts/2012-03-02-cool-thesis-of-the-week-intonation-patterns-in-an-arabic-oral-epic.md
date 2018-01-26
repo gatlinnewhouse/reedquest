@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Intonation Patterns in an Arabic Oral Epic'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-03-03T00:29:08+00:00
-url: /2012/03/02/cool-thesis-of-the-week-intonation-patterns-in-an-arabic-oral-epic/
+date: 2012-03-03 00:29:08 +0000
+url: "/2012/03/02/cool-thesis-of-the-week-intonation-patterns-in-an-arabic-oral-epic/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 **<a href="http://www.reedquest.org/2012/03/cool-thesis-of-the-week-intonation-patterns-in-an-arabic-oral-epic/img_1150-1/" rel="attachment wp-att-1397"><img class="aligncenter size-full wp-image-1397" title="Cool Thesis" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/03/IMG_1150-1.png?resize=770%2C430" alt="" data-recalc-dims="1" /></a>**

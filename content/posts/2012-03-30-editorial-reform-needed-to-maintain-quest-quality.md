@@ -1,16 +1,16 @@
 ---
 title: 'Editorial: Reform Needed to Maintain Quest Quality'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-03-30T22:15:39+00:00
-url: /2012/03/30/editorial-reform-needed-to-maintain-quest-quality/
+date: 2012-03-30 22:15:39 +0000
+url: "/2012/03/30/editorial-reform-needed-to-maintain-quest-quality/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 tags:
-  - quest
-  - reform
+- quest
+- reform
 
 ---
 The quality of _The Quest_ has fluctuated wildly in its near century of existence. In recent years, it has published everything from coloring contests to articles on Pet Parade titled “Pawsitive Reinforcement.” _Quest_ Board elections too often deteriorate into popularity contests and do not guarantee a high quality _Quest_.

@@ -1,13 +1,13 @@
 ---
 title: Reed Leads with Nation’s First Tango Music Institute
-authors: 
-  - "Elisa Cibils"
+authors:
+- Elisa Cibils
 type: post
-date: 2013-03-07T23:24:16+00:00
-url: /2013/03/07/reed-leads-with-nations-first-tango-music-institute/
+date: 2013-03-07 23:24:16 +0000
+url: "/2013/03/07/reed-leads-with-nations-first-tango-music-institute/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Reed College will be hosting the country’s first Tango Music Institute this summer from June 23 &#8211; 30. The intensive music camp is designed to teach fifty proficient musicians to perform using the unique tango performance practice technique on their personal instrument.

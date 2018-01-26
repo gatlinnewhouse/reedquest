@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Consent & Substance Use'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2012-11-08T08:07:02+00:00
-url: /2012/11/08/letter-consent-substance-use/
+date: 2012-11-08 08:07:02 +0000
+url: "/2012/11/08/letter-consent-substance-use/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 This past week while many of us sat ready to launch various criticisms (constructive or otherwise) at guest speaker Meghan McCain, I was in Eliot 314 taking part in a panel discussion facilitated by Students for a Sensible Drug Policy. The panel consisted of one Reed alumnus and White Bird paramedic, Garth Hope-Melnick, two professors from the Psychology department, Daniel Reisberg (Cognitive psychologist) and Paul Currie (Neuroscientist), and of course, our Assistant Dean of Sexual Assault Prevention and Response, Jyl Shaffer. The subject of discussion: how do drugs influence your ability to get/give good consent?

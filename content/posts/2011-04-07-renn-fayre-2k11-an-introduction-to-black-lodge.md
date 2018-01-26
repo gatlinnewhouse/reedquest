@@ -1,15 +1,15 @@
 ---
 title: 'Renn Fayre 2K11: An Introduction to Black Lodge'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-07T19:18:20+00:00
-url: /2011/04/07/renn-fayre-2k11-an-introduction-to-black-lodge/
+date: 2011-04-07 19:18:20 +0000
+url: "/2011/04/07/renn-fayre-2k11-an-introduction-to-black-lodge/"
 categories:
-  - Features
+- Features
 tags:
-  - black lodge
-  - renn fayre
+- black lodge
+- renn fayre
 
 ---
 Every Renn Fayre, Reed’s campus is transformed: the sidewalks become covered in glitter, strange sculptures grow up from the ground, and new spaces emerge, overflowing with music. Black Lodge is one of those spaces. You enter the lodge and are bathed in the violet glow of black lights. The bass pulses through your chest and you lose yourself in a mass of dancing Reedies.

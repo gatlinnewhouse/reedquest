@@ -1,12 +1,12 @@
 ---
-title: 'Events & Announcements'
-authors: 
-  - Staff
+title: Events & Announcements
+authors:
+- Staff
 type: post
-date: 2011-02-08T20:23:57+00:00
-url: /2011/02/08/events-announcements/
+date: 2011-02-08 20:23:57 +0000
+url: "/2011/02/08/events-announcements/"
 categories:
-  - Events
+- Events
 
 ---
 **Activities Fair!

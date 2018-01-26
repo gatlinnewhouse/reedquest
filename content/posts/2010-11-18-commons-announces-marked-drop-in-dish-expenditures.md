@@ -1,12 +1,12 @@
 ---
 title: Commons Announces Marked Drop in Dish Expenditures
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2010-11-18T18:55:29+00:00
-url: /2010/11/18/commons-announces-marked-drop-in-dish-expenditures/
+date: 2010-11-18 18:55:29 +0000
+url: "/2010/11/18/commons-announces-marked-drop-in-dish-expenditures/"
 categories:
-  - News
+- News
 
 ---
 Bon Appetite – the catering company that serves us food in the family room we call Commons – is contractually required to buy $6,500 worth of new dishes every year. In the past years, however, this cost has been much higher. Last year was the worst yet: the total cost for replaced commons dishes was around $38,000 dollars. That’s almost $32,000, or around 75% of the cost of one Reedie’s tuition, that went to buying plates, bowls and silverware. Fortunately, this year has seen a great turnaround. On November 16th of last year, Commons had already paid their $6,500 for new dishes, but Reed had to also pay a total of $8,472. This year, Commons still has had to pay their $6,500, but Reed’s cost has seen a big drop to only being billed $1,412.

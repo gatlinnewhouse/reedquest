@@ -1,15 +1,15 @@
 ---
 title: 'Madness and Terror:  A Former Treasurer’s Recollection of Funding Hell'
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-08T04:19:53+00:00
-url: /2010/09/08/madness-and-terror-a-former-treasurers-recollection-of-funding-hell/
+date: 2010-09-08 04:19:53 +0000
+url: "/2010/09/08/madness-and-terror-a-former-treasurers-recollection-of-funding-hell/"
 categories:
-  - Senate
+- Senate
 tags:
-  - funding poll
-  - senate
+- funding poll
+- senate
 
 ---
 Vollum 120 looked more like a war-torn battlefield than a classroom by the time we finished with it. Senators that had given up were passed out on the floor, and those still standing were red-eyed with exhaustion. Dirty paper plates, empty champagne bottles, and the remnants of a fifth of whiskey cluttered the room.

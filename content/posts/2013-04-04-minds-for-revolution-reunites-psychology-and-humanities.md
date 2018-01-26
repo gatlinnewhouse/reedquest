@@ -1,13 +1,13 @@
 ---
 title: Minds For Revolution Reunites Psychology and Humanities
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-04-04T17:51:43+00:00
-url: /2013/04/04/minds-for-revolution-reunites-psychology-and-humanities/
+date: 2013-04-04 17:51:43 +0000
+url: "/2013/04/04/minds-for-revolution-reunites-psychology-and-humanities/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Minds for Revolution, a new organization started by Lina Shadrac ‘15 and Erica Meadow ’13, seeks to add a historical and social perspective to psychology at Reed. “Psychology has an incredibly problematic history as a discipline,” Meadow says. &#8220;Psychologists and psychiatrists have been involved in the performance of non-consensual lobotomies, the pathologization of gay people, and assisting the US military in torture. Many of the attitudes that led to historical atrocities continue unquestioned in psychology today,” Meadow says. “To gain a perspective on these aspects of psychology we decided to do reading on our own and invited others to do so as well.”

@@ -1,13 +1,13 @@
 ---
 title: Claude Steele, Stereotype Threat, and Reed
-authors: 
-  - "Nora McConnell-Johnson"
+authors:
+- Nora McConnell-Johnson
 type: post
-date: 2011-10-27T23:26:17+00:00
-url: /2011/10/27/claude-steele-stereotype-threat-and-reed/
+date: 2011-10-27 23:26:17 +0000
+url: "/2011/10/27/claude-steele-stereotype-threat-and-reed/"
 categories:
-  - Events
-  - News
+- Events
+- News
 
 ---
 Everyone is exposed to negative stereotypes. If you’ve ever felt like someone  made up their mind about you instantaneously , you’ve experienced “stereotype threat.”  Stereotype threat happens when a person realizes that they might be judged according to a negative stereotype, or that they may even confirm that stereotype with their actions. Dr. Claude Steele has found that this experience can actually hinder one’s performance enough to create a self-fulfilling prophecy that might fuel the fire of stereotypes. The title of Steele’s book, _Whistling Vivaldi,_ comes from a story that his friend told him. His friend, Brent Staples (a writer for the _New York Times_), at the time a young African American man living in Chicago, found that whistling Vivaldi as he walked past white people on the street lessened their fear of him. Basically, whistling classical music was an attempt to convey that negative stereotypes about young African American men were not applicable to him.

@@ -1,14 +1,14 @@
 ---
 title: 'The Lutz Report: Genesis'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-02-18T05:18:31+00:00
-url: /2012/02/17/the-lutz-report-genesis/
+date: 2012-02-18 05:18:31 +0000
+url: "/2012/02/17/the-lutz-report-genesis/"
 categories:
-  - Features
-  - Left Sidebar
-  - The Lutz Report
+- Features
+- Left Sidebar
+- The Lutz Report
 
 ---
 <div id="attachment_1186" style="width: 310px" class="wp-caption alignright">

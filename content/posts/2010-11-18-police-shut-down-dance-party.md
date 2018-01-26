@@ -1,12 +1,12 @@
 ---
 title: Police Shut Down Dance Party
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-11-18T18:44:30+00:00
-url: /2010/11/18/police-shut-down-dance-party/
+date: 2010-11-18 18:44:30 +0000
+url: "/2010/11/18/police-shut-down-dance-party/"
 categories:
-  - News
+- News
 
 ---
 _Neighbor’s Noise Complaint Ends Reedies’ Fun_

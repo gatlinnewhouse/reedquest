@@ -1,12 +1,12 @@
 ---
 title: 'Letter: In Addressing Controversy, Keep Reed a Safe Space'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-29T21:44:52+00:00
-url: /2012/11/29/letter-in-addressing-controversy-keep-reed-a-safe-space/
+date: 2012-11-29 21:44:52 +0000
+url: "/2012/11/29/letter-in-addressing-controversy-keep-reed-a-safe-space/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 _**By Neil Anderson**_

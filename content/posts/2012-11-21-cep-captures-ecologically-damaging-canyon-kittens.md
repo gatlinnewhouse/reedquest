@@ -1,13 +1,13 @@
 ---
 title: CEP Captures Ecologically Damaging Canyon Kittens
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-21T09:40:29+00:00
-url: /2012/11/21/cep-captures-ecologically-damaging-canyon-kittens/
+date: 2012-11-21 09:40:29 +0000
+url: "/2012/11/21/cep-captures-ecologically-damaging-canyon-kittens/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/11/cep-captures-ecologically-damaging-canyon-kittens/kittens_web/" rel="attachment wp-att-1835"><img class="alignnone size-full wp-image-1835" title="Canyon Kittens" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/11/kittens_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

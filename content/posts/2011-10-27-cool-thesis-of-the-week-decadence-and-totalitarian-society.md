@@ -1,12 +1,12 @@
 ---
 title: 'Cool Thesis of the Week: Decadence and Totalitarian Society'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-10-27T19:25:54+00:00
-url: /2011/10/27/cool-thesis-of-the-week-decadence-and-totalitarian-society/
+date: 2011-10-27 19:25:54 +0000
+url: "/2011/10/27/cool-thesis-of-the-week-decadence-and-totalitarian-society/"
 categories:
-  - Cool Thesis of the Week
+- Cool Thesis of the Week
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

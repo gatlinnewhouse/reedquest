@@ -1,12 +1,12 @@
 ---
 title: Missed Connections
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-30T18:17:07+00:00
-url: /2010/09/30/missed-connections-3/
+date: 2010-09-30 18:17:07 +0000
+url: "/2010/09/30/missed-connections-3/"
 categories:
-  - Uncategorized
+- Uncategorized
 
 ---
 You look and dress like a French impressionist painter and always seem like you’re walking through a dream. I totally dig it. If you’re a modern-day Degas, you’re more than welcome to do a nude painting of me 😉

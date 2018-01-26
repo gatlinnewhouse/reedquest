@@ -1,12 +1,12 @@
 ---
 title: Bursting the Bubble
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-03-31T19:48:51+00:00
-url: /2011/03/31/bursting-the-bubble-5/
+date: 2011-03-31 19:48:51 +0000
+url: "/2011/03/31/bursting-the-bubble-5/"
 categories:
-  - News
+- News
 
 ---
 Eighty-four-year-old James Gronseth of Portland, OR is joining the Peace Corps. He’s going to be stationed in Botswana, where he will use his hospital administration background to help improve treatment for HIV and AIDs patients. The average age of a Peace Corps volunteer is 28, so Gronseth says he’s “bringing age diversity.” Well said, gramps.

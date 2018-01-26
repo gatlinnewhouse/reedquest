@@ -1,12 +1,12 @@
 ---
 title: Ave Incitatus! Getting to Know Your New Senator
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:41:07+00:00
-url: /2011/04/28/ave-incitatus-getting-to-know-your-new-senator/
+date: 2011-04-28 18:41:07 +0000
+url: "/2011/04/28/ave-incitatus-getting-to-know-your-new-senator/"
 categories:
-  - Features
+- Features
 
 ---
 You may have noticed in this semester’s election results that the new senators include an individual of a curiously equine complexion: “Incitatus.”  Who, you may ask, is this dark horse candidate that has so brilliantly triumphed? Rumor has it that Incitatus is actually Francis Dieterle, but this is false.  Mr. Dieterle is merely Incitatus’s servant and spokesman.  The truth is to be found in one of Incitatus’s campaign posters: You can’t beat a dead horse.

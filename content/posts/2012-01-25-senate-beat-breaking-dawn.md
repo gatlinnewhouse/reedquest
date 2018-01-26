@@ -1,14 +1,14 @@
 ---
 title: 'Senate Beat: Breaking Dawn'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-01-26T06:14:32+00:00
-url: /2012/01/25/senate-beat-breaking-dawn/
+date: 2012-01-26 06:14:32 +0000
+url: "/2012/01/25/senate-beat-breaking-dawn/"
 categories:
-  - Left Sidebar
-  - News
-  - Senate Beat
+- Left Sidebar
+- News
+- Senate Beat
 
 ---
 The majority of Tuesday’s lightly-attended Senate Town Hall meeting was spent discussing the Quest Board selection process. However, President Brian Moore ’13 reviewed a bylaw change requested by faculty. Moore later said in an email, “In effect Community Rights Subcommittee will publish summaries of all mediation attempts, not just successful mediations. This has the advantage of informing the community about how issues are handled in a more timely manner and assures that all CRS actions are made public since it would always be possible for CRS to decide against pursuing the case further or the JBoard could decline to hear the case.” Discussion of the change was tabled until Senate’s executive meeting on Sunday.

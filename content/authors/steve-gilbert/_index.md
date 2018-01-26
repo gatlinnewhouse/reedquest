@@ -1,4 +1,5 @@
 ---
-title: "Steve Gilbert"
+title: Steve Gilbert
 type: author
+
 ---

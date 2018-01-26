@@ -1,12 +1,12 @@
 ---
 title: On-Campus Events
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-04T20:30:37+00:00
-url: /2010/11/04/on-campus-events/
+date: 2010-11-04 20:30:37 +0000
+url: "/2010/11/04/on-campus-events/"
 categories:
-  - Events
+- Events
 
 ---
 **Día de los Muertos Celebration

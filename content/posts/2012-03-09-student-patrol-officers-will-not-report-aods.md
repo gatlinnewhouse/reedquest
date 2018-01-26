@@ -1,13 +1,13 @@
 ---
 title: Student Patrol Officers Will Not Report AODs
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-03-09T21:11:55+00:00
-url: /2012/03/09/student-patrol-officers-will-not-report-aods/
+date: 2012-03-09 21:11:55 +0000
+url: "/2012/03/09/student-patrol-officers-will-not-report-aods/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/student-patrol-officers-will-not-report-aods/spo-2slider-2/" rel="attachment wp-att-1411"><img class="aligncenter size-full wp-image-1411" title="Student Patrol Officer Poster" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/03/SPO-2slider1.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

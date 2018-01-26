@@ -1,15 +1,15 @@
 ---
 title: 5 Songs for the Dirtiest Hipster Prom
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-10-07T17:58:01+00:00
-url: /2010/10/07/5-songs-for-the-dirtiest-hipster-prom/
+date: 2010-10-07 17:58:01 +0000
+url: "/2010/10/07/5-songs-for-the-dirtiest-hipster-prom/"
 categories:
-  - Features
+- Features
 tags:
-  - 5 songs
-  - music
+- 5 songs
+- music
 
 ---
 Remember high school? You know, back when you weren’t a hipster? You may not have been preaching the gospel of that obscure freak-folk collective, but nevertheless, the music they played at your senior prom most likely wasn’t tailored to your “alternative” musical proclivities. Instead, you probably had some lame DJ with iTunes crossfader encouraging you to crank dat Soulja Boy while wearing apple bottom jeans (don’t forget the boots with the fur). So this week, we here at the Quest have turned back the clocks and written a bit of alternate history about your prom. Sit back and crack open a PBR, because here come five songs that would have been played if your high school was dominated by hipsters.

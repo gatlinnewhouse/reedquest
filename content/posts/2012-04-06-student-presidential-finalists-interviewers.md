@@ -1,15 +1,15 @@
 ---
 title: Student Presidential Finalists Interviewers
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-04-06T20:17:12+00:00
-url: /2012/04/06/student-presidential-finalists-interviewers/
+date: 2012-04-06 20:17:12 +0000
+url: "/2012/04/06/student-presidential-finalists-interviewers/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - president
+- president
 
 ---
 _The Quest_ sent questions to the students chosen to interview presidential candidates. Of the fifteen students that were picked, seven sent responses.

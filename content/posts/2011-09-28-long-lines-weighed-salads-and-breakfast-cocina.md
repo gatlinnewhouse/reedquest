@@ -1,13 +1,13 @@
 ---
 title: Long Lines, Weighed Salads, and Breakfast Cocina
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-09-29T03:12:26+00:00
-url: /2011/09/28/long-lines-weighed-salads-and-breakfast-cocina/
+date: 2011-09-29 03:12:26 +0000
+url: "/2011/09/28/long-lines-weighed-salads-and-breakfast-cocina/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “Last year, I only had twenty minutes to get from the physics building, to Commons, and then to the third floor of Elliot,” said junior Julia Fisk. “I was late sometimes, but I usually made it. I just feel bad for people who have to do that this year.” A new computer system at Commons has lengthened lines exponentially, keeping Reedies from their lunch and dinner. Many students are irritated by this.

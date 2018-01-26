@@ -1,17 +1,17 @@
 ---
 title: 'Recipe from The Co-Op: Chocolate Chocolate Truffles'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T11:18:08+00:00
+date: 2010-09-08 11:18:08 +0000
 excerpt: |
   |
     <p>Chocolate is one of the main food groups, along with garlic, olive oil, and red wine. The friend who taught me this recipe (which I then forgot to write down and made up again later for a friend’s birthday) insisted that it ought to be done only with Hershey’s chocolate.</p>
-url: /2010/09/08/recipe-from-the-co-op-chocolate-chocolate-truffles/
+url: "/2010/09/08/recipe-from-the-co-op-chocolate-chocolate-truffles/"
 categories:
-  - Features
+- Features
 tags:
-  - recipe
+- recipe
 
 ---
 **By Jenny Calvert-Warren**

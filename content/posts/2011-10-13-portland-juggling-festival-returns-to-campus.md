@@ -1,12 +1,12 @@
 ---
 title: Portland Juggling Festival Returns to Campus
-authors: 
-  - "Jeremy Melloul"
+authors:
+- Jeremy Melloul
 type: post
-date: 2011-10-13T22:33:49+00:00
-url: /2011/10/13/portland-juggling-festival-returns-to-campus/
+date: 2011-10-13 22:33:49 +0000
+url: "/2011/10/13/portland-juggling-festival-returns-to-campus/"
 categories:
-  - News
+- News
 
 ---
 Once a year, Reed campus becomes temporary home to a cohort of hippie-like jugglers running around displaying their proficiency for performance, friendliness, and getting really, _really_ drunk. This is what happened in the annual Portland Juggling Festival in Vollum Lecture Hall, Kaul Auditorium, the Sports Center, and the Commons porch on Friday Sep. 30th to Sunday Oct 2<sup>nd</sup>.

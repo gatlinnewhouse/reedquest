@@ -1,13 +1,13 @@
 ---
 title: Renn Fayre Czar Choice Disputed
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-11-04T21:23:08+00:00
-url: /2011/11/04/renn-fayre-czar-choice-disputed/
+date: 2011-11-04 21:23:08 +0000
+url: "/2011/11/04/renn-fayre-czar-choice-disputed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The circumstances of Appointments Committee&#8217;s choice of Renn Fayre Czars is being contested by some members of Senate as well as members of the larger Reed community. Student Body President Nora McConnell-Johnson called the selection process a “disservice to the student body” and “unfair.”

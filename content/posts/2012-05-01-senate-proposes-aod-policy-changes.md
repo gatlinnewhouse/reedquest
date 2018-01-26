@@ -1,16 +1,16 @@
 ---
 title: Senate Proposes AOD Policy Changes
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-05-02T04:39:45+00:00
-url: /2012/05/01/senate-proposes-aod-policy-changes/
+date: 2012-05-02 04:39:45 +0000
+url: "/2012/05/01/senate-proposes-aod-policy-changes/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - aod
-  - senate
+- aod
+- senate
 
 ---
 Senate unanimously moved April 26 to begin a process of revisions on the procedure to decide consequences for students who are caught violating Alcohol and Other Drug (AOD) violations. The proposal, which will require review by Reed&#8217;s Community Affairs Committee as well as approval by Reed faculty and a Student Body referendum before it can be enacted, would formally codify and streamline the AOD implementation system. It would also create an AOD Review Panel for adjudicating offenses and give Senate control over changes to it, a power currently held by the college President.

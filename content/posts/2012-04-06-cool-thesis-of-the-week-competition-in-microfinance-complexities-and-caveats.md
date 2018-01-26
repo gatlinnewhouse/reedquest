@@ -1,16 +1,16 @@
 ---
 title: 'Cool Thesis of the Week: The Complexities and Caveats of Microfinance'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-04-06T20:36:11+00:00
-url: /2012/04/06/cool-thesis-of-the-week-competition-in-microfinance-complexities-and-caveats/
+date: 2012-04-06 20:36:11 +0000
+url: "/2012/04/06/cool-thesis-of-the-week-competition-in-microfinance-complexities-and-caveats/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 tags:
-  - economics
-  - thesis
+- economics
+- thesis
 
 ---
 <a href="http://www.reedquest.org/2012/04/cool-thesis-of-the-week-competition-in-microfinance-complexities-and-caveats/ctwweb/" rel="attachment wp-att-1476"><img class="alignnone size-full wp-image-1476" title="Nisma Elias" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/04/ctwweb.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

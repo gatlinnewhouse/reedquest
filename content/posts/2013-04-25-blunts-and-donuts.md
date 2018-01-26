@@ -1,13 +1,13 @@
 ---
 title: Blunts and Donuts
-authors: 
-  - "Sydney Scarlata"
+authors:
+- Sydney Scarlata
 type: post
-date: 2013-04-26T00:40:02+00:00
-url: /2013/04/25/blunts-and-donuts/
+date: 2013-04-26 00:40:02 +0000
+url: "/2013/04/25/blunts-and-donuts/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 On April 20, at both 4:20 a.m. and p.m., for the third year in a row, Director of Community Safety Gary Granger provided “blunts” in the form of Voodoo donuts in the Student Union. Granger has been putting on the event since 2011 with the intention of engaging students about the Alcohol and Other Drugs Policy and improving CSO-student relations.

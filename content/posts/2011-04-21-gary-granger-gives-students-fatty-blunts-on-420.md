@@ -1,12 +1,12 @@
 ---
 title: Gary Granger Gives Students Fatty Blunts on 4/20
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-21T23:15:53+00:00
-url: /2011/04/21/gary-granger-gives-students-fatty-blunts-on-420/
+date: 2011-04-21 23:15:53 +0000
+url: "/2011/04/21/gary-granger-gives-students-fatty-blunts-on-420/"
 categories:
-  - Features
+- Features
 
 ---
 It is quarter to 5pm on 4/20, and Gary Granger sits in his office with a dazed look on his face. His eyes are red, and his overall demeanor is sleepier than usual.

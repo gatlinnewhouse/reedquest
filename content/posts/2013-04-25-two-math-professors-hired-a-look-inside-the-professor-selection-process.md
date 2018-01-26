@@ -1,13 +1,13 @@
 ---
 title: 'Two Math Professors Hired: A Look Inside the Professor Selection Process'
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-04-26T00:12:35+00:00
-url: /2013/04/25/two-math-professors-hired-a-look-inside-the-professor-selection-process/
+date: 2013-04-26 00:12:35 +0000
+url: "/2013/04/25/two-math-professors-hired-a-look-inside-the-professor-selection-process/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The Mathematics Department received 770 applications for two tenure-track professors in pure mathematics. Angélica Osorno,  who received her Ph.D. from MIT and currently teaches at University of Chicago will teach at Reed in the fall semester, and in the spring of 2014 she will participate in a semester-long program in algebraic topology, her specialty, at the Mathematical Sciences Research Institute (MSRI) in Berkeley, California. Kyle Ormsby, who received his Ph.D. from the University of Michigan and currently teaches at MIT, will join the department in the fall of 2014 after completing work from previous research grants and at MSRI.

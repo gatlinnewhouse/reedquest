@@ -1,12 +1,12 @@
 ---
 title: The Bitchy Queen Discusses You, Your Ugly Walk, and How to Fix It
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T04:16:22+00:00
-url: /2010/09/15/the-bitchy-queen-discusses-you-your-ugly-walk-and-how-to-fix-it/
+date: 2010-09-15 04:16:22 +0000
+url: "/2010/09/15/the-bitchy-queen-discusses-you-your-ugly-walk-and-how-to-fix-it/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 Honey, you have got to STOP!!! My eyes cannot take it. Your walk is a problem of epic proportions, in terms of an old joke: “I haven’t seen a walk like THAT since dinosaurs walked the earth!”

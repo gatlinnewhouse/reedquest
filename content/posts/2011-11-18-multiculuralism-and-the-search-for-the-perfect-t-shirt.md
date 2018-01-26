@@ -1,19 +1,19 @@
 ---
 title: Multiculuralism and the Search for the Perfect T-shirt
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2011-11-18T22:04:04+00:00
-url: /2011/11/18/multiculuralism-and-the-search-for-the-perfect-t-shirt/
+date: 2011-11-18 22:04:04 +0000
+url: "/2011/11/18/multiculuralism-and-the-search-for-the-perfect-t-shirt/"
 categories:
-  - News
+- News
 tags:
-  - MRC
-  - multicultural resource center
-  - multiculturalism
-  - reed college
-  - Santi Alston
-  - sasha peters
+- MRC
+- multicultural resource center
+- multiculturalism
+- reed college
+- Santi Alston
+- sasha peters
 
 ---
 <div id="attachment_1007" style="width: 212px" class="wp-caption alignleft">

@@ -1,16 +1,16 @@
 ---
 title: 'Subgenre of the Week: Chillwave'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-10-28T17:40:42+00:00
-url: /2010/10/28/obscure-subgenre-of-the-week-chillwave/
+date: 2010-10-28 17:40:42 +0000
+url: "/2010/10/28/obscure-subgenre-of-the-week-chillwave/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - chillwave
-  - music
-  - songs
+- chillwave
+- music
+- songs
 
 ---
 _We live in an age where our postmodern sensibilities have translated into flourishing musical creativity. This, paired with the death of radio, has lead to the creation of nearly every subgenre imaginable. But how do you keep track of them all? Each week, we here at the Quest do our best to help you make sense of all this alternativeness._

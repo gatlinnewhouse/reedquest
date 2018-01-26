@@ -1,13 +1,13 @@
 ---
 title: Lena Lencek’s GEOCHROMES Shows in Vollum
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-04-19T04:41:16+00:00
-url: /2013/04/18/lena-lenceks-geochromes-shows-in-vollum/
+date: 2013-04-19 04:41:16 +0000
+url: "/2013/04/18/lena-lenceks-geochromes-shows-in-vollum/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Lena Lencek, Professor of Russian and Humanities, says that she’s been drawing and painting since she was born. Her first show was held in a gallery in Portland in the Early 80’s. Since then, she’s also illustrated a children’s book, and whenever she travels, her sketchbook is her travel diary. It’s always been something she’s done on the side. Says Lencek, “It’s a way of being present… of seeing the world… a form of meditation.”

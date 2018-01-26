@@ -1,16 +1,16 @@
 ---
 title: Honor Council Reevaluates, Looks to Take Action
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-26T01:21:51+00:00
+date: 2011-02-26 01:21:51 +0000
 excerpt: |
   |
     <p>With support from senate, faculty, and administration, Honor Council has begun preparing for the first Reed Union since the 2007. The upcoming Reed Union, which is tentatively scheduled for late March or April, will be the third to focus on the vitality and viability of the Honor Principle. Honor Council hopes that the community-wide forum will encourage the entire campus to consider how the Honor Principle affects student life, and whether it, alongside the mediation group, should be altered to more properly suit the needs of the community.</p>
-url: /2011/02/25/honor-council-reevaluates-looks-to-take-action/
+url: "/2011/02/25/honor-council-reevaluates-looks-to-take-action/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 With support from senate, faculty, and administration, Honor Council has begun preparing for the first Reed Union since the 2007. The upcoming Reed Union, which is tentatively scheduled for late March or April, will be the third to focus on the vitality and viability of the Honor Principle. Honor Council hopes that the community-wide forum will encourage the entire campus to consider how the Honor Principle affects student life, and whether it, alongside the mediation group, should be altered to more properly suit the needs of the community.

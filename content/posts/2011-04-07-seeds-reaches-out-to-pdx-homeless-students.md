@@ -1,16 +1,16 @@
 ---
 title: SEEDS Reaches Out to PDX Homeless Students
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-07T19:19:32+00:00
-url: /2011/04/07/seeds-reaches-out-to-pdx-homeless-students/
+date: 2011-04-07 19:19:32 +0000
+url: "/2011/04/07/seeds-reaches-out-to-pdx-homeless-students/"
 categories:
-  - Features
+- Features
 tags:
-  - PDX
-  - portland
-  - SEEDS
+- PDX
+- portland
+- SEEDS
 
 ---
 This week, the SEEDS team is leading a campus-wide book drive benefiting students at the Community Transitional School of Portland. The Community Transitional School is a non-profit, private K-8 school for students experiencing chronic poverty-related crises, homelessness, or transitional housing. The school provides transportation to and from school, two meals each day, daypacks, regular health screenings and a safe environment for learning and personal growth. Students of these families deal with issues ranging from economic hardship, domestic violence, busy parents, changing living situations, uncertainty regarding foods, and other concerns related to poverty and the uncertainty that comes with it. These students miss out on a lot of the stability and community that most children are accustomed to, which the Community Transitional School strives to provide to some degree. Even though the state of Oregon has programs in school districts designated to try to reach children in homeless families, many fall through the cracks. Due to this as well as the unreliability of home, family, and transportation, public school isn’t an option for most students who are at the Community Transitional School.

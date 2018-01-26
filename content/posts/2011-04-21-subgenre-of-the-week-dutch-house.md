@@ -1,12 +1,12 @@
 ---
 title: 'Subgenre of the Week: Dutch house'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-22T02:18:22+00:00
-url: /2011/04/21/subgenre-of-the-week-dutch-house/
+date: 2011-04-22 02:18:22 +0000
+url: "/2011/04/21/subgenre-of-the-week-dutch-house/"
 categories:
-  - Infotainment
+- Infotainment
 
 ---
 _We live in an age where our post-modern sensibilities have translated into flourishing musical creativity. This, paired with the death of radio, has led to the creation of nearly every subgenre imaginable. But how do you keep track of them all? Each week, we here at the Quest do our best to help you make sense of all this alternativeness._

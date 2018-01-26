@@ -1,13 +1,13 @@
 ---
 title: Graffiti Struggle Raises Gender’s Ghost in GCC Bathrooms
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-22T07:14:55+00:00
-url: /2012/11/21/graffiti-struggle-raises-genders-ghost-in-gcc-bathrooms/
+date: 2012-11-22 07:14:55 +0000
+url: "/2012/11/21/graffiti-struggle-raises-genders-ghost-in-gcc-bathrooms/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 With no easy solution to the ongoing struggle over graffiti in sight, students continue to mark up the walls in the lower-level GCC bathrooms. But between the two rooms, graffitiers&#8217; approaches vary widely.

@@ -1,22 +1,22 @@
 ---
 title: 'Events Calendar: Week of September 15th'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T18:53:15+00:00
+date: 2010-09-15 18:53:15 +0000
 excerpt: |
   |
     <p><strong>Greek Theatre Performance</strong><br />
     September 16, 12:00pm<br />
     September 17-19, 7:00pm<br />
     Ampitheatre</p>
-url: /2010/09/15/events-calendar-week-of-september-15th/
+url: "/2010/09/15/events-calendar-week-of-september-15th/"
 categories:
-  - Events
+- Events
 tags:
-  - events
-  - music
-  - theater
+- events
+- music
+- theater
 
 ---
 **Greek Theatre Performance**

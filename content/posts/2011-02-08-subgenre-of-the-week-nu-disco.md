@@ -1,16 +1,16 @@
 ---
 title: 'Subgenre of the Week: Nu-disco'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-02-08T20:13:32+00:00
-url: /2011/02/08/subgenre-of-the-week-nu-disco/
+date: 2011-02-08 20:13:32 +0000
+url: "/2011/02/08/subgenre-of-the-week-nu-disco/"
 categories:
-  - Features
+- Features
 tags:
-  - music
-  - nu disco
-  - subgenre
+- music
+- nu disco
+- subgenre
 
 ---
 _We live in an age where our postmodern sensibilities have translated into flourishing musical creativity. This, paired with the death of radio, has led to the creation of nearly every subgenre imaginable. But how do you keep track of them all? Each week, we here at the Quest do our best to help you make sense of all this alternativeness._

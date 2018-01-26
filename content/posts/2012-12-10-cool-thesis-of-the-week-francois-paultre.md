@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Francois Vigneault'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-12-11T01:41:08+00:00
-url: /2012/12/10/cool-thesis-of-the-week-francois-paultre/
+date: 2012-12-11 01:41:08 +0000
+url: "/2012/12/10/cool-thesis-of-the-week-francois-paultre/"
 categories:
-  - Cool Thesis of the Week
-  - Left Sidebar
+- Cool Thesis of the Week
+- Left Sidebar
 
 ---
 <div id="attachment_1920" style="width: 234px" class="wp-caption aligncenter">

@@ -1,13 +1,13 @@
 ---
 title: 'Quedline Liveblog: Issue 11'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-11-17T05:07:39+00:00
-url: /2010/11/16/quedline-liveblog-issue-11/
+date: 2010-11-17 05:07:39 +0000
+url: "/2010/11/16/quedline-liveblog-issue-11/"
 categories:
-  - Features
-  - Infotainment
+- Features
+- Infotainment
 
 ---
 **9:04pm:** Well, we don&#8217;t have a lot of content for this week (read: any), so um, four page paper? I mean, our best article is on snacks&#8230; Yeah, looks like issue 11 will be a four page paper. Also, [this][1].

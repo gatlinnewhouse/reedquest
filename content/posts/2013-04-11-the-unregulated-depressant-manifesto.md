@@ -1,15 +1,15 @@
 ---
 title: The Unregulated Depressant Manifesto
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-04-11T22:38:21+00:00
+date: 2013-04-11 22:38:21 +0000
 excerpt: |
   It has been two months since Paideiagate, and we have found that we can't quite shake ourselves of the bad feelings that the incident has instilled in us. This, we think, provides a problem for The Powers That Be, since they seem to rely on the student body's short memory span when it comes to "controversies" – that "this will all blow over," that we will forget their transgression once we have gotten our collective giggles out in some sort of dramatized community event (in this case, the followup Reed Union, which we see as having had a placating effect in addition to its obvious constructive ends).
-url: /2013/04/11/the-unregulated-depressant-manifesto/
+url: "/2013/04/11/the-unregulated-depressant-manifesto/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 _**By Unregulated Depressants**_

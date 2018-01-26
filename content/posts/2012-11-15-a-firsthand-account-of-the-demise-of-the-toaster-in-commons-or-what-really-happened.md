@@ -1,13 +1,14 @@
 ---
-title: 'A Firsthand Account of the Demise of the Toaster in Commons, or: What Really Happened'
-authors: 
-  - "Kieran Hanrahan"
+title: 'A Firsthand Account of the Demise of the Toaster in Commons, or: What Really
+  Happened'
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:11:37+00:00
-url: /2012/11/15/a-firsthand-account-of-the-demise-of-the-toaster-in-commons-or-what-really-happened/
+date: 2012-11-15 20:11:37 +0000
+url: "/2012/11/15/a-firsthand-account-of-the-demise-of-the-toaster-in-commons-or-what-really-happened/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The culprit was asked for their account of the incident and agreed to give it on the condition that their anonymity be preserved. Said culprit will be referred to by the grammatically, though not politically, correct “he.” Any objections should be directed to the editors of _The Quest_.

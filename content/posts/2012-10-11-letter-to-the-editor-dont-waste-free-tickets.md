@@ -1,13 +1,13 @@
 ---
 title: 'Letter to the Editor: Don’t Waste Free Tickets'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-12T00:27:51+00:00
-url: /2012/10/11/letter-to-the-editor-dont-waste-free-tickets/
+date: 2012-10-12 00:27:51 +0000
+url: "/2012/10/11/letter-to-the-editor-dont-waste-free-tickets/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 To the _Quest_:

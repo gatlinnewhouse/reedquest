@@ -1,12 +1,12 @@
 ---
 title: One-Man Show Talks Politics
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2011-10-28T20:24:04+00:00
-url: /2011/10/28/one-man-show-talks-politics/
+date: 2011-10-28 20:24:04 +0000
+url: "/2011/10/28/one-man-show-talks-politics/"
 categories:
-  - News
+- News
 
 ---
 Actor Tim Miller brought his one-man show _Glory Box_ to Reed’s main stage theater on October 11<sup>th</sup>. One man and a box, really. When the only prop on the stage is a basic wooden chest, it stands to reason that the use of the prop would be very important. But it mostly just sat there. He mimed all of his other props, from Twinkies to lovers and even that minimal representation was unnecessary. The major problem of the show was that the message was given far more value than the art, so the art became a distraction.

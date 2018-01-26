@@ -1,15 +1,15 @@
 ---
 title: 'Caldo Verde: Portuguese Potato, Kale and Sausage Soup'
-authors: 
-  - "Alice Newton"
+authors:
+- Alice Newton
 type: post
-date: 2010-11-18T18:48:02+00:00
-url: /2010/11/18/caldo-verde-portuguese-potato-kale-and-sausage-soup/
+date: 2010-11-18 18:48:02 +0000
+url: "/2010/11/18/caldo-verde-portuguese-potato-kale-and-sausage-soup/"
 categories:
-  - Features
+- Features
 tags:
-  - food
-  - recipe
+- food
+- recipe
 
 ---
 This is a great meal to make when it’s cold, dreary, and downright depressing outside &#8211; i.e., perfect for Portland fall/winter (I vote we condense them into one season). You don’t see much of it on this side of the country, but it’s very popular on the East coast &#8211; Boston and other coastal Massachussetts towns are due west of Portugal and the Azores and therefore have large Portugese populations.

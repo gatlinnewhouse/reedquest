@@ -1,13 +1,13 @@
 ---
 title: Linguist Traces Development of Spanish
-authors: 
-  - "Jorge Rodriguez"
+authors:
+- Jorge Rodriguez
 type: post
-date: 2012-10-04T21:23:42+00:00
-url: /2012/10/04/linguist-traces-development-of-spanish/
+date: 2012-10-04 21:23:42 +0000
+url: "/2012/10/04/linguist-traces-development-of-spanish/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The Spanish House&#8217;s common room provided a comfortable setting for Eva Núñez Méndez and her modest audience of Spanish aficionados–curious passersby from the exotic halls of Sequoia, _ceseantes_ and _seseantes_ from vibrant Buenos Aires, and your _reportero_ from _The Quest_. Méndez, an associate professor of Spanish at Portland State University who earned a Ph.D. in Spanish Linguistics from the University of Salamanca, succinctly covered the development of the Spanish language from its beginnings as _castellano primitivo_ (c. 1000) to its spread throughout the Caribbean, México, and South America during the colonization of the Americas. She even managed to include some neologisms resulting from Spanish’s contact with caribbean _lenguas_, Nahuatl dialects, and the Quechua languages.

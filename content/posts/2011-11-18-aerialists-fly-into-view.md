@@ -1,22 +1,22 @@
 ---
 title: Aerialists Fly Into View
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2011-11-18T21:56:12+00:00
-url: /2011/11/18/aerialists-fly-into-view/
+date: 2011-11-18 21:56:12 +0000
+url: "/2011/11/18/aerialists-fly-into-view/"
 categories:
-  - Features
-  - Front Page
-  - News
-  - Top Stories
+- Features
+- Front Page
+- News
+- Top Stories
 tags:
-  - aerial
-  - aerialists
-  - alex krafcik
-  - performance
-  - reed college
-  - SAO
+- aerial
+- aerialists
+- alex krafcik
+- performance
+- reed college
+- SAO
 
 ---
 <div id="attachment_1004" style="width: 401px" class="wp-caption aligncenter">

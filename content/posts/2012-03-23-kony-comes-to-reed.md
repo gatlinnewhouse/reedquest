@@ -1,13 +1,13 @@
 ---
 title: Kony Comes to Reed
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-03-23T23:17:54+00:00
-url: /2012/03/23/kony-comes-to-reed/
+date: 2012-03-23 23:17:54 +0000
+url: "/2012/03/23/kony-comes-to-reed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The virally famous and controversial documentary _Kony_ was shown in the Reed Chapel by the Invisible Children organization on Monday. The event, co-sponsored by the Multicultural Resource Center, filled only about 1/3 of the Chapel. Some students had expected a larger turnout given the flaming discussion the movie is currently igniting over internet forums. The film and post-film discussion were organized by 3 full-time Invisible Children volunteers and a girl named Sylvia from Northern Uganda who is traveling with the team.

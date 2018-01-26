@@ -1,15 +1,15 @@
 ---
 title: Granger Uses Campus Map to Pin Down CSO Involvement
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-30T18:12:32+00:00
-url: /2010/09/30/granger-uses-campus-map-to-pin-down-cso-involvement/
+date: 2010-09-30 18:12:32 +0000
+url: "/2010/09/30/granger-uses-campus-map-to-pin-down-cso-involvement/"
 categories:
-  - News
+- News
 tags:
-  - aod
-  - CSO
+- aod
+- CSO
 
 ---
 <div id="attachment_345" style="width: 226px" class="wp-caption alignleft">

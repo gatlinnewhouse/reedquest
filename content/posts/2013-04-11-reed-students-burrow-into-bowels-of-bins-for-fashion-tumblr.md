@@ -1,13 +1,13 @@
 ---
 title: Reed Students Burrow into Bowels of Bins for Fashion Tumblr
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-04-11T23:06:14+00:00
-url: /2013/04/11/reed-students-burrow-into-bowels-of-bins-for-fashion-tumblr/
+date: 2013-04-11 23:06:14 +0000
+url: "/2013/04/11/reed-students-burrow-into-bowels-of-bins-for-fashion-tumblr/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 [<img class="alignright size-full wp-image-2245" alt="Bins Babes" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2013/04/tumblr_inline_mjkr4yohuI1qz4rgp.jpg?resize=500%2C370" data-recalc-dims="1" />][1]Reedies have a unique approach to fashion. If someone were to sit in commons for any amount of time, they would see the whole gamut of styles, from the monochromatic minimalists to the flamboyantly patterned dandies, from the sweatshirts of the Rugby bros and the robes of the Tir Na Nog-ites to the planned-out and perfected outfits of the fashionistas &#8211; and everything in between. Unsurprisingly, some Reedies have some thoughts on the fashion industry and how it affects everyday life, and have decided to do something about it.

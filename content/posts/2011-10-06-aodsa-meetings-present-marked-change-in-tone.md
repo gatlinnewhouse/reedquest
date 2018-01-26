@@ -1,12 +1,12 @@
 ---
 title: AOD/SA Meetings Present Marked Change In Tone
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-10-06T09:02:53+00:00
-url: /2011/10/06/aodsa-meetings-present-marked-change-in-tone/
+date: 2011-10-06 09:02:53 +0000
+url: "/2011/10/06/aodsa-meetings-present-marked-change-in-tone/"
 categories:
-  - News
+- News
 
 ---
 “Since the beginning of the school year, three freshmen have been found alone and severely intoxicated,” said Community Safety Director Gary Granger. “One of them was found in the canyon.”

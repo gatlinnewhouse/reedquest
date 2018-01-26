@@ -1,13 +1,13 @@
 ---
 title: Beavers Take Free Reign of Canyon
-authors: 
-  - "Jordan Yu"
+authors:
+- Jordan Yu
 type: post
-date: 2013-03-01T22:56:45+00:00
-url: /2013/03/01/beavers-take-free-reign-of-canyon/
+date: 2013-03-01 22:56:45 +0000
+url: "/2013/03/01/beavers-take-free-reign-of-canyon/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2114" alt="Beaver 1" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/03/Beaver-pic-3_web.jpg?resize=770%2C600" data-recalc-dims="1" />][1]

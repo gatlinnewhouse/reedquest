@@ -1,12 +1,12 @@
 ---
 title: Community Safety Releases Rules of Engagement, Seeks Feedback on First Draft
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-11-04T20:34:53+00:00
-url: /2010/11/04/community-safety-releases-rules-of-engagement-seeks-feedback-on-first-draft/
+date: 2010-11-04 20:34:53 +0000
+url: "/2010/11/04/community-safety-releases-rules-of-engagement-seeks-feedback-on-first-draft/"
 categories:
-  - News
+- News
 
 ---
 It seems two documents, the Alcohol and Drug Policy and its implementation plan, are not enough to guide the treatment of drugs at Reed.

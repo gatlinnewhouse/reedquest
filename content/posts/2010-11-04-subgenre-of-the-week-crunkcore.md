@@ -1,14 +1,14 @@
 ---
 title: 'Subgenre of the Week: Crunkcore'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-11-04T19:51:15+00:00
-url: /2010/11/04/subgenre-of-the-week-crunkcore/
+date: 2010-11-04 19:51:15 +0000
+url: "/2010/11/04/subgenre-of-the-week-crunkcore/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - music
+- music
 
 ---
 _We live in an age where our postmodern sensibilities have translated into flourishing musical creativity. This, paired with the death of radio, has lead to the creation of nearly every subgenre imaginable. But how do you keep track of them all? Each week, we here at the Quest do our best to help you make sense of all this alternativeness._

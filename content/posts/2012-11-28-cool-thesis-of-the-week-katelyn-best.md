@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Katelyn Best'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-29T06:50:10+00:00
-url: /2012/11/28/cool-thesis-of-the-week-katelyn-best/
+date: 2012-11-29 06:50:10 +0000
+url: "/2012/11/28/cool-thesis-of-the-week-katelyn-best/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/11/cool-thesis-of-the-week-katelyn-best/katelyn_web/" rel="attachment wp-att-1875"><img class="aligncenter size-full wp-image-1875" title="Katelyn Best" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/11/katelyn_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

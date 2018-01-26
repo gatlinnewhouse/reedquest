@@ -1,14 +1,14 @@
 ---
 title: CIS Considers Switch to Google Apps
-authors: 
-  - "Shruti Korada"
+authors:
+- Shruti Korada
 type: post
-date: 2010-12-02T19:12:20+00:00
-url: /2010/12/02/cis-considers-switch-to-google-apps/
+date: 2010-12-02 19:12:20 +0000
+url: "/2010/12/02/cis-considers-switch-to-google-apps/"
 categories:
-  - News
+- News
 tags:
-  - CIS
+- CIS
 
 ---
 Reed’s Computing and Informational Services department is in talks with Google to implement Google Apps for Education on campus, with the focus currently on Google Calendar and Google Docs.

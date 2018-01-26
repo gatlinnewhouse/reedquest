@@ -1,12 +1,12 @@
 ---
 title: 'Cool Thesis of the Week: Home Invasion in 1970’s Horror Cinema'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-09-29T18:47:05+00:00
-url: /2011/09/29/cool-thesis-of-the-week-home-invasion-in-1970s-horror-cinema/
+date: 2011-09-29 18:47:05 +0000
+url: "/2011/09/29/cool-thesis-of-the-week-home-invasion-in-1970s-horror-cinema/"
 categories:
-  - Cool Thesis of the Week
+- Cool Thesis of the Week
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

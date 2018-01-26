@@ -1,14 +1,14 @@
 ---
 title: Judicial Board Case Summaries – 2011–2012
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-09-29T03:49:03+00:00
-url: /2012/09/28/judicial-board-2011-2012-case-summaries/
+date: 2012-09-29 03:49:03 +0000
+url: "/2012/09/28/judicial-board-2011-2012-case-summaries/"
 categories:
-  - Announcements
-  - J-Board Case Summaries
-  - News
+- Announcements
+- J-Board Case Summaries
+- News
 
 ---
 _The Judicial Board is required by the J-Board Bylaws to send “a summary report, not violating confidentiality,” of the previous semester’s cases to The Quest. These are the belated case summaries from last fall and the summaries from last spring. —Editor_

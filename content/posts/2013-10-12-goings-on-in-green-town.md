@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Goings-on in “Green” Town'
-authors: 
-  - "Maya Jarrad"
+authors:
+- Maya Jarrad
 type: post
-date: 2013-10-13T00:19:59+00:00
-url: /2013/10/12/goings-on-in-green-town/
+date: 2013-10-13 00:19:59 +0000
+url: "/2013/10/12/goings-on-in-green-town/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Reed students are working in all venues to engage with issues of sustainability, environmental justice, and the dirt. I&#8217;ve collected some recent activities, both associated with the academic institutions and not, to note all in one place!

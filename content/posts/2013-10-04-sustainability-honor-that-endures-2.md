@@ -1,13 +1,13 @@
 ---
 title: 'Sustainability: Honor that Endures'
-authors: 
-  - "Austin Weisgrau"
+authors:
+- Austin Weisgrau
 type: post
-date: 2013-10-05T01:18:08+00:00
-url: /2013/10/04/sustainability-honor-that-endures-2/
+date: 2013-10-05 01:18:08 +0000
+url: "/2013/10/04/sustainability-honor-that-endures-2/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Last semester, Reed hosted a Union to address climate change and issues of sustainability on campus. Hosted by two new assistant professors and two off campus guests, the moral question of Reed&#8217;s contribution to environmental destruction was brushed off. Many felt that the Union was a diversion of attention from the &#8220;specific relevance to the Reed community&#8221; that Reed Unions are instituted to consider.

@@ -1,13 +1,13 @@
 ---
 title: Reed Partners with Switchboard
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-09-27T23:34:46+00:00
-url: /2013/09/27/reed-partners-with-switchboard/
+date: 2013-09-27 23:34:46 +0000
+url: "/2013/09/27/reed-partners-with-switchboard/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 With a huge smile and a poofy skirt, junior Kaori Freda was a walking advertisement for Reed Switchboard (also known as the “Craigslist of Reed) at this September’s Activity Fair. Little red hearts drawn on curious students’ faces transformed the student body into the face of Switchboard.

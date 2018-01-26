@@ -1,12 +1,12 @@
 ---
 title: 'Pink Toenails and Toddlers: Tuesday Talks Tackle the Issues'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:31:15+00:00
-url: /2011/04/28/pink-toenails-and-toddlers-tuesday-talks-tackle-the-issues/
+date: 2011-04-28 18:31:15 +0000
+url: "/2011/04/28/pink-toenails-and-toddlers-tuesday-talks-tackle-the-issues/"
 categories:
-  - Features
+- Features
 
 ---
 This week at the Multicultural Resource Center (MRC), students dropped by during their lunch hour for a Tuesday Talk on “Pink Nail Polish and the Internet’s Long Memory.” The talk began with a short video on the recent controversy over the photo of a mother painting her 5 year old son’s toenails in a J. Crew catalog, followed by a discussion of the criticism directed at the catalog in the media. The casual atmosphere made it easy for a newcomer to join the conversation, though the participants did not hesitate to touch on contentious issues like parental responsibility and “the fabric of masculinity.”

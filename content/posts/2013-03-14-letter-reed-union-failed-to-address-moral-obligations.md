@@ -1,14 +1,18 @@
 ---
 title: 'Letter: Reed Union Failed to Address Moral Obligations'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-03-14T17:06:20+00:00
-excerpt: I left the Reed Union on climate change feeling about as frustrated as I usually feel when I engage with Reed as a thing. The event was advertised as "a forum for important issues of relevance to the Reed community," which meant to me that we would be acknowledging and discussing our role in the "important issue," our culpabilities and responsibilities.
-url: /2013/03/14/letter-reed-union-failed-to-address-moral-obligations/
+date: 2013-03-14 17:06:20 +0000
+excerpt: I left the Reed Union on climate change feeling about as frustrated as I
+  usually feel when I engage with Reed as a thing. The event was advertised as "a
+  forum for important issues of relevance to the Reed community," which meant to me
+  that we would be acknowledging and discussing our role in the "important issue,"
+  our culpabilities and responsibilities.
+url: "/2013/03/14/letter-reed-union-failed-to-address-moral-obligations/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _**By Austin Weisgrau**_

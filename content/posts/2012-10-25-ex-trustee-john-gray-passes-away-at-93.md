@@ -1,13 +1,13 @@
 ---
 title: Trustee John Gray Passes Away at 93
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-10-25T20:59:20+00:00
-url: /2012/10/25/ex-trustee-john-gray-passes-away-at-93/
+date: 2012-10-25 20:59:20 +0000
+url: "/2012/10/25/ex-trustee-john-gray-passes-away-at-93/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 John Gray, Reed trustee and husband of the late Betty Gray, with whom he founded the Gray Fund, passed away on October 18. He was 93 years old when he died of cancer.

@@ -1,12 +1,12 @@
 ---
 title: 'Chastity, Celibacy, Abstinence: They’re So In This Season!'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T18:10:54+00:00
-url: /2010/09/15/chastity-celibacy-abstinence-theyre-so-in-this-season/
+date: 2010-09-15 18:10:54 +0000
+url: "/2010/09/15/chastity-celibacy-abstinence-theyre-so-in-this-season/"
 categories:
-  - Features
+- Features
 
 ---
 I had an epiphany while I was organizing my underwear drawer this summer. I’m used to separating my knickers into “no-show” and “for show,” but when I looked at the mountain of colorful, crazy undies in my laundry basket, I knew that it was time for a change.

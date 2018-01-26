@@ -1,14 +1,20 @@
 ---
 title: 'Op-Ed: Reed Must Divest from Fossil-Fuels'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-09T03:56:56+00:00
-excerpt: This semester, Greenboard is launching a campaign asking Reed to divest their endowment from fossil-fuel companies. The campaign will join hundreds of others across the country, taking part in a national movement of people who believe it is neither honorable nor wise to profit our education is likely subsidized in part by the profits of the very fossil-fuel companies that, if allowed to continue unhindered, will make that education useless. There are no jobs on a dead planet, as the saying goes.
-url: /2013/02/08/op-ed-reed-must-divest-from-fossil-fuels/
+date: 2013-02-09 03:56:56 +0000
+excerpt: This semester, Greenboard is launching a campaign asking Reed to divest their
+  endowment from fossil-fuel companies. The campaign will join hundreds of others
+  across the country, taking part in a national movement of people who believe it
+  is neither honorable nor wise to profit our education is likely subsidized in part
+  by the profits of the very fossil-fuel companies that, if allowed to continue unhindered,
+  will make that education useless. There are no jobs on a dead planet, as the saying
+  goes.
+url: "/2013/02/08/op-ed-reed-must-divest-from-fossil-fuels/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _**By Sam Law, Greenboard**_

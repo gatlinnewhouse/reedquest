@@ -1,13 +1,13 @@
 ---
 title: An Interview with Gary Granger
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2011-09-26T21:21:18+00:00
-url: /2011/09/26/an-interview-with-gary-granger/
+date: 2011-09-26 21:21:18 +0000
+url: "/2011/09/26/an-interview-with-gary-granger/"
 categories:
-  - Features
-  - News
+- Features
+- News
 
 ---
 Many Reed students have come to see the CSOs as nothing but a uniform. In order to remedy that situation, we took an informative and very serious questionnaire to 28 West, which the CSOs answered in a very serious way. Each week we will profile a CSO, asking them revealing questions and trying to get a really embarrassing picture of them. This week, we talk to Gary Granger, Director of Community Safety.

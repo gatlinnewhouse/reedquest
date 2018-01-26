@@ -1,13 +1,13 @@
 ---
 title: 'Chez Commons: Stripadillas in the Void'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-12-06T19:31:46+00:00
-url: /2012/12/06/chez-commons-stripadillas-in-the-void/
+date: 2012-12-06 19:31:46 +0000
+url: "/2012/12/06/chez-commons-stripadillas-in-the-void/"
 categories:
-  - Chez Commons
-  - Left Sidebar
+- Chez Commons
+- Left Sidebar
 
 ---
 Oh chicken strip quesadilla! Affectionately dubbed “stripadilla” by upper-middle-class Reed students from the white-washed flickering halls of Sullivan I to the hive–like conglomerations of cellular living units of FSM, this deep-fried bundle of carbohydrates is a paradox within itself. One teary-eyed senior, reflecting on his earlier years, recalled his first time ordering a stripadilla. “What the fuck, is that for real?” replied the grillmaster, “I’m not gonna make this to your specification… just order what’s on the fucking menu” (some paraphrasing). Ahh, those were different times, but not everyone has such fond memories. Unfortunately for this freshman author, the light at the end of the Reed academic tunnel is as pale and uninspiring as the halogen light under which I eat five commons ‘dillas a day. Is that bad? I feel like that’s bad. Not the thing about the academic tunnel, the thing about the stripadilla. Actually both are pretty unhealthy.

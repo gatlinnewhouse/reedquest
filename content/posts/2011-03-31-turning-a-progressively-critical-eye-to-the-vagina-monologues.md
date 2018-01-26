@@ -1,15 +1,15 @@
 ---
 title: Turning a Progressively Critical Eye to The Vagina Monologues
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-31T19:31:44+00:00
-url: /2011/03/31/turning-a-progressively-critical-eye-to-the-vagina-monologues/
+date: 2011-03-31 19:31:44 +0000
+url: "/2011/03/31/turning-a-progressively-critical-eye-to-the-vagina-monologues/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - theatre
-  - vagina monologues
+- theatre
+- vagina monologues
 
 ---
 On Friday, March 11 and Saturday, March 12, Reedies were treated to two performances of “The Vagina Monologues,” a collection of monologues by Eve Ensler and directed by Audrey June Davidson and Rachel Mossey. The monologues featured women discussing their experiences with sex and sexuality from the perspective of their relationships with their own sexual organs. The monologues ranged from a profoundly unsettling account of repeated rape (“My Vagina Was My Village”), to a hilarious yet compelling ode to the aesthetic and philosophical beauty of the word “cunt” ( “Reclaiming Cunt”), and a moving description of the changes undergone by a mother’s vagina in the process of childbirth with (“I Was There In the Room”). Altogether, they made a powerful case for a more central role for the female genitalia in defining female individual and sexual identity.

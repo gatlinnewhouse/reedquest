@@ -1,16 +1,16 @@
 ---
 title: Granger Responds to Recent Jabs, Increase in AODs
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-02-08T20:29:36+00:00
-url: /2011/02/08/granger-responds-to-recent-jabs-increase-in-aods/
+date: 2011-02-08 20:29:36 +0000
+url: "/2011/02/08/granger-responds-to-recent-jabs-increase-in-aods/"
 categories:
-  - News
+- News
 tags:
-  - aod
-  - community safety
-  - CSO
+- aod
+- community safety
+- CSO
 
 ---
 _Is_ CSO-in-Chief Gary Granger out to terminate the Honor Principle?

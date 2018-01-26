@@ -1,20 +1,21 @@
 ---
-title: Engagement in the Community? What Community? Senate, Students Fail to Cure Collective Apathy
-authors: 
-  - "Kieran Hanrahan"
+title: Engagement in the Community? What Community? Senate, Students Fail to Cure
+  Collective Apathy
+authors:
+- Kieran Hanrahan
 type: post
-date: 2011-12-03T22:03:38+00:00
-url: /2011/12/03/engagement-in-the-community-what-community-senate-students-fail-to-cure-collective-apathy/
+date: 2011-12-03 22:03:38 +0000
+url: "/2011/12/03/engagement-in-the-community-what-community-senate-students-fail-to-cure-collective-apathy/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - campus involvement
-  - community
-  - engagement
-  - involvement
-  - kieran hanrahan
-  - reed college
+- campus involvement
+- community
+- engagement
+- involvement
+- kieran hanrahan
+- reed college
 
 ---
 “Reedies are the first to complain and the last to do anything,” said Student Body President Nora McConnell-Johnson in a recent interview. McConnell-Johnson claimed that the student body is partially at fault for failing to engage itself in student government and student groups. “Reedies have time that they could be using. They have to want to use it.” However, she also held Senate responsible for low levels of student participation. Though, according to McConnell-Johnson, “Senate has the capability to do good work,” it has failed to engage the student body, particularly freshmen.

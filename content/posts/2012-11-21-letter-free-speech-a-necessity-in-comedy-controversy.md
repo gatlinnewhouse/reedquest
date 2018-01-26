@@ -1,14 +1,18 @@
 ---
 title: 'Letter: Free Speech a Necessity in Comedy Controversy'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-21T21:44:37+00:00
-excerpt: "For many, I think, last Saturday's comedy performance in the SU was a reminder that free speech is not always an easy freedom to affirm. I'm referring specifically to Sal Rodriguez's performance, which outraged a good portion of the audience and ended with one audience member coming up on stage, taking the microphone, and confronting him."
-url: /2012/11/21/letter-free-speech-a-necessity-in-comedy-controversy/
+date: 2012-11-21 21:44:37 +0000
+excerpt: For many, I think, last Saturday's comedy performance in the SU was a reminder
+  that free speech is not always an easy freedom to affirm. I'm referring specifically
+  to Sal Rodriguez's performance, which outraged a good portion of the audience and
+  ended with one audience member coming up on stage, taking the microphone, and confronting
+  him.
+url: "/2012/11/21/letter-free-speech-a-necessity-in-comedy-controversy/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Freedom of speech is one of a handful ideals I like to think I support unequivocally. It&#8217;s easy to forget the full meaning of this freedom, refer to it glibly, or take it for granted—especially when living in a society that so often avoids touchy subjects or else buries them in layers of euphemism. For many, I think, last Saturday&#8217;s comedy performance in the SU was a reminder that this freedom is not always an easy one to affirm. I&#8217;m referring specifically to [Sal Rodriguez&#8217;s performance][1], which outraged a good portion of the audience and ended with one audience member coming up on stage, taking the microphone, and confronting him.

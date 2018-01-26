@@ -1,17 +1,17 @@
 ---
 title: Is There A Doctor In The House?
-authors: 
-  - "Shabab Mirza"
+authors:
+- Shabab Mirza
 type: post
-date: 2011-11-18T21:32:12+00:00
-url: /2011/11/18/is-there-a-doctor-in-the-house/
+date: 2011-11-18 21:32:12 +0000
+url: "/2011/11/18/is-there-a-doctor-in-the-house/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - doctor who
-  - Jill Evans
-  - midnight
+- doctor who
+- Jill Evans
+- midnight
 
 ---
 <div id="attachment_994" style="width: 310px" class="wp-caption aligncenter">

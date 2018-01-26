@@ -1,13 +1,13 @@
 ---
 title: 'From the Archives: On Olde Reed'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-25T21:01:38+00:00
-url: /2012/10/25/from-the-archives-on-olde-reed/
+date: 2012-10-25 21:01:38 +0000
+url: "/2012/10/25/from-the-archives-on-olde-reed/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 _**From the 1982 Student Handbook**_ 

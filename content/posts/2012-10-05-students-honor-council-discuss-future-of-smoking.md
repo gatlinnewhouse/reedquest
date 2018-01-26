@@ -1,13 +1,13 @@
 ---
 title: Students, Honor Council Discuss Future of Smoking
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-10-06T04:44:14+00:00
-url: /2012/10/05/students-honor-council-discuss-future-of-smoking/
+date: 2012-10-06 04:44:14 +0000
+url: "/2012/10/05/students-honor-council-discuss-future-of-smoking/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Students tired of walking through smoke on the way to the library gathered with smokers in the Student Union Thursday, Sept. 27 to discuss the future of smoking at Reed. Around 20 smokers and 8 non-smokers sat in a large couch circle to discuss how to smoke honorably at Reed and to gauge others opinions on the matter. One attendee jokingly suggested that the circle should be segregated by smoking preference.

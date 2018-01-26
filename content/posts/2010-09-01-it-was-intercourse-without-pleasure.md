@@ -1,21 +1,21 @@
 ---
-title: “It was intercourse without pleasure”
-authors: 
-  - Staff
+title: "“It was intercourse without pleasure”"
+authors:
+- Staff
 type: post
-date: 2010-09-01T00:23:20+00:00
+date: 2010-09-01 00:23:20 +0000
 excerpt: |
   |
     <p><em>A Communique from the Reed Revolutionary Youth Brigade</em></p>
     <p>Can you say, "recuperation"?</p>
     <p>We can, and we did on Friday evening at nine, when we were informed that Noise Parade had already taken place and no further marching would occur.</p>
-url: /2010/09/01/it-was-intercourse-without-pleasure/
+url: "/2010/09/01/it-was-intercourse-without-pleasure/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - community safety
-  - CSO
-  - rksk
+- community safety
+- CSO
+- rksk
 
 ---
 _A Communique from the Reed Revolutionary Youth Brigade_

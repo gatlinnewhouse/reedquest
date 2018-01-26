@@ -1,14 +1,14 @@
 ---
 title: Paradox To Increase Prices
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-11-11T19:14:12+00:00
-url: /2010/11/11/paradox-to-increase-prices/
+date: 2010-11-11 19:14:12 +0000
+url: "/2010/11/11/paradox-to-increase-prices/"
 categories:
-  - News
+- News
 tags:
-  - paradox
+- paradox
 
 ---
 _Espresso drink prices rise $0.25_

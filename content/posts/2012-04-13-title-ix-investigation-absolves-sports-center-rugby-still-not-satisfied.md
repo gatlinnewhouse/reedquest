@@ -1,17 +1,17 @@
 ---
 title: Title IX Investigation Absolves Sports Center, Rugby Still Not Satisfied
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-04-13T21:07:03+00:00
-url: /2012/04/13/title-ix-investigation-absolves-sports-center-rugby-still-not-satisfied/
+date: 2012-04-13 21:07:03 +0000
+url: "/2012/04/13/title-ix-investigation-absolves-sports-center-rugby-still-not-satisfied/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - rugby
-  - sports center
-  - title ix
+- rugby
+- sports center
+- title ix
 
 ---
 A Title IX investigation into alleged inequitable treatment of women’s teams and facilities by the Sports Center concluded on March 23, but the Women’s Rugby team says the investigation failed to address their concerns. The investigation, which found Reed to be in compliance with Title IX, was opened in February after the Women’s Rugby team [leveled complaints against the Sports Center following a controversy in which the team’s coach resigned and funding for team league play was pulled by the administration][1]. Title IX, passed in 1972, forbids sex-based discrimination by schools that receive Federal funding.

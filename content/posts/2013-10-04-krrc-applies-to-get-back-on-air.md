@@ -1,13 +1,13 @@
 ---
 title: KRRC Applies to Get Back on Air
-authors: 
-  - "Isabel Lyndon"
+authors:
+- Isabel Lyndon
 type: post
-date: 2013-10-05T01:24:23+00:00
-url: /2013/10/04/krrc-applies-to-get-back-on-air/
+date: 2013-10-05 01:24:23 +0000
+url: "/2013/10/04/krrc-applies-to-get-back-on-air/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The eclectic sounds of the KRRC may soon be returning to the airwaves with its very own FM radio station. Thanks to Obama’s initiative, “The Local Community Radio Act of 2010,” there is now FM radio space available for non-profits and educational institutions who apply and are approved. Senate has allotted Reed’s radio station $10,400 for the purchase and installation of a transmitter, antenna, and emergency alert system as long as KRRC’s application for a Low Power FM, or LPFM, frequency and license is accepted this month. Funds will be taken out of the interest accrued by the school’s endowment instead of from student body funds.

@@ -1,13 +1,13 @@
 ---
 title: 'Senate: Sustainable, Kommunal, Social'
-authors: 
-  - "Michael Zhao"
+authors:
+- Michael Zhao
 type: post
-date: 2012-03-23T23:11:27+00:00
-url: /2012/03/23/senate-sustainable-kommunal-social/
+date: 2012-03-23 23:11:27 +0000
+url: "/2012/03/23/senate-sustainable-kommunal-social/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _Michael Zhao is the Senate Publicity Officer._

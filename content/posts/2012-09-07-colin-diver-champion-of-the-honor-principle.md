@@ -1,13 +1,13 @@
 ---
 title: 'Colin Diver: Champion of the Honor Principle?'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-09-07T17:53:30+00:00
-url: /2012/09/07/colin-diver-champion-of-the-honor-principle/
+date: 2012-09-07 17:53:30 +0000
+url: "/2012/09/07/colin-diver-champion-of-the-honor-principle/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Former president of Reed College Colin Diver championed the Honor Principle in [a letter to _The Boston Globe_ on Wednesday][1] in response to a recent [cheating scandal][2] at Harvard University.

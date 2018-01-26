@@ -1,14 +1,14 @@
 ---
 title: An Open Letter Concerning Foul Fowl
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-31T19:33:11+00:00
-url: /2011/03/31/an-open-letter-concerning-foul-fowl/
+date: 2011-03-31 19:33:11 +0000
+url: "/2011/03/31/an-open-letter-concerning-foul-fowl/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - commons
+- commons
 
 ---
 Apparently with the departure of Dax King came the departure of delicious &#8212; nay, edible! &#8212; chicken strips.

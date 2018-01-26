@@ -1,13 +1,13 @@
 ---
 title: Reed Reclaims Facebook Page in Social Media Push
-authors: 
-  - "Jordan Yu"
+authors:
+- Jordan Yu
 type: post
-date: 2013-02-27T05:11:14+00:00
-url: /2013/02/26/reed-reclaims-facebook-page-in-social-media-push/
+date: 2013-02-27 05:11:14 +0000
+url: "/2013/02/26/reed-reclaims-facebook-page-in-social-media-push/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 With almost 5,000 likes, the Reed College Facebook page has blossomed in recent weeks, courtesy of the work being done by the Public Affairs Office. As unlikely as it sounds, only recently have Reed-affiliated groups regained control of Reed’s online media presence from non-Reed groups. Before, when someone searched Twitter, YouTube, or Facebook for a Reed College account, a page was already registered.

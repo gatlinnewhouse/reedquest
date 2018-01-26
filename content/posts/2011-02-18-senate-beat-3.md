@@ -1,12 +1,12 @@
 ---
 title: Senate Beat
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-18T20:02:21+00:00
-url: /2011/02/18/senate-beat-3/
+date: 2011-02-18 20:02:21 +0000
+url: "/2011/02/18/senate-beat-3/"
 categories:
-  - Senate
+- Senate
 
 ---
 Valentines Day with Senate was extra special. The lights were dimmed and each member had a flower by them. It was super romantic. I was definitely feeling the love. Until they announced the funding results, that is.

@@ -1,20 +1,20 @@
 ---
 title: 'Finding Diver’s Replacement: Student Participation Vital In Search Process'
-authors: 
-  - "Rachel Fox"
+authors:
+- Rachel Fox
 type: post
-date: 2011-11-04T21:03:27+00:00
-url: /2011/11/04/finding-divers-replacement-student-participation-vital-in-search-process/
+date: 2011-11-04 21:03:27 +0000
+url: "/2011/11/04/finding-divers-replacement-student-participation-vital-in-search-process/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - candidates
-  - Colin Diver
-  - presidential replacements
-  - Presidential search
-  - rachel fox
-  - student participation
+- candidates
+- Colin Diver
+- presidential replacements
+- Presidential search
+- rachel fox
+- student participation
 
 ---
 <div id="attachment_938" style="width: 310px" class="wp-caption aligncenter">

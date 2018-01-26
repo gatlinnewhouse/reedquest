@@ -1,13 +1,13 @@
 ---
 title: 'Senate Beat: New Murals, Pool Hall Improvement, and Divestment'
-authors: 
-    - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-04-09T03:56:42+00:00
-url: /2013/04/08/senate-beat-new-murals-pool-hall-improvement-and-divestment/
+date: 2013-04-09 03:56:42 +0000
+url: "/2013/04/08/senate-beat-new-murals-pool-hall-improvement-and-divestment/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 **Announcements**

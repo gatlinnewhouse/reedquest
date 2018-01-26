@@ -1,13 +1,13 @@
 ---
 title: 'Talking about Nüde Reed: Honor Council Forum'
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-09-27T23:32:16+00:00
-url: /2013/09/27/talking-about-nude-reed-honor-council-forum/
+date: 2013-09-27 23:32:16 +0000
+url: "/2013/09/27/talking-about-nude-reed-honor-council-forum/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 A multitude of individuals from all corners of the Reed community converged in Vollum Lounge last Thursday, Sept. 19, to engage in a discussion sponsored by Honor Council on Nudity, Tradition, and Title IX. This was the first time that the entire community has had an opportunity to ask their questions, voice their opinions, and air their grievances about the recent events leading up to and resulting from the Title IX complaint in a public forum. As to be expected from the Reed public, plenty of strong thoughts and mindful observations were shared. Perhaps the biggest news to come out of the forum, though, were the changes already being made to certain Reed traditions, like the Hum 110 Pantheon and Humplay.

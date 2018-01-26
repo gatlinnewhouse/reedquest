@@ -1,13 +1,13 @@
 ---
 title: English Ivy Still Dominates Canyon
-authors: 
-  - "Jordan Yu"
+authors:
+- Jordan Yu
 type: post
-date: 2013-04-05T00:29:43+00:00
-url: /2013/04/04/english-ivy-still-dominates-canyon/
+date: 2013-04-05 00:29:43 +0000
+url: "/2013/04/04/english-ivy-still-dominates-canyon/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The Reed Canyon is suffering from an ivy infestation. Not long ago, “every tree in the Canyon used to have ivy to the top of it,” Zac Perry, head of the Canyon Restoration Project says. English ivy was allowed to propagate largely undisturbed for 80 to 100 years, and the Canyon became infested and required machetes to navigate. Left unchecked, the largest ivy roots had grown to 18 inches in diameter, and smaller plants covered much of the 30-acre forest floor. Canyon restoration days had been held once a year for almost a century, but the ivy population was hardly dented.

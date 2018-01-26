@@ -1,18 +1,18 @@
 ---
 title: 'Ruck Maul Pillage and Burn, Ruck Maul Pillage and Burn: Eat the Babies!'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-04T20:13:50+00:00
+date: 2010-11-04 20:13:50 +0000
 excerpt: |
   |
     <p>The Badass Sparkle Princesses are known around campus for two  things—being one of the most intense sports teams at Reed and eating  babies. The women’s rugby club has been around since the 1980s</p>
-url: /2010/11/04/ruck-maul-pillage-and-burn-ruck-maul-pillage-and-burn-eat-the-babies/
+url: "/2010/11/04/ruck-maul-pillage-and-burn-ruck-maul-pillage-and-burn-eat-the-babies/"
 categories:
-  - News
+- News
 tags:
-  - rugby
-  - sports
+- rugby
+- sports
 
 ---
 **[<img class="size-full wp-image-443 alignright" style="margin: 7px;" title="rugby" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/11/rugby.jpg?resize=252%2C152" alt="" data-recalc-dims="1" />][1]Nora McConnell-Johnson**

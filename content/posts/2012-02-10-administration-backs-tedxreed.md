@@ -1,20 +1,20 @@
 ---
 title: Administration Backs TEDxReed
-authors: 
-  - "Rachel Fox"
+authors:
+- Rachel Fox
 type: post
-date: 2012-02-10T17:31:01+00:00
-url: /2012/02/10/administration-backs-tedxreed/
+date: 2012-02-10 17:31:01 +0000
+url: "/2012/02/10/administration-backs-tedxreed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - jeremy melloul
-  - mike brody
-  - rachel fox
-  - Reed College TEDx
-  - TED
-  - TEDxReed
+- jeremy melloul
+- mike brody
+- rachel fox
+- Reed College TEDx
+- TED
+- TEDxReed
 
 ---
 Reed College has pledged to financially back the student group TEDxReedCollege, which is planning a conference for next November. TED is a renowned nonprofit dedicated to disseminating ideas about diverse subject matter including art, culture, politics, science. Such influential people as Al Gore, Richard Dawkins, Bill Gates, and Jane Goodall have given talks for TED’s global conference series that seeks to spread inspiring stories and ideas. TEDx is a derivative of TED that gives third parties, like colleges and universities, licenses to host conferences in their area. Reed&#8217;s event will feature several speakers planning to share their original ideas, as well as previously recorded TEDTalks from official TED events.

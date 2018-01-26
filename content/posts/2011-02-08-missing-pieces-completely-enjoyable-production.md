@@ -1,16 +1,16 @@
 ---
 title: Missing Pieces Completely Enjoyable Production
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2011-02-08T20:19:32+00:00
-url: /2011/02/08/missing-pieces-completely-enjoyable-production/
+date: 2011-02-08 20:19:32 +0000
+url: "/2011/02/08/missing-pieces-completely-enjoyable-production/"
 categories:
-  - Features
+- Features
 tags:
-  - portland
-  - The Missing Pieces
-  - theatre
+- portland
+- The Missing Pieces
+- theatre
 
 ---
 The Portland Playhouse’s production of Nick Zagone’s The Missing Pieces is a playful, heartfelt tale of a boy’s search for a father figure. The production is not perfect, but director Brian Weaver certainly puts on a damn good show.

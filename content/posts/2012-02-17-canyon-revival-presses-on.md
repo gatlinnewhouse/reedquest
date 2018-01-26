@@ -1,13 +1,13 @@
 ---
 title: Canyon Revival Presses On
-authors: 
-  - "Lyle Daniel"
+authors:
+- Lyle Daniel
 type: post
-date: 2012-02-17T18:10:47+00:00
-url: /2012/02/17/canyon-revival-presses-on/
+date: 2012-02-17 18:10:47 +0000
+url: "/2012/02/17/canyon-revival-presses-on/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 The restoration process that transformed the Reed Canyon from a mess of invasive plants and disconnected waterways into the present ecologically stable and pleasantly walkable space will continue this semester with a host of new endeavors by the Canyon Crew. Under Canyon Specialist Zac Perry’s direction, the crew plans to install a second fish ladder camera, build a new trail that connects the Farm House to the existing system, and maintain the trails and ecological balance they have already established.

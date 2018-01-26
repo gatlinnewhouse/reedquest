@@ -1,12 +1,12 @@
 ---
 title: Senate Beat
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-22T02:09:06+00:00
-url: /2011/04/21/senate-beat-8/
+date: 2011-04-22 02:09:06 +0000
+url: "/2011/04/21/senate-beat-8/"
 categories:
-  - Senate
+- Senate
 
 ---
 **Committee Reports:**

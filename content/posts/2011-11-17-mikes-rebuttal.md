@@ -1,20 +1,20 @@
 ---
 title: Mike’s Rebuttal
-authors: 
-  - "Mike Brody"
+authors:
+- Mike Brody
 type: post
-date: 2011-11-18T01:32:24+00:00
-url: /2011/11/17/mikes-rebuttal/
+date: 2011-11-18 01:32:24 +0000
+url: "/2011/11/17/mikes-rebuttal/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - community
-  - engagement
-  - jacob canter
-  - mike brody
-  - participation
-  - reed senate
-  - student involvement
+- community
+- engagement
+- jacob canter
+- mike brody
+- participation
+- reed senate
+- student involvement
 
 ---
 _Rebuttal to Jacob Canter&#8217;s &#8220;Response to &#8220;Ask Mike&#8221;&#8221;  _

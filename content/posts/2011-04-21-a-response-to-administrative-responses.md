@@ -1,14 +1,14 @@
 ---
 title: A Response to Administrative Responses
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-21T23:12:10+00:00
-url: /2011/04/21/a-response-to-administrative-responses/
+date: 2011-04-21 23:12:10 +0000
+url: "/2011/04/21/a-response-to-administrative-responses/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - sexual assault
+- sexual assault
 
 ---
 In light of the on-going campus debate, lengthy press coverage, the publication of two honor cases in 2010 for sexual assault, and a record-breaking eleven reported sexual assaults this year, I found myself waiting and watching for the administration to chime in on the call and response. Following former Judicial Board member Isabel Manley’s letter to the community clarifying her reasons for resigning the post a semester early on February 11th, I kept refreshing the icon on my inbox, awaiting some choice and reassuring words in a memo from Dean of Students Michael Brody or President Colin Diver. I’m in my eighth semester at Reed, so I know the ropes, figuring we would be having an emergency forum hosted by Honor Council announced via the SB Info listserv. Stunningly, neither email came.

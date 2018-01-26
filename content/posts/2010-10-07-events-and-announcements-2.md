@@ -1,12 +1,12 @@
 ---
 title: Events and Announcements
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-07T18:13:46+00:00
-url: /2010/10/07/events-and-announcements-2/
+date: 2010-10-07 18:13:46 +0000
+url: "/2010/10/07/events-and-announcements-2/"
 categories:
-  - Events
+- Events
 
 ---
 **Flu Clinic**

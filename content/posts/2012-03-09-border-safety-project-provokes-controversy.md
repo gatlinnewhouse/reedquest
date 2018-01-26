@@ -1,13 +1,13 @@
 ---
-title: “Border safety” Project Provokes Controversy
-authors: 
-  - "Alex Walker"
+title: "“Border safety” Project Provokes Controversy"
+authors:
+- Alex Walker
 type: post
-date: 2012-03-09T21:26:50+00:00
-url: /2012/03/09/border-safety-project-provokes-controversy/
+date: 2012-03-09 21:26:50 +0000
+url: "/2012/03/09/border-safety-project-provokes-controversy/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/border-safety-project-provokes-controversy/border-security-slider/" rel="attachment wp-att-1423"><img class="aligncenter size-full wp-image-1423" title="BDSM" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/03/Border-security-slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

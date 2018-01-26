@@ -1,13 +1,13 @@
 ---
 title: 'Brommunity Safety: CSBros'
-authors: 
-  - "Cristina Cambianica"
+authors:
+- Cristina Cambianica
 type: post
-date: 2012-10-05T17:00:43+00:00
-url: /2012/10/05/brommunity-safety-csbros/
+date: 2012-10-05 17:00:43 +0000
+url: "/2012/10/05/brommunity-safety-csbros/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Just who is Brommunity Safety, and what do they want? Surrounded by hotdogs and rootbeer supplied by members of the group, Director of Community Safety Gary Granger says one thing is certain: “They’re not mocking us.”

@@ -1,13 +1,13 @@
 ---
 title: Fall Canyon Day Approaches – Saturday, Oct. 5
-authors: 
-  - "Dove Henry"
+authors:
+- Dove Henry
 type: post
-date: 2013-09-20T20:56:37+00:00
-url: /2013/09/20/fall-canyon-day-approaches-saturday-oct-5/
+date: 2013-09-20 20:56:37 +0000
+url: "/2013/09/20/fall-canyon-day-approaches-saturday-oct-5/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 Red alders bow over the water and the sun glints through the crown of a tall Douglas fir. A great blue heron descends in silence on a half submerged log, where it stands erect, unmoving on its spindly legs. Nearby, an otter’s oily coat gleams as it emerges from the water, hastily dipping back beneath the surface in search of salmon. The scene could have taken place hundreds of years ago in the unsettled Willamette river valley, but these days, it continues to occur, even in the midst of urban Portland, Oregon, at a part of the Johnson Creek Watershed that we know as the Reed Canyon. It is striking at dusk and glorious at the height of a sunny day, but my favorite time there is undoubtedly dawn, when it is still, and the angle of the light hits the motionless water in that way that makes it look like liquid metal. Sun, however, is not requisite to take pleasure in the canyon (and that’s a damn good thing, too). On a cool, drizzling day, certain misty spots seem to alter space and time for a moment, making one feel far from Reed, far from Portland, far from the 21<sup>st</sup> century altogether—and on occasion, that sense of respite and humility is important.

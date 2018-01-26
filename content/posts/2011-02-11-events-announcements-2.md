@@ -1,12 +1,12 @@
 ---
-title: 'Events & Announcements'
-authors: 
-  - Staff
+title: Events & Announcements
+authors:
+- Staff
 type: post
-date: 2011-02-11T21:14:34+00:00
-url: /2011/02/11/events-announcements-2/
+date: 2011-02-11 21:14:34 +0000
+url: "/2011/02/11/events-announcements-2/"
 categories:
-  - Events
+- Events
 
 ---
 **WE NEED A FUCKIN’ AD MANAGER. LIKE, REAL BAD.**

@@ -1,14 +1,14 @@
 ---
 title: 'Queditorial: Don’t Shoot the Messenger!'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-10T20:14:28+00:00
-url: /2011/03/10/queditorial-dont-shoot-the-messenger/
+date: 2011-03-10 20:14:28 +0000
+url: "/2011/03/10/queditorial-dont-shoot-the-messenger/"
 categories:
-  - From the Editors
+- From the Editors
 tags:
-  - aod
+- aod
 
 ---
 We would like to take the opportunity to respond to some of the concerns expressed by Director of Community Safety Gary Granger’s response to a news piece that was published in the March 10 issue of the Quest. We hope that, by writing this, we are able to adequately address his criticisms and shed light on our approach to reporting Reed’s new implementation of the AOD policy, as well as the debate surrounding it.

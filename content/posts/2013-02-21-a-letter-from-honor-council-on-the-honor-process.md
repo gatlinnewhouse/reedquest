@@ -1,13 +1,13 @@
 ---
 title: A Letter from Honor Council on the Honor Process
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-22T03:55:12+00:00
-url: /2013/02/21/a-letter-from-honor-council-on-the-honor-process/
+date: 2013-02-22 03:55:12 +0000
+url: "/2013/02/21/a-letter-from-honor-council-on-the-honor-process/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 We, the student members of the Honor Council, wish to express to the Reed Community our appreciation for your commitment to honorable, reasoned, and respectful discourse. All members of the Honor Council were present for the Community Forum with President Kroger, and we appreciated the (generally) respectful and genuine expression of your ideas and opinions. In many of the so-called “crises” the community has suffered these past few years there has been a tendency to blame individuals rather than searching for possible solutions. This situation is no different, but we would like to encourage the community to aspire to a more constructive and solution-oriented discourse.

@@ -1,13 +1,13 @@
 ---
 title: 'Letter: What Has Happened to Civility?'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-09-27T22:50:50+00:00
-url: /2013/09/27/what-has-happened-to-civility/
+date: 2013-09-27 22:50:50 +0000
+url: "/2013/09/27/what-has-happened-to-civility/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _**By Virginia Hancock, Professor of Music**_

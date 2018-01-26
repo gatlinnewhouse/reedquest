@@ -1,13 +1,13 @@
 ---
 title: Psychedelic Sounds Fire Up SU
-authors: 
-  - "Lauren Nelson"
+authors:
+- Lauren Nelson
 type: post
-date: 2012-10-31T20:31:52+00:00
-url: /2012/10/31/psychedelic-sounds-fire-up-su/
+date: 2012-10-31 20:31:52 +0000
+url: "/2012/10/31/psychedelic-sounds-fire-up-su/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/psychedelic-sounds-fire-up-su/zaireeka_web/" rel="attachment wp-att-1768"><img class="alignnone size-full wp-image-1768" title="Zaireeka" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/11/zaireeka_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

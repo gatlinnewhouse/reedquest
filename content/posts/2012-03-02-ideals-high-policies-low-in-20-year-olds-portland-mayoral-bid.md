@@ -1,13 +1,13 @@
 ---
 title: Ideals High, Policies Low in 20-Year-Old’s Portland Mayoral Bid
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-03-02T23:15:32+00:00
-url: /2012/03/02/ideals-high-policies-low-in-20-year-olds-portland-mayoral-bid/
+date: 2012-03-02 23:15:32 +0000
+url: "/2012/03/02/ideals-high-policies-low-in-20-year-olds-portland-mayoral-bid/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “My office has no specific location in Portland. You will find me in every neighborhood, bus line, and park.” This text lies where a street address would normally be found on Cameron Whitten&#8217;s website. Whitten, only twenty years old, is running an insurgent candidacy for mayor of Portland, which will be voted for this fall.

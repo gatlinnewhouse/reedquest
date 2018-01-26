@@ -1,19 +1,19 @@
 ---
-title: 'Diver Responds to Calls for Sexual Assault Policy Reform [Updated]'
-authors: 
-  - questadmin
+title: Diver Responds to Calls for Sexual Assault Policy Reform [Updated]
+authors:
+- questadmin
 type: post
-date: 2011-04-28T18:47:19+00:00
+date: 2011-04-28 18:47:19 +0000
 excerpt: |
   |
     <p>On Tuesday, President Colin Diver sent an open letter to the Reed  community broadly outlining steps the college will take toward reforming  its institutional approach to sexual assault. In the past semester,  Reed’s sexual assault policy has been criticized for insufficiently  addressing the needs of victims and inadequacy in its adjudication  process.</p>
     <p>The letter, distributed in the form of a campus-wide e-mail,  comes in response to mounting pressure from various members of the Reed  community advocating for reform of the college’s sexual assault  policies. Specifically, the letter cites two petitions created by  faculty and students calling for reform.</p>
-url: /2011/04/28/diver-responds-to-calls-for-sexual-assault-policy-reform/
+url: "/2011/04/28/diver-responds-to-calls-for-sexual-assault-policy-reform/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - sexual assault
+- sexual assault
 
 ---
 On Tuesday, President Colin Diver sent an open letter to the Reed community broadly outlining steps the college will take toward reforming its institutional approach to sexual assault. In the past semester, Reed’s sexual assault policy has been criticized for insufficiently addressing the needs of victims and inadequacy in its adjudication process.

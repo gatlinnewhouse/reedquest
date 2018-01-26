@@ -1,12 +1,12 @@
 ---
 title: 'CSO Of The Week: Dhyana Cabarga'
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-09-29T04:07:56+00:00
-url: /2011/09/28/cso-of-the-week-dhyana-cabarga/
+date: 2011-09-29 04:07:56 +0000
+url: "/2011/09/28/cso-of-the-week-dhyana-cabarga/"
 categories:
-  - Features
+- Features
 
 ---
 <div>

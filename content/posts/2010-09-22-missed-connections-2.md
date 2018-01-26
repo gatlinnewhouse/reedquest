@@ -1,12 +1,12 @@
 ---
 title: Missed Connections
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-22T19:32:52+00:00
-url: /2010/09/22/missed-connections-2/
+date: 2010-09-22 19:32:52 +0000
+url: "/2010/09/22/missed-connections-2/"
 categories:
-  - Uncategorized
+- Uncategorized
 
 ---
 [#14] Your short blond hair reminds me of the field behind my childhood home before they burned down, changing my life forever. I look forward to buying a black coffee no room from you again next Wednesday night. 🙂

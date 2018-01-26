@@ -1,16 +1,16 @@
 ---
-title: “An Open Letter to the Reed Community”
-authors: 
-  - Staff
+title: "“An Open Letter to the Reed Community”"
+authors:
+- Staff
 type: post
-date: 2011-04-07T19:16:34+00:00
-url: /2011/04/07/an-open-letter-to-the-reed-community-2/
+date: 2011-04-07 19:16:34 +0000
+url: "/2011/04/07/an-open-letter-to-the-reed-community-2/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - aod
-  - drugs
-  - honor
+- aod
+- drugs
+- honor
 
 ---
 Dear Reed Community,

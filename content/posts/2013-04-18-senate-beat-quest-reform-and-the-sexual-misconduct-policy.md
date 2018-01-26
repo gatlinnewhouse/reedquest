@@ -1,14 +1,14 @@
 ---
 title: 'Senate Beat: Quest Reform and the Sexual Misconduct Policy'
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-04-18T09:47:20+00:00
-url: /2013/04/18/senate-beat-quest-reform-and-the-sexual-misconduct-policy/
+date: 2013-04-18 09:47:20 +0000
+url: "/2013/04/18/senate-beat-quest-reform-and-the-sexual-misconduct-policy/"
 categories:
-  - News
-  - Senate Beat
-  - Top Stories
+- News
+- Senate Beat
+- Top Stories
 
 ---
 <p style="text-align: center;">

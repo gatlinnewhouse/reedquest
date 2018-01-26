@@ -1,18 +1,18 @@
 ---
 title: Defenders of the Universe, Adversaries of the Ordinary
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2011-12-03T22:18:41+00:00
-url: /2011/12/03/defenders-of-the-universe-adversaries-of-the-ordinary/
+date: 2011-12-03 22:18:41 +0000
+url: "/2011/12/03/defenders-of-the-universe-adversaries-of-the-ordinary/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - alex krafcik
-  - defenders of the universe
-  - dotu
-  - dxoxtxux
+- alex krafcik
+- defenders of the universe
+- dotu
+- dxoxtxux
 
 ---
 <div id="attachment_1047" style="width: 310px" class="wp-caption alignright">

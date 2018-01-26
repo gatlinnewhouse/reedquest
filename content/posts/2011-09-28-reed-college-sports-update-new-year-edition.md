@@ -1,13 +1,13 @@
 ---
 title: 'Reed College Sports Update: New Year Edition'
-authors: 
-  - "Jeffrey Blum"
+authors:
+- Jeffrey Blum
 type: post
-date: 2011-09-28T22:38:36+00:00
-url: /2011/09/28/reed-college-sports-update-new-year-edition/
+date: 2011-09-28 22:38:36 +0000
+url: "/2011/09/28/reed-college-sports-update-new-year-edition/"
 categories:
-  - Features
-  - News
+- Features
+- News
 
 ---
 Most of the Reed sports teams have continued as usual this year, with both Frisbee teams and both rugby teams gearing up for another good season, and basketball continuing to exist. Men’s soccer is looking to build upon their phenomenal previous season and improve upon their already extremely impressive last year’s second-place finish and .666 winning percentage. More on these teams to come later in the year as their seasons get underway.

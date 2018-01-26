@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Melissa Aslo Islam in a Superhero Comic'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-11-17T18:55:00+00:00
-url: /2011/11/17/cool-thesis-of-the-week-melissa-aslo-islam-in-a-superhero-comic/
+date: 2011-11-17 18:55:00 +0000
+url: "/2011/11/17/cool-thesis-of-the-week-melissa-aslo-islam-in-a-superhero-comic/"
 categories:
-  - Cool Thesis of the Week
-  - Features
+- Cool Thesis of the Week
+- Features
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

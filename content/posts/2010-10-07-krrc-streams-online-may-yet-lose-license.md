@@ -1,12 +1,12 @@
 ---
 title: KRRC Streams Online, May Yet Lose License
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-10-07T18:16:42+00:00
-url: /2010/10/07/krrc-streams-online-may-yet-lose-license/
+date: 2010-10-07 18:16:42 +0000
+url: "/2010/10/07/krrc-streams-online-may-yet-lose-license/"
 categories:
-  - News
+- News
 
 ---
 Unlike Olde Reed, KRRC is not dead. Open your computers and turn to KRRCfm.com. Reed has a student radio station and it’s streaming online, said station signators Alexa Ross and Jack Diboise.

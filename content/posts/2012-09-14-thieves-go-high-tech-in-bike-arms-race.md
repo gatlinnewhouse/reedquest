@@ -1,13 +1,13 @@
 ---
 title: Thieves Go High Tech in Bike Arms Race
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2012-09-14T16:58:51+00:00
-url: /2012/09/14/thieves-go-high-tech-in-bike-arms-race/
+date: 2012-09-14 16:58:51 +0000
+url: "/2012/09/14/thieves-go-high-tech-in-bike-arms-race/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/?attachment_id=1600" rel="attachment wp-att-1600"><img class="alignnone size-full wp-image-1600" title="Cross Canyon Bikes" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/09/bikeslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,15 +1,15 @@
 ---
 title: A Sock Drive to Benefit Portland Street Population
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-02T19:13:49+00:00
+date: 2010-12-02 19:13:49 +0000
 excerpt: |
   |
     <p>Wiggle your toes, then take a look outside. Aren’t you glad you’re cozy  inside, with a good pair of socks to protect your extremities from the  cold and wet when you do venture outdoors?</p>
-url: /2010/12/02/a-sock-drive-to-benefit-portland-street-population/
+url: "/2010/12/02/a-sock-drive-to-benefit-portland-street-population/"
 categories:
-  - News
+- News
 
 ---
 **Rachel Cole-Jansen**

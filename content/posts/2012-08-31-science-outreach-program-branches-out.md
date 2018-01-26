@@ -1,13 +1,13 @@
 ---
 title: Science Outreach Program Branches Out
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-08-31T17:02:42+00:00
-url: /2012/08/31/science-outreach-program-branches-out/
+date: 2012-08-31 17:02:42 +0000
+url: "/2012/08/31/science-outreach-program-branches-out/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/08/science-outreach-program-branches-out/visit-to-dr-kaplan-lab-slider/" rel="attachment wp-att-1544"><img class="alignnone size-full wp-image-1544" title="Kaplan Lab Slider" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/08/Visit-to-Dr.-Kaplan-Lab-slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>Since its inception in 1995, Reed’s Science Outreach program has facilitated Reedie-taught biology lessons in Title I elementary schools.  This year, the program is making a significant change: It is introducing chemistry to its curriculum.

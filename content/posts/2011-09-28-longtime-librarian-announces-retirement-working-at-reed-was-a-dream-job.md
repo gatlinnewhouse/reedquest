@@ -1,13 +1,13 @@
 ---
 title: 'Longtime Librarian Announces Retirement: Working at Reed Was “a Dream Job”'
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2011-09-29T00:27:59+00:00
-url: /2011/09/28/longtime-librarian-announces-retirement-working-at-reed-was-a-dream-job/
+date: 2011-09-29 00:27:59 +0000
+url: "/2011/09/28/longtime-librarian-announces-retirement-working-at-reed-was-a-dream-job/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 In an email to the Reed community last Tuesday, President Diver announced that Norman F. Carrigg College Librarian Vickie Hanawalt would retire after 25 years in August 2012. The college will select a search committee “in the near future” to find a successor.

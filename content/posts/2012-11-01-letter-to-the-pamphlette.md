@@ -1,13 +1,13 @@
 ---
 title: Letter to The Pamphlette
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-01T20:26:30+00:00
-url: /2012/11/01/letter-to-the-pamphlette/
+date: 2012-11-01 20:26:30 +0000
+url: "/2012/11/01/letter-to-the-pamphlette/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 Dearest _Pamphlette,_

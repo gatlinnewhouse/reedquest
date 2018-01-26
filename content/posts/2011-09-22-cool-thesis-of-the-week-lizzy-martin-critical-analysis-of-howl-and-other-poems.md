@@ -1,12 +1,13 @@
 ---
-title: 'Cool Thesis of the Week: Lizzy Martin: Critical Analysis of “Howl and Other Poems”'
-authors: 
-  - "Alex Blum"
+title: 'Cool Thesis of the Week: Lizzy Martin: Critical Analysis of “Howl and Other
+  Poems”'
+authors:
+- Alex Blum
 type: post
-date: 2011-09-22T18:04:38+00:00
-url: /2011/09/22/cool-thesis-of-the-week-lizzy-martin-critical-analysis-of-howl-and-other-poems/
+date: 2011-09-22 18:04:38 +0000
+url: "/2011/09/22/cool-thesis-of-the-week-lizzy-martin-critical-analysis-of-howl-and-other-poems/"
 categories:
-  - Cool Thesis of the Week
+- Cool Thesis of the Week
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

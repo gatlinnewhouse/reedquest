@@ -1,15 +1,15 @@
 ---
-title: 'Student  Positions Open for Appointment'
-authors: 
-  - Staff
+title: Student  Positions Open for Appointment
+authors:
+- Staff
 type: post
-date: 2010-09-30T18:17:56+00:00
-url: /2010/09/30/student-positions-open-for-appointment-2/
+date: 2010-09-30 18:17:56 +0000
+url: "/2010/09/30/student-positions-open-for-appointment-2/"
 categories:
-  - Senate
+- Senate
 tags:
-  - appointments
-  - senate
+- appointments
+- senate
 
 ---
 The Student Body Appointments Committee selects students to represent the student body on a variety of issues. Freshmen, please apply! This is a great way to learn about campus culture and become involved in the community. Go to sin.reed.edu to apply! If you have any questions, contact [Nina Showell][1]. All applications are due on 10/3 at midnight, and all interviews take place the evening of Wednesday, 106.

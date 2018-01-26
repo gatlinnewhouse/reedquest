@@ -1,13 +1,13 @@
 ---
 title: Senate Appoints New Treasurers
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-02-15T07:47:27+00:00
-url: /2013/02/14/senate-appoints-new-treasurers/
+date: 2013-02-15 07:47:27 +0000
+url: "/2013/02/14/senate-appoints-new-treasurers/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Waiting for a microphone at the start of last week’s Senate meeting, before President Kroger and students faced off on the topics of censorship and student autonomy, Appointments Committee chair Annam Swanson announced that freshmen Oliver Silverton-Peel and Alejandro Chavez-Lopez had been appointed vice and assistant treasurers. Over the course of the next three hours, funding of events by the student body was cited often as students made their case to Kroger, demonstrating the important role student body treasurers play in maintaining our autonomy.

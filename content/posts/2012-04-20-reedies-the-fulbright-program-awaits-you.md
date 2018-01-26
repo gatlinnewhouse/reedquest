@@ -1,17 +1,17 @@
 ---
 title: 'Reedies: The Fulbright Program Awaits You!'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-04-20T15:48:28+00:00
-url: /2012/04/20/reedies-the-fulbright-program-awaits-you/
+date: 2012-04-20 15:48:28 +0000
+url: "/2012/04/20/reedies-the-fulbright-program-awaits-you/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - alumni
-  - fulbright
-  - grant
+- alumni
+- fulbright
+- grant
 
 ---
 _By Thomas Burns ‘98_

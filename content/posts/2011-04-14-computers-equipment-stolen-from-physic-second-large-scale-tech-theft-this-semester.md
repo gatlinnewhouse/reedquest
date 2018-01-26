@@ -1,12 +1,13 @@
 ---
-title: 'Computers, Equipment Stolen from Physics: Second Large-Scale Tech Theft This Semester'
-authors: 
-  - questadmin
+title: 'Computers, Equipment Stolen from Physics: Second Large-Scale Tech Theft This
+  Semester'
+authors:
+- questadmin
 type: post
-date: 2011-04-15T00:26:06+00:00
-url: /2011/04/14/computers-equipment-stolen-from-physic-second-large-scale-tech-theft-this-semester/
+date: 2011-04-15 00:26:06 +0000
+url: "/2011/04/14/computers-equipment-stolen-from-physic-second-large-scale-tech-theft-this-semester/"
 categories:
-  - News
+- News
 
 ---
 Late Sunday, several computers and pieces of equipment were stolen from the Physics building, amounting to thousands of dollars in stolen assets. This is the second theft in the Physics building this semester; the first of which took place in January and involved a theft of similar items.

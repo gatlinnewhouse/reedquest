@@ -1,13 +1,14 @@
 ---
-title: 'Four Loko Canned: College Students Everywhere May Start to Remember Their Saturday Nights'
-authors: 
-  - "Katy Joseph"
+title: 'Four Loko Canned: College Students Everywhere May Start to Remember Their
+  Saturday Nights'
+authors:
+- Katy Joseph
 type: post
-date: 2010-11-18T19:00:08+00:00
-url: /2010/11/18/four-loko-canned-college-students-everywhere-may-start-to-remember-their-saturday-nights/
+date: 2010-11-18 19:00:08 +0000
+url: "/2010/11/18/four-loko-canned-college-students-everywhere-may-start-to-remember-their-saturday-nights/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 [<img class="alignleft size-full wp-image-498" style="margin: 7px;" title="Nestle_FourLoko_11-3_post" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/11/Nestle_FourLoko_11-3_post.jpg?resize=216%2C144" alt="" data-recalc-dims="1" />][1]Facing mounting pressure from the FDA, outspoken government representatives, and concerned citizens groups, makers of the popular malt beverage Four Loko announced on Tuesday that they will pull the caffeine from the convenience store staple.

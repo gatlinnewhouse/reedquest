@@ -1,13 +1,13 @@
 ---
 title: The Sexual Intellectual Talks “Sexy Consent”
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2011-04-28T18:32:58+00:00
-url: /2011/04/28/the-sexual-intellectual-talks-sexy-consent/
+date: 2011-04-28 18:32:58 +0000
+url: "/2011/04/28/the-sexual-intellectual-talks-sexy-consent/"
 categories:
-  - Features
-  - The Sexual Intellectual
+- Features
+- The Sexual Intellectual
 
 ---
 The first golden rays of Renn Fayre are peeking out from the horizon; Hum Play and Stop Making Sense are forthcoming while students scurry to the bins and back to make their props, costumes, and projects ready for the Gold Rush. However, not everything is sunshine, lollipops, and rainbows. A black cloud has hung over this year concerning the issue of sexual assault on campus. I was outraged (as anyone is/would be/should be) to hear that consent is not being respected on our campus. With an issue of such gravity overhanging our coming revelry, I hope this article, with a little humor and a lot of caution, will stick in the minds of students and remind them that with great parties comes great responsibility (concerning consent especially).

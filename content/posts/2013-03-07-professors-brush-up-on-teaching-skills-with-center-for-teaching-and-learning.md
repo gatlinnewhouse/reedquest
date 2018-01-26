@@ -1,13 +1,13 @@
 ---
 title: Professors Brush up on Teaching Skills with Center for Teaching and Learning
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-03-07T23:14:45+00:00
-url: /2013/03/07/professors-brush-up-on-teaching-skills-with-center-for-teaching-and-learning/
+date: 2013-03-07 23:14:45 +0000
+url: "/2013/03/07/professors-brush-up-on-teaching-skills-with-center-for-teaching-and-learning/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 A new series of teaching seminars for professors commenced last month with a workshop led by  Mariatte Denman, Ph.D, associate director for the Humanities at the Stanford Center for Teaching and Learning.

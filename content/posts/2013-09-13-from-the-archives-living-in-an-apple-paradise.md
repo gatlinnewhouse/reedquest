@@ -1,14 +1,14 @@
 ---
 title: 'From the Archives: Living in an Apple Paradise'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-09-14T05:00:52+00:00
-url: /2013/09/13/from-the-archives-living-in-an-apple-paradise/
+date: 2013-09-14 05:00:52 +0000
+url: "/2013/09/13/from-the-archives-living-in-an-apple-paradise/"
 categories:
-  - Features
-  - Front Page
-  - Student Handbook
+- Features
+- Front Page
+- Student Handbook
 
 ---
 In 1988, computers were still a new and frightening invention, and an article in that year’s student handbook reflected the social castigation that computer users might have faced in that dark, dark era of Reaganomics. It’s almost as if 2001: A Space Odyssey actually took place, and “Apple Macintosh” is the black monolith that appeared in the heart of Reed campus, leaving the student body to fret about like the scared apes they were. Feast your eyes:

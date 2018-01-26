@@ -1,12 +1,12 @@
 ---
 title: Reed Alum Clears Streets for Locomotion
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2010-10-28T18:04:47+00:00
-url: /2010/10/28/reed-alum-clears-streets-for-locomotion/
+date: 2010-10-28 18:04:47 +0000
+url: "/2010/10/28/reed-alum-clears-streets-for-locomotion/"
 categories:
-  - News
+- News
 
 ---
 <div id="attachment_422" style="width: 228px" class="wp-caption alignleft">

@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Andy Malkin'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-09-21T18:30:44+00:00
-url: /2012/09/21/cool-thesis-of-the-week-andy-malkin/
+date: 2012-09-21 18:30:44 +0000
+url: "/2012/09/21/cool-thesis-of-the-week-andy-malkin/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/cool-thesis-of-the-week-andy-malkin/coolthesisslider/" rel="attachment wp-att-1621"><img class="alignnone size-full wp-image-1621" title="Andy Malkin" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/09/coolthesisslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

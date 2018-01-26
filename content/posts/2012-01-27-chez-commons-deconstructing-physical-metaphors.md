@@ -1,14 +1,14 @@
 ---
 title: 'Chez Commons: Deconstructing Physical Metaphors'
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2012-01-28T06:27:03+00:00
-url: /2012/01/27/chez-commons-deconstructing-physical-metaphors/
+date: 2012-01-28 06:27:03 +0000
+url: "/2012/01/27/chez-commons-deconstructing-physical-metaphors/"
 categories:
-  - Chez Commons
-  - Features
-  - Top Stories
+- Chez Commons
+- Features
+- Top Stories
 
 ---
 _Chez Commons is a fusion of the food of Commons and the academic artistry of the Reedie.  If you are intrigued by the possibility of writing it, please send your submission (with accompanying photo) to [&#x71;&#x75;&#x65;&#x73;&#x74;&#x40;<span class="oe_displaynone">null</span>&#x72;&#x65;&#x65;&#x64;&#x2e;&#x65;&#x64;&#x75;][1] with the subject line “Chez Commons.”_

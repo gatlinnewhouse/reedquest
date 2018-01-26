@@ -1,13 +1,13 @@
 ---
 title: Student Piano Silenced
-authors: 
-  - "Michael Song"
+authors:
+- Michael Song
 type: post
-date: 2013-09-20T21:14:38+00:00
-url: /2013/09/20/student-piano-silenced/
+date: 2013-09-20 21:14:38 +0000
+url: "/2013/09/20/student-piano-silenced/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The piano in the Student Union was broken. It was four thousand dollars.

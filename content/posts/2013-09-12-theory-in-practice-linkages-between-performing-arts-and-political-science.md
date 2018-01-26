@@ -1,13 +1,13 @@
 ---
 title: 'Theory in Practice: Linkages Between Performing Arts and Political Science'
-authors: 
-  - "Cristina Cambianica"
+authors:
+- Cristina Cambianica
 type: post
-date: 2013-09-13T03:59:49+00:00
-url: /2013/09/12/theory-in-practice-linkages-between-performing-arts-and-political-science/
+date: 2013-09-13 03:59:49 +0000
+url: "/2013/09/12/theory-in-practice-linkages-between-performing-arts-and-political-science/"
 categories:
-  - Features
-  - Front Page
+- Features
+- Front Page
 
 ---
 Reed’s new preforming arts building may have unforeseen benefits, especially for the Political Science Department. Thursday night, guest speaker Dr. Emily Beausoleil presented her work on the contingency of political receptivity on somatic cues that may actually be harnessed, the same cues that dancers, performers, and movement therapists depend on.

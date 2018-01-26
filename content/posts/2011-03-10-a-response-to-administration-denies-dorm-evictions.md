@@ -1,12 +1,12 @@
 ---
 title: A response to “Administration Denies Dorm Evictions”
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-10T20:27:52+00:00
-url: /2011/03/10/a-response-to-administration-denies-dorm-evictions/
+date: 2011-03-10 20:27:52 +0000
+url: "/2011/03/10/a-response-to-administration-denies-dorm-evictions/"
 categories:
-  - News
+- News
 
 ---
 I, as well as the CSOs that I am fortunate enough to lead, have been the subject of many _Quest_ pieces this academic year.  I accept it, I welcome it, and to this point, I have been impressed with the quality of work I have read. Not today.

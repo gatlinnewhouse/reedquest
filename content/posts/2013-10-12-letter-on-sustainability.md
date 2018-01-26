@@ -1,13 +1,13 @@
 ---
 title: Letter on Sustainability
-authors: 
-  - "Austin Weisgrau"
+authors:
+- Austin Weisgrau
 type: post
-date: 2013-10-12T23:40:48+00:00
-url: /2013/10/12/letter-on-sustainability/
+date: 2013-10-12 23:40:48 +0000
+url: "/2013/10/12/letter-on-sustainability/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 A fresh movement for sustainability at Reed is building momentum, but students are the only soldiers in the fight. While the Sustainability Committee and Environmental Studies program are supported by staff and faculty, the burden of moving sustainability forward as Reed policy rests entirely on students.

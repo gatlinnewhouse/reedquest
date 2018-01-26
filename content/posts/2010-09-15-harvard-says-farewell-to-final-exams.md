@@ -1,12 +1,12 @@
 ---
 title: Harvard Says “Farewell” to Final Exams
-authors: 
-  - "Katy Joseph"
+authors:
+- Katy Joseph
 type: post
-date: 2010-09-15T19:00:14+00:00
-url: /2010/09/15/harvard-says-farewell-to-final-exams/
+date: 2010-09-15 19:00:14 +0000
+url: "/2010/09/15/harvard-says-farewell-to-final-exams/"
 categories:
-  - Features
+- Features
 
 ---
 In a meeting of the Faculty of Arts and Science at Harvard on May 11, attendees passed a simple motion stating that “unless an instructor officially informs the Registrar by the end of the first week of the term” that they intend to offer a final exam in a given course, “the assumption shall be that the instructor will not be giving a three-hour final examination.”

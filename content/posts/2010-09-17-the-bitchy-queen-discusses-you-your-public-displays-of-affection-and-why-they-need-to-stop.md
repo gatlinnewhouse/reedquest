@@ -1,18 +1,19 @@
 ---
-title: 'The Bitchy Queen  Discusses You, Your Public  Displays of Affection, and  Why They Need to Stop'
-authors: 
-  - Staff
+title: The Bitchy Queen  Discusses You, Your Public  Displays of Affection, and  Why
+  They Need to Stop
+authors:
+- Staff
 type: post
-date: 2010-09-17T21:24:44+00:00
+date: 2010-09-17 21:24:44 +0000
 excerpt: |
   |
     <p>I’ll take my dinner without a show, PLEASE!</p>
     <p>Or any meals with soft-core porn for that matter. Honey, don’t make out in front of me when I’m trying to eat.</p>
-url: /2010/09/17/the-bitchy-queen-discusses-you-your-public-displays-of-affection-and-why-they-need-to-stop/
+url: "/2010/09/17/the-bitchy-queen-discusses-you-your-public-displays-of-affection-and-why-they-need-to-stop/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - advice
+- advice
 
 ---
 I’ll take my dinner without a show, PLEASE!

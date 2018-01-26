@@ -1,18 +1,18 @@
 ---
 title: Canyon Day Marks Construction Completion
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:33:44+00:00
+date: 2010-10-14 18:33:44 +0000
 excerpt: |
   |
     <p>Georgia Baker and Lea Burke, nine-year-old girl scouts clad in  power-blue slickers, were perhaps the muddiest of all the soil-soaked  Portlanders that participated in Canyon Day this past Saturday, October  9.</p>
-url: /2010/10/14/canyon-day-marks-construction-completion/
+url: "/2010/10/14/canyon-day-marks-construction-completion/"
 categories:
-  - Features
+- Features
 tags:
-  - canyon day
-  - reed canyon
+- canyon day
+- reed canyon
 
 ---
 <div id="attachment_386" style="width: 183px" class="wp-caption alignleft">

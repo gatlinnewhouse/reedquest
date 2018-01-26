@@ -1,12 +1,12 @@
 ---
 title: Judicial Board Training Misrepresented
-authors: 
-  - "Maha Pasha"
+authors:
+- Maha Pasha
 type: post
-date: 2011-11-09T02:15:30+00:00
-url: /2011/11/08/judicial-board-training-misrepresented/
+date: 2011-11-09 02:15:30 +0000
+url: "/2011/11/08/judicial-board-training-misrepresented/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 We are concerned with a number of inaccuracies in Nelle Heffron’s article that appeared in last week’s _Quest_, which described current training received by the Judicial Board (J-Board). Having participated in J-Board training for ten years, we were surprised by the misinformation provided by the writer. In our roles as the faculty and staff J-Board advisers, we are known publicly and are available to meet with community members to provide information and answer questions that arise regarding the J-Board and its procedures. We have been interviewed by _Quest_ reporters in the past and answered their questions regarding the J-Board.

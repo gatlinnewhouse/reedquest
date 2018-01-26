@@ -1,13 +1,13 @@
 ---
 title: 'Letter: Another Punny “Bathroom” Title'
-authors: 
-  - "Kate Hilts"
+authors:
+- Kate Hilts
 type: post
-date: 2013-09-27T19:28:19+00:00
-url: /2013/09/27/another-punny-bathroom-title/
+date: 2013-09-27 19:28:19 +0000
+url: "/2013/09/27/another-punny-bathroom-title/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 _This was written in response to the original ‘Bathroom Confessional’ letter, not the revised version found [here][1]._

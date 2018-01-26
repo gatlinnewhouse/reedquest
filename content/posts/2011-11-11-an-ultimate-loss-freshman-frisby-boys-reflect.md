@@ -1,12 +1,12 @@
 ---
 title: 'An Ultimate Loss: Freshman Frisby Boys Reflect'
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2011-11-12T03:50:27+00:00
-url: /2011/11/11/an-ultimate-loss-freshman-frisby-boys-reflect/
+date: 2011-11-12 03:50:27 +0000
+url: "/2011/11/11/an-ultimate-loss-freshman-frisby-boys-reflect/"
 categories:
-  - News
+- News
 
 ---
 Reed&#8217;s Ultimate Frisbee Team, Berserk, found little success and much pain at the PSU Frisbee Tournament this past Saturday. Men and women from Oregon State, Lynfield, Willamette and Reed gathered in competitive spirit despite the gloomy weather. Berserk player Michael &#8217;15 reports that the team came ready to perform, but nobody anticipated the unusual amount of injuries that Reed would suffer during the two rough games in which they played. Michael reports on the first game against Oregon State in which Reed got to an early lead before losing a key player in the final point. He explains that Oregon State was winning 9-8 but then they got to 10 points in the last play after junior Julius Monello sustained an eye injury. Monello&#8217;s injury, Michael relays, was dramatic because at first the crowd thought that he was merely emotionally torn by the imminent lost. As Julius continued to hold his hand over his eye, Michael says, everyone realized that blood was seeping from between his fingers. Michael recalls how coaches and players rushed onto the field to see if Julius was okay before having him driven home by a senior player&#8217;s girlfriend. Michael adds that another player, Luke, had a concussion in the second game, which also ended in a loss. Ultimately, Michael says, &#8220;the other teams were a bunch of &#8216;hucking&#8217; fooligans.&#8221;

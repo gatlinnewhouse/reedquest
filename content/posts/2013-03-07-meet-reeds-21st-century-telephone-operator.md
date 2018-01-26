@@ -1,13 +1,13 @@
 ---
 title: Meet Reed’s 21st Century Telephone Operator
-authors: 
-  - "Lauren Cooper"
+authors:
+- Lauren Cooper
 type: post
-date: 2013-03-07T23:31:20+00:00
-url: /2013/03/07/meet-reeds-21st-century-telephone-operator/
+date: 2013-03-07 23:31:20 +0000
+url: "/2013/03/07/meet-reeds-21st-century-telephone-operator/"
 categories:
-  - Features
-  - Front Page
+- Features
+- Front Page
 
 ---
 <div id="attachment_2136" style="width: 385px" class="wp-caption alignright">

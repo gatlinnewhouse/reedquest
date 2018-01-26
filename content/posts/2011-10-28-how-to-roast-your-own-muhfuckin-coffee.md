@@ -1,12 +1,12 @@
 ---
 title: How to Roast Your Own Muh’fuckin’ Coffee
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-10-28T20:46:07+00:00
-url: /2011/10/28/how-to-roast-your-own-muhfuckin-coffee/
+date: 2011-10-28 20:46:07 +0000
+url: "/2011/10/28/how-to-roast-your-own-muhfuckin-coffee/"
 categories:
-  - Infotainment
+- Infotainment
 
 ---
 You spend too much money on coffee. Yes, you. I’ve seen you, getting your early morning jolt from Commons, stopping by the fucking Paradox between classes, and topping it off with a fucking no-soy caramel macchiato from Starbucks. I bet you thought that this was just the way your fucking life was going to have to be forever.

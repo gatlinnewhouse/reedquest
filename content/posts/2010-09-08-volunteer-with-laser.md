@@ -1,16 +1,16 @@
 ---
 title: Volunteer with LASER
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:36:41+00:00
-url: /2010/09/08/volunteer-with-laser/
+date: 2010-09-08 04:36:41 +0000
+url: "/2010/09/08/volunteer-with-laser/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - LASER
-  - SEEDS
-  - volunteer
+- LASER
+- SEEDS
+- volunteer
 
 ---
 Want to get outside the bubble? Want to volunteer? Have federal work study (or not)? Like working with kids? Then you should check out LASER!

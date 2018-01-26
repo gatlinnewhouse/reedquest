@@ -1,13 +1,13 @@
 ---
-title: 'Bear Wilner-Nugent ‘95  Challenges Kroger to Debate Over Paideia Controversy'
-authors: 
-  - "Jennifer McNeal"
+title: Bear Wilner-Nugent ‘95  Challenges Kroger to Debate Over Paideia Controversy
+authors:
+- Jennifer McNeal
 type: post
-date: 2013-02-15T08:04:14+00:00
-url: /2013/02/15/bear-wilner-nugent-95-challenges-kroger-to-debate-over-paideia-controversy/
+date: 2013-02-15 08:04:14 +0000
+url: "/2013/02/15/bear-wilner-nugent-95-challenges-kroger-to-debate-over-paideia-controversy/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Criminal defense lawyer Bear Wilner-Nugent ‘95 challenged President John Kroger last month to a public debate on “Reed’s drug policies under the administration and how they do or do not relate to the US drug policy.” Wilner-Nugent, who has long been critical of Reed&#8217;s drug policy, issued the challenge after recent censorship of Paideia classes, hoping to make “Kroger think twice about the hornets’ nest he’s stirred up and maybe [have] a moment of personal growth where he can learn from this” as well as provide an additional, informed viewpoint to the discussion.

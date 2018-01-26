@@ -1,13 +1,13 @@
 ---
 title: Ivy, Fiddle, and Pressed Cider Marks Canyon Day 2013
-authors: 
-  - "Daniel Hong"
+authors:
+- Daniel Hong
 type: post
-date: 2013-10-12T23:35:54+00:00
-url: /2013/10/12/ivy-fiddle-and-pressed-cider-marks-canyon-day-2013/
+date: 2013-10-12 23:35:54 +0000
+url: "/2013/10/12/ivy-fiddle-and-pressed-cider-marks-canyon-day-2013/"
 categories:
-  - Events
-  - Top Stories
+- Events
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2937" alt="DSC_0318" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/10/DSC_0318.jpg?resize=770%2C430" data-recalc-dims="1" />][1]A grand Reed tradition, Canyon Day, continued to thrive last Saturday with gloves, wheelbarrows, shovels, and Otto’s scrumptious sausages. Students, alumni and community members all devoted their day to aid the preservation of Reed Canyon’s natural beauty during this year’s Canyon Day.

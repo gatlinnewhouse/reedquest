@@ -1,13 +1,13 @@
 ---
 title: Students and Administration Talk Graffiti
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:32:45+00:00
-url: /2012/11/15/students-and-administration-talk-graffiti/
+date: 2012-11-15 20:32:45 +0000
+url: "/2012/11/15/students-and-administration-talk-graffiti/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 <div title="Page 1">

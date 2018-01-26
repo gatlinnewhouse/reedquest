@@ -1,15 +1,15 @@
 ---
 title: A Letter from Your RAW Czars
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-03T20:33:46+00:00
-url: /2011/03/03/a-letter-from-your-raw-czars/
+date: 2011-03-03 20:33:46 +0000
+url: "/2011/03/03/a-letter-from-your-raw-czars/"
 categories:
-  - Features
+- Features
 tags:
-  - RAW
-  - reed arts week
+- RAW
+- reed arts week
 
 ---
 Our experience is defined by movement across the land, by the twists and turns of hallways, by the shape of the ceilings above us. We twine through the labyrinth, rarely realizing its parameters. We do not see the lines of buildings, let alone their limits and the cracks of their foundations. We do not see what lies beneath, behind. Illiterate to the language of footsteps, we cannot read what we write. Seeking to transform our physical, social, and psychological landscapes, RAW: GEOGRAPHIES explores and reconstructs our surrounding space. Entering into the emerging discourse of experimental geographers, radical cartographers, old-school land artists, unruly activists and stodgy theorists, it resides in the interdisciplinary space of psychogeography, spatial practice, environmentalism and architecture.

@@ -1,13 +1,13 @@
 ---
 title: Insects Invade Dorms
-authors: 
-  - "Jorge Rodriguez"
+authors:
+- Jorge Rodriguez
 type: post
-date: 2012-09-21T17:30:29+00:00
-url: /2012/09/21/insects-invade-dorms/
+date: 2012-09-21 17:30:29 +0000
+url: "/2012/09/21/insects-invade-dorms/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 On-campus residences are dealing with a new nuisance. Living halls like Canyon House, Aspen, Sitka, ODB, and the Birchwood Apartments have had encounters with ants, bed bugs, and silverfish. Wasp&#8217;s nests have been found on dorms across campus.

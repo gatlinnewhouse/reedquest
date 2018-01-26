@@ -1,13 +1,13 @@
 ---
 title: Reed Senior Runs 27 Hours, Breaks Record
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2012-10-12T00:40:47+00:00
-url: /2012/10/11/reed-senior-runs-27-hours-breaks-record/
+date: 2012-10-12 00:40:47 +0000
+url: "/2012/10/11/reed-senior-runs-27-hours-breaks-record/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/reed-senior-runs-27-hours-breaks-record/ethan-web/" rel="attachment wp-att-1726"><img class="alignnone size-full wp-image-1726" title="Ethan Linck" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/10/ethan-web.jpg?resize=770%2C513" alt="" data-recalc-dims="1" /></a>

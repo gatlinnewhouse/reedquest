@@ -1,13 +1,13 @@
 ---
-title: '“Salvation is just words too”: A Reading of As I Lay Dying'
-authors: 
-  - "Lauren Cooper"
+title: "“Salvation is just words too”: A Reading of As I Lay Dying"
+authors:
+- Lauren Cooper
 type: post
-date: 2012-11-11T21:06:41+00:00
-url: /2012/11/11/salvation-is-just-words-too-a-reading-of-as-i-lay-dying/
+date: 2012-11-11 21:06:41 +0000
+url: "/2012/11/11/salvation-is-just-words-too-a-reading-of-as-i-lay-dying/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “Darl. Darl. Darl,” Lauren Nelson’s voice repeats as she stands on the altar in the chapel, dressed all in black, with glass encased tea candles burning down on the table beside her and Jimmy Curry IV, also all in black, looking on; it is a wake for Addie Bundren. Curry and Nelson, both freshmen, are reading aloud the entirety of William Faulkner’s _As I Lay Dying_. They started at noon, and it is now 4:42. They only have several pages to go, putting them far ahead of their estimated finishing time; they had booked the chapel until midnight.

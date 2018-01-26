@@ -1,15 +1,15 @@
 ---
 title: The Five Songs You Need to Survive Being Sexiled
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-09-22T18:39:39+00:00
-url: /2010/09/22/the-five-songs-you-need-to-survive-being-sexiled/
+date: 2010-09-22 18:39:39 +0000
+url: "/2010/09/22/the-five-songs-you-need-to-survive-being-sexiled/"
 categories:
-  - Features
+- Features
 tags:
-  - music
-  - sex
+- music
+- sex
 
 ---
 At some point in your college career, you’re sure to get sexiled. Instead of taking it lying down (I’m sure there’s a lame pun in there somewhere, forgive me for not taking the time to find it), you should definitely use this playlist to turn what could be a miserable experience into a wonderful opportunity to make your roommate and whomever they happen to be bangin’ feel just as awkward as you do. Some of these songs will make them realize the pain you’re feeling as a result of their selfish, selfish behavior. Others will just make them feel icky.

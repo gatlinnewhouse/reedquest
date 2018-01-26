@@ -1,13 +1,13 @@
 ---
 title: A Reedie – and an Officer-in-Training
-authors: 
-  - "Alan Montecillo"
+authors:
+- Alan Montecillo
 type: post
-date: 2013-03-15T22:05:32+00:00
-url: /2013/03/15/a-reedie-and-an-officer-in-training/
+date: 2013-03-15 22:05:32 +0000
+url: "/2013/03/15/a-reedie-and-an-officer-in-training/"
 categories:
-  - Features
-  - Front Page
+- Features
+- Front Page
 
 ---
 [<img class="aligncenter size-full wp-image-2174" alt="Carlo D'Amato" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/03/IMG_1556_web.jpg?resize=770%2C513" data-recalc-dims="1" />][1]Six days a week, Carlo D’Amato ’16 attends Hum and lives at Reed like any other freshman. But every Tuesday, he spends eight hours at the University of Portland for Air Force Reserve Officer Corps Training. His weekly training involves a combination of drills, physical fitness training, and leadership activities.

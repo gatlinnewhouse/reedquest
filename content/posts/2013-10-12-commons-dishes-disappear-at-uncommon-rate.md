@@ -1,13 +1,13 @@
 ---
 title: Commons Dishes Disappear at Uncommon Rate
-authors: 
-  - "Clara Rice"
+authors:
+- Clara Rice
 type: post
-date: 2013-10-13T00:17:01+00:00
-url: /2013/10/12/commons-dishes-disappear-at-uncommon-rate/
+date: 2013-10-13 00:17:01 +0000
+url: "/2013/10/12/commons-dishes-disappear-at-uncommon-rate/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Since the end of September every commons dish sitting abandoned in the rain or hidden in the cupboard of a Birchwood has been eating into Reed College’s precious funds. Every year Bon Appetit covers $6000 worth of Commons dish theft before they begin charging Reed for the missing and damaged dishes. This year Commons dishes have disappeared at an alarming rate. The $6000 that usually lasts Bon Appetit until early November ran out this year at the beginning of October, a whole month early.

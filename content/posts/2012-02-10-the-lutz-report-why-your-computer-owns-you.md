@@ -1,14 +1,14 @@
 ---
 title: 'The Lutz Report: Why Your Computer OWNS You'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-02-10T20:10:21+00:00
-url: /2012/02/10/the-lutz-report-why-your-computer-owns-you/
+date: 2012-02-10 20:10:21 +0000
+url: "/2012/02/10/the-lutz-report-why-your-computer-owns-you/"
 categories:
-  - Features
-  - Left Sidebar
-  - The Lutz Report
+- Features
+- Left Sidebar
+- The Lutz Report
 
 ---
 <div id="attachment_1186" style="width: 310px" class="wp-caption alignright">

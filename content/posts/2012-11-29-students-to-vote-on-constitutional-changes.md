@@ -1,17 +1,17 @@
 ---
 title: Students to Vote on Constitutional Changes
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-29T10:32:12+00:00
+date: 2012-11-29 10:32:12 +0000
 excerpt: |
   Prepare yourself: Proposed changes to the Community Constitution would modify the process by which changes can be made to the way Quest editors come by their jobs.
-  
+
   Breathe. The changes. Will modify a process. The process regulates another process. That process is the one in which a darling little Quest writer kicks off the training wheels, makes Daddy proud, and becomes a Quest editor. But the appointments process is contentious.
-url: /2012/11/29/students-to-vote-on-constitutional-changes/
+url: "/2012/11/29/students-to-vote-on-constitutional-changes/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 _**Rennie Meyers contributed reporting.**_

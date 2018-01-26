@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: A Different Voice in the Recent Discussion on AOD'
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2012-02-24T21:54:33+00:00
-url: /2012/02/24/op-ed-a-different-voice-in-the-recent-discussion-on-aod/
+date: 2012-02-24 21:54:33 +0000
+url: "/2012/02/24/op-ed-a-different-voice-in-the-recent-discussion-on-aod/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 The arrests of two students and the Administration’s involvement in those arrests has been, and will very likely continue to be, a hot topic on campus. I am voicing no opinion not already heard when I say that I feel horrible for the students who were arrested, and that it is incredibly important that we, as a community, withhold any proclamations about their character based on this single event. The many students who have voiced this opinion have every right to and should continue making their feelings heard. However, in the spirit of reasonableness, honesty, and the honor principle, I want to present my own opinion, an opinion that has not been as of yet as vocal.

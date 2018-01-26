@@ -1,13 +1,13 @@
 ---
 title: Poetry Night Opens Up
-authors: 
-  - "James Curry"
+authors:
+- James Curry
 type: post
-date: 2013-02-07T10:37:55+00:00
-url: /2013/02/07/poetry-night-opens-up/
+date: 2013-02-07 10:37:55 +0000
+url: "/2013/02/07/poetry-night-opens-up/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2026" alt="poetry night" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/02/IMG_0272_web.jpg?resize=770%2C430" data-recalc-dims="1" />][1]

@@ -1,13 +1,13 @@
 ---
 title: Proposal for the Repurposing of the Ministry of Propaganda
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-25T20:36:40+00:00
-url: /2012/10/25/proposal-for-the-repurposing-of-the-ministry-of-propaganda/
+date: 2012-10-25 20:36:40 +0000
+url: "/2012/10/25/proposal-for-the-repurposing-of-the-ministry-of-propaganda/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 _**For background on this proposal, read the relevant [Senate Beat][1].**_

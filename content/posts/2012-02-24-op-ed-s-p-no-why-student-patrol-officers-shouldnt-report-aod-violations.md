@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: SP-NO, Why student patrol officers shouldn’t report AOD violations'
-authors: 
-  - "Members of the Blue Heron Collective"
+authors:
+- Members of the Blue Heron Collective
 type: post
-date: 2012-02-24T22:06:05+00:00
-url: /2012/02/24/op-ed-s-p-no-why-student-patrol-officers-shouldnt-report-aod-violations/
+date: 2012-02-24 22:06:05 +0000
+url: "/2012/02/24/op-ed-s-p-no-why-student-patrol-officers-shouldnt-report-aod-violations/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Last week&#8217;s Quest reported that the Student Patrol Officer program is soon to be reinstated, and that these SPOs would have the duty to report AOD violations. In light of recent events, this betrays an unsettling trend in the campus climate around AOD issues.

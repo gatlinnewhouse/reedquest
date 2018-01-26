@@ -1,14 +1,18 @@
 ---
 title: An Interview with the Brand-Spanking New Student Body President
-authors: 
-  - "Lauren Cooper"
+authors:
+- Lauren Cooper
 type: post
-date: 2013-02-08T02:13:35+00:00
-excerpt: Once one enters Ari Galper’s room on Bragdon 2, the floor where he is currently HA, it becomes immediately obvious how he was elected student body president. The room is spotless, everything in its place without a hint of excess, full of calming colors and dried flowers. Now that the scene has been set, here’s what he had to say about his new responsibilities.
-url: /2013/02/07/an-interview-with-the-brand-spanking-new-student-body-president/
+date: 2013-02-08 02:13:35 +0000
+excerpt: Once one enters Ari Galper’s room on Bragdon 2, the floor where he is currently
+  HA, it becomes immediately obvious how he was elected student body president. The
+  room is spotless, everything in its place without a hint of excess, full of calming
+  colors and dried flowers. Now that the scene has been set, here’s what he had to
+  say about his new responsibilities.
+url: "/2013/02/07/an-interview-with-the-brand-spanking-new-student-body-president/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2031" alt="ari galper homer's" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/02/IMG_0229_web.jpg?resize=770%2C430" data-recalc-dims="1" />][1]

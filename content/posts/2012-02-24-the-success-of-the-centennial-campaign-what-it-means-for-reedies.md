@@ -1,13 +1,13 @@
 ---
 title: 'The Success of the Centennial Campaign: What it means for Reedies'
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2012-02-24T22:44:20+00:00
-url: /2012/02/24/the-success-of-the-centennial-campaign-what-it-means-for-reedies/
+date: 2012-02-24 22:44:20 +0000
+url: "/2012/02/24/the-success-of-the-centennial-campaign-what-it-means-for-reedies/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The Centennial Campaign was the most massive fund-raising attempt in the history of Reed, and it has largely been successful. 185 million dollars has been raised since the inception of the fund, and President Colin Diver is confident that the goal of $200 million will be met by the end of the campaign on December 31, 2012. Diver said he was &#8220;quite optimistic&#8221; that the goal would be reached before the end of his tenure, on June 30, 2012.  But what does this massive amount of money mean for Reedies?

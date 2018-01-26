@@ -1,13 +1,13 @@
 ---
 title: Strategic Planning Begins
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-10-06T22:12:41+00:00
-url: /2013/10/06/strategic-planning-begins/
+date: 2013-10-06 22:12:41 +0000
+url: "/2013/10/06/strategic-planning-begins/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 This September marked the beginning of Strategic Planning, a year and a half-long process of assessing Reed and determining what the future should look like. Eleven working groups were formed from student, faculty, and staff volunteers, which will discuss various aspects of the college.

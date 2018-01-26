@@ -1,12 +1,12 @@
 ---
 title: 'Letter from a Queditor: Tell Someone They’re Beautiful'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-12-02T19:06:32+00:00
-url: /2010/12/02/letter-from-a-queditor-tell-someone-theyre-beautiful/
+date: 2010-12-02 19:06:32 +0000
+url: "/2010/12/02/letter-from-a-queditor-tell-someone-theyre-beautiful/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 Since its debut in 1995, the Victoria&#8217;s Secret Fashion Show has been an annual event drawing millions of viewers each year. Featuring the infamous models of the lingerie and sleepwear conglomerate strutting down the runway in fantastical undergarments, the controversial show has been attacked by media critics, parents organizations, and women&#8217;s groups as both a glamorized exercise in infomericialism and thinly-disguised softcore pornography. But that hasn&#8217;t stopped 8.3 million people from watching the show in 2009, or from drawing a crowd about the same size this year as well. And the effect of the show is stronger than ever. While perusing blogs on the night of the show, I was shocked to discover an alarming amount of responses to the lavish extravaganza:

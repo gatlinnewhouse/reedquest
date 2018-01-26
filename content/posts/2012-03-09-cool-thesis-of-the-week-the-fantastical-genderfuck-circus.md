@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Fantastical Genderfuck Circus'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-03-09T09:54:28+00:00
-url: /2012/03/09/cool-thesis-of-the-week-the-fantastical-genderfuck-circus/
+date: 2012-03-09 09:54:28 +0000
+url: "/2012/03/09/cool-thesis-of-the-week-the-fantastical-genderfuck-circus/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/cool-thesis-of-the-week-the-fantastical-genderfuck-circus/ctw1/" rel="attachment wp-att-1420"><img class="aligncenter size-full wp-image-1420" title="Erika Kurth" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/03/CTW1.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

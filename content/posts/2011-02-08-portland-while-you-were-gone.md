@@ -1,14 +1,14 @@
 ---
 title: Portland While You Were Gone
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-02-08T20:26:51+00:00
-url: /2011/02/08/portland-while-you-were-gone/
+date: 2011-02-08 20:26:51 +0000
+url: "/2011/02/08/portland-while-you-were-gone/"
 categories:
-  - News
+- News
 tags:
-  - portland
+- portland
 
 ---
 While most of you pretty young things spent your winter break at home kickin’ it with your homies/parents/grandparents/dog/sofa, all sorts of interesting things happened in this great state of Oregon. Here are some highlights of what you missed:

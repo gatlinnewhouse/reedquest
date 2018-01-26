@@ -1,16 +1,16 @@
 ---
 title: We Have the Power to Eliminate Sweatshops
-authors: 
-  - "Daniel Lybrand"
+authors:
+- Daniel Lybrand
 type: post
-date: 2011-11-18T01:35:34+00:00
-url: /2011/11/17/we-have-the-power-to-eliminate-sweatshops/
+date: 2011-11-18 01:35:34 +0000
+url: "/2011/11/17/we-have-the-power-to-eliminate-sweatshops/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - daniel lybrand
-  - sweatshops
-  - united students against sweatshops
+- daniel lybrand
+- sweatshops
+- united students against sweatshops
 
 ---
 _Daniel Lybrand is Signator of Reed&#8217;s chapter of United Students Against Sweatshops._

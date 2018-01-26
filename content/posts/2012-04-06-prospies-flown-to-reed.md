@@ -1,16 +1,16 @@
 ---
 title: Prospies Flown to Reed
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2012-04-06T20:10:33+00:00
-url: /2012/04/06/prospies-flown-to-reed/
+date: 2012-04-06 20:10:33 +0000
+url: "/2012/04/06/prospies-flown-to-reed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - admissions
-  - prospies
+- admissions
+- prospies
 
 ---
 For a select number of recently accepted students, an additional treat came with their confetti and Welcome To Reed video: an invitation to stay on Reed campus for two days, eating Commons food, observing classes, and venturing out into Portland—all expenses paid by the college.

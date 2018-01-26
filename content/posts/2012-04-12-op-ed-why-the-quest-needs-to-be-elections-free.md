@@ -1,16 +1,16 @@
 ---
 title: 'Op-Ed: Why The Quest Needs to be Elections-Free'
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2012-04-12T18:05:21+00:00
-url: /2012/04/12/op-ed-why-the-quest-needs-to-be-elections-free/
+date: 2012-04-12 18:05:21 +0000
+url: "/2012/04/12/op-ed-why-the-quest-needs-to-be-elections-free/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 tags:
-  - quest
-  - reform
+- quest
+- reform
 
 ---
 _Rob Shryock is a former Queditor of Fall 2011._

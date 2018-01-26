@@ -1,13 +1,13 @@
 ---
 title: Goodbye Commons Runs. Hello DeliveReed.
-authors: 
-  - "Elisa Cibils"
+authors:
+- Elisa Cibils
 type: post
-date: 2013-02-09T03:43:04+00:00
-url: /2013/02/08/goodbye-commons-runs-hello-delivereed/
+date: 2013-02-09 03:43:04 +0000
+url: "/2013/02/08/goodbye-commons-runs-hello-delivereed/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Have you ever craved a tasty Commons dinner but lacked the will-power leave the comfort of your dorm room? As of Monday, February 4, DeliveReed is helping to solve this problem for Reedies all over campus.

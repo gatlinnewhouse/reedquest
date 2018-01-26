@@ -1,12 +1,12 @@
 ---
 title: New Photos Add Credence to Reed Car Myth
-authors: 
-  - "Aaron Smith"
+authors:
+- Aaron Smith
 type: post
-date: 2011-09-29T03:18:08+00:00
-url: /2011/09/28/new-photos-add-credence-to-reed-car-myth/
+date: 2011-09-29 03:18:08 +0000
+url: "/2011/09/28/new-photos-add-credence-to-reed-car-myth/"
 categories:
-  - News
+- News
 
 ---
 There might be a car buried under Hauser Library after all. Thanks to a batch of rediscovered photos taken in 1988 and a series of interviews with participants by Chris Lydgate, editor for Reed Magazine, the myth about the car buried under the library now has more credence than most other Reed myths, such as the one about the test monkeys under the Psych building.

@@ -1,12 +1,12 @@
 ---
 title: Student Grants Now Available
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:18:45+00:00
-url: /2010/10/14/student-grants-now-available/
+date: 2010-10-14 18:18:45 +0000
+url: "/2010/10/14/student-grants-now-available/"
 categories:
-  - News
+- News
 
 ---
 The Undergraduate Research Committee has Initiative Grants available to assist student research and thesis activities. Some examples of eligible expenses include but are not limited to conference travel to present papers, equipment and supplies purchases, and travel to field sites and performances. Proposals are not to exceed five pages in length and should contain a budget. For application forms and further information, please check the web. The funding limit for Initiative Grants is $2,500.

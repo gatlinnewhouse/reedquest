@@ -1,13 +1,13 @@
 ---
 title: Poet Speaks Using Mae West Voice
-authors: 
-  - "Charles Nunziato"
+authors:
+- Charles Nunziato
 type: post
-date: 2013-09-20T20:40:31+00:00
-url: /2013/09/20/poet-speaks-using-mae-west-voice/
+date: 2013-09-20 20:40:31 +0000
+url: "/2013/09/20/poet-speaks-using-mae-west-voice/"
 categories:
-  - Events
-  - Left Sidebar
+- Events
+- Left Sidebar
 
 ---
 “It must be dangerous, this material, or why else would we watch?” read Paisley Rekdal from her final poem of the evening, “Murano.” Last Thursday’s poetry reading in Eliot Chapel marked the beginning of this year’s Visiting Writer’s Series, and those who filled the pews got a taste of Rekdal’s unique, dynamic, and often intense poetry.

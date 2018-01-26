@@ -1,13 +1,13 @@
 ---
 title: Amelia Jones Waxes on Male Artistic Expression
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-09-27T22:53:29+00:00
-url: /2013/09/27/amelia-jones-waxes-on-male-artistic-expression/
+date: 2013-09-27 22:53:29 +0000
+url: "/2013/09/27/amelia-jones-waxes-on-male-artistic-expression/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 As part of last weekend’s grand opening of the new Performing Arts Building, Professor and Grierson Chair in Visual Culture at McGill University Amelia Jones gave a lecture on “Performance and Relationality.” Jones is seen as a revolutionary figure in the world of art history as well as an ardent feminist who has focused primarily on performance art. Jane Chin Davidson ’01 introduced Jones as someone who has continually redefined opinions of artists and how art history itself is studied.

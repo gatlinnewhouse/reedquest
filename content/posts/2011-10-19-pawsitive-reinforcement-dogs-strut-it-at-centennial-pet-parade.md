@@ -1,12 +1,12 @@
 ---
 title: 'Pawsitive Reinforcement: Dogs Strut It at Centennial Pet Parade'
-authors: 
-  - "Jeremy Melloul"
+authors:
+- Jeremy Melloul
 type: post
-date: 2011-10-20T03:25:14+00:00
-url: /2011/10/19/pawsitive-reinforcement-dogs-strut-it-at-centennial-pet-parade/
+date: 2011-10-20 03:25:14 +0000
+url: "/2011/10/19/pawsitive-reinforcement-dogs-strut-it-at-centennial-pet-parade/"
 categories:
-  - News
+- News
 
 ---
 Dogs are not an uncommon sight around Reed. However, when an orderly stampede of canines of all shapes and sizes goes marching around ODB, heads are sure to turn. This Saturday at the Centennial Celebration on the south side of the Old Dorm Block there was a pet parade. It was the first of the year and a follow-up to the parade at Renn Fayre the year before.

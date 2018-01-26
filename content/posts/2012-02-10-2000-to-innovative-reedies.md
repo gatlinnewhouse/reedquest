@@ -1,13 +1,13 @@
 ---
-title: $2000 to Innovative Reedies
-authors: 
-  - "Sasha Peters"
+title: "$2000 to Innovative Reedies"
+authors:
+- Sasha Peters
 type: post
-date: 2012-02-10T20:19:05+00:00
-url: /2012/02/10/2000-to-innovative-reedies/
+date: 2012-02-10 20:19:05 +0000
+url: "/2012/02/10/2000-to-innovative-reedies/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <div id="attachment_1280" style="width: 310px" class="wp-caption alignright">

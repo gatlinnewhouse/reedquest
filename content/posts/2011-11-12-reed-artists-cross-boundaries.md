@@ -1,12 +1,12 @@
 ---
 title: Reed Artists Cross Boundaries
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2011-11-12T19:40:47+00:00
-url: /2011/11/12/reed-artists-cross-boundaries/
+date: 2011-11-12 19:40:47 +0000
+url: "/2011/11/12/reed-artists-cross-boundaries/"
 categories:
-  - News
+- News
 
 ---
 Students and faculty gathered Thursday afternoon in the Studio Art building for presentations by the recipients of the 2011 Kaspar T. Locher scholarships. As attendees snacked on juice and cookies, ****four students—Alisa Bones ’13, Lucy Bellwood &#8217;12, Nicolas Arms ‘13**,** and Kritish Rajbhandari &#8217;12**—**displayed and discussed the fruits of their creative labors, which they completed over the summer with the help of the $1750 scholarship.

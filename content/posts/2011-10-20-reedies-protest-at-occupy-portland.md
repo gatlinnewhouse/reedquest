@@ -1,12 +1,12 @@
 ---
 title: Reedies Protest at Occupy Portland
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2011-10-20T23:33:40+00:00
-url: /2011/10/20/reedies-protest-at-occupy-portland/
+date: 2011-10-20 23:33:40 +0000
+url: "/2011/10/20/reedies-protest-at-occupy-portland/"
 categories:
-  - News
+- News
 
 ---
 In a gesture of solidarity with Occupy Wall Street and with the Portland community, Reedies found the time to attend Occupy Portland last Thursday. _Quest_ reporters encountered about fifteen of them.

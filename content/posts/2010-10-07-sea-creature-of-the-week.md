@@ -1,14 +1,14 @@
 ---
 title: Sea Creature of the Week
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-07T17:38:30+00:00
-url: /2010/10/07/sea-creature-of-the-week/
+date: 2010-10-07 17:38:30 +0000
+url: "/2010/10/07/sea-creature-of-the-week/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - sea creature of the week
+- sea creature of the week
 
 ---
 <div id="attachment_357" style="width: 260px" class="wp-caption alignleft">

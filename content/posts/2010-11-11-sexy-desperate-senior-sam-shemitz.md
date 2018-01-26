@@ -1,16 +1,16 @@
 ---
 title: 'Private: Sexy Desperate Senior: Sam Shemitz'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-11T19:35:43+00:00
-draft: true
+date: 2010-11-11 19:35:43 +0000
 private: true
-url: /2010/11/11/sexy-desperate-senior-sam-shemitz/
+url: "/2010/11/11/sexy-desperate-senior-sam-shemitz/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - sexy desperate senior
+- sexy desperate senior
+draft: true
 
 ---
 **Age:** 22 and ticking

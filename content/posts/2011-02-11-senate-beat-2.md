@@ -1,16 +1,16 @@
 ---
 title: Senate Beat
-authors: 
-  - "Cori Savaiano"
+authors:
+- Cori Savaiano
 type: post
-date: 2011-02-11T20:46:53+00:00
+date: 2011-02-11 20:46:53 +0000
 excerpt: |
   |
     <p>The meeting opened with the President’s message and the on to Committee Reports!<br />
     Basically, no one had anything to report. We didn’t get an update on what the Trustees talked about while on campus</p>
-url: /2011/02/11/senate-beat-2/
+url: "/2011/02/11/senate-beat-2/"
 categories:
-  - Senate
+- Senate
 
 ---
 _Note: Because this week’s Senate meeting took place during Xeno’s memorial, this beat is based off of notes provided by the lovely Senate Secretary, Martha Janicki._ 

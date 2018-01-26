@@ -1,13 +1,13 @@
 ---
 title: Presidential Finalists to Visit Reed
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-03-08T18:01:07+00:00
-url: /2012/03/08/presidential-finalists-to-visit-reed/
+date: 2012-03-08 18:01:07 +0000
+url: "/2012/03/08/presidential-finalists-to-visit-reed/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Newly chosen finalists in Reed’s search for a new college President are “tentatively scheduled” to visit Reed on March 28 through 31 and April 2 through 5, according to an email sent to the community on Tuesday. The Presidential Search Committee spent eighteen hours in meetings last weekend interviewing semi-finalists and narrowing the pool to the finalists they want to visit. Staff, faculty, and fifteen students will meet with the finalists, who will also tour campus. According to the email, the “approximately 85” members of the community “will be asked to sign a written confidentiality agreement.”

@@ -1,19 +1,19 @@
 ---
 title: Madrid Indie Band Hinds Plays Portland
-authors: 
-  - "Tyler Adams"
+authors:
+- Tyler Adams
 type: post
-date: 2017-03-16T02:45:37+00:00
-url: /2017/03/16/madrid-indie-band-hinds-plays-portland/
+date: 2017-03-16 02:45:37 +0000
+url: "/2017/03/16/madrid-indie-band-hinds-plays-portland/"
 custom_sidebar:
-  - none
+- none
 polymer_components:
-  - 'a:0:{}'
+- a:0:{}
 categories:
-  - Entertainment
-  - Reviews
+- Entertainment
+- Reviews
 tags:
-  - "Don't Miss"
+- Don't Miss
 
 ---
 It’s Saturday night, and like millions of concertgoers across the country, I’m lining up outside a 21 and over club, hoping desperately that my underage friend will get in. 

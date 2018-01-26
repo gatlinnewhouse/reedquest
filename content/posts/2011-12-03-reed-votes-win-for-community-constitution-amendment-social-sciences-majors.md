@@ -1,19 +1,19 @@
 ---
 title: 'Reed Votes: Win For Community Constitution Amendment, Social Sciences Majors'
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2011-12-03T22:05:41+00:00
-url: /2011/12/03/reed-votes-win-for-community-constitution-amendment-social-sciences-majors/
+date: 2011-12-03 22:05:41 +0000
+url: "/2011/12/03/reed-votes-win-for-community-constitution-amendment-social-sciences-majors/"
 categories:
-  - Front Page
-  - News
-  - Top Stories
+- Front Page
+- News
+- Top Stories
 tags:
-  - aidan sigman
-  - alex walker
-  - brain moore
-  - reed senate
+- aidan sigman
+- alex walker
+- brain moore
+- reed senate
 
 ---
 <div id="attachment_1073" style="width: 310px" class="wp-caption alignright">

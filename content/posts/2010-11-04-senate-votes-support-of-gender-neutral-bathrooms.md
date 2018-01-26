@@ -1,17 +1,17 @@
 ---
 title: Senate Votes Support of Gender-Neutral Bathrooms
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-11-04T20:36:11+00:00
+date: 2010-11-04 20:36:11 +0000
 excerpt: |
   |
     <p>Student Senate voted Tuesday, Nov. 2 to support the addition of  gender-neutral bathrooms on campus. Emily Due, Andrew Barney, and James  Shelstad, members of the Blue Heron Infoshop, brought the issue to  Senate as part of their initiative</p>
-url: /2010/11/04/senate-votes-support-of-gender-neutral-bathrooms/
+url: "/2010/11/04/senate-votes-support-of-gender-neutral-bathrooms/"
 categories:
-  - Senate
+- Senate
 tags:
-  - blue heron infoshop
+- blue heron infoshop
 
 ---
 _Blue Heron to Take Issue to Phys Plant, Community_

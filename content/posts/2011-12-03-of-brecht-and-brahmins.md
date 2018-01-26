@@ -1,19 +1,19 @@
 ---
 title: Of Brecht and Brahmins
-authors: 
-  - "Shabab Mirza"
+authors:
+- Shabab Mirza
 type: post
-date: 2011-12-03T22:08:18+00:00
-url: /2011/12/03/of-brecht-and-brahmins/
+date: 2011-12-03 22:08:18 +0000
+url: "/2011/12/03/of-brecht-and-brahmins/"
 categories:
-  - Front Page
-  - News
-  - Top Stories
+- Front Page
+- News
+- Top Stories
 tags:
-  - brecht
-  - indu manohar
-  - shabab mirza
-  - shakuntala
+- brecht
+- indu manohar
+- shabab mirza
+- shakuntala
 
 ---
 <p style="text-align: center;">

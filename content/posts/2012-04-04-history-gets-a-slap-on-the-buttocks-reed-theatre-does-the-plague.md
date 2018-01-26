@@ -1,16 +1,16 @@
 ---
 title: 'History Gets a Slap on the Buttocks: Reed Theatre Does the Plague'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2012-04-05T06:59:51+00:00
-url: /2012/04/04/history-gets-a-slap-on-the-buttocks-reed-theatre-does-the-plague/
+date: 2012-04-05 06:59:51 +0000
+url: "/2012/04/04/history-gets-a-slap-on-the-buttocks-reed-theatre-does-the-plague/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - play
-  - theater
+- play
+- theater
 
 ---
 <a href="http://www.reedquest.org/2012/04/history-gets-a-slap-on-the-buttocks-reed-theatre-does-the-plague/onefleaweb/" rel="attachment wp-att-1471"><img class="size-full wp-image-1471 alignnone" title="One Flea Spare" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/04/onefleaweb.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

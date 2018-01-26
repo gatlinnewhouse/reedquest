@@ -1,13 +1,13 @@
 ---
 title: 'Editorial: Cut Candidates Slack on Bureaucratic Expertise'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-12-05T05:59:13+00:00
-url: /2012/12/04/editorial-cut-candidates-slack-on-bureaucratic-expertise/
+date: 2012-12-05 05:59:13 +0000
+url: "/2012/12/04/editorial-cut-candidates-slack-on-bureaucratic-expertise/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 The following editorial is not as cynical as it first appears. Bear with us.

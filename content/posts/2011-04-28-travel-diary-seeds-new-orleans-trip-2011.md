@@ -1,12 +1,12 @@
 ---
 title: 'Travel Diary: SEEDS New Orleans Trip 2011'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-28T18:39:47+00:00
-url: /2011/04/28/travel-diary-seeds-new-orleans-trip-2011/
+date: 2011-04-28 18:39:47 +0000
+url: "/2011/04/28/travel-diary-seeds-new-orleans-trip-2011/"
 categories:
-  - Features
+- Features
 
 ---
 This Spring Break I traveled to New Orleans with 10 other service-minded Reedies through SEEDS to work on a Habitat for Humanity site, helping to build a new home in a neighborhood hit particularly hard six years ago by Hurricane Katrina.  We arrived to find a bare site with nothing more than a sturdy concrete foundation; we left having built a raised floor and several exterior walls.  We as a group had a huge variety of experiences: impromptu large-scale dance parties, strolls through New Orleans’ beautiful French Quarter, a drive through the hard-hit Lower Ninth Ward, and an incredible parade of street musicians and dancers.  We arrived as a pale group of Portlanders who barely knew each other and left a tight-knit, well-sunned group warm with the glow of meaningful work.

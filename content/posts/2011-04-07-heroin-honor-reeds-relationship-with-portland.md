@@ -1,17 +1,17 @@
 ---
-title: 'Heroin, Honor & Reed’s Relationship with Portland'
-authors: 
-  - Staff
+title: Heroin, Honor & Reed’s Relationship with Portland
+authors:
+- Staff
 type: post
-date: 2011-04-07T19:13:35+00:00
-url: /2011/04/07/heroin-honor-reeds-relationship-with-portland/
+date: 2011-04-07 19:13:35 +0000
+url: "/2011/04/07/heroin-honor-reeds-relationship-with-portland/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - aod
-  - drugs
-  - honor principle
-  - portland
+- aod
+- drugs
+- honor principle
+- portland
 
 ---
 During the recent Reed Union that was convened to discuss the honor principle, Colin Diver pointed out that Reed College is not an isolated, utopian community in upstate New York.  People laughed, but this statement represents an idea that is crucial to the pursuit of not only a community comprised of honorable individuals, but a community that is itself honorable in relation to the greater setting in which it finds itself. Reed exists within a city, Portland, that is in many ways a bastion of liberal, compassionate government, but that nonetheless is plagued by societal ills such as homelessness, unemployment, and widespread drug abuse. Heroin, in particular, is a perennial problem in Portland. According to a report from the Centers for Disease Control and Prevention from July 21, 2000, heroin overdose was “a leading cause of death among men aged 25-54 years” in Multnomah County in 1999. Recent tragedies at Reed indicate that the drug is still prevalent in the Portland area. But that is exactly my point. The existence of heroin at Reed is inevitable, simply because we find ourselves in the middle of a city that is in the throes of a drug epidemic. Therefore, “How do we eradicate heroin use from Reed?” is not a realistic or even particularly useful question. Instead, we must acknowledge that heroin is a part, however undesirable, of the city in which we live, and ask ourselves, “What is the best way to mitigate the harms of this drug that will be present in and around our community, regardless of our best efforts to suppress it, well into the future?” It is only through this rejection of ultimatums in favor of pragmatism that Reed will be able to sustain the ongoing discourse that was cited during the Union, with much justification, as the foundation of an honorable community.

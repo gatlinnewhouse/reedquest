@@ -1,12 +1,12 @@
 ---
 title: Portland Occupied
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2011-10-20T23:28:20+00:00
-url: /2011/10/20/portland-occupied/
+date: 2011-10-20 23:28:20 +0000
+url: "/2011/10/20/portland-occupied/"
 categories:
-  - News
+- News
 
 ---
 <div id="attachment_911" style="width: 410px" class="wp-caption alignright">

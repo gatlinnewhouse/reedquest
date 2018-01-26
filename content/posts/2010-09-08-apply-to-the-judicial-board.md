@@ -1,14 +1,14 @@
 ---
 title: Apply to the Judicial Board
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:38:11+00:00
-url: /2010/09/08/apply-to-the-judicial-board/
+date: 2010-09-08 04:38:11 +0000
+url: "/2010/09/08/apply-to-the-judicial-board/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - JBoard
+- JBoard
 
 ---
 Members of the Board hear and adjudicate cases concerning alleged violations brought by current or former members of the Reed Community. The time and work commitment varies widely throughout the semester and between semesters, and serving on the Judicial Board can result in a significant time commitment. Applicants must have completed at least one year at Reed.

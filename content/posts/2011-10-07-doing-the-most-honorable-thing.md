@@ -1,13 +1,13 @@
 ---
 title: Doing The Most Honorable Thing
-authors: 
-  - "Gary Granger"
+authors:
+- Gary Granger
 type: post
-date: 2011-10-07T20:33:44+00:00
-url: /2011/10/07/doing-the-most-honorable-thing/
+date: 2011-10-07 20:33:44 +0000
+url: "/2011/10/07/doing-the-most-honorable-thing/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 I don’t know why we have sent seven students to the hospital in ambulances so far this year, when by this point last year we had sent only one—but we have.  When I recently shared this information with students during meetings (seven in all) in the residence halls last week, there was no consensus opinion about why so many Reedies had become intoxicated to the point of a medical emergency.  There was, however, a unanimous feeling when I described how, over one weekend, three first-year students ended up alone and unconscious: a sense of surprise, dismay, and concern.  When I described how one of these students had been found along a Canyon path, unconscious and alone at 3 am, surprise was replaced by shock, dismay by alarm, and concern by fear.

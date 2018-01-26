@@ -1,14 +1,16 @@
 ---
 title: Olde TriMet Is Dead
-authors: 
-  - "Jorge Rodriguez"
+authors:
+- Jorge Rodriguez
 type: post
-date: 2012-09-14T17:00:54+00:00
-excerpt: "“40 cents is no small amount,” says Zain Alattar ’14, philosophy major and off-campus student. That's how much he'll have to pay to ride the bus since TriMet increased fare to $2.50 for a two-hour adult pass."
-url: /2012/09/14/olde-trimet-is-dead/
+date: 2012-09-14 17:00:54 +0000
+excerpt: "“40 cents is no small amount,” says Zain Alattar ’14, philosophy major and
+  off-campus student. That's how much he'll have to pay to ride the bus since TriMet
+  increased fare to $2.50 for a two-hour adult pass."
+url: "/2012/09/14/olde-trimet-is-dead/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “40 cents is no small amount,” says Zain Alattar ’14, philosophy major and off-campus student. That&#8217;s how much he&#8217;ll have to pay to ride the bus since TriMet increased fare to $2.50 for a two-hour adult pass.

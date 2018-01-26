@@ -1,13 +1,13 @@
 ---
-title: “The Ultimate Prospie”
-authors: 
-  - "Clara Rice"
+title: "“The Ultimate Prospie”"
+authors:
+- Clara Rice
 type: post
-date: 2012-09-28T17:03:33+00:00
-url: /2012/09/28/the-ultimate-prospie/
+date: 2012-09-28 17:03:33 +0000
+url: "/2012/09/28/the-ultimate-prospie/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/the-ultimate-prospie/kroger_slider/" rel="attachment wp-att-1668"><img class="alignnone size-full wp-image-1668" title="John Kroger Inauguration" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/09/kroger_slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

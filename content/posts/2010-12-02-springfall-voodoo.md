@@ -1,18 +1,18 @@
 ---
 title: 'SPRING/FALL: VOODOO'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-02T18:59:07+00:00
+date: 2010-12-02 18:59:07 +0000
 excerpt: |
   |
     <p style="text-align: center;"><a href="http://www.reedquest.org/wp-content/uploads/2010/12/springrf.jpg"><img class="size-full wp-image-516 aligncenter" title="springrf" src="http://www.reedquest.org/wp-content/uploads/2010/12/springrf.jpg" alt="" width="249" height="178" /></a></p>
-url: /2010/12/02/springfall-voodoo/
+url: "/2010/12/02/springfall-voodoo/"
 categories:
-  - Events
-  - News
+- Events
+- News
 tags:
-  - renn fayre
+- renn fayre
 
 ---
 <p style="text-align: center;">

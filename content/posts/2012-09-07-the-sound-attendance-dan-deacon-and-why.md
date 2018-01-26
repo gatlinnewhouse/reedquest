@@ -1,19 +1,19 @@
 ---
 title: 'The Sound Attendance: Dan Deacon and WHY?'
-authors: 
-  - "Dorothy Howard"
+authors:
+- Dorothy Howard
 type: post
-date: 2012-09-07T18:05:08+00:00
+date: 2012-09-07 18:05:08 +0000
 excerpt: |
   On his previous successful albums, Dan Deacon urged listeners to engage in action of the fanatical, flailing, human firework variety. At performances (RF 2010 anyone?) Deacon would install himself as ruler of the dance-floor regime, shouting out moves like the crowd was playing a giant game of Simon Says.
-  
+
   On his new album, America, Deacon, of Baltimore, uses his eccentric noise to goad his listeners into action outside of the dance hall.
-url: /2012/09/07/the-sound-attendance-dan-deacon-and-why/
+url: "/2012/09/07/the-sound-attendance-dan-deacon-and-why/"
 categories:
-  - Features
-  - Front Page
-  - Left Sidebar
-  - The Sound Attendance
+- Features
+- Front Page
+- Left Sidebar
+- The Sound Attendance
 
 ---
 **Dan Deacon**: _America_ Domino Record Co. [HYPER NOISE]

@@ -1,13 +1,13 @@
 ---
 title: Committee on Paideia’s Future Begins Discussion
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-03-14T17:07:04+00:00
-url: /2013/03/14/committee-on-paideias-future-begins-discussion/
+date: 2013-03-14 17:07:04 +0000
+url: "/2013/03/14/committee-on-paideias-future-begins-discussion/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 An ad hoc committee, created in response to this winter’s Paideia controversy, met this past Tuesday to discuss the purpose of the committee. Student Body President Ari Galper says, “Because he [Kroger] called for the creation of this committee, we should discuss what happened this past Paideia… I don’t think our job is to harp on this past Paideia, but to address Paideia holistically.”

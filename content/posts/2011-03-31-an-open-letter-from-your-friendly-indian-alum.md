@@ -1,12 +1,12 @@
 ---
 title: An Open Letter from “Your Friendly Indian Alum”
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-31T19:34:45+00:00
-url: /2011/03/31/an-open-letter-from-your-friendly-indian-alum/
+date: 2011-03-31 19:34:45 +0000
+url: "/2011/03/31/an-open-letter-from-your-friendly-indian-alum/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 With this year’s Renn Fayre fast approaching, many of you are no doubt in the process of planning your attire for the weekend’s festivities. Given this year’s theme, and its grounding in “The Old West,” I’m sure many of you may be tempted to buy in to the trends fed to you by American Apparel and Urban Outfitters and go find yourself a sweet Native American headdress and slap on some war paint.  I’m here to tell you why you absolutely shouldn’t.

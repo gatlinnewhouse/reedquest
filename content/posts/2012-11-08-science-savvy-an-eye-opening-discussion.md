@@ -1,14 +1,17 @@
 ---
 title: 'Science Savvy: An Eye-Opening Discussion'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-09T00:48:54+00:00
-excerpt: This is a story of two scientists, Vincent and Samantha, who were wrapped up in controversy over whether stem cells exist in adult human eyes. In 2000, a high profile paper identified stem cells in a specific part of the eye called the pigmented ciliary margin (PCM), which encircles the outermost edge of the retina.
-url: /2012/11/08/science-savvy-an-eye-opening-discussion/
+date: 2012-11-09 00:48:54 +0000
+excerpt: This is a story of two scientists, Vincent and Samantha, who were wrapped
+  up in controversy over whether stem cells exist in adult human eyes. In 2000, a
+  high profile paper identified stem cells in a specific part of the eye called the
+  pigmented ciliary margin (PCM), which encircles the outermost edge of the retina.
+url: "/2012/11/08/science-savvy-an-eye-opening-discussion/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 **_By Ingrid Tower and Will Voss_**

@@ -1,14 +1,14 @@
 ---
 title: Postcard from Thesis Hell
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2011-02-25T22:24:37+00:00
-url: /2011/02/25/postcard-from-thesis-hell/
+date: 2011-02-25 22:24:37 +0000
+url: "/2011/02/25/postcard-from-thesis-hell/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - postcards from thesis hell
+- postcards from thesis hell
 
 ---
 I dove so deep that I can’t find my way out. I wander through a dark coral reef of obscure journals and ambiguous data, unable to make any sense of my journey. I had a plan—once—I know I did. But it was lost among the anemones and sea cucumbers. Now, I struggle to make something real out of these old papers and abstract ideas.

@@ -1,20 +1,20 @@
 ---
 title: 'Cool Thesis of the Week: Healing Cults in Ancient Greece'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-12-09T06:16:39+00:00
-url: /2011/12/08/cool-thesis-of-the-week-lindsay-myers-healing-cults-and-medical-science-in-ancient-greece/
+date: 2011-12-09 06:16:39 +0000
+url: "/2011/12/08/cool-thesis-of-the-week-lindsay-myers-healing-cults-and-medical-science-in-ancient-greece/"
 categories:
-  - Cool Thesis of the Week
-  - Features
-  - Top Stories
+- Cool Thesis of the Week
+- Features
+- Top Stories
 tags:
-  - classics
-  - cool thesis
-  - cool thesis of the week
-  - healing cults
-  - lindsay myers
+- classics
+- cool thesis
+- cool thesis of the week
+- healing cults
+- lindsay myers
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

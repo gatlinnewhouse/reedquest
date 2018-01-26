@@ -1,13 +1,13 @@
 ---
 title: 'Senate Beat: Quest Reform and Pool Hall Firing'
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-03-31T03:36:16+00:00
-url: /2013/03/30/senate-beat-quest-reform-and-pool-hall-firing/
+date: 2013-03-31 03:36:16 +0000
+url: "/2013/03/30/senate-beat-quest-reform-and-pool-hall-firing/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 **Announcements**

@@ -1,12 +1,12 @@
 ---
 title: A Public Apology from Nora Mullman and Dillon Nye
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:13:48+00:00
-url: /2010/09/08/a-public-apology-from-nora-mullman-and-dillon-nye/
+date: 2010-09-08 04:13:48 +0000
+url: "/2010/09/08/a-public-apology-from-nora-mullman-and-dillon-nye/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 Last year on May 5th during study week we, Nora Mullman and Dillon Nye, did something really, really stupid and potentially dangerous. We set a dorm trash can on fire in our friend’s room during the early hours of the morning, an action that is both in violation of the honor principle and, as we found out, illegal. Although we had no malicious intent, this by no means excuses our actions. We would like to stress that we did not intend to harm the residents of Naito in any way.

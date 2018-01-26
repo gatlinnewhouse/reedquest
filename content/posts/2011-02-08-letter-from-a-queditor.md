@@ -1,12 +1,12 @@
 ---
 title: Letter from a Queditor
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2011-02-08T20:09:17+00:00
-url: /2011/02/08/letter-from-a-queditor/
+date: 2011-02-08 20:09:17 +0000
+url: "/2011/02/08/letter-from-a-queditor/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 Ah, the first week of spring semester. The sweet memory of Paideia classes I meant to go to and sleeping ‘til noon is still crisp on the pillowy surface of my conscious; my bike’s flat tire is freshly fixed and my closet is full of new sweaters purchased from my favorite San Diego thrift store. Classes are still exciting and I don’t scoff internally at the delusional idea that this will be the best semester yet and I’ll never get burnt-out ever. I’ve been to every senate meeting and have yet to skip the reading for any of my classes. Life is good.

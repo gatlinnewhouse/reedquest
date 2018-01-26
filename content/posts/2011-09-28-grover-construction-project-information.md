@@ -1,12 +1,12 @@
 ---
 title: Grover Construction Project Information
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2011-09-28T22:32:58+00:00
-url: /2011/09/28/grover-construction-project-information/
+date: 2011-09-28 22:32:58 +0000
+url: "/2011/09/28/grover-construction-project-information/"
 categories:
-  - News
+- News
 
 ---
 An ambiguous construction project has been underway near the Grove since before classes began. The mysterious piles of building materials will soon be two new tennis courts and a basketball court.

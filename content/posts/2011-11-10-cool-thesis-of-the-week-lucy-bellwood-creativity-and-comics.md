@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Lucy Bellwood Creativity and Comics'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2011-11-10T19:08:04+00:00
-url: /2011/11/10/cool-thesis-of-the-week-lucy-bellwood-creativity-and-comics/
+date: 2011-11-10 19:08:04 +0000
+url: "/2011/11/10/cool-thesis-of-the-week-lucy-bellwood-creativity-and-comics/"
 categories:
-  - Cool Thesis of the Week
-  - Features
+- Cool Thesis of the Week
+- Features
 
 ---
 _Each week, The Quest profiles the thesis of one senior whose work is worth sharing with the Reed community. The purpose of this column is to increase awareness among Reedies of the work being done in various academic fields and to make disparate forms of scholarship accessible and understandable to all._

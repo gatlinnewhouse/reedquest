@@ -1,14 +1,14 @@
 ---
 title: The Sound Attendance
-authors: 
-  - "Dorothy Howard"
+authors:
+- Dorothy Howard
 type: post
-date: 2012-08-31T17:00:15+00:00
-url: /2012/08/31/the-sound-attendance/
+date: 2012-08-31 17:00:15 +0000
+url: "/2012/08/31/the-sound-attendance/"
 categories:
-  - Features
-  - Left Sidebar
-  - The Sound Attendance
+- Features
+- Left Sidebar
+- The Sound Attendance
 
 ---
 _Welcome to_ The Sound Attendance:** __**_Crackerjack reviews of new releases covering bands fated to self-inflicted obscurity, to saccharine mainstream indie darlings, to Portland core (Reed core are you there??). Concert and haunted-house reviews are likely to be finagled when opportunity strikes, as are reviews of band websites and special releases. Know a local band you think I should review? Send &#8217;em to_ _[&#x64;&#x68;&#x6f;&#x77;&#x61;&#x72;&#x64;&#x40;<span class="oe_displaynone">null</span>&#x72;&#x65;&#x65;&#x64;&#x2e;&#x65;&#x64;&#x75;][1]_

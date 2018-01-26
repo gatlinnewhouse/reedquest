@@ -1,20 +1,20 @@
 ---
 title: 'Brushing Up on Brushing Up: DoJo offers student support for finals'
-authors: 
-  - "Jeremy Melloul"
+authors:
+- Jeremy Melloul
 type: post
-date: 2011-12-08T08:00:24+00:00
-url: /2011/12/08/brushing-up-on-brushing-up-dojo-offers-student-support-for-finals/
+date: 2011-12-08 08:00:24 +0000
+url: "/2011/12/08/brushing-up-on-brushing-up-dojo-offers-student-support-for-finals/"
 categories:
-  - Features
-  - News
+- Features
+- News
 tags:
-  - dojo
-  - dorothy johansen house
-  - finals
-  - jeremy melloul
-  - reed college
-  - studying
+- dojo
+- dorothy johansen house
+- finals
+- jeremy melloul
+- reed college
+- studying
 
 ---
 <div id="attachment_1111" style="width: 210px" class="wp-caption alignright">

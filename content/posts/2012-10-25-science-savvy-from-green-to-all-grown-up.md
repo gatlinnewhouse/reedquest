@@ -1,14 +1,18 @@
 ---
 title: 'Science Savvy: From Green to All Grown Up'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-10-25T20:00:17+00:00
-excerpt: How does a cell decide what it’s going to be when it “grows up”? Just like when you choose your major or thesis topic, your cells make decisions that impact their futures. Each immature cell in a developing brain is full of unlimited possibilities. Over time, the cell hears particular signals and makes specific choices, all of which combine to influences its ultimate “career choice”.
-url: /2012/10/25/science-savvy-from-green-to-all-grown-up/
+date: 2012-10-25 20:00:17 +0000
+excerpt: How does a cell decide what it’s going to be when it “grows up”? Just like
+  when you choose your major or thesis topic, your cells make decisions that impact
+  their futures. Each immature cell in a developing brain is full of unlimited possibilities.
+  Over time, the cell hears particular signals and makes specific choices, all of
+  which combine to influences its ultimate “career choice”.
+url: "/2012/10/25/science-savvy-from-green-to-all-grown-up/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 **_By Caitlin Miller and Patrick Sadil_ **

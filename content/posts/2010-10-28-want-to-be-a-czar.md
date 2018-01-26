@@ -1,12 +1,12 @@
 ---
 title: Want to Be a Czar?
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-28T18:07:08+00:00
-url: /2010/10/28/want-to-be-a-czar/
+date: 2010-10-28 18:07:08 +0000
+url: "/2010/10/28/want-to-be-a-czar/"
 categories:
-  - Senate
+- Senate
 
 ---
 **Paideia Czar**

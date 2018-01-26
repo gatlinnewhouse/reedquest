@@ -1,14 +1,14 @@
 ---
 title: Reed Adopts Statement of Diversity
-authors: 
-  - "Katy Joseph"
+authors:
+- Katy Joseph
 type: post
-date: 2010-10-07T18:17:51+00:00
-url: /2010/10/07/reed-adopts-statement-of-diversity/
+date: 2010-10-07 18:17:51 +0000
+url: "/2010/10/07/reed-adopts-statement-of-diversity/"
 categories:
-  - News
+- News
 tags:
-  - diversity
+- diversity
 
 ---
 In a significant decision Saturday October 2, the Reed Board of Trustees approved the college’s first official Statement of Diversity at their annual fall summit.

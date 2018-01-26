@@ -1,15 +1,15 @@
 ---
-title: /uncommons/ Tantalizes Reedie Palates with Haute Cuisine
-authors: 
-  - questadmin
+title: "/uncommons/ Tantalizes Reedie Palates with Haute Cuisine"
+authors:
+- questadmin
 type: post
-date: 2010-10-14T18:07:53+00:00
-url: /2010/10/14/uncommons-tantalizes-reedie-palates-with-haute-cuisine/
+date: 2010-10-14 18:07:53 +0000
+url: "/2010/10/14/uncommons-tantalizes-reedie-palates-with-haute-cuisine/"
 categories:
-  - News
+- News
 tags:
-  - /uncommons/
-  - food
+- "/uncommons/"
+- food
 
 ---
 <div id="attachment_392" style="width: 240px" class="wp-caption alignleft">

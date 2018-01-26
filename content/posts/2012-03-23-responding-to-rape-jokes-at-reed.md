@@ -1,13 +1,13 @@
 ---
 title: Responding to Rape Jokes at Reed
-authors: 
-  - "Dean Schmeltz"
+authors:
+- Dean Schmeltz
 type: post
-date: 2012-03-23T23:35:31+00:00
-url: /2012/03/23/responding-to-rape-jokes-at-reed/
+date: 2012-03-23 23:35:31 +0000
+url: "/2012/03/23/responding-to-rape-jokes-at-reed/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 Before spring break, a few Reedies gathered at the MRC for a brainstorming session that I co-facilitated along with Jyl Shaffer, Assistant Dean for Sexual Assault Prevention and Response, about how to respond to rape jokes on campus. We decided to follow up on that discussion in The Quest for two reasons. First, we want everyone to have the tools they need to respond to jokes that make light of sexual violence, and in ways that create positive change. Second, we found that anticipating some of the conversations that could happen around this issue made for a good mental exercise in the Honor Principle. Below you’ll find the core questions that shaped our discussion, and a recap of how we went about addressing them. It is my hope that a few minutes spent thinking through these strategies will contribute to productive conversations around campus, in response to rape jokes and otherwise.

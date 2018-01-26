@@ -1,13 +1,13 @@
 ---
 title: Bookworm Awarded $1,000
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-04-26T00:20:44+00:00
-url: /2013/04/25/bookworm-awarded-1000/
+date: 2013-04-26 00:20:44 +0000
+url: "/2013/04/25/bookworm-awarded-1000/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Reed’s First Annual Book Collecting Contest awarded $1000 to first place winner Mack Sullivan ‘13. Richard Aldersley ‘13 was awarded $500 for second place. Francois Paultre ’13 received $250 for third place. The six other students who entered all received honorable mentions.

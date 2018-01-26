@@ -1,14 +1,14 @@
 ---
 title: Queer Poet Slams Reed
-authors: 
-  - "Jaelin Cola"
+authors:
+- Jaelin Cola
 type: post
-date: 2013-09-16T23:18:30+00:00
-draft: true
-url: /?p=2562
+date: 2013-09-16 23:18:30 +0000
+url: "/?p=2562"
 categories:
-  - Events
-  - Top Stories
+- Events
+- Top Stories
+draft: true
 
 ---
 &nbsp;

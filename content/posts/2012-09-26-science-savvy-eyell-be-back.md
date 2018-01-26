@@ -1,14 +1,17 @@
 ---
 title: 'Science Savvy: Eye’ll Be Back'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-09-27T06:01:25+00:00
-excerpt: In Luc Besson’s 1997 cult film, The Fifth Element, scientists recreate the perfect human from just a few cells. Though we’re far from being able to grow an entire Milla Jovovitch in an incubator, we are closer than ever to growing replacement body parts.
-url: /2012/09/26/science-savvy-eyell-be-back/
+date: 2012-09-27 06:01:25 +0000
+excerpt: In Luc Besson’s 1997 cult film, The Fifth Element, scientists recreate the
+  perfect human from just a few cells. Though we’re far from being able to grow an
+  entire Milla Jovovitch in an incubator, we are closer than ever to growing replacement
+  body parts.
+url: "/2012/09/26/science-savvy-eyell-be-back/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 _by Jack Craig & Morian Gottman        _

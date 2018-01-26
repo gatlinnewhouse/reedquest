@@ -1,16 +1,16 @@
 ---
 title: The Lutz Report
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-01-28T08:19:03+00:00
-url: /2012/01/28/the-lutz-report/
+date: 2012-01-28 08:19:03 +0000
+url: "/2012/01/28/the-lutz-report/"
 categories:
-  - Features
-  - Front Page
-  - The Lutz Report
+- Features
+- Front Page
+- The Lutz Report
 tags:
-  - lutz report
+- lutz report
 
 ---
 <div id="attachment_1186" style="width: 310px" class="wp-caption alignright">

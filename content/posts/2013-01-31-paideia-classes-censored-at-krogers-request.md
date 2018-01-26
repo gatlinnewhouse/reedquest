@@ -1,13 +1,13 @@
 ---
 title: Paideia Classes Censored at Kroger’s Request
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-01-31T10:33:43+00:00
-url: /2013/01/31/paideia-classes-censored-at-krogers-request/
+date: 2013-01-31 10:33:43 +0000
+url: "/2013/01/31/paideia-classes-censored-at-krogers-request/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 A week before his Paideia class, Austin Weisgrau &#8217;15 received an email informing him of a change in his curriculum. Entitled &#8220;Kombucha and Other Fermentation Basics,&#8221; the class was to focus on brewing kombucha, but would also cover the basics of fermenting sauerkraut and alcoholic beverages. However, the email, from Paideia Czar Julia Selker, informed him that the alcohol section of his class would have to be removed at President John Kroger&#8217;s request.

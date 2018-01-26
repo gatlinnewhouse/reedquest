@@ -1,14 +1,14 @@
 ---
 title: Reed’s First Statement of Diversity
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:10:12+00:00
-url: /2010/10/14/reeds-first-statement-of-diversity/
+date: 2010-10-14 18:10:12 +0000
+url: "/2010/10/14/reeds-first-statement-of-diversity/"
 categories:
-  - Features
+- Features
 tags:
-  - diversity
+- diversity
 
 ---
 _The Statement of Diversity was originally drafted by a volunteer group of students in the spring of 2009. Two weeks ago the Reed College Board of Trustees approved it, codifying it as comunity policy. It represents the first time in the college’s ninty-nine years of existance that an overarching policy has expressed an explicit commitment to the diversity._

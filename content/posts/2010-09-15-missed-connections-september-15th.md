@@ -1,15 +1,15 @@
 ---
 title: 'Missed Connections: September 15th'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-15T18:55:50+00:00
+date: 2010-09-15 18:55:50 +0000
 excerpt: |
   |
     <p>[#5] I’m growing tired of playing games, lover of mine. It’s time for  the ironic baseball caps to come off, you sexy piece of Texass. How do  you say “cuddlehumps” in Greek?</p>
-url: /2010/09/15/missed-connections-september-15th/
+url: "/2010/09/15/missed-connections-september-15th/"
 categories:
-  - Uncategorized
+- Uncategorized
 
 ---
 [#5] I’m growing tired of playing games, lover of mine. It’s time for the ironic baseball caps to come off, you sexy piece of Texass. How do you say “cuddlehumps” in Greek?

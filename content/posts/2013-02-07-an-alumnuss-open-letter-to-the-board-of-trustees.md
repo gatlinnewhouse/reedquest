@@ -1,13 +1,13 @@
 ---
 title: An Alumnus’s Open Letter to the Board of Trustees
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-07T09:05:20+00:00
-url: /2013/02/07/an-alumnuss-open-letter-to-the-board-of-trustees/
+date: 2013-02-07 09:05:20 +0000
+url: "/2013/02/07/an-alumnuss-open-letter-to-the-board-of-trustees/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 I know I&#8217;m not the first to write you on this subject, and I shan&#8217;t be the last. In fact, I imagine that several of you have received some rather testy notes from students or alumni. In short, you&#8217;re getting yelled at. Probably a bit.

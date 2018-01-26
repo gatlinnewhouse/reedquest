@@ -1,12 +1,12 @@
 ---
 title: 'Bursting the Bubble: Debriefing on Libya'
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-03-31T19:49:40+00:00
-url: /2011/03/31/bursting-the-bubble-debriefing-on-lybia/
+date: 2011-03-31 19:49:40 +0000
+url: "/2011/03/31/bursting-the-bubble-debriefing-on-lybia/"
 categories:
-  - News
+- News
 
 ---
 The democratic revolutions sweeping through the Middle East have come to a violent hurdle. While the first weeks of protest in Tunisia and Egypt were relatively non-violent, in the recent weeks, rulers in Yemen, Syria, Bahrain, and Libya have cracked down with greater force to suppress the anti-government efforts.

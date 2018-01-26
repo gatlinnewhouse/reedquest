@@ -1,13 +1,13 @@
 ---
 title: DHSM Passes
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-09-14T05:20:59+00:00
-url: /2013/09/13/dhsm-passes/
+date: 2013-09-14 05:20:59 +0000
+url: "/2013/09/13/dhsm-passes/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 A new Discriminatory Harassment and Sexual Misconduct policy passed this week, after nearly a two-year process of writing multiple drafts and amassing community input. The final draft was first passed during Friday’s Senate meeting with a vote of 8-1. It was then sent to the faculty on Monday and passed with a vote of 75-6, with five abstentions.

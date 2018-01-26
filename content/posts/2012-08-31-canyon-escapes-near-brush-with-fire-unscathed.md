@@ -1,13 +1,13 @@
 ---
 title: Canyon Escapes Near Brush with Fire Unscathed
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-08-31T17:00:06+00:00
-url: /2012/08/31/canyon-escapes-near-brush-with-fire-unscathed/
+date: 2012-08-31 17:00:06 +0000
+url: "/2012/08/31/canyon-escapes-near-brush-with-fire-unscathed/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 While much of Oregon faced the state’s worst wildfires in more than a century, the Canyon had a near brush with a blaze of its own.

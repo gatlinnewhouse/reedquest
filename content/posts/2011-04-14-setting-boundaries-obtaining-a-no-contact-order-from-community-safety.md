@@ -1,17 +1,17 @@
 ---
 title: 'Setting Boundaries: Obtaining a No-Contact Order from Community Safety'
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2011-04-14T23:35:30+00:00
-url: /2011/04/14/setting-boundaries-obtaining-a-no-contact-order-from-community-safety/
+date: 2011-04-14 23:35:30 +0000
+url: "/2011/04/14/setting-boundaries-obtaining-a-no-contact-order-from-community-safety/"
 categories:
-  - Features
+- Features
 tags:
-  - no-contact orders
-  - policy
-  - rape
-  - sexual assault
+- no-contact orders
+- policy
+- rape
+- sexual assault
 
 ---
 What happens if you feel someone in the community has, or is, acting dishonorably toward you or others? Well, of course, the Honor Council can mediate, and the J-Board can help you in situations where mediation isn&#8217;t appropriate—but did you know that you also have the right to a no-contact order for situations where neither of those two avenues may be possible or appropriate? If you ever feel unsafe around any community member—even if they have not directly or physically harmed you—you have the right to request that Community Safety establish a no-contact policy between you and that person.

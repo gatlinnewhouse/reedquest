@@ -1,13 +1,13 @@
 ---
 title: 'Science Savvy: They Once Were Blind, But Now They See'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-01T08:00:15+00:00
-url: /2012/11/01/science-savvy-they-once-were-blind-but-now-they-see/
+date: 2012-11-01 08:00:15 +0000
+url: "/2012/11/01/science-savvy-they-once-were-blind-but-now-they-see/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 _**By Anna Henkin **_

@@ -1,13 +1,13 @@
 ---
 title: 'Kroger Faces Backlash after Paideia Controversy: Alumni Board Director resigns'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-02-07T09:38:02+00:00
-url: /2013/02/07/kroger-faces-backlash-after-paideia-controversy-alumni-board-director-resigns/
+date: 2013-02-07 09:38:02 +0000
+url: "/2013/02/07/kroger-faces-backlash-after-paideia-controversy-alumni-board-director-resigns/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The Reed community has reacted en masse to Reed President John Kroger’s cancellation of two Paideia classes and the alteration of another.

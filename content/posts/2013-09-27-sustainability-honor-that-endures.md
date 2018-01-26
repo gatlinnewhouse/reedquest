@@ -1,13 +1,13 @@
 ---
 title: 'Sustainability: Honor that Endures'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-09-28T05:57:19+00:00
-url: /2013/09/27/sustainability-honor-that-endures/
+date: 2013-09-28 05:57:19 +0000
+url: "/2013/09/27/sustainability-honor-that-endures/"
 categories:
-  - Opinion
-  - Top Stories
+- Opinion
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2676" alt="Greenboard" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/09/Greenboard.jpg?resize=770%2C430" data-recalc-dims="1" />][1]

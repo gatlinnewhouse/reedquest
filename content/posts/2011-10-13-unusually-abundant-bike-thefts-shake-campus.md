@@ -1,13 +1,13 @@
 ---
 title: Unusually Abundant Bike Thefts Shake Campus
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-10-13T22:17:23+00:00
-url: /2011/10/13/unusually-abundant-bike-thefts-shake-campus/
+date: 2011-10-13 22:17:23 +0000
+url: "/2011/10/13/unusually-abundant-bike-thefts-shake-campus/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 When asked if this year&#8217;s bike thefts exceeded the normal  amount, Gary Granger&#8217;s response was simple: “Um, yeah!” There have been 40% more bike thefts this year than there were at this time last year (14 vs 10). Thieves have not just been taken unlocked bikes or cable-locked bikes; they are actually cutting U-locks.

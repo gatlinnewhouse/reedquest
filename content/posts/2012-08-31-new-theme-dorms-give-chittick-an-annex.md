@@ -1,13 +1,13 @@
 ---
 title: New Theme Dorms Give Chittick an Annex
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-08-31T17:00:45+00:00
-url: /2012/08/31/new-theme-dorms-give-chittick-an-annex/
+date: 2012-08-31 17:00:45 +0000
+url: "/2012/08/31/new-theme-dorms-give-chittick-an-annex/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/?attachment_id=1542" rel="attachment wp-att-1542"><img class="alignnone size-full wp-image-1542" title="Chittick Fort" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/08/DSC_0379-1-slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

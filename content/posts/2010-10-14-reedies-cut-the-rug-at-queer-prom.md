@@ -1,14 +1,14 @@
 ---
 title: 'PHOTO: Reedies Cut the Rug at Queer Prom'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:31:15+00:00
-url: /2010/10/14/reedies-cut-the-rug-at-queer-prom/
+date: 2010-10-14 18:31:15 +0000
+url: "/2010/10/14/reedies-cut-the-rug-at-queer-prom/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - queer prom
+- queer prom
 
 ---
 <p style="text-align: center;">

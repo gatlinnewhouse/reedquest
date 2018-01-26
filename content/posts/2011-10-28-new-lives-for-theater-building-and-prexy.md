@@ -1,13 +1,13 @@
 ---
 title: New Lives For Theater Building and Prexy
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-10-28T20:19:48+00:00
-url: /2011/10/28/new-lives-for-theater-building-and-prexy/
+date: 2011-10-28 20:19:48 +0000
+url: "/2011/10/28/new-lives-for-theater-building-and-prexy/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 <div id="attachment_924" style="width: 310px" class="wp-caption aligncenter">

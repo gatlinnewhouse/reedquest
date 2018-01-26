@@ -1,13 +1,13 @@
 ---
 title: 'Science Savvy: Stem Cells: They’ve Got the Power'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-17T21:23:50+00:00
-url: /2012/11/17/science-savvy-stem-cells-theyve-got-the-power/
+date: 2012-11-17 21:23:50 +0000
+url: "/2012/11/17/science-savvy-stem-cells-theyve-got-the-power/"
 categories:
-  - Left Sidebar
-  - Science Savvy
+- Left Sidebar
+- Science Savvy
 
 ---
 _**By Mica Peacock**_

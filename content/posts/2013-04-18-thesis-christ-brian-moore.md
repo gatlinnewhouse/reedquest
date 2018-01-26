@@ -1,14 +1,21 @@
 ---
 title: 'Thesis Christ: Brian Moore'
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-04-19T04:51:44+00:00
-excerpt: Economics major and and former Student Body President Brian Moore wrote his thesis on government policy change and whether or not this effects investments made by manufacturing companies. In times of economic downturn, Moore says, many say that the government should not try to change policy, as this creates an uncertain economic environment that possibly discourages investment. For instance, “if you’re a small manufacturer, and the government is considering regulating your industry, you’re less likely to invest until you know how that regulation is going to look, or how that regulation might effect you as a firm.”
-url: /2013/04/18/thesis-christ-brian-moore/
+date: 2013-04-19 04:51:44 +0000
+excerpt: Economics major and and former Student Body President Brian Moore wrote his
+  thesis on government policy change and whether or not this effects investments made
+  by manufacturing companies. In times of economic downturn, Moore says, many say
+  that the government should not try to change policy, as this creates an uncertain
+  economic environment that possibly discourages investment. For instance, “if you’re
+  a small manufacturer, and the government is considering regulating your industry,
+  you’re less likely to invest until you know how that regulation is going to look,
+  or how that regulation might effect you as a firm.”
+url: "/2013/04/18/thesis-christ-brian-moore/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <p style="text-align: center;">

@@ -1,15 +1,15 @@
 ---
 title: 'Subgenre of the Week: Plunderphonics (feat. Kanye West)'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2011-04-07T19:07:21+00:00
-url: /2011/04/07/subgenre-of-the-week-plunderphonics-feat-kanye-west/
+date: 2011-04-07 19:07:21 +0000
+url: "/2011/04/07/subgenre-of-the-week-plunderphonics-feat-kanye-west/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - music
-  - subgenre
+- music
+- subgenre
 
 ---
 _We live in an age where our post-modern sensibilities have translated into flourishing musical creativity. This, paired with the death of radio, has led to the creation of nearly every subgenre imaginable. But how do you keep track of them all? Each week, we here at the Quest do our best to help you make sense of all this alternativeness._

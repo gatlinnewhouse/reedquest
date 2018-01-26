@@ -1,17 +1,17 @@
 ---
 title: Just Beneath The Surface
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-11T19:22:34+00:00
+date: 2010-11-11 19:22:34 +0000
 excerpt: |
   |
     <p>Passive, tired faces look across the waiting room of the Health and  Counseling Center, as one girl pushes sand around with a tiny rake.  There’s no visible indication that anything is wrong, but mute anxiety  suffuses the room. Disabilities underlie Reed in the same way</p>
-url: /2010/11/11/just-beneath-the-surface/
+url: "/2010/11/11/just-beneath-the-surface/"
 categories:
-  - Features
+- Features
 tags:
-  - disability
+- disability
 
 ---
 _Students Balance Disabilities and Academic Pressure_

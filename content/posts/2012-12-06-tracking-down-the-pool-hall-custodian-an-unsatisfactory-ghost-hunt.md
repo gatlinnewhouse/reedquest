@@ -1,14 +1,17 @@
 ---
 title: 'Tracking Down the Pool Hall Custodian: An Unsatisfactory Ghost Hunt'
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-12-06T19:45:00+00:00
-excerpt: "The pool hall is a different place at in the early morning hours. This is the first conclusion I reached at 4:30 AM on Thursday, Nov. 29, after I'd volunteered to write an article on a late-night custodian who plays pool in the pool hall with students on his break. "
-url: /2012/12/06/tracking-down-the-pool-hall-custodian-an-unsatisfactory-ghost-hunt/
+date: 2012-12-06 19:45:00 +0000
+excerpt: 'The pool hall is a different place at in the early morning hours. This is
+  the first conclusion I reached at 4:30 AM on Thursday, Nov. 29, after I''d volunteered
+  to write an article on a late-night custodian who plays pool in the pool hall with
+  students on his break. '
+url: "/2012/12/06/tracking-down-the-pool-hall-custodian-an-unsatisfactory-ghost-hunt/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The pool hall is a different place at in the early morning hours. This is the first conclusion I reached at 4:30 AM on Thursday, Nov. 29. I had volunteered to write a _Quest_ article on a late-night custodian who plays pool in the pool hall with students on his break. So yes, I admit, the whole thing was voluntary. I was interested, drawn in by the mystique of this mythical pool-playing custodian.

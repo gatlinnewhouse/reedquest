@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: “Suburban Paradise or ‘Sprawlsville, Washington’?”'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-03-23T23:45:24+00:00
-url: /2012/03/23/cool-thesis-of-the-weeksuburban-paradise-or-sprawlsville-washington/
+date: 2012-03-23 23:45:24 +0000
+url: "/2012/03/23/cool-thesis-of-the-weeksuburban-paradise-or-sprawlsville-washington/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/03/cool-thesis-of-the-weeksuburban-paradise-or-sprawlsville-washington/img_1897slider/" rel="attachment wp-att-1443"><img class="aligncenter size-full wp-image-1443" title="Alex Walker" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/03/IMG_1897slider.png?resize=770%2C430" alt="" data-recalc-dims="1" /></a>Walking through the city, it is easy to look at stores and people, taking in their individual character. What many people do not consider, however, is the larger layout of the city.

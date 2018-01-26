@@ -1,14 +1,14 @@
 ---
 title: 'Sweat, Panic, Write, Repeat: Reflections on Thesis Parades Past'
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-12-02T18:45:59+00:00
-url: /2010/12/02/sweat-panic-write-repeat-reflections-on-thesis-parades-past/
+date: 2010-12-02 18:45:59 +0000
+url: "/2010/12/02/sweat-panic-write-repeat-reflections-on-thesis-parades-past/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - renn fayre
+- renn fayre
 
 ---
 The sky burst into colors that cool day in December. Confetti, champagne, and obscenely bright spandex transformed the entrance to the library into a sea of raving madmen. I tried take in every sight and sound, but the sheer mass of information sent me reeling. I know that I stumbled through the crowd dodging the burning ashes of thesis drafts and champagne-soaked seniors, but all other details escape me.

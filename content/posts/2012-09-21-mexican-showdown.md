@@ -1,13 +1,13 @@
 ---
 title: Mexican Showdown
-authors: 
-  - "Katelyn Best"
+authors:
+- Katelyn Best
 type: post
-date: 2012-09-21T17:30:36+00:00
-url: /2012/09/21/mexican-showdown/
+date: 2012-09-21 17:30:36 +0000
+url: "/2012/09/21/mexican-showdown/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/mexican-showdown/mexicanslider/" rel="attachment wp-att-1630"><img class="alignnone size-full wp-image-1630" title="Mexican Showdown" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/09/mexicanslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

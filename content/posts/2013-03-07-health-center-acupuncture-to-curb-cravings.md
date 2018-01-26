@@ -1,13 +1,13 @@
 ---
 title: Health Center Offers Acupuncture to Curb Cravings
-authors: 
-  - "Clara Rice"
+authors:
+- Clara Rice
 type: post
-date: 2013-03-07T23:12:18+00:00
-url: /2013/03/07/health-center-acupuncture-to-curb-cravings/
+date: 2013-03-07 23:12:18 +0000
+url: "/2013/03/07/health-center-acupuncture-to-curb-cravings/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 The Health and Counseling Center is now offering acupuncture for students who want to address their cravings. The treatments aim to reduce a wide array of issues, from substance addictions to compulsive internet usage.

@@ -1,13 +1,13 @@
 ---
 title: Writer Shares His Love Letters
-authors: 
-  - "Lyle Daniel"
+authors:
+- Lyle Daniel
 type: post
-date: 2011-10-28T20:28:21+00:00
-url: /2011/10/28/writer-shares-his-love-letters/
+date: 2011-10-28 20:28:21 +0000
+url: "/2011/10/28/writer-shares-his-love-letters/"
 categories:
-  - Events
-  - News
+- Events
+- News
 
 ---
 On Wednesday Oct. 13th, in the latest installment of the Creative Writing department’s Visiting Writers program, Stanford Creative Writing Professor and Louisiana native Skip Horack gave a thoroughly captivating reading. In adulation, one audience member said that “he had the perfect reading voice. I closed my eyes and thought, ‘uh, where am I?’ And then I opened them and saw: ‘whoa, I’m in Elliot.’”

@@ -1,13 +1,13 @@
 ---
 title: Letter from Your Queditors
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-22T19:20:48+00:00
-url: /2010/09/22/letter-from-your-queditors/
+date: 2010-09-22 19:20:48 +0000
+url: "/2010/09/22/letter-from-your-queditors/"
 categories:
-  - Features
-  - From the Editors
+- Features
+- From the Editors
 
 ---
 Dear seething masses,

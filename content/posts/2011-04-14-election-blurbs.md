@@ -1,14 +1,14 @@
 ---
 title: Election Blurbs
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-15T00:09:34+00:00
-url: /2011/04/14/election-blurbs/
+date: 2011-04-15 00:09:34 +0000
+url: "/2011/04/14/election-blurbs/"
 categories:
-  - Senate
+- Senate
 tags:
-  - elections
+- elections
 
 ---
 **Senate Candidates (4 seats)**

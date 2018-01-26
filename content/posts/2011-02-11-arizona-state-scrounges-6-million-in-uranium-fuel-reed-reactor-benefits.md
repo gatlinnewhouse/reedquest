@@ -1,19 +1,19 @@
 ---
 title: Arizona State Scrounges $6 Million in Uranium Fuel, Reed Reactor Benefits
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2011-02-11T21:08:19+00:00
+date: 2011-02-11 21:08:19 +0000
 excerpt: |
   |
     <p><em>ASU’s Defunct Reactor Program Supplies Reed with Used Fuel</em></p>
     <p>Last month, the Reed College Research Reactor received roughly 6  million dollars worth of new uranium fuel elements. “This is easily the  most significant event in the history of the reactor since it first went  critical in 1968,” said Stephen Frantz, Reactor Director.</p>
-url: /2011/02/11/arizona-state-scrounges-6-million-in-uranium-fuel-reed-reactor-benefits/
+url: "/2011/02/11/arizona-state-scrounges-6-million-in-uranium-fuel-reed-reactor-benefits/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - reactor
+- reactor
 
 ---
 <div style="width: 269px" class="wp-caption alignleft">

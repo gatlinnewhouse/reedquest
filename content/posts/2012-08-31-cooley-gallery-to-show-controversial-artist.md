@@ -1,13 +1,13 @@
 ---
 title: Cooley Gallery to Show Controversial Artist
-authors: 
-  - "Drew Garcia"
+authors:
+- Drew Garcia
 type: post
-date: 2012-08-31T17:00:47+00:00
-url: /2012/08/31/cooley-gallery-to-show-controversial-artist/
+date: 2012-08-31 17:00:47 +0000
+url: "/2012/08/31/cooley-gallery-to-show-controversial-artist/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 It isn’t uncommon to look at a work of art and wonder “is this supposed to be a penis?” but in Kara Walker’s cut-outs, the question may be justified. On September 4th, her exhibit _More and Less_ opens in Reed’s Cooley Gallery. It will feature a new film in her signature style of silhouette puppetry, as well as prints and cut-outs.

@@ -1,13 +1,13 @@
 ---
 title: Undocumented Journalist Tells Reed His Story
-authors: 
-  - "Jorge Rodriguez"
+authors:
+- Jorge Rodriguez
 type: post
-date: 2012-11-01T20:30:05+00:00
-url: /2012/11/01/undocumented-journalist-shares-tells-reed-his-story/
+date: 2012-11-01 20:30:05 +0000
+url: "/2012/11/01/undocumented-journalist-shares-tells-reed-his-story/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Jose Antonio Vargas, Pulitzer-winning journalist and immigrant rights advocate, spoke in Kaul Auditorium on Oct. 24, sponsored by the Multicultural Resource Center. Vargas, who lived in the United States for almost 20 years as an undocumented immigrant, revealed his status in a controversial essay in _The New York Times Magazine_ last year.

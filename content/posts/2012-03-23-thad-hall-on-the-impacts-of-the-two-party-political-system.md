@@ -1,13 +1,13 @@
 ---
 title: Thad Hall on The Impacts of the Two-Party Political System
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2012-03-23T22:48:39+00:00
-url: /2012/03/23/thad-hall-on-the-impacts-of-the-two-party-political-system/
+date: 2012-03-23 22:48:39 +0000
+url: "/2012/03/23/thad-hall-on-the-impacts-of-the-two-party-political-system/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Thad E. Hall of The University of Utah visited Reed on March 21st as part of the public policy lecture series. His main point was drawn and quartered somewhere between the effects of extremism in politics, trends in the two-party system, and the use of abortion as a polarizing issue. Though his main focus was Daily Show-esque mockery of the uneducated and the irrational people of this country, he also highlighted influences that shape the American political landscape.

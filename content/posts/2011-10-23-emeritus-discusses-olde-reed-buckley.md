@@ -1,12 +1,12 @@
 ---
 title: Emeritus Discusses Olde Reed, Buckley
-authors: 
-  - "Aaron Smith"
+authors:
+- Aaron Smith
 type: post
-date: 2011-10-23T20:50:07+00:00
-url: /2011/10/23/emeritus-discusses-olde-reed-buckley/
+date: 2011-10-23 20:50:07 +0000
+url: "/2011/10/23/emeritus-discusses-olde-reed-buckley/"
 categories:
-  - News
+- News
 
 ---
 If you look at a campus map, the Center for Advanced Computation looks like an isolated building on the extreme East edge of campus: to its West, the map shows only one path, while, to its East, the map shows nothing. “People may do things that are secret because what they do is of interest to them, but there isn’t any subterfuge,” says Marvin Levich, Emeritus professor of philosophy. He is talking about Richard Crandall, the director of the center and the man who shares the center with him. There is a kind of symbolism in the location of Levich’s office. Like the Center, he stands on the periphery of Reed experience for current students. He teaches a single class of two students, and he has been retired from full-time teaching since 1993. As one of Reed’s oldest living professors, Levich offers an invaluable perspective on Reed in the 20<sup>th</sup> century as the college turns 100.

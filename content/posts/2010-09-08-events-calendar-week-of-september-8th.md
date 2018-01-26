@@ -1,12 +1,12 @@
 ---
 title: 'Events Calendar: Week of September 8th'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:41:57+00:00
-url: /2010/09/08/events-calendar-week-of-september-8th/
+date: 2010-09-08 04:41:57 +0000
+url: "/2010/09/08/events-calendar-week-of-september-8th/"
 categories:
-  - Events
+- Events
 
 ---
 **Reed Outdoor Club Social**

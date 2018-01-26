@@ -1,15 +1,15 @@
 ---
 title: Serious Advice from a Sober Freshman, Part Deux
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-30T17:57:03+00:00
-url: /2010/09/30/serious-advice-from-a-sober-freshman-part-deux/
+date: 2010-09-30 17:57:03 +0000
+url: "/2010/09/30/serious-advice-from-a-sober-freshman-part-deux/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - advice
-  - hum 110
+- advice
+- hum 110
 
 ---
 Some upperclassmen may have been a tad upset by my last article. Believe me: I totally understand. Some of you may not be used to people my age being snarky or otherwise freethinking — except, of course, back when you were this age and were just as sassy as I am.  Regardless, I do understand how unpalatable advice, no matter how sensible or sober, coming from an unqualified freshman is. That is why today I will direct my advice at another demographic: my fellow freshmen.

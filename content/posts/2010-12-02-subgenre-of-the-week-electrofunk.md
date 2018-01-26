@@ -1,15 +1,15 @@
 ---
 title: 'Subgenre of the Week: Electrofunk'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-12-02T18:41:41+00:00
-url: /2010/12/02/subgenre-of-the-week-electrofunk/
+date: 2010-12-02 18:41:41 +0000
+url: "/2010/12/02/subgenre-of-the-week-electrofunk/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - music
-  - subgenre of the week
+- music
+- subgenre of the week
 
 ---
 _We live in an age where our postmodern sensibilities have translated into flourishing musical creativity. This, paired with the death of radio, has led to the creation of nearly every subgenre imaginable. But how do you keep track of them all? Each week (well, most weeks) we here at the Quest do our best to help make sense of all this alternativeness._

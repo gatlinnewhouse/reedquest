@@ -1,14 +1,14 @@
 ---
 title: 'The Sexual Intellectual: Dating Nomenclature'
-authors: 
-  - "Tristan Nieto"
+authors:
+- Tristan Nieto
 type: post
-date: 2012-02-03T20:52:54+00:00
-url: /2012/02/03/the-sexual-intellectual-dating-nomenclature/
+date: 2012-02-03 20:52:54 +0000
+url: "/2012/02/03/the-sexual-intellectual-dating-nomenclature/"
 categories:
-  - Features
-  - Left Sidebar
-  - The Sexual Intellectual
+- Features
+- Left Sidebar
+- The Sexual Intellectual
 
 ---
 If there&#8217;s anything about English that fails me (besides its skimpy range of emotional terms and having the worst names for genitals in the history of language), it&#8217;s the lack of an appropriate way to designate people that you are dating. This phrase in and of itself comprises several shades of significance: “dating.” I am determined to discover all possible options and, if possible, develop a system which people can use to accurately describe one&#8217;s relationship to another person/persons.

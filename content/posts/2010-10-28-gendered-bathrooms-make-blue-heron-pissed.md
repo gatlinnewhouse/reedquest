@@ -1,20 +1,20 @@
 ---
 title: Gendered Bathrooms Make Blue Heron “Pissed”
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-28T17:50:28+00:00
+date: 2010-10-28 17:50:28 +0000
 excerpt: |
   |
     <p>We’re pissed.</p>
     <p>How many times a day do you use a restroom in a public building on campus? Twice?<br />
     Three times? Every time you do, you are forced to identify yourself as  either male or female</p>
-url: /2010/10/28/gendered-bathrooms-make-blue-heron-pissed/
+url: "/2010/10/28/gendered-bathrooms-make-blue-heron-pissed/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - activism
-  - blue heron infoshop
+- activism
+- blue heron infoshop
 
 ---
 **Submitted by The Blue Heron Collective.**

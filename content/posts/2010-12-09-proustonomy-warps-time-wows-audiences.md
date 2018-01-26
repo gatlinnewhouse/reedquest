@@ -1,17 +1,17 @@
 ---
 title: Proustonomy Warps Time, Wows Audiences
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-12-09T22:45:15+00:00
+date: 2010-12-09 22:45:15 +0000
 excerpt: |
   |
     <p>Dominic Finocchiaro’s thesis production, <em>Proustonomy</em>, begins with an explosion of paper that remains on stage for the remainder of the performance, preempting the chaos that ensues as the lives of two men intertwine and ultimately fall apart.</p>
-url: /2010/12/09/proustonomy-warps-time-wows-audiences/
+url: "/2010/12/09/proustonomy-warps-time-wows-audiences/"
 categories:
-  - Features
+- Features
 tags:
-  - theater
+- theater
 
 ---
 _[<img class="alignleft size-full wp-image-545" style="margin: 7px;" title="Proustonomy" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2010/12/proustonomyphoto5.jpg?resize=285%2C190" alt="" data-recalc-dims="1" />][1]Thesis Production Written and Directed by Dominic Finocchiaro Achieves Great Success_

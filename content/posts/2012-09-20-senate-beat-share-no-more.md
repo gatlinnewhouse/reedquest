@@ -1,13 +1,13 @@
 ---
 title: 'Senate Beat: Share No More'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-09-20T15:47:40+00:00
-url: /2012/09/20/senate-beat-share-no-more/
+date: 2012-09-20 15:47:40 +0000
+url: "/2012/09/20/senate-beat-share-no-more/"
 categories:
-  - Senate Beat
-  - Top Stories
+- Senate Beat
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/senate-beat-share-no-more/senatebeatslider/" rel="attachment wp-att-1628"><img class="alignnone size-full wp-image-1628" title="Senate Meeting" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/09/senatebeatslider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

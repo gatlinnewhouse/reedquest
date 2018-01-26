@@ -1,14 +1,17 @@
 ---
 title: 'The Honor Principle: Tool or Machine?'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-09-14T16:59:04+00:00
-excerpt: 'The intended purpose of Reed’s Honor Principle was to suspend the college in a state of perpetual tension. By choosing not to codify it, as other schools had done, Reed’s founding president, William Trufant Foster, sought to make it more a tool of freedom than a machine of authoritarian enforcement. '
-url: /2012/09/14/the-honor-principle-tool-or-machine/
+date: 2012-09-14 16:59:04 +0000
+excerpt: 'The intended purpose of Reed’s Honor Principle was to suspend the college
+  in a state of perpetual tension. By choosing not to codify it, as other schools
+  had done, Reed’s founding president, William Trufant Foster, sought to make it more
+  a tool of freedom than a machine of authoritarian enforcement. '
+url: "/2012/09/14/the-honor-principle-tool-or-machine/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _The following is an exclusive outtake from_ Comrades of the Quest: An Oral History of Reed College, _by trustee John Sheehy &#8217;82._

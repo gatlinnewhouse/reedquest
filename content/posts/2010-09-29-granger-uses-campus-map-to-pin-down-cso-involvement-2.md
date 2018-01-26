@@ -1,12 +1,12 @@
 ---
 title: Granger Uses Campus Map to Pin Down CSO Involvement
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-30T02:55:09+00:00
-url: /2010/09/29/granger-uses-campus-map-to-pin-down-cso-involvement-2/
+date: 2010-09-30 02:55:09 +0000
+url: "/2010/09/29/granger-uses-campus-map-to-pin-down-cso-involvement-2/"
 categories:
-  - News
+- News
 
 ---
 Gary Granger is a visual learner. “I process things visually,” Granger says, pointing a large map situated in the middle of his office.

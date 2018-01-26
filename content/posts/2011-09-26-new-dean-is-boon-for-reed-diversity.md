@@ -1,12 +1,12 @@
 ---
 title: New Dean is Boon for Reed Diversity
-authors: 
-  - "Aaron Smith"
+authors:
+- Aaron Smith
 type: post
-date: 2011-09-26T21:15:18+00:00
-url: /2011/09/26/new-dean-is-boon-for-reed-diversity/
+date: 2011-09-26 21:15:18 +0000
+url: "/2011/09/26/new-dean-is-boon-for-reed-diversity/"
 categories:
-  - News
+- News
 
 ---
 On July 18, 2011, Reed College announced the appointment of Professor Crystal Williams as its first Dean for Institutional Diversity after several weeks of deliberation as well as input from faculty, staff, and students. Her appointment marks a watershed moment as the college attempts to advance diversity and inclusion in all levels of the Reed community.

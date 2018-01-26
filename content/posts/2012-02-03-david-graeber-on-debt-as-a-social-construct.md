@@ -1,13 +1,13 @@
 ---
 title: David Graeber on Debt as a Social Construct
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2012-02-03T22:14:31+00:00
-url: /2012/02/03/david-graeber-on-debt-as-a-social-construct/
+date: 2012-02-03 22:14:31 +0000
+url: "/2012/02/03/david-graeber-on-debt-as-a-social-construct/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 The chapel was full to bursting with people who came to hear David Graeber, anarchist and anthropologist, author of “Debt, the First 5000 Years_,”_ attack fundamental assumptions about capitalism and debt __talk last Tuesday.

@@ -1,13 +1,13 @@
 ---
 title: Senate Beat, with Love and Squalor
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-02-27T06:33:48+00:00
-url: /2012/02/26/senate-beat-with-love-and-squalor/
+date: 2012-02-27 06:33:48 +0000
+url: "/2012/02/26/senate-beat-with-love-and-squalor/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 Senate discussed the implications of AOD violations for Housing Advisers, and a meeting between Student Body President Brian Moore ’13 and Student Body Vice President Aidan Sigman ’13 and Colin Diver regarding [recent student arrests][1] at its meeting on Thursday. Senate also voted to unfreeze Reed Shooting Sports Collective’s funds, which [had been frozen][2] after concerns were raised regarding their use of lead shot, and pursue mitigating environmental damage by donating money to a local nonprofit.</span>

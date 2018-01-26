@@ -1,17 +1,17 @@
 ---
 title: MusicfestNW comes to Portland
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:23:52+00:00
-url: /2010/09/08/musicfestnw-comes-to-portland/
+date: 2010-09-08 04:23:52 +0000
+url: "/2010/09/08/musicfestnw-comes-to-portland/"
 categories:
-  - Events
-  - News
+- Events
+- News
 tags:
-  - music
-  - musicfest nw
-  - portland
+- music
+- musicfest nw
+- portland
 
 ---
 **Andrew Choi and En-Szu Hu-Van Wright**

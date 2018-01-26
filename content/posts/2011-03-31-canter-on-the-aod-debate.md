@@ -1,17 +1,17 @@
 ---
 title: Canter on the AOD Debate
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2011-03-31T19:28:30+00:00
+date: 2011-03-31 19:28:30 +0000
 excerpt: |
   |
     <p>I hope the recent news reports have helped move the conversation about  the AOD policy and its implementation forward. The responsibilities of a  news journalist are manifold, but when done rightly, seem to lead to a  single conclusion: propagating information so that the readership can  become as educated as possible about the issues.</p>
-url: /2011/03/31/canter-on-the-aod-debate/
+url: "/2011/03/31/canter-on-the-aod-debate/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - aod
+- aod
 
 ---
 _A Call for Conversation_

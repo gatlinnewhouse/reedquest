@@ -1,14 +1,19 @@
 ---
 title: 'You Have a Package at Reed Mail Services: An Interview with Ben Lund'
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-02-21T10:06:50+00:00
-excerpt: "Every time a student receives cookies from home, a book from Amazon, or new shoes, they receive an email from a mysterious man who spells his name with no capital letters. Who is the man of mystery working in the GCC's basement? Why the cummings-esque lack of capitalization? Can the Postal Service help you convey a coconut across the country? Staff reporter Isabel Meigs found out in in this slightly edited and condensed interview."
-url: /2013/02/21/you-have-a-package-at-reed-mail-services-an-interview-with-ben-lund/
+date: 2013-02-21 10:06:50 +0000
+excerpt: Every time a student receives cookies from home, a book from Amazon, or new
+  shoes, they receive an email from a mysterious man who spells his name with no capital
+  letters. Who is the man of mystery working in the GCC's basement? Why the cummings-esque
+  lack of capitalization? Can the Postal Service help you convey a coconut across
+  the country? Staff reporter Isabel Meigs found out in in this slightly edited and
+  condensed interview.
+url: "/2013/02/21/you-have-a-package-at-reed-mail-services-an-interview-with-ben-lund/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2091" alt="Ben Lund" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/02/DSC_0120-1_web.jpg?resize=770%2C513" data-recalc-dims="1" />][1]__

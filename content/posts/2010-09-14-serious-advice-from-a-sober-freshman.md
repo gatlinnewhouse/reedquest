@@ -1,14 +1,14 @@
 ---
 title: Serious Advice from a Sober Freshman
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-14T21:17:20+00:00
-url: /2010/09/14/serious-advice-from-a-sober-freshman/
+date: 2010-09-14 21:17:20 +0000
+url: "/2010/09/14/serious-advice-from-a-sober-freshman/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - advice
+- advice
 
 ---
 In some of my recent encounters with upperclassmen, I’ve realized we all could learn a little about freshman-upperclassmen etiquette.

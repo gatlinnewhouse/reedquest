@@ -1,13 +1,13 @@
 ---
 title: The Lost Dorms of Olde Reed
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-29T04:00:50+00:00
-url: /2012/11/28/the-lost-dorms-of-olde-reed/
+date: 2012-11-29 04:00:50 +0000
+url: "/2012/11/28/the-lost-dorms-of-olde-reed/"
 categories:
-  - Features
-  - Top Stories
+- Features
+- Top Stories
 
 ---
 <p style="text-align: center;">

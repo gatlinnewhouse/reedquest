@@ -1,20 +1,20 @@
 ---
 title: A Mission for the New Senate
-authors: 
-  - "Heather Chan"
+authors:
+- Heather Chan
 type: post
-date: 2011-12-08T08:00:31+00:00
-url: /2011/12/08/a-mission-for-the-new-senate/
+date: 2011-12-08 08:00:31 +0000
+url: "/2011/12/08/a-mission-for-the-new-senate/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 tags:
-  - heather chan
-  - honor council
-  - J-Board
-  - reed college
-  - reed senate
-  - sexual assault
+- heather chan
+- honor council
+- J-Board
+- reed college
+- reed senate
+- sexual assault
 
 ---
 **Trigger warning: discussion of sexual assault**

@@ -1,12 +1,12 @@
 ---
 title: Senate Beat
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-03-10T20:20:26+00:00
-url: /2011/03/10/senate-beat-6/
+date: 2011-03-10 20:20:26 +0000
+url: "/2011/03/10/senate-beat-6/"
 categories:
-  - Senate
+- Senate
 
 ---
 Senate began with a fuller house than usual alongside some wonderful decorations courtesy of RAW. Speaking of the aforementioned decorations, the Circus Man (who has a name, we are sure) was the first unexpected visitor of the meeting. He wanted to know if he could leave up his ultra rad tent thingy in the SU. The next unexpected visitor of the meeting, Kent Coupe, came in asking for something even more radical: support for sending a troop of armed Reedies to Libya over spring break. Think of it as an RSSK field trip, but slightly more hands-on and with a higher risk of death, if you will. Senate approved supporting the troop of Reedie Rebels, pending a funding decision by Finance Committee. A $15 co-pay was suggested to fund the trip. The final unexpected visitor was Daire MacFadden, representing the Judicial Board. J-Board wants to take over the Senate office. Senate said they would think about this and discuss it further at the next meeting. Just like that, Senate? Ya’ll aren’t gonna fight for your territory? Shame.

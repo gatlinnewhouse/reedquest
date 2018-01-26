@@ -1,19 +1,19 @@
 ---
 title: Reedies Vie For Watson Fellowship
-authors: 
-  - "Lyle Daniel"
+authors:
+- Lyle Daniel
 type: post
-date: 2011-11-18T21:39:23+00:00
-url: /2011/11/18/reedies-vie-for-watson-fellowship/
+date: 2011-11-18 21:39:23 +0000
+url: "/2011/11/18/reedies-vie-for-watson-fellowship/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 tags:
-  - Adrienne Wise
-  - Claire Tomforde-Garner
-  - D’nae Henderson
-  - Lucy Bellwoood
-  - watson fellowship
+- Adrienne Wise
+- Claire Tomforde-Garner
+- D’nae Henderson
+- Lucy Bellwoood
+- watson fellowship
 
 ---
 <div id="attachment_997" style="width: 520px" class="wp-caption aligncenter">

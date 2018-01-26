@@ -1,12 +1,12 @@
 ---
-title: 'On-Campus Events & Announcements'
-authors: 
-  - Staff
+title: On-Campus Events & Announcements
+authors:
+- Staff
 type: post
-date: 2010-12-02T19:09:28+00:00
-url: /2010/12/02/on-campus-events-announcements-3/
+date: 2010-12-02 19:09:28 +0000
+url: "/2010/12/02/on-campus-events-announcements-3/"
 categories:
-  - Events
+- Events
 
 ---
 **Poetry Contest Open to All Undergraduates**

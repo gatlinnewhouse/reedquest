@@ -1,13 +1,13 @@
 ---
 title: Alumni Switchboard Connects Reedies with Success
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-02-24T08:58:40+00:00
-url: /2012/02/24/alumni-switchboard-connects-reedies-with-success/
+date: 2012-02-24 08:58:40 +0000
+url: "/2012/02/24/alumni-switchboard-connects-reedies-with-success/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <div id="attachment_1338" style="width: 310px" class="wp-caption alignright">

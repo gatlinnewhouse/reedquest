@@ -1,12 +1,12 @@
 ---
 title: Additional Suggestions for Institutional Improvements from Reed Survivors
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-26T01:07:35+00:00
-url: /2011/02/25/additional-suggestions-for-institutional-improvements-from-reed-survivors/
+date: 2011-02-26 01:07:35 +0000
+url: "/2011/02/25/additional-suggestions-for-institutional-improvements-from-reed-survivors/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 Last week I wrote a response to Isabel Manley’s public resignation later in which I encouraged any survivors of sexual assaults at Reed who felt comfortable coming forward about their experiences to make sure their assaults were counted in the official yearly campus crime totals (if they happened on campus).   At the time I was under the impression that this had to be done by reporting, or in some cases re-reporting, them to the Office of Community Safety.  This information came from a conversation I had with a CSO supervisor about 3 weeks ago. However I have come to learn that this information was (thankfully) not entirely correct.  Although practices may have varied in years past, all offices on campus are now asked to submit statistics each spring about the number of offenses reported to them in the past calendar year.

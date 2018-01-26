@@ -1,14 +1,14 @@
 ---
 title: Robert “Schwartz” Khan’s How to Be Cool at Reed
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-07T17:49:12+00:00
-url: /2010/10/07/robert-schwartz-khans-how-to-be-cool-at-reed/
+date: 2010-10-07 17:49:12 +0000
+url: "/2010/10/07/robert-schwartz-khans-how-to-be-cool-at-reed/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - advice
+- advice
 
 ---
 Reed College can be a tough place for new students. Odds are, if you’re going here, you weren’t very cool in high school. But think: There are plenty of people here who were even lamer than you were; this is your time to shine, to become king of this social molehill! As I’ve been here for three years I know a lot about the place. I’m at the peak of my social and academic career. People come up to me every day and ask me: “Schwartz, how did you get to be so cool?” And so I feel it’s my earned place and, indeed, moral responsibility to give you a few tips on how to be cool and handle your social life responsibly at Reed. Here’s how I’ve managed it:

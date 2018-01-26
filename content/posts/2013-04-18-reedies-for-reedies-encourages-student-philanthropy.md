@@ -1,13 +1,13 @@
 ---
 title: Reedies for Reedies Encourages Student Philanthropy
-authors: 
-  - "Sydney Scarlata"
+authors:
+- Sydney Scarlata
 type: post
-date: 2013-04-19T05:07:53+00:00
-url: /2013/04/18/reedies-for-reedies-encourages-student-philanthropy/
+date: 2013-04-19 05:07:53 +0000
+url: "/2013/04/18/reedies-for-reedies-encourages-student-philanthropy/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 With expectations of raising between $8,000 and $10,000 this year, scholarship fund Reedies for Reedies says that financial goals are not the committee’s priority, encouraging philanthropy at Reed College is.

@@ -1,13 +1,13 @@
 ---
 title: Kroger Discusses Portland, Curriculum, and Drugs
-authors: 
-  - "Anthony Leong"
+authors:
+- Anthony Leong
 type: post
-date: 2012-09-28T16:58:18+00:00
-url: /2012/09/28/kroger-discusses-portland-curriculum-and-drugs/
+date: 2012-09-28 16:58:18 +0000
+url: "/2012/09/28/kroger-discusses-portland-curriculum-and-drugs/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 John Kroger has demonstrated his ability to deliver a speech, but at the Kroger Forum Wednesday, Sept. 19 students got to know the president more personally in a session ahead of his inauguration. For an hour in the Vollum Lounge, Kroger opened himself up to any student questions.

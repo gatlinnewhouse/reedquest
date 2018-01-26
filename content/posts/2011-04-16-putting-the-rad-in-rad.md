@@ -1,14 +1,14 @@
 ---
 title: Putting the “Rad” in RAD
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-17T02:42:08+00:00
-url: /2011/04/16/putting-the-rad-in-rad/
+date: 2011-04-17 02:42:08 +0000
+url: "/2011/04/16/putting-the-rad-in-rad/"
 categories:
-  - News
+- News
 tags:
-  - RAD
+- RAD
 
 ---
 <img class="alignleft size-medium wp-image-745" title="loveREEDbwFINAL" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2011/04/loveREEDbwFINAL-231x300.jpg?resize=231%2C300" alt="" data-recalc-dims="1" />Every winter the Admission Office reads over 3,000 Why Reed essays, each one chronicling the reasons why students have chosen to apply. In case you were curious, it’s not our information sessions. It’s not the visits we make to their high schools, or the brochures that litter their mailboxes. It’s you, current students. It’s what you say on tours, or in class, or when you run into them after our office closes. When you help a prospie find his way, or invite one to sit with you at dinner, that does more to show him that Reed is a welcoming and tight-knit academic community than anything we could do.

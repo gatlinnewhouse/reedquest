@@ -1,12 +1,12 @@
 ---
 title: 'Rally to Restore Sanity: A Johnny Flores Editorial'
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2010-11-04T19:56:59+00:00
-url: /2010/11/04/rally-to-restore-sanity-a-johnny-flores-editorial/
+date: 2010-11-04 19:56:59 +0000
+url: "/2010/11/04/rally-to-restore-sanity-a-johnny-flores-editorial/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 [<img class="alignright size-full wp-image-442" style="margin: 7px;" title="rally" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2010/11/rally.jpg?resize=169%2C292" alt="" data-recalc-dims="1" />][1]Things I learned at Portland’s Satellite Rally:

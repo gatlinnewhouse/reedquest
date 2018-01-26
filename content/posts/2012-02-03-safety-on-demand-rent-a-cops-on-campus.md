@@ -1,13 +1,13 @@
 ---
 title: 'Safety on Demand: Rent-a-Cops on Campus'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-02-03T20:47:49+00:00
-url: /2012/02/03/safety-on-demand-rent-a-cops-on-campus/
+date: 2012-02-03 20:47:49 +0000
+url: "/2012/02/03/safety-on-demand-rent-a-cops-on-campus/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 This semester, nocturnal Reedies should expect to see some unfamiliar faces around campus. Reed hired Pacific Patrol Services (PPS), a private security company serving “the purpose of having a uniformed officer in a marked vehicle patrolling the campus and bordering streets from 8PM to 2AM every day,” said Gary Granger, Director of Community Safety.

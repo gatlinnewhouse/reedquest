@@ -1,12 +1,12 @@
 ---
 title: 'This Week’s General Assembly: What You Missed'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-22T02:07:50+00:00
-url: /2011/04/21/this-weeks-general-assembly-what-you-missed/
+date: 2011-04-22 02:07:50 +0000
+url: "/2011/04/21/this-weeks-general-assembly-what-you-missed/"
 categories:
-  - Features
+- Features
 
 ---
 Tuesday’s Reed College Student Body General Assembly was a chance for the Reed community to come together and address issues that they feel are pertinent to the community. While we, the organizers, accept that the assembly was by no means a perfect forum to deal with all the issues that the students brought up, we were happy with how the overall discussion went. We were honored and pleased by the large number of students who attended, the respect students showed each other, how passionate those who attended felt about the issues that were being discussed, and the overall quality of the discussion. We believe that moments like these are desperately needed to bring more dialogue into our community and provide for democratic moments of self-realization as members of the student body.

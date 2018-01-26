@@ -1,13 +1,13 @@
 ---
 title: Hippie Turns Half-Baked Idea into Americone Dream
-authors: 
-  - "Clara Rice"
+authors:
+- Clara Rice
 type: post
-date: 2013-02-15T03:17:58+00:00
-url: /2013/02/14/hippie-turns-half-baked-idea-into-americone-dream/
+date: 2013-02-15 03:17:58 +0000
+url: "/2013/02/14/hippie-turns-half-baked-idea-into-americone-dream/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2064" alt="Ben and Jerry's Gray Fund" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/02/Jerry-Students_web.jpg?resize=770%2C430" data-recalc-dims="1" />][1]Vollum Lecture Hall swarmed with Reedies Thursday night to hear Jerry Greenfield speak about the often forgotten, socially responsible aspect of business. Some came to enlighten their minds with Jerry’s wisdom, while others came with grumbling stomachs and hopes of free ice cream. This Gray Fund sponsored event granted their wishes, as an ice cream social with Jerry took place after the lecture.

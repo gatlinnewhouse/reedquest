@@ -1,15 +1,15 @@
 ---
 title: 'The Sound Attendance: Susanne Sundfør and Daddy'
-authors: 
-  - "Dorothy Howard"
+authors:
+- Dorothy Howard
 type: post
-date: 2012-09-27T19:42:42+00:00
-url: /2012/09/27/the-sound-attendance-susanne-sundfor-and-daddy/
+date: 2012-09-27 19:42:42 +0000
+url: "/2012/09/27/the-sound-attendance-susanne-sundfor-and-daddy/"
 categories:
-  - Features
-  - Front Page
-  - Left Sidebar
-  - The Sound Attendance
+- Features
+- Front Page
+- Left Sidebar
+- The Sound Attendance
 
 ---
 **NEW SINGLES**

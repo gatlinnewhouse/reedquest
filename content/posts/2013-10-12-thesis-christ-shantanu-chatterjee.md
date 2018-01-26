@@ -1,13 +1,13 @@
 ---
 title: 'Thesis Christ: Shantanu Chatterjee'
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-10-12T23:43:10+00:00
-url: /2013/10/12/thesis-christ-shantanu-chatterjee/
+date: 2013-10-12 23:43:10 +0000
+url: "/2013/10/12/thesis-christ-shantanu-chatterjee/"
 categories:
-  - Cool Thesis of the Week
-  - Left Sidebar
+- Cool Thesis of the Week
+- Left Sidebar
 
 ---
 When we talk about things that we must do, we are talking about actions that are prescribed. What is it that prescribes these actions? In philosophical literature, people refer to _norms_ and _normativity_ to explain why it is that people do what they do. It is a topic of debate in the field of legal normativity whether all laws are in fact normative – that is, whether all laws do or do not prescribe action. Some laws may appear to be commanding a certain behavior under any conditions, while others merely pre-emptively require an action in order to do what you want.

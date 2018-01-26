@@ -1,20 +1,20 @@
 ---
 title: Salt Shakers of Privilege And Waste
-authors: 
-  - "Rachel Fox"
+authors:
+- Rachel Fox
 type: post
-date: 2011-11-12T03:31:29+00:00
-url: /2011/11/11/salt-shakers-of-privilege-and-waste/
+date: 2011-11-12 03:31:29 +0000
+url: "/2011/11/11/salt-shakers-of-privilege-and-waste/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - Bon Appetit
-  - commons
-  - environment
-  - environmental impact
-  - rachel fox
-  - salt shakers
+- Bon Appetit
+- commons
+- environment
+- environmental impact
+- rachel fox
+- salt shakers
 
 ---
 Reed’s Commons uses disposable plastic saltshakers and peppershakers that are not recyclable and cannot be refilled. However, Bon Appétit uses reusable glass shakers at all of its other operations: Out of 25 educational institutions, 13 corporate clients, and 10 “specialty venues”, Reed’s Commons Café is the only Bon Appétit site that uses these disposables. “We’re not about this. We’re not about throwing away plastic,” says Debby Bridges, General Manager of Commons. The problem is simple: At Bon Appétit’s other cafés, people cannot bring food out of the dining area, so no one can walk off with the glass shakers. At Reed, students can eat wherever they want, and some already steal Commons’ dishes.

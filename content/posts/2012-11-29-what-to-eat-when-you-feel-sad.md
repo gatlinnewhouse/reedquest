@@ -1,13 +1,13 @@
 ---
 title: What to Eat When You Feel Sad
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-29T08:02:21+00:00
-url: /2012/11/29/what-to-eat-when-you-feel-sad/
+date: 2012-11-29 08:02:21 +0000
+url: "/2012/11/29/what-to-eat-when-you-feel-sad/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 There are nights at our fair school, dark, dark nights, when, listening to the sound of the rain on your roof and how it synchronizes with the drip-dripping of your tears onto your laptop keyboard, and meditating on the four hundred pages you have to read by tomorrow, you get hungry. And do you know what I do on those nights, Reed College? Well, I&#8217;ll tell you.

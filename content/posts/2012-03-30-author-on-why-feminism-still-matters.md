@@ -1,15 +1,15 @@
 ---
 title: Samhita Mukhopadhyay on “Why Feminism Still Matters”
-authors: 
-  - "Brent Bailey"
+authors:
+- Brent Bailey
 type: post
-date: 2012-03-30T22:13:04+00:00
-url: /2012/03/30/author-on-why-feminism-still-matters/
+date: 2012-03-30 22:13:04 +0000
+url: "/2012/03/30/author-on-why-feminism-still-matters/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - talk
+- talk
 
 ---
 At 6:00 p.m. on March 21st, Samhita Mukhopadhyay delivered a PowerPoint presentation and lecture entitled “Why Feminism Still Matters” in Vollum Lounge, sponsored by the Multicultural Resource Center. Mukhopadhyay is the Executive Editor of feministing.com, an “online community for feminists and their allies,” and the author of a 2011 book, “Outdated: Why Dating Is Ruining Your Love Life.”

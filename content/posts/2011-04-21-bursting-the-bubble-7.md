@@ -1,14 +1,14 @@
 ---
 title: Bursting the Bubble
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-04-22T02:15:27+00:00
-url: /2011/04/21/bursting-the-bubble-7/
+date: 2011-04-22 02:15:27 +0000
+url: "/2011/04/21/bursting-the-bubble-7/"
 categories:
-  - News
+- News
 tags:
-  - bursting the bubble
+- bursting the bubble
 
 ---
 Air traffic controllers across the nation are getting busted for sleeping on the job, but that’s not the only transgression those guys who are supposed to be keeping an eye on the sky have committed lately: just this Tuesday, an air traffic controller in Ohio was discovered watching a movie, Cleaner, while he was supposed to be on duty. How was he caught? Audio from the movie was transmitted for over three minutes via the controller’s microphone to all the planes in the airspace the controller was supposed to be monitoring. Somebody couldn’t wait to get home to get his Samuel L. Jackson fix.

@@ -1,12 +1,12 @@
 ---
 title: New and Forgotten Groups
-authors: 
-  - "Rob Shryock"
+authors:
+- Rob Shryock
 type: post
-date: 2011-09-28T22:42:51+00:00
-url: /2011/09/28/new-and-forgotten-groups/
+date: 2011-09-28 22:42:51 +0000
+url: "/2011/09/28/new-and-forgotten-groups/"
 categories:
-  - News
+- News
 
 ---
 Some student groups hang around so long they become synonymous with Reed: DOTU, CAVE, RSSK. Still other groups form and dismantle on a whim, zipping in and out of existence over the years. Here is a compilation of the new groups that Reedies have managed to dream up, as well as a couple of recently established or half-dead groups attempting to gain membership.

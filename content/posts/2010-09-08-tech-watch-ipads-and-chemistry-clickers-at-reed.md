@@ -1,16 +1,16 @@
 ---
 title: 'Tech Watch: iPads and Chemistry Clickers at Reed'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-09-08T04:19:09+00:00
-url: /2010/09/08/tech-watch-ipads-and-chemistry-clickers-at-reed/
+date: 2010-09-08 04:19:09 +0000
+url: "/2010/09/08/tech-watch-ipads-and-chemistry-clickers-at-reed/"
 categories:
-  - News
+- News
 tags:
-  - chemistry
-  - ipad
-  - technology
+- chemistry
+- ipad
+- technology
 
 ---
 Fall is always an exciting season – it’s a fresh new start. You know it’s not really fall unless something changes – new haircut, new lifestyle, new whatever. We look to fall to reinvent ourselves every year. Here at Reed, we’ve got lots of new stuff – new students, new office locations, new staff and administration, and – awesome! – brand spankin’ new technology. And it comes in two forms: the (now infamous) “Chem Clicker” and a new iPad trial program run by the Computer Store.

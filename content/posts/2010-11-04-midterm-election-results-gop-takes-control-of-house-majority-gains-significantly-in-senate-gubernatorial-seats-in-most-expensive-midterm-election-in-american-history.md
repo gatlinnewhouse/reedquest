@@ -1,18 +1,19 @@
 ---
-title: 'Midterm Election Results: GOP Takes Control of House Majority, Gains Significantly in Senate, Gubernatorial Seats in Most Expensive Midterm Election in American History'
-authors: 
-  - Staff
+title: 'Midterm Election Results: GOP Takes Control of House Majority, Gains Significantly
+  in Senate, Gubernatorial Seats in Most Expensive Midterm Election in American History'
+authors:
+- Staff
 type: post
-date: 2010-11-04T20:03:57+00:00
+date: 2010-11-04 20:03:57 +0000
 excerpt: |
   |
     <p>Today marks the day that Democrats will be wave goodbye to House Speaker  Nancy Pelosi and give themselves a Homeric facepalm as they welcome the  Republican control of the House</p>
-url: /2010/11/04/midterm-election-results-gop-takes-control-of-house-majority-gains-significantly-in-senate-gubernatorial-seats-in-most-expensive-midterm-election-in-american-history/
+url: "/2010/11/04/midterm-election-results-gop-takes-control-of-house-majority-gains-significantly-in-senate-gubernatorial-seats-in-most-expensive-midterm-election-in-american-history/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - elections
-  - politics
+- elections
+- politics
 
 ---
 **Zoe Kipping**

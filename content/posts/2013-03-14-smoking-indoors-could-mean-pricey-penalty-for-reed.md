@@ -1,13 +1,13 @@
 ---
 title: Smoking Indoors Could Mean Pricey Penalty for Reed
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2013-03-14T09:20:16+00:00
-url: /2013/03/14/smoking-indoors-could-mean-pricey-penalty-for-reed/
+date: 2013-03-14 09:20:16 +0000
+url: "/2013/03/14/smoking-indoors-could-mean-pricey-penalty-for-reed/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2148" alt="Pool hall sign" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2013/03/IMG_1560_slider.jpg?resize=770%2C430" data-recalc-dims="1" />][1]

@@ -1,12 +1,12 @@
 ---
 title: Ex-Nun Waxes Poetic
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2011-10-23T20:48:33+00:00
-url: /2011/10/23/ex-nun-waxes-poetic/
+date: 2011-10-23 20:48:33 +0000
+url: "/2011/10/23/ex-nun-waxes-poetic/"
 categories:
-  - News
+- News
 
 ---
 The audience beneath the soft chapel lighting quieted down when Crystal Williams stood up to introduce poet Madeline DeFrees to Reed last Thursday. Williams, Dean for Institutional Diversity and Professor of Creative Writing, thanked the present students, faculty and visitors for coming to the event and then listed Defrees&#8217; many accomplishments. The 92-year-old, Oregon-native DeFrees came as part of the Visiting Writers Series that is sponsored by the Department of English.

@@ -1,17 +1,17 @@
 ---
 title: 'Senate Beat: Back with a Vengence'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-30T18:00:21+00:00
+date: 2010-09-30 18:00:21 +0000
 excerpt: |
   |
     <p>Let us preface this by saying that by the time you, dear Quest reader,  read these accounts of Senate meeting they will actually be two senate  meetings old. The time between the Quest deadline,</p>
-url: /2010/09/30/senate-beat-back-with-a-vengence/
+url: "/2010/09/30/senate-beat-back-with-a-vengence/"
 categories:
-  - Senate
+- Senate
 tags:
-  - senate
+- senate
 
 ---
 **Meg Millhouse and Alexa Ross**

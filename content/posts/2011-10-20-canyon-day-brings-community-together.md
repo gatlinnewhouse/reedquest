@@ -1,13 +1,13 @@
 ---
 title: Canyon Day Brings Community Together
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2011-10-20T23:23:32+00:00
-url: /2011/10/20/canyon-day-brings-community-together/
+date: 2011-10-20 23:23:32 +0000
+url: "/2011/10/20/canyon-day-brings-community-together/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 On Saturday, dozens of members of the Reed community equipped with machetes, pruners, and shovels assaulted an impenetrable swathe of invasive blackberries on the East side of the Canyon. From nine to six, volunteers resurfaced trails, planted native plants, and grappled with blackberry canes, among other nonnatives like clematis and English ivy, sometimes more than a dozen feet long. “This is the most pain I’ve experienced at an event I’ve enjoyed in a while,” said one student. The sun shone on an increasingly massive mound of organic matter tens of feet long and over six feet high. A bike-powered cider press; live banjo, guitar, and saxophone; and food provided by Ladies Pie Society, Cookies for All, and CAVE sustained weeders throughout the day.

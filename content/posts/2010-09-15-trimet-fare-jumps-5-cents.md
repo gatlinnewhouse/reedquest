@@ -1,14 +1,14 @@
 ---
 title: TriMet Fare Jumps 5 Cents
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-15T04:43:17+00:00
-url: /2010/09/15/trimet-fare-jumps-5-cents/
+date: 2010-09-15 04:43:17 +0000
+url: "/2010/09/15/trimet-fare-jumps-5-cents/"
 categories:
-  - News
+- News
 tags:
-  - trimet
+- trimet
 
 ---
 Students, start saving your nickels. On Sept. 1, fares on TriMet Adult, Honored Citizen, and LIFT tickets increased 5 cents, according to a press release from TriMet.

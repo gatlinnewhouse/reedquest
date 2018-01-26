@@ -1,19 +1,19 @@
 ---
 title: Celibacy and the City
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-01T00:01:37+00:00
+date: 2010-09-01 00:01:37 +0000
 excerpt: |
   |
     <p>After eighteen years of celibacy, I got comfortable. It became easy to just drink a bottle of wine, come home, and just masturbate myself to sleep. Weekend after weekend, I would put the effort into looking good and trying to snag myself a boy. It never worked. So I gave up.</p>
-url: /2010/09/01/celibacy-and-the-city/
+url: "/2010/09/01/celibacy-and-the-city/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - advice
-  - letters
-  - sex
+- advice
+- letters
+- sex
 
 ---
 _&#8230; except for that one foursome_

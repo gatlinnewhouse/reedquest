@@ -1,14 +1,15 @@
 ---
-title: 'The future of academics right at your fingertips: Reed faculty test-drive Apple iPads'
-authors: 
-  - "Jacob Canter"
+title: 'The future of academics right at your fingertips: Reed faculty test-drive
+  Apple iPads'
+authors:
+- Jacob Canter
 type: post
-date: 2010-12-02T19:03:08+00:00
-url: /2010/12/02/the-future-of-academics-right-at-your-fingertips-reed-faculty-test-drive-apple-ipads/
+date: 2010-12-02 19:03:08 +0000
+url: "/2010/12/02/the-future-of-academics-right-at-your-fingertips-reed-faculty-test-drive-apple-ipads/"
 categories:
-  - Features
+- Features
 tags:
-  - ipad
+- ipad
 
 ---
 The role of technology at Reed – as it is at any institution steeped in tradition and expectation – is often approached tenuously. This year, a number of Reed faculty and students are doing a significant portion of their academic work on the Apple iPad – the new tablet product from Apple that the company lauds can “do things no tablet PC, netbook, or e-reader can”. Though the iPad is not necessarily the product to change everything, the initial reactions to its academic use have been incredibly positive, and may indicate a trend towards greater use with technology in Reed’s future.

@@ -1,12 +1,12 @@
 ---
 title: Paradox Plagued by Theft
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2015-11-07T07:29:51+00:00
-url: /2015/11/07/paradox-plagued-by-theft/
+date: 2015-11-07 07:29:51 +0000
+url: "/2015/11/07/paradox-plagued-by-theft/"
 categories:
-  - News
+- News
 
 ---
 An unidentified person or persons stole from the Paradox’s Olde Shop on Monday night, leaving employees with an empty cash register the next morning. This theft comes on the heels of several other thefts at the Paradox this year, a problem that has been unheard of in years past. The cash register was looted several times during the fall, the perpetrator(s) making off with between fifty and seventy dollars each time. This semester, thieves have emptied the entire register between three and five times, with losses averaging about 180 dollars each time.

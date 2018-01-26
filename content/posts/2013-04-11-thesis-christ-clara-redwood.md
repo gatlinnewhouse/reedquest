@@ -1,13 +1,13 @@
 ---
 title: 'Thesis Christ: Clara Redwood'
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-04-11T22:52:33+00:00
-url: /2013/04/11/thesis-christ-clara-redwood/
+date: 2013-04-11 22:52:33 +0000
+url: "/2013/04/11/thesis-christ-clara-redwood/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <p style="text-align: center;">

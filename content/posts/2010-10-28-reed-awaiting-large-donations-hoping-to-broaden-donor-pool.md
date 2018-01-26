@@ -1,17 +1,17 @@
 ---
 title: Reed Awaiting Large Donations, Hoping to Broaden Donor Pool
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-28T18:19:57+00:00
+date: 2010-10-28 18:19:57 +0000
 excerpt: |
   |
     <p>President Colin Diver is unable to predict whether Reed’s fundraising  effort this year will prove successful. The money, however, already has a  purpose: Reed needs the funds to finance yearly expenditures.</p>
-url: /2010/10/28/reed-awaiting-large-donations-hoping-to-broaden-donor-pool/
+url: "/2010/10/28/reed-awaiting-large-donations-hoping-to-broaden-donor-pool/"
 categories:
-  - News
+- News
 tags:
-  - fundraising
+- fundraising
 
 ---
 **Keegan Burns**

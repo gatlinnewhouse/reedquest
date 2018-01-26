@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: AnnaLise Bender-Brown'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-10-31T19:00:19+00:00
-url: /2012/10/31/cool-thesis-of-the-week-annalise-bender-brown/
+date: 2012-10-31 19:00:19 +0000
+url: "/2012/10/31/cool-thesis-of-the-week-annalise-bender-brown/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/cool-thesis-of-the-week-annalise-bender-brown/coolthesis_web/" rel="attachment wp-att-1772"><img class="alignnone size-full wp-image-1772" title="AnnaLise Bender-Brown" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/11/coolthesis_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

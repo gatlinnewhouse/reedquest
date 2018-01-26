@@ -1,13 +1,13 @@
 ---
 title: Big Black Butterflies
-authors: 
-  - "Sax M. Cassenter"
+authors:
+- Sax M. Cassenter
 type: post
-date: 2012-02-18T05:01:58+00:00
-url: /2012/02/17/big-black-butterflies/
+date: 2012-02-18 05:01:58 +0000
+url: "/2012/02/17/big-black-butterflies/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 How many ways can you combine three and seven? A musician should not have interpretations that might taint the score s/he is performing. Can the composer express &#8216;red&#8217; to the listener? Did Schoenberg write this piece out of intimidation and a need to set himself aside as _the_ composer of his time? This is a sample of the thoughts espoused in a Chapel conversation with Music professor David Schiff and Cellist Fred Sherry that served as preparation for Friday&#8217;s Reediana Omnibus Musica Philosipha performance of &#8220;Pierrot Lunaire.&#8221;

@@ -1,12 +1,12 @@
 ---
 title: Bursting the Bubble
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-03-10T20:29:39+00:00
-url: /2011/03/10/bursting-the-bubble-4/
+date: 2011-03-10 20:29:39 +0000
+url: "/2011/03/10/bursting-the-bubble-4/"
 categories:
-  - News
+- News
 
 ---
 In case you missed it, Charlie Sheen went totally and completely batshit crazy. He’s in denial: said Sheen, “I’m not bi-polar, I’m bi-winning!” I’ll leave that to you to decipher, because I have absolutely no idea what that means at all. Guess I’m not a winner. (If you haven’t seen it yet, YouTube the “Charlie Sheen Bi-Winning Dubstep” video.)

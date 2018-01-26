@@ -1,18 +1,18 @@
 ---
 title: 'Senate Beat: Special Snarky Edition'
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2011-12-09T06:14:33+00:00
-url: /2011/12/08/senate-beat-special-snarky-edition/
+date: 2011-12-09 06:14:33 +0000
+url: "/2011/12/08/senate-beat-special-snarky-edition/"
 categories:
-  - News
-  - Senate
-  - Senate Beat
+- News
+- Senate
+- Senate Beat
 tags:
-  - alex walker
-  - senate
-  - senate beat
+- alex walker
+- senate
+- senate beat
 
 ---
 Senate kicked off its last meeting of the semester with a speech from Student Body President Nora McConnell-Johnson ‘12 defending the accomplishments of this semester’s Senate and lambasting yours truly.  Calling this semester’s Senate “dramatically different” from previous senates, she noted that there had been no major drama and no alcohol at meetings.  She listed the accomplishments of this semester’s Senate, including the many appointments made to different committees, the money allocated to student groups, the creation of the Sexual Misconduct Board, and the proposal to use the Theatre building for student space.  Finally, she triumphantly noted that Senate managed to accomplish all this “despite being subjected to weekly snarkiness and negativity from the Senate Beat!” How impressive! Few public figures are subject to sarcasm in the press.  I’m surprised they got anything done at all.

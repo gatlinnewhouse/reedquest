@@ -1,12 +1,12 @@
 ---
 title: Even After 100 Years, Reed Sports Are Still Insignificant
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2011-10-20T03:39:57+00:00
-url: /2011/10/19/even-after-100-years-reed-sports-are-still-insignificant/
+date: 2011-10-20 03:39:57 +0000
+url: "/2011/10/19/even-after-100-years-reed-sports-are-still-insignificant/"
 categories:
-  - News
+- News
 
 ---
 Two minutes after the official start time of their game, Reed FC ran onto the soccer field. Then they ran back to the bleachers. They followed that up with some stretching.

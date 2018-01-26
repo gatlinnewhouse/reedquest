@@ -1,14 +1,14 @@
 ---
 title: Trustees Approve Plans for New Performing Art Bldg.
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-02-11T21:04:44+00:00
-url: /2011/02/11/trustees-approve-plans-for-new-performing-art-bldg/
+date: 2011-02-11 21:04:44 +0000
+url: "/2011/02/11/trustees-approve-plans-for-new-performing-art-bldg/"
 categories:
-  - News
+- News
 tags:
-  - arts
+- arts
 
 ---
 Upon hearing the announcement that the performing arts building was a go, President Colin Diver was so elated that “he was practically levitating,” said a member present at the meeting. 

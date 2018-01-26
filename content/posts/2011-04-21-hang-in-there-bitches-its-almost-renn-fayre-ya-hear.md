@@ -1,12 +1,12 @@
 ---
 title: Hang in There, Bitches. It’s Almost Renn Fayre, Ya’ Hear?
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-22T02:06:04+00:00
-url: /2011/04/21/hang-in-there-bitches-its-almost-renn-fayre-ya-hear/
+date: 2011-04-22 02:06:04 +0000
+url: "/2011/04/21/hang-in-there-bitches-its-almost-renn-fayre-ya-hear/"
 categories:
-  - From the Editors
+- From the Editors
 
 ---
 As soon as the sun decided to take a peek down on Portland from its cozy spot above those thick grey clouds perpetually pregnant with rain I, your sunshine-deprived Queditor, picked up the children I was babysitting from their spot on the sofa where they had been watching television – in a comatose trance – and dropped them in the backyard, locking the door behind us. My charges, surprised at this sudden change of scenery, were first left blinking in shock at the bright light shining down from above as though it were some alien force that left them awestruck. Upon realizing where they really were, they began to cry and beat on the locked door.

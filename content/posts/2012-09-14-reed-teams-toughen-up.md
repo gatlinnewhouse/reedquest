@@ -1,13 +1,13 @@
 ---
 title: Reed Teams Toughen Up
-authors: 
-  - "Elisa Cibils"
+authors:
+- Elisa Cibils
 type: post
-date: 2012-09-14T17:01:35+00:00
-url: /2012/09/14/reed-teams-toughen-up/
+date: 2012-09-14 17:01:35 +0000
+url: "/2012/09/14/reed-teams-toughen-up/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/09/reed-teams-toughen-up/rugby-website1/" rel="attachment wp-att-1592"><img class="size-full wp-image-1592 alignleft" title="Reed Women's Rugby" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/09/Rugby-Website1.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

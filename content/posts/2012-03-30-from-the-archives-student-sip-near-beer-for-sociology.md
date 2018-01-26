@@ -1,13 +1,13 @@
 ---
 title: 'From the Archives: Student Sip Near-Beer for Sociology'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-03-30T22:08:04+00:00
-url: /2012/03/30/from-the-archives-student-sip-near-beer-for-sociology/
+date: 2012-03-30 22:08:04 +0000
+url: "/2012/03/30/from-the-archives-student-sip-near-beer-for-sociology/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 _[Editor’s note: This story ran originally in The Quest on March 3, 1916 and was reprinted on September 25, 1961.]_

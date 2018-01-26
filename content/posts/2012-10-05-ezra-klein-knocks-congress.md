@@ -1,13 +1,13 @@
 ---
 title: Ezra Klein Knocks Congress
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2012-10-05T16:58:21+00:00
-url: /2012/10/05/ezra-klein-knocks-congress/
+date: 2012-10-05 16:58:21 +0000
+url: "/2012/10/05/ezra-klein-knocks-congress/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/?attachment_id=1686" rel="attachment wp-att-1686"><img class="alignnone size-full wp-image-1686" title="Ezra Klein" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/10/ezra_slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

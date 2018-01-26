@@ -1,13 +1,13 @@
 ---
 title: 'Senate Beat: Nitrogen Day, Academic Advisers, and Sexual Harassment Policy'
-authors: 
-  - "Jacob Canter"
+authors:
+- Jacob Canter
 type: post
-date: 2012-03-23T04:59:03+00:00
-url: /2012/03/22/senate-beat-nitrogen-day-academic-advisers-and-sexual-harassment-policy/
+date: 2012-03-23 04:59:03 +0000
+url: "/2012/03/22/senate-beat-nitrogen-day-academic-advisers-and-sexual-harassment-policy/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 Senate addressed Nitrogen Day funding, plans to evaluate academic advisers, and the revised Discriminatory Harassment Policy in its meeting this week. The meeting began with Chris Cogell, Signator of the blues-dancing club, checking in with Senate to make sure off-campus guests could come to an event being held this weekend in the sports center. Senate saw no problems with Chris’ request.

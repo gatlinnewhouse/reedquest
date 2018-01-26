@@ -1,12 +1,12 @@
 ---
 title: 'Elections Assembly: How to Vote and Get Informed'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-15T00:16:13+00:00
-url: /2011/04/14/elections-assembly-how-to-vote-and-get-informed/
+date: 2011-04-15 00:16:13 +0000
+url: "/2011/04/14/elections-assembly-how-to-vote-and-get-informed/"
 categories:
-  - News
+- News
 
 ---
 Hello, and welcome to the Spring 2011 Student Body Elections! Inside this issue of the Quest you will find all the relevant information to help you make an informed decision and submit your vote in the next few days. The following two pages contain brief profiles of everyone currently running for Senate or Quest Board, as well as three vanity positions. You are encouraged to come to Elections Assembly tonight (Thursday) at 8pm, in the SU, to see the candidates’ speeches and to ask them questions about their plans or policies. Each profile contains some space for taking notes during the speeches and Q&A during elections assembly, so that you can remember later which candidate was which. Note that while we report how many senate meetings each candidate attended this semester, this should be taken as a conservative estimate, since it is entirely possible to physically attend a senate meaning yet fail to sign the attendance roster.

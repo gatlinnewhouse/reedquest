@@ -1,14 +1,20 @@
 ---
 title: 'Senate Beat: RD Patrols, Graffiti, and Sustainability'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-10-25T20:37:31+00:00
-excerpt: "A new program in which residence directors walk through dorms caused a stir at last week's Senate meeting. The program, which has had Resident Directors patrolling dorms between the hours of 10 PM and 2 AM on Friday and Saturday nights for the past couple weeks, is intended to help promote integration of RDs into the community. But it also allows RDs to write up students who are using illegal drugs or alcohol and pass the information on to Community Safety—essentially giving them to power to issue AOD violations."
-url: /2012/10/25/senate-beat-rd-patrols-graffiti-and-sustainability/
+date: 2012-10-25 20:37:31 +0000
+excerpt: A new program in which residence directors walk through dorms caused a stir
+  at last week's Senate meeting. The program, which has had Resident Directors patrolling
+  dorms between the hours of 10 PM and 2 AM on Friday and Saturday nights for the
+  past couple weeks, is intended to help promote integration of RDs into the community.
+  But it also allows RDs to write up students who are using illegal drugs or alcohol
+  and pass the information on to Community Safety—essentially giving them to power
+  to issue AOD violations.
+url: "/2012/10/25/senate-beat-rd-patrols-graffiti-and-sustainability/"
 categories:
-  - Front Page
-  - Senate Beat
+- Front Page
+- Senate Beat
 
 ---
 _**Rennie Meyers contributed reporting**_

@@ -1,18 +1,18 @@
 ---
 title: 'Learning on Two Ships in the Night: A Sinking Feeling'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-02-26T01:20:19+00:00
+date: 2011-02-26 01:20:19 +0000
 excerpt: |
   |
     <p>Every fall, Reed’s political science department awards a fellowship to participate in the Student Conference on United States Affairs (SCUSA) at the US Military Academy at West Point.  This past fall marked the sixty-second year of SCUSA.</p>
-url: /2011/02/25/learning-on-two-ships-in-the-night-a-sinking-feeling/
+url: "/2011/02/25/learning-on-two-ships-in-the-night-a-sinking-feeling/"
 categories:
-  - Features
+- Features
 tags:
-  - politics
-  - SCUSA
+- politics
+- SCUSA
 
 ---
 _Will Munger Summarizes the Annual SCUSA Conference_

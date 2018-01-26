@@ -1,13 +1,13 @@
 ---
 title: Time Travel Expert Wins Vollum Award
-authors: 
-  - "Phil Jahelka"
+authors:
+- Phil Jahelka
 type: post
-date: 2013-09-08T20:35:27+00:00
-url: /2013/09/08/time-travel-expert-wins-vollum-award/
+date: 2013-09-08 20:35:27 +0000
+url: "/2013/09/08/time-travel-expert-wins-vollum-award/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 This year’s Vollum Award winner, Kip Thorne, delivered a lecture on black holes, gravitational waves, wormholes, and other weird stuff. At the end of the talk, he introduced the black hole firewall paradox. My goal is to describe the paradox and why it matters.

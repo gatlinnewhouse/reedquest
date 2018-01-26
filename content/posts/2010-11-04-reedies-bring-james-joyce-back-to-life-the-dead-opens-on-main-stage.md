@@ -1,18 +1,18 @@
 ---
 title: 'Reedies Bring James Joyce Back to Life: THE DEAD Opens on Main Stage'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2010-11-04T20:21:01+00:00
-url: /2010/11/04/reedies-bring-james-joyce-back-to-life-the-dead-opens-on-main-stage/
+date: 2010-11-04 20:21:01 +0000
+url: "/2010/11/04/reedies-bring-james-joyce-back-to-life-the-dead-opens-on-main-stage/"
 categories:
-  - Events
-  - Features
+- Events
+- Features
 tags:
-  - arts
-  - james joyce
-  - performance
-  - theater
+- arts
+- james joyce
+- performance
+- theater
 
 ---
 Musicals are rare here at Reed, and musical theses are rarer still. That’s why Stephen Bennett’s thesis play, The Dead, is a must-see this semester. Based on the short story “The Dead” from James Joyce’s epic work Dubliners, The Dead tells a tale of personal enlightenment and offers deep and compelling insight into the human condition. Taking place at a Twelfth Night party set in 1904, Gabriel Conroy, nephew of the hostesses, must come to terms with the previously untold secrets and memories of his wife’s past that resurface during the holiday feast. His wife’s awakening leads to series of personal discoveries for Conroy himself, culminating in explorations of his connections to his wife, himself, and the past.

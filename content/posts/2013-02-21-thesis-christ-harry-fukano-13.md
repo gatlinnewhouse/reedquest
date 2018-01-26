@@ -1,13 +1,13 @@
 ---
 title: 'Thesis Christ: Harry Fukano ‘13'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-02-21T10:09:36+00:00
-url: /2013/02/21/thesis-christ-harry-fukano-13/
+date: 2013-02-21 10:09:36 +0000
+url: "/2013/02/21/thesis-christ-harry-fukano-13/"
 categories:
-  - Cool Thesis of the Week
-  - Front Page
+- Cool Thesis of the Week
+- Front Page
 
 ---
 In the 1840s, Ireland experienced a potato famine that wiped out one-eighth of its population and displaced another fifth. According to one thesising senior, the heavy impact of Irish displacement, combined with Irish nationalism, had an unexpected effect on the American Civil War.

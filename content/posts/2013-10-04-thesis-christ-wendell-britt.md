@@ -1,13 +1,13 @@
 ---
 title: 'Thesis Christ: Wendell Britt'
-authors: 
-  - "Brendan Sorrell"
+authors:
+- Brendan Sorrell
 type: post
-date: 2013-10-05T00:52:33+00:00
-url: /2013/10/04/thesis-christ-wendell-britt/
+date: 2013-10-05 00:52:33 +0000
+url: "/2013/10/04/thesis-christ-wendell-britt/"
 categories:
-  - Cool Thesis of the Week
-  - Front Page
+- Cool Thesis of the Week
+- Front Page
 
 ---
 Following the Chinese cultural revolution of the 1980s, an avant-garde literature movement emerged. Linked with postmodernism, it was “a literary Renaissance in which writers were experimenting because they could for the first time,” says Chinese Literature major Wendell Britt.[<img class="alignright size-medium wp-image-2776" alt="wendell" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/10/wendell-229x300.jpg?resize=229%2C300" data-recalc-dims="1" />][1]

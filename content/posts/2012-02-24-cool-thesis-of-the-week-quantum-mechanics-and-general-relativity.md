@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Quantum Mechanics and General Relativity'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-02-24T22:37:30+00:00
-url: /2012/02/24/cool-thesis-of-the-week-quantum-mechanics-and-general-relativity/
+date: 2012-02-24 22:37:30 +0000
+url: "/2012/02/24/cool-thesis-of-the-week-quantum-mechanics-and-general-relativity/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/02/cool-thesis-of-the-week-quantum-mechanics-and-general-relativity/thesisweb/" rel="attachment wp-att-1344"><img class="aligncenter size-full wp-image-1344" title="Gabriel Barello" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/02/Thesisweb.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

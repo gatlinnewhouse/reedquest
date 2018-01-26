@@ -1,13 +1,13 @@
 ---
 title: Mongol Invasion Victory in the SU
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:09:10+00:00
-url: /2012/11/15/mongol-invasion-victory-in-the-su/
+date: 2012-11-15 20:09:10 +0000
+url: "/2012/11/15/mongol-invasion-victory-in-the-su/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 “INVASION” read the signs hung all about campus the week before Friday, November 9. At 7 PM that evening, about a hundred students gathered in the SU to celebrate Mongol customs, courtesy of a combined effort from the Chinese and Russian houses.

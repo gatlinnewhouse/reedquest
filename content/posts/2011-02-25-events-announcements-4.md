@@ -1,12 +1,12 @@
 ---
-title: 'Events & Announcements'
-authors: 
-  - Staff
+title: Events & Announcements
+authors:
+- Staff
 type: post
-date: 2011-02-26T01:30:26+00:00
-url: /2011/02/25/events-announcements-4/
+date: 2011-02-26 01:30:26 +0000
+url: "/2011/02/25/events-announcements-4/"
 categories:
-  - Events
+- Events
 
 ---
 **Appointments**

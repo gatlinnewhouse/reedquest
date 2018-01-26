@@ -1,14 +1,15 @@
 ---
 title: Meet Your Candidates
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-12-02T18:46:32+00:00
-excerpt: "Get ready to vote. Read the profiles of this semester's candidates for President, Vice President, Senate, and Quest Board."
-url: /2012/12/02/meet-your-candidates/
+date: 2012-12-02 18:46:32 +0000
+excerpt: Get ready to vote. Read the profiles of this semester's candidates for President,
+  Vice President, Senate, and Quest Board.
+url: "/2012/12/02/meet-your-candidates/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 **_Note that the Student Body will also be voting on [amendments to the Student Body Constitution][1] in this election._**

@@ -1,13 +1,13 @@
 ---
 title: The Baroque Recorder
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2013-02-15T03:10:07+00:00
-url: /2013/02/14/the-baroque-recorder/
+date: 2013-02-15 03:10:07 +0000
+url: "/2013/02/14/the-baroque-recorder/"
 categories:
-  - Features
-  - Left Sidebar
+- Features
+- Left Sidebar
 
 ---
 The recorder, the plastic instrument used to entice unsuspecting children into the magical world of instrumental music, was the centerpiece of the baroque concert, _Baroque Journeys: Michala Petri and Friends._ ROMP, or Reediana Omnibus Musica Philosopha, hosted the concert, which took place in Kaul Auditorium on Friday, Feb. 8 at 7:30 p.m.

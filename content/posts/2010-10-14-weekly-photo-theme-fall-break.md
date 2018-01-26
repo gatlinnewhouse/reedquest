@@ -1,15 +1,15 @@
 ---
 title: 'Weekly Photo Theme: Fall Break'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:19:51+00:00
-url: /2010/10/14/weekly-photo-theme-fall-break/
+date: 2010-10-14 18:19:51 +0000
+url: "/2010/10/14/weekly-photo-theme-fall-break/"
 categories:
-  - Uncategorized
+- Uncategorized
 tags:
-  - photo theme of the week
-  - photography
+- photo theme of the week
+- photography
 
 ---
 Love photography but feeling uninspired? Think you took a shot that other people might enjoy? Whether you have a passion for photography or just want to share a snap shot with the rest of the Reed community, this is your chance. The Reed Photography Theme of the Week is a space that aims to provide ideas that hopefully will inspire Reedies who are otherwise preoccupied with overwhelming obligations to take a break by observing the world and imprinting it in photograph form. A theme will be announced weekly, and select submissions will be shown in the printed version of the Quest; all submissions will also be available as a slideshow in the online version of the Quest.

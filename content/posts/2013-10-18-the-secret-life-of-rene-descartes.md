@@ -1,13 +1,13 @@
 ---
 title: The Secret Life of Rene Descartes
-authors: 
-  - "Jaelin Cola"
+authors:
+- Jaelin Cola
 type: post
-date: 2013-10-18T19:43:14+00:00
-url: /2013/10/18/the-secret-life-of-rene-descartes/
+date: 2013-10-18 19:43:14 +0000
+url: "/2013/10/18/the-secret-life-of-rene-descartes/"
 categories:
-  - Events
-  - Top Stories
+- Events
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-3058" alt="IMG_8771" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/10/IMG_87711.jpg?resize=770%2C430" data-recalc-dims="1" />][1]René Descartes is best known for coining the philosophical phrase cogito ergo sum: I think, therefore I am. Although this is what he is known for, this is obviously not his only significant thought, Descartes dedicated a majority of his life to his motto “he who lives hidden lives well.” Harold J. Cook, a History professor at Brown University, in a lecture on Monday night, tried to blow open the Secret Life of René Descartes.

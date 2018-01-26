@@ -1,12 +1,12 @@
 ---
 title: Centennial Planning Underway as Reed Turns 100
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-30T18:21:48+00:00
-url: /2010/09/30/centennial-planning-underway-as-reed-turns-100/
+date: 2010-09-30 18:21:48 +0000
+url: "/2010/09/30/centennial-planning-underway-as-reed-turns-100/"
 categories:
-  - News
+- News
 
 ---
 Reed turns one hundred in fall of 2011, and it’s going to party all year long. The celebration officially starts at Reunions 2011 in June, and runs until Reunions 2012; in between Reed will throw two huge parties, publish three books, and complete a $200 million fund-raising campaign.

@@ -1,13 +1,13 @@
 ---
 title: 'Editorial: An End to Senate Beat, But a New Beginning'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-11-08T08:06:23+00:00
-url: /2012/11/08/editorial-an-end-to-senate-beat-but-a-new-beginning/
+date: 2012-11-08 08:06:23 +0000
+url: "/2012/11/08/editorial-an-end-to-senate-beat-but-a-new-beginning/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 The way _The_ _Quest_ covers the Reed Student Body Senate is changing. Don&#8217;t worry, we&#8217;ll still be covering everything newsworthy that happens at Senate. But we won&#8217;t be doing weekly _Senate Beat_ articles. Instead, we&#8217;ll run individual news stories on each particular thing that Senate does.

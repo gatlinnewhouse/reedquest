@@ -1,12 +1,12 @@
 ---
-title: 'On Campus Events & Announcements'
-authors: 
-  - Staff
+title: On Campus Events & Announcements
+authors:
+- Staff
 type: post
-date: 2010-11-18T18:50:41+00:00
-url: /2010/11/18/on-campus-events-announcements-2/
+date: 2010-11-18 18:50:41 +0000
+url: "/2010/11/18/on-campus-events-announcements-2/"
 categories:
-  - Events
+- Events
 
 ---
 **Billy Collins

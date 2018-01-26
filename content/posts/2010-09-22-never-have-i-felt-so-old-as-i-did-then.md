@@ -1,12 +1,12 @@
 ---
 title: Never Have I Felt So Old as I Did Then
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-22T18:17:48+00:00
-url: /2010/09/22/never-have-i-felt-so-old-as-i-did-then/
+date: 2010-09-22 18:17:48 +0000
+url: "/2010/09/22/never-have-i-felt-so-old-as-i-did-then/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 They swarmed like flies around the half-consumed corpse of a cow, downing cheap beer and making eyes ineffectively at one another in hope of emotionless trysts. I’ve spent a number of gorgeous, ridiculous nights at comparable events, but on Saturday there was no there there. All we had to show were disconnected, ineffectual smiles and failed conversations.

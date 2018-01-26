@@ -1,12 +1,12 @@
 ---
 title: Events and Announcements
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-22T19:30:28+00:00
-url: /2010/09/22/events-and-announcements/
+date: 2010-09-22 19:30:28 +0000
+url: "/2010/09/22/events-and-announcements/"
 categories:
-  - Events
+- Events
 
 ---
 **Your Beloved Pamphlette Presents a Night of Comedy!**

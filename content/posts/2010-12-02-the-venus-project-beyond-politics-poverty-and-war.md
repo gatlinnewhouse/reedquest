@@ -1,12 +1,12 @@
 ---
 title: 'The Venus Project: Beyond Politics, Poverty, and War'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-02T19:04:44+00:00
-url: /2010/12/02/the-venus-project-beyond-politics-poverty-and-war/
+date: 2010-12-02 19:04:44 +0000
+url: "/2010/12/02/the-venus-project-beyond-politics-poverty-and-war/"
 categories:
-  - Features
+- Features
 
 ---
 **Erica Boulay**

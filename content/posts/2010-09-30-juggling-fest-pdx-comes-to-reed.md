@@ -1,14 +1,14 @@
 ---
 title: Juggling Fest PDX Comes to Reed
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-30T18:08:38+00:00
-url: /2010/09/30/juggling-fest-pdx-comes-to-reed/
+date: 2010-09-30 18:08:38 +0000
+url: "/2010/09/30/juggling-fest-pdx-comes-to-reed/"
 categories:
-  - News
+- News
 tags:
-  - juggling
+- juggling
 
 ---
 [<img class="alignleft size-full wp-image-340" style="margin: 7px;" title="juggling" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2010/09/juggling.jpg?resize=216%2C162" alt="" data-recalc-dims="1" />][1]A girl dressed in bright neon clothing balances on a unicycle. “This is easy,” she says. Unphased by the crowed of people watching her, she thrusts three plastic knives into the air, gracefully catching each of them. Upon witnessing her own success—and the roaring applause—she sighs in relief. “Actually, I’ve been practicing that for weeks.”

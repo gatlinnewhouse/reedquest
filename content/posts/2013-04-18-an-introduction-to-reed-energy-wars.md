@@ -1,14 +1,17 @@
 ---
 title: An Introduction to Reed Energy Wars
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-04-19T04:43:45+00:00
-excerpt: During the 2011-2012 school year, Reed spent $1,389,150 on energy alone, that’s $1,029 per student! Not only does this take money away from many of the wonderful programs we love at Reed, it is also harmful to our planet. Let’s do something about it.
-url: /2013/04/18/an-introduction-to-reed-energy-wars/
+date: 2013-04-19 04:43:45 +0000
+excerpt: During the 2011-2012 school year, Reed spent $1,389,150 on energy alone,
+  that’s $1,029 per student! Not only does this take money away from many of the wonderful
+  programs we love at Reed, it is also harmful to our planet. Let’s do something about
+  it.
+url: "/2013/04/18/an-introduction-to-reed-energy-wars/"
 categories:
-  - Left Sidebar
-  - Opinion
+- Left Sidebar
+- Opinion
 
 ---
 _**By April Kaplowitz and Haley Jacobson**_

@@ -1,13 +1,13 @@
 ---
 title: 'Camp Aardvark: Bringing Developmental Disabilities into the Reed Arena'
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-03-09T11:47:30+00:00
-url: /2012/03/09/camp-aardvark-bringing-developmental-disabilities-into-the-reed-arena/
+date: 2012-03-09 11:47:30 +0000
+url: "/2012/03/09/camp-aardvark-bringing-developmental-disabilities-into-the-reed-arena/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Camp Aardvark, the brainchild of Alice Alsup and Gabriel Forsythe-Korzeniewicz &#8217;12, is an effort to bring Reed into alliance with Portland&#8217;s developmental disability community. Alsup and Forsythe-Korzeniewicz plan to run a one day camp for children with developmental disabilities on the facilities of the Autistic Children&#8217;s Activities Program (ACAP) late this semester. Camp Aardvark has undergone many changes since its conception because of challenges of approval through the Student Activities Office (SAO).

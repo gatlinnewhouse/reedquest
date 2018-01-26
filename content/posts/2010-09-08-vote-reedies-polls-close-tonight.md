@@ -1,18 +1,18 @@
 ---
 title: Vote, Reedies! Polls close tonight!
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-08T04:20:40+00:00
+date: 2010-09-08 04:20:40 +0000
 excerpt: |
   |
     <p>Everyone goes onto SIN and votes for their favorite organizations. After  voting closes each group is ranked based on the number of Top 6’s,  Approves, Disapproves, and Deep 6’s they received.</p>
-url: /2010/09/08/vote-reedies-polls-close-tonight/
+url: "/2010/09/08/vote-reedies-polls-close-tonight/"
 categories:
-  - Senate
+- Senate
 tags:
-  - funding poll
-  - senate
+- funding poll
+- senate
 
 ---
 <p style="text-align: center;">

@@ -1,13 +1,13 @@
 ---
 title: Isabel Wilkerson Declares Great Migration a Success
-authors: 
-  - "Drew Garcia"
+authors:
+- Drew Garcia
 type: post
-date: 2012-03-02T23:02:13+00:00
-url: /2012/03/02/isabel-wilkerson-declares-great-migration-a-success/
+date: 2012-03-02 23:02:13 +0000
+url: "/2012/03/02/isabel-wilkerson-declares-great-migration-a-success/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 A crowd of many creeds and many colors gathered last Saturday in Kaul Auditorium to hear Pulitzer Prize-winning journalist and author Isabel Wilkerson talk about the Great Migration, the largest and most significant internal migration the United States has ever experienced in its history. Wilkerson was brought to Reed by the Multicultural Resource as part of its observation of Black History Month. Calling it “the greatest underreported story of the 20<sup>th</sup> century,” Wilkerson spoke of the deep implications the migration had not only for the people who lived through it, but for those of us who are still experiencing the cultural ripples left by six million African Americans having left their homes in the South for better lives elsewhere in the country.

@@ -1,13 +1,13 @@
 ---
 title: New HA Programming Creates Controversy
-authors: 
-  - "Charlie Wilcox"
+authors:
+- Charlie Wilcox
 type: post
-date: 2013-09-13T04:06:57+00:00
-url: /2013/09/12/new-ha-programming-creates-controversy/
+date: 2013-09-13 04:06:57 +0000
+url: "/2013/09/12/new-ha-programming-creates-controversy/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 This year Residence Life is rolling out a brand new model to foster helpful communication between freshmen and their HAs.

@@ -1,13 +1,13 @@
 ---
 title: Reed Emissions Replaces Reed Releases
-authors: 
-  - "Cristina Cambianica"
+authors:
+- Cristina Cambianica
 type: post
-date: 2013-02-15T07:57:47+00:00
-url: /2013/02/14/reed-emissions-replaces-reed-releases/
+date: 2013-02-15 07:57:47 +0000
+url: "/2013/02/14/reed-emissions-replaces-reed-releases/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Reedies were met with a surprise on February 4: Reed Releases reincarnated under the name Reed Emissions. The [Facebook profile][1] and [Tumblr blog][2] that helps Reedies make anonymous posts of romance, anger, and regret (among other things) was initially shut down on Facebook for violating its Terms and Conditions, possibly because it created a “false identity profile,” according to the new operators of the site. After its termination, Reed Releases’ moderators found the project too time-consuming and fraught with “unmanageable moral responsibilities,” though the group did not explain exactly what those responsibilities were.

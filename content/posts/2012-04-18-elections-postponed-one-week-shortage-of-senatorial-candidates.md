@@ -1,16 +1,16 @@
 ---
 title: 'Elections Postponed One Week: Shortage of Senatorial Candidates'
-authors: 
-  - "Alex Blum"
+authors:
+- Alex Blum
 type: post
-date: 2012-04-19T04:17:09+00:00
-url: /2012/04/18/elections-postponed-one-week-shortage-of-senatorial-candidates/
+date: 2012-04-19 04:17:09 +0000
+url: "/2012/04/18/elections-postponed-one-week-shortage-of-senatorial-candidates/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 tags:
-  - elections
-  - senate
+- elections
+- senate
 
 ---
 Spring semester Student Body elections have been postponed for one week. Only two candidates had turned in petitions to vie for the six open seats on Senate in time for the original deadline, Wednesday April 11. The deadline was subsequently extended two days, but no further candidates submitted petitions.

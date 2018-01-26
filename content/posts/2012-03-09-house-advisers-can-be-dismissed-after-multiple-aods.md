@@ -1,13 +1,13 @@
 ---
 title: House Advisers to be Dismissed After Multiple AODs
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-03-09T22:25:17+00:00
-url: /2012/03/09/house-advisers-can-be-dismissed-after-multiple-aods/
+date: 2012-03-09 22:25:17 +0000
+url: "/2012/03/09/house-advisers-can-be-dismissed-after-multiple-aods/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Under new expectations and guidelines for dismissal for House Advisers being drafted by Residence Life, House Advisers may be put under probation or dismissed for “multiple minor violations of the alcohol and other drug policy and/or egregious use of alcohol that endangers the wellbeing of the individual or others.” A “verbal and/or written warning and/or probation” may be issued for “first-time minor violations of the Alcohol and Other Drug policy.” At an open meeting between Residence Life and students on Tuesday, Britt Hoover, Resident Director for Old Dorm Block and Anna Mann, said that the guidelines were being written because House Advisers wanted to know “how that could happen, when [dismissal] could happen.” She added, “There’s going to be a lot of context to every situation, and not every situation is going to be considered the same based on the impact it’s had.” Both Hoover and Drew White, Resident Director for The Grove, Farm House, Garden House, and Canyon House, emphasized that the guidelines are intended to allow Residence Life a certain degree of flexibility.

@@ -1,15 +1,15 @@
 ---
 title: 'Portland & Native American Voices: Dark Past, Bright Future'
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-04-13T21:15:26+00:00
-url: /2012/04/13/portland-native-american-voices-dark-past-bright-future/
+date: 2012-04-13 21:15:26 +0000
+url: "/2012/04/13/portland-native-american-voices-dark-past-bright-future/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 tags:
-  - gray fund
+- gray fund
 
 ---
 Bursting colors, dancing feet and beautiful Native American song filled the Chapel on March 28, as part of the 2012 Vine Deloria Jr. Lecture Series. Representing the Multnomah County Native American community, traditionally garbed young children, and other members of the Native American Youth and Family Center of Portland (NAYA), celebrated the dances they perform at pow-wows throughout each year. A painfully eye-opening panel discussion with three Native American leaders of the Coalition of Communities of Color followed the performance.

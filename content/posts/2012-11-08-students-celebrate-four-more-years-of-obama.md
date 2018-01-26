@@ -1,13 +1,13 @@
 ---
 title: Students Celebrate Four More Years of Obama
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2012-11-08T11:51:10+00:00
-url: /2012/11/08/students-celebrate-four-more-years-of-obama/
+date: 2012-11-08 11:51:10 +0000
+url: "/2012/11/08/students-celebrate-four-more-years-of-obama/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 Students camped out in Vollum Lounge on Tuesday night to watch the election unfold. It did not take long, however, for the outcome of the presidential election to be decided. At approximately 8:15 p.m. PST, the room erupted into applause. After winning Ohio, President Barack Obama won the presidency with 274 electoral votes; Romney had 204. The final count was 303-206 for Obama.

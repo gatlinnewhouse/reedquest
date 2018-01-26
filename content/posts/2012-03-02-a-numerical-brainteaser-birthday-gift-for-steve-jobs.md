@@ -1,13 +1,13 @@
 ---
 title: A Numerical Brainteaser Birthday Gift for Steve Jobs
-authors: 
-  - "Aziz Inan"
+authors:
+- Aziz Inan
 type: post
-date: 2012-03-02T22:27:41+00:00
-url: /2012/03/02/a-numerical-brainteaser-birthday-gift-for-steve-jobs/
+date: 2012-03-02 22:27:41 +0000
+url: "/2012/03/02/a-numerical-brainteaser-birthday-gift-for-steve-jobs/"
 categories:
-  - Infotainment
-  - Left Sidebar
+- Infotainment
+- Left Sidebar
 
 ---
 <p style="text-align: left;" align="center">

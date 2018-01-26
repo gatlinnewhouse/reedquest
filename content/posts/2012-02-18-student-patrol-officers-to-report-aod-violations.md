@@ -1,13 +1,13 @@
 ---
 title: Student Patrol Officers to Report AOD Violations
-authors: 
-  - "Alex Krafcik"
+authors:
+- Alex Krafcik
 type: post
-date: 2012-02-18T22:30:01+00:00
-url: /2012/02/18/student-patrol-officers-to-report-aod-violations/
+date: 2012-02-18 22:30:01 +0000
+url: "/2012/02/18/student-patrol-officers-to-report-aod-violations/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 In 4 to 6 weeks Community Safety will be reinstating the Student Patrol Officer program. Student Patrol Officers, or SPOs, will be responsible for patrolling campus, locking and unlocking buildings, and reporting AOD violations to CSOs. By the fall of 2012, SPOs will replace Pacific Patrol Services personnel who have been supplementing CSO’s regular patrols.

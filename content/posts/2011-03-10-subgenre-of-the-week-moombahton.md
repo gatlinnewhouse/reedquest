@@ -1,14 +1,14 @@
 ---
 title: 'Subgenre of the Week: Moombahton'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-03-10T20:00:34+00:00
-url: /2011/03/10/subgenre-of-the-week-moombahton/
+date: 2011-03-10 20:00:34 +0000
+url: "/2011/03/10/subgenre-of-the-week-moombahton/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - subgenre
+- subgenre
 
 ---
 Have you ever been to a skipping party? Until today, I’d never heard of them before. Maybe it’s because I wasn’t all that hip in high school (oh, hey, free periods spent in the library), but apparently while I was sitting in my morning calculus class and longingly looking out the window at the sunny day outside, cool kids my age were busy getting shwastied.

@@ -1,13 +1,13 @@
 ---
 title: Ads Don’t Add Up
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-02-03T22:22:11+00:00
-url: /2012/02/03/ads-dont-add-up/
+date: 2012-02-03 22:22:11 +0000
+url: "/2012/02/03/ads-dont-add-up/"
 categories:
-  - From the Editors
-  - Left Sidebar
+- From the Editors
+- Left Sidebar
 
 ---
 Comrades of The Quest,

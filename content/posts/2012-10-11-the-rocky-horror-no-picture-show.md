@@ -1,13 +1,13 @@
 ---
 title: The Rocky Horror No Picture Show
-authors: 
-  - "Lauren Nelson"
+authors:
+- Lauren Nelson
 type: post
-date: 2012-10-12T00:53:19+00:00
-url: /2012/10/11/the-rocky-horror-no-picture-show/
+date: 2012-10-12 00:53:19 +0000
+url: "/2012/10/11/the-rocky-horror-no-picture-show/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 A chorus of “START THE FUCKING MOVIE” signaled the start of each showing of _The Rocky Horror No Picture Show_ last weekend. The production, which defined itself as “[a different kind of thesis][1],” ran from October 4-6 at the Black Box Theatre on campus. Thesis candidate Tristan Nieto directed the _Rocky Horror No Picture Show_ and thesis candidate Arion Russell designed and produced the show’s costumes. Every one of the _No Picture Show_’s four showings sold out, an occurrence that Russell said had never happened on any show that she had been a part of previously.

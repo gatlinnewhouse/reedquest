@@ -1,14 +1,14 @@
 ---
 title: 'Subgenre of the Week: Post-rock'
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-11-18T18:38:24+00:00
-url: /2010/11/18/subgenre-of-the-week-post-rock/
+date: 2010-11-18 18:38:24 +0000
+url: "/2010/11/18/subgenre-of-the-week-post-rock/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - music
+- music
 
 ---
 As lighting rent the sky, the five members of Giants rushed into the boathouse bearing lamps and guitars. In a tiny building more often used for auctions and American Legion dances, this band, illuminated only by the soft glow of a few old lamps, let loose soaring chord structures that rivaled the storm’s blast; to their music the thunder could only provide punctuation.

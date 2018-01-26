@@ -1,16 +1,16 @@
 ---
 title: 'Returning to Independent Thought: Reed’s Dialogue About Honor'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2011-04-14T23:32:43+00:00
-url: /2011/04/14/returning-to-independent-thought-reeds-dialogue-about-honor/
+date: 2011-04-14 23:32:43 +0000
+url: "/2011/04/14/returning-to-independent-thought-reeds-dialogue-about-honor/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - aod
-  - honor principle
-  - sexual assault
+- aod
+- honor principle
+- sexual assault
 
 ---
 It saddens me that so many Reedies have fallen out of love with the Honor Principle. After hearing opinions at last week’s Reed Union, I think that our frustration stems from fundamental problems in the way we talk about Honor, rather than problems with the Honor Principle itself.

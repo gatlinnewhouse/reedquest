@@ -1,12 +1,12 @@
 ---
 title: Reed Ski Cabin Renovated and Open For Business
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-10-14T18:29:00+00:00
-url: /2010/10/14/reed-ski-cabin-renovated-and-open-for-business/
+date: 2010-10-14 18:29:00 +0000
+url: "/2010/10/14/reed-ski-cabin-renovated-and-open-for-business/"
 categories:
-  - News
+- News
 
 ---
 **Will Symms**

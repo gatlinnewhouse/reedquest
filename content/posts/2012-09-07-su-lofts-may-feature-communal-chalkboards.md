@@ -1,14 +1,21 @@
 ---
 title: SU Lofts May Feature Communal Chalkboards
-authors: 
-  - "Marina Moro"
+authors:
+- Marina Moro
 type: post
-date: 2012-09-07T18:10:14+00:00
-excerpt: Plans to cover the newly painted Student Union lofts entirely in student murals have changed, and the lofts are now planned to display chalkboards in addition to murals. Members of the SU Student Committee raised concerns after an email sent to the student body in August said that the lofts were to be devoted solely to murals. The current proposal is to dedicate a small section of the loft walls to student murals and cover the remainder with chalkboards. This, says SU manager Emily Zhang, is in response to concerns that devoting the walls to murals would stifle widespread student expression.
-url: /2012/09/07/su-lofts-may-feature-communal-chalkboards/
+date: 2012-09-07 18:10:14 +0000
+excerpt: Plans to cover the newly painted Student Union lofts entirely in student
+  murals have changed, and the lofts are now planned to display chalkboards in addition
+  to murals. Members of the SU Student Committee raised concerns after an email sent
+  to the student body in August said that the lofts were to be devoted solely to murals.
+  The current proposal is to dedicate a small section of the loft walls to student
+  murals and cover the remainder with chalkboards. This, says SU manager Emily Zhang,
+  is in response to concerns that devoting the walls to murals would stifle widespread
+  student expression.
+url: "/2012/09/07/su-lofts-may-feature-communal-chalkboards/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Plans to cover the newly painted Student Union lofts entirely in student murals have changed, and the lofts are now planned to display chalkboards in addition to murals. Members of the SU Student Committee raised concerns after an email sent to the student body in August said that the lofts were to be devoted solely to murals. The current proposal is to dedicate a small section of the loft walls to student murals and cover the remainder with chalkboards. This, says SU manager Emily Zhang, is in response to concerns that devoting the walls to murals would stifle widespread student expression. Though some Reed students have felt an attachment to the graffiti that used to cover the walls, Zhang explained that much of the tagging that had appeared in late spring last year—particularly following Stop Making Sense and Nitrogen Day—was from outside visitors. The appearance of several swastikas and a large tag over an extant student piece prompted the SU Student Committee to consider painting over the graffiti in its entirety.

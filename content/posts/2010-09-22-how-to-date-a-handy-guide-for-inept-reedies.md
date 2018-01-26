@@ -1,15 +1,15 @@
 ---
 title: 'How to Date: A Handy Guide for Inept Reedies'
-authors: 
-  - questadmin
+authors:
+- questadmin
 type: post
-date: 2010-09-22T18:30:45+00:00
+date: 2010-09-22 18:30:45 +0000
 excerpt: |
   |
     <p style="text-align: center;"><a rel="attachment wp-att-295" href="../wp-content/uploads/2010/09/dating-flowchart-revised.jpg"><img class="aligncenter size-full wp-image-295" title="dating-flowchart-revised" src="../wp-content/uploads/2010/09/dating-flowchart-revised.jpg" alt="" width="252" height="169" /></a></p>
-url: /2010/09/22/how-to-date-a-handy-guide-for-inept-reedies/
+url: "/2010/09/22/how-to-date-a-handy-guide-for-inept-reedies/"
 categories:
-  - Features
+- Features
 
 ---
 <p style="text-align: center;">

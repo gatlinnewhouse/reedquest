@@ -1,13 +1,13 @@
 ---
 title: 'Winter Break: Whooooo!'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-12-09T22:47:25+00:00
-url: /2010/12/09/winter-break-whooooo/
+date: 2010-12-09 22:47:25 +0000
+url: "/2010/12/09/winter-break-whooooo/"
 categories:
-  - From the Editors
-  - Opinion
+- From the Editors
+- Opinion
 
 ---
 It has been a long and trying semester. We have all grown sick and weary of stalking to the library armed with only a mug of coffee and the dim prospect of returning home triumphant.

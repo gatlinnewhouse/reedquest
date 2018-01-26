@@ -1,13 +1,13 @@
 ---
 title: 'The Missing Pieces: A Review'
-authors: 
-  - "Johnny Flores"
+authors:
+- Johnny Flores
 type: post
-date: 2011-01-29T19:38:09+00:00
-url: /2011/01/29/the-missing-pieces-a-review/
+date: 2011-01-29 19:38:09 +0000
+url: "/2011/01/29/the-missing-pieces-a-review/"
 categories:
-  - Features
-  - News
+- Features
+- News
 
 ---
 <img class="alignleft size-medium wp-image-557" title="The Missing Pieces" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2011/01/missing-photo-300x199.jpg?resize=300%2C199" alt="" data-recalc-dims="1" />

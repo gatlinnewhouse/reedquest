@@ -1,13 +1,13 @@
 ---
 title: Meet Your Renn Fayre Czars
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-29T20:48:20+00:00
-url: /2012/11/29/meet-your-renn-fayre-czars/
+date: 2012-11-29 20:48:20 +0000
+url: "/2012/11/29/meet-your-renn-fayre-czars/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 <a href="http://www.reedquest.org/2012/11/meet-your-renn-fayre-czars/questspread1/" rel="attachment wp-att-1865"><img class="aligncenter size-full wp-image-1865" title="Renn Fayre Czars 2k13" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/11/questspread1.jpg?resize=720%2C432" alt="" data-recalc-dims="1" /></a>

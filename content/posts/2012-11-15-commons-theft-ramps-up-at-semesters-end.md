@@ -1,13 +1,13 @@
 ---
 title: Commons Theft Ramps up at Semester’s End
-authors: 
-  - "Kieran Hanrahan"
+authors:
+- Kieran Hanrahan
 type: post
-date: 2012-11-15T20:26:42+00:00
-url: /2012/11/15/commons-theft-ramps-up-at-semesters-end/
+date: 2012-11-15 20:26:42 +0000
+url: "/2012/11/15/commons-theft-ramps-up-at-semesters-end/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/11/commons-theft-ramps-up-at-semesters-end/img_8666-version-2_web/" rel="attachment wp-att-1819"><img class="alignnone size-full wp-image-1819" title="Commons Line" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/11/IMG_8666-Version-2_web.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

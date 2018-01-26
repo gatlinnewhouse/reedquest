@@ -1,15 +1,15 @@
 ---
 title: Look, Ma, I Got a Robot Pony
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-09-14T21:22:35+00:00
+date: 2010-09-14 21:22:35 +0000
 excerpt: |
   |
     <p>One thing you may not have noticed about reedquest.org, announced in these pages last week: it’s out on the public internet.</p>
-url: /2010/09/14/look-ma-i-got-a-robot-pony/
+url: "/2010/09/14/look-ma-i-got-a-robot-pony/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 _eQuestrian offers alternative to reedquest.org_

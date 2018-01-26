@@ -1,12 +1,12 @@
 ---
 title: 'Editorial: Letter to the Incoming Class'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2012-08-31T17:00:40+00:00
-url: /2012/08/31/editorial-letter-to-the-incoming-class/
+date: 2012-08-31 17:00:40 +0000
+url: "/2012/08/31/editorial-letter-to-the-incoming-class/"
 categories:
-  - Opinion
+- Opinion
 
 ---
 Dear New Freshmen,

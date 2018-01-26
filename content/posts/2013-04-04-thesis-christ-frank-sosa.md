@@ -1,13 +1,13 @@
 ---
 title: 'Thesis Christ: Frank Sosa'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2013-04-04T14:00:58+00:00
-url: /2013/04/04/thesis-christ-frank-sosa/
+date: 2013-04-04 14:00:58 +0000
+url: "/2013/04/04/thesis-christ-frank-sosa/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 [<img class="aligncenter size-full wp-image-2207" alt="Frank Sosa" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/04/CTOW_web.jpg?resize=770%2C512" data-recalc-dims="1" />][1]

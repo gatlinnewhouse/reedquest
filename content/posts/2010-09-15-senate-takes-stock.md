@@ -1,15 +1,15 @@
 ---
 title: Senate Takes Stock
-authors: 
-  - "Ethan Knudson"
+authors:
+- Ethan Knudson
 type: post
-date: 2010-09-15T18:57:59+00:00
+date: 2010-09-15 18:57:59 +0000
 excerpt: |
   |
     <p>Student Senate is keeping closer tabs on student organizations this  semester. Top 40 groups will be required to compile an inventory of  their current possessions before accessing capital improvement funds</p>
-url: /2010/09/15/senate-takes-stock/
+url: "/2010/09/15/senate-takes-stock/"
 categories:
-  - Senate
+- Senate
 
 ---
 _Student Organizations Required to Make Inventories_

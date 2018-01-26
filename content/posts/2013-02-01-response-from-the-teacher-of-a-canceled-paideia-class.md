@@ -1,13 +1,13 @@
 ---
 title: Response from the Teacher of a Canceled Paideia Class
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-02T00:12:20+00:00
-url: /2013/02/01/response-from-the-teacher-of-a-canceled-paideia-class/
+date: 2013-02-02 00:12:20 +0000
+url: "/2013/02/01/response-from-the-teacher-of-a-canceled-paideia-class/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 I am the alumnus who was going to teach Adroit Anticipation of Awesome Altered Adventures 201. I&#8217;m not that bothered by the cancellation of my class, mostly because I titled it poorly and I am sympathetic towards the administration needing to distance themselves from anything that looks remotely like advocacy for breaking the law. I should have just called it Adventure Planning, which would have been an accurate description for the information that I wished to impart: an extension of the talk that is given in the dorms every year about how to have a safe awesome time at Renn Fayre (and would only obliquely mention substance use, far less than, say, Karma Patrol training). I emphasized the altered state of mind in my title and description because those who planned to be altered would most benefit from the advice, though I also explicitly stated in the description that it would be useful for sober people as well, and that one should be sober during the class.

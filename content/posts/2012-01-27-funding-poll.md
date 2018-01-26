@@ -1,13 +1,13 @@
 ---
 title: Funding Poll
-authors: 
-  - "Aidan Sigman"
+authors:
+- Aidan Sigman
 type: post
-date: 2012-01-28T07:08:21+00:00
-url: /2012/01/27/funding-poll/
+date: 2012-01-28 07:08:21 +0000
+url: "/2012/01/27/funding-poll/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Senate will begin accepting submissions to the Funding Poll this Thursday, January 26 at 5:00pm. The submission process will close the following Sunday, January 29 at 5:00pm. In order to register your organization for the Funding Poll, you must first become a signator by attending signator&#8217;s training on January 25 or 26 at 4:00pm in Vollum Lounge. You must attend one of these trainings even if you have previously been a signator. You must then register your organization in the SIN organization manager at <sin.reed.edu/webapps/organizations>. Finally, you must register your organization for the Funding Poll at [<http://sin.reed.edu/webapps/fundingpoll/>][1]{.broken_link}.

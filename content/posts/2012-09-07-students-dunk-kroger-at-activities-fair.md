@@ -1,14 +1,16 @@
 ---
 title: Students Dunk Kroger at Activities Fair
-authors: 
-  - "Blake Stewart"
+authors:
+- Blake Stewart
 type: post
-date: 2012-09-07T17:00:06+00:00
-excerpt: John Kroger sat awaiting his fate as students tried their aim at the target that would plunge the new president into the water below. It wasn’t long before they succeeded.
-url: /2012/09/07/students-dunk-kroger-at-activities-fair/
+date: 2012-09-07 17:00:06 +0000
+excerpt: John Kroger sat awaiting his fate as students tried their aim at the target
+  that would plunge the new president into the water below. It wasn’t long before
+  they succeeded.
+url: "/2012/09/07/students-dunk-kroger-at-activities-fair/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 <a href="http://www.reedquest.org/2012/09/students-dunk-kroger-at-activities-fair/john_slider/" rel="attachment wp-att-1568"><img class="alignnone size-full wp-image-1568" title="john iselin" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2012/09/john_slider.jpg?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,13 +1,13 @@
 ---
 title: Reed Student Advocates Letter
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-09-27T23:05:46+00:00
-url: /2013/09/27/reed-student-advocates-letter/
+date: 2013-09-27 23:05:46 +0000
+url: "/2013/09/27/reed-student-advocates-letter/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 _**By Reed Student Advocates**_

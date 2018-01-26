@@ -1,13 +1,13 @@
 ---
 title: Rooms “Performances Invigorates”
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2011-11-12T03:34:53+00:00
-url: /2011/11/11/rooms-performances-invigorates/
+date: 2011-11-12 03:34:53 +0000
+url: "/2011/11/11/rooms-performances-invigorates/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 _Revived Dance is Intellectual and Emotional_

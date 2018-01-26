@@ -1,13 +1,13 @@
 ---
 title: 'Op-Ed: Student Body “Autonomy” Is a Lie'
-authors: 
-  - "Alex Walker"
+authors:
+- Alex Walker
 type: post
-date: 2012-03-30T18:55:40+00:00
-url: /2012/03/30/op-ed-student-body-autonomy-is-a-lie/
+date: 2012-03-30 18:55:40 +0000
+url: "/2012/03/30/op-ed-student-body-autonomy-is-a-lie/"
 categories:
-  - Front Page
-  - Opinion
+- Front Page
+- Opinion
 
 ---
 At Reed, we students are quite fortunate in that we are generally treated as adults, both by the faculty and by the administration. Our professors teach classes with zero “Scantrons” and with few multiple-choice tests, preferring to take the time to test our knowledge with more interesting and useful assignments. Even when the administration takes an action with which many students disagree, such as the arrests in mid-February, top-level administrators (Mike and Gary) came to an open Senate meeting to explain their actions to the extent that they could do so legally, and were markedly more respectful towards students than a number of students were towards them. Hell, even Commons lets us eat wherever we want and take the dishes with us, unlike Bon Appétit’s other college cafeterias.

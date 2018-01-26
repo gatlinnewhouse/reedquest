@@ -1,13 +1,13 @@
 ---
 title: 'Flags to Display Prayers: Buddhists will not be offended'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-01-31T21:10:58+00:00
-url: /2013/01/31/flags-to-display-prayers-buddhists-will-not-be-offended/
+date: 2013-01-31 21:10:58 +0000
+url: "/2013/01/31/flags-to-display-prayers-buddhists-will-not-be-offended/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Students walking along the pathway between the Gray Campus Center and the Canyon this week will pass flags with prayers for everything from “Need Blind Admissions,” to “Commons George Appreciation Day.

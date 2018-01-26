@@ -1,13 +1,13 @@
 ---
 title: PDX Opera Presents Magnificent Don Giovanni
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2012-11-08T22:02:33+00:00
-url: /2012/11/08/pdx-opera-presents-magnificent-don-giovanni/
+date: 2012-11-08 22:02:33 +0000
+url: "/2012/11/08/pdx-opera-presents-magnificent-don-giovanni/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Looking at the barren, monochrome stage or reading a plot synopsis detailing a slew of thoughtless sexual conquest won’t make Don Giovanni look like a rich production. Going to the Portland Opera’s production this weekend will change anyone’s mind.

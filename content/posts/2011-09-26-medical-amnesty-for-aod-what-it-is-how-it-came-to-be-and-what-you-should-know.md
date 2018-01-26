@@ -1,12 +1,13 @@
 ---
-title: 'Medical Amnesty for AOD: What It Is, How It Came To Be, and What You Should Know'
-authors: 
-  - "Rob Shryock"
+title: 'Medical Amnesty for AOD: What It Is, How It Came To Be, and What You Should
+  Know'
+authors:
+- Rob Shryock
 type: post
-date: 2011-09-26T21:33:23+00:00
-url: /2011/09/26/medical-amnesty-for-aod-what-it-is-how-it-came-to-be-and-what-you-should-know/
+date: 2011-09-26 21:33:23 +0000
+url: "/2011/09/26/medical-amnesty-for-aod-what-it-is-how-it-came-to-be-and-what-you-should-know/"
 categories:
-  - News
+- News
 
 ---
 Last year, Reed began to implement its old AOD policy in extremely different ways: students who might, in the past, simply have had their alcohol or illegal substances confiscated by a Community Safety Officer, now received an “AOD violation” for drinking or substance use if caught.

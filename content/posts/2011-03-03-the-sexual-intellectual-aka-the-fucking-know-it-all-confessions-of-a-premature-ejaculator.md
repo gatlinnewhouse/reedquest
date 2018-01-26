@@ -1,15 +1,16 @@
 ---
-title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: “Confessions of a Premature Ejaculator”'
-authors: 
-  - "Tristan Nieto"
+title: 'The Sexual Intellectual, AKA The Fucking Know-It-All: “Confessions of a Premature
+  Ejaculator”'
+authors:
+- Tristan Nieto
 type: post
-date: 2011-03-03T20:01:44+00:00
-url: /2011/03/03/the-sexual-intellectual-aka-the-fucking-know-it-all-confessions-of-a-premature-ejaculator/
+date: 2011-03-03 20:01:44 +0000
+url: "/2011/03/03/the-sexual-intellectual-aka-the-fucking-know-it-all-confessions-of-a-premature-ejaculator/"
 categories:
-  - Features
-  - The Sexual Intellectual
+- Features
+- The Sexual Intellectual
 tags:
-  - sex
+- sex
 
 ---
 So… I have this friend. He’s a pretty decent looking guy and doesn’t have much trouble sealing the deal when it comes to people he’s attracted to, but…well, he has this “problem.” It’s not necessarily a medical condition or any kind of psychological disorder but, sometimes, he gets a little too excited by foreplay and by the time he starts having sex, the show’s pretty much over.

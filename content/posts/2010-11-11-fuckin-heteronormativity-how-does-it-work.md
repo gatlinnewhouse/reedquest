@@ -1,19 +1,19 @@
 ---
 title: 'Fuckin’ Heteronormativity: How Does It Work?'
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2010-11-11T18:52:02+00:00
+date: 2010-11-11 18:52:02 +0000
 excerpt: |
   |
     <p>Hey Reed. It’s Blue Heron; maybe you saw our article in the Quest last  week. Maybe you thought it was rad. Maybe you’re indifferent, confused,  or even a little angry. Maybe you missed it and are now thoroughly  confused.</p>
-url: /2010/11/11/fuckin-heteronormativity-how-does-it-work/
+url: "/2010/11/11/fuckin-heteronormativity-how-does-it-work/"
 categories:
-  - Opinion
+- Opinion
 tags:
-  - activism
-  - blue heron infoshop
-  - gender neutral bathrooms
+- activism
+- blue heron infoshop
+- gender neutral bathrooms
 
 ---
 _A second essay by the Blue Heron Collective on the topic of gender-neutral restrooms_

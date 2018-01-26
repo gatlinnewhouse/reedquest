@@ -1,13 +1,13 @@
 ---
 title: Reedies Gather for Legendary Showing
-authors: 
-  - "Ben Williams"
+authors:
+- Ben Williams
 type: post
-date: 2013-10-11T22:17:35+00:00
-url: /2013/10/11/reedies-gather-for-legendary-showing/
+date: 2013-10-11 22:17:35 +0000
+url: "/2013/10/11/reedies-gather-for-legendary-showing/"
 categories:
-  - Events
-  - Front Page
+- Events
+- Front Page
 
 ---
 [<img class="alignright size-medium wp-image-2934" alt="teamfight1" src="https://i2.wp.com/www.reedquest.org/wp-content/uploads/2013/10/teamfight1-300x168.jpg?resize=300%2C168" data-recalc-dims="1" />][1]Last Friday, Psych 105 was reserved for a showing of the Finals of the Championship Series. Like countless other sports gatherings, the snacks were plentiful and the bros outnumbered the ladies. Armchair athletes weighed in on which team was favored and what strategies would carry them to victory. While the premise is so familiar, the sport on display, or eSport, as it’s known, was League of Legends.

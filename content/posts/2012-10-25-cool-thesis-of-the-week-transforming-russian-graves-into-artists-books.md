@@ -1,13 +1,13 @@
 ---
 title: 'Cool Thesis of the Week: Transforming Russian Graves into Artists’ Books'
-authors: 
-  - "Sasha Peters"
+authors:
+- Sasha Peters
 type: post
-date: 2012-10-25T17:00:18+00:00
-url: /2012/10/25/cool-thesis-of-the-week-transforming-russian-graves-into-artists-books/
+date: 2012-10-25 17:00:18 +0000
+url: "/2012/10/25/cool-thesis-of-the-week-transforming-russian-graves-into-artists-books/"
 categories:
-  - Cool Thesis of the Week
-  - Top Stories
+- Cool Thesis of the Week
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/10/cool-thesis-of-the-week-transforming-russian-graves-into-artists-books/ctw-slider/" rel="attachment wp-att-1755"><img class="alignnone size-full wp-image-1755" title="Rose Lewis" src="https://i0.wp.com/www.reedquest.org/wp-content/uploads/2012/10/ctw-slider.jpg?resize=770%2C513" alt="" data-recalc-dims="1" /></a>

@@ -1,13 +1,13 @@
 ---
 title: A Not Just O-Kay Performance
-authors: 
-  - "Sammie Massey"
+authors:
+- Sammie Massey
 type: post
-date: 2012-02-24T22:55:23+00:00
-url: /2012/02/24/a-not-just-o-kay-performance/
+date: 2012-02-24 22:55:23 +0000
+url: "/2012/02/24/a-not-just-o-kay-performance/"
 categories:
-  - News
-  - Top Stories
+- News
+- Top Stories
 
 ---
 <a href="http://www.reedquest.org/2012/02/a-not-just-o-kay-performance/sarah-kay/" rel="attachment wp-att-1355"><img class="aligncenter size-full wp-image-1355" title="Sarah Kay" src="https://i1.wp.com/www.reedquest.org/wp-content/uploads/2012/02/Sarah-kay.png?resize=770%2C430" alt="" data-recalc-dims="1" /></a>

@@ -1,13 +1,13 @@
 ---
 title: Vollum is a Laser Tag Hall Thrice Weekly
-authors: 
-  - "Julia Selker"
+authors:
+- Julia Selker
 type: post
-date: 2013-03-30T04:56:42+00:00
-url: /2013/03/29/vollum-is-a-laser-tag-hall-thrice-weekly/
+date: 2013-03-30 04:56:42 +0000
+url: "/2013/03/29/vollum-is-a-laser-tag-hall-thrice-weekly/"
 categories:
-  - Left Sidebar
-  - News
+- Left Sidebar
+- News
 
 ---
 Campus is awash with murmurs of a Reed Fight Club, but there is already a way to engage your peers in combat. “What people don’t realize,” says Aaron McCray-Goldsmith ’14, “is that there’s a guy on campus who has 23 functional laser tag guns and wants to play all the time.” When he’s not playing laser tag all the time, Aaron brings his weapons to Vollum. From 10 p.m. to midnight on Tuesdays, Thursdays, and Sundays, the building becomes a three story laser tag battle ground.

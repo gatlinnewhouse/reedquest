@@ -1,20 +1,20 @@
 ---
 title: 'Sexy Senior: Salim Moore'
-authors: 
-  - "En-Szu Hu-Van Wright"
+authors:
+- En-Szu Hu-Van Wright
 type: post
-date: 2011-02-11T20:27:56+00:00
+date: 2011-02-11 20:27:56 +0000
 excerpt: |
   |
     <p>Name: Solomon Salim Moore<br />
     Age: 22<br />
     Hometown: Pasadena “The Dena” (a.k.a The hardest place on Earth)<br />
     Major: Art History!</p>
-url: /2011/02/11/sexy-desperate-senior-salim-moore/
+url: "/2011/02/11/sexy-desperate-senior-salim-moore/"
 categories:
-  - Infotainment
+- Infotainment
 tags:
-  - sexy desperate senior
+- sexy desperate senior
 
 ---
 Name: Solomon Salim Moore

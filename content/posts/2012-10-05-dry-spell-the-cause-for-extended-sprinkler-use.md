@@ -1,13 +1,13 @@
 ---
 title: Dry Spell the Cause for Extended Sprinkler Use
-authors: 
-  - "Isabel Meigs"
+authors:
+- Isabel Meigs
 type: post
-date: 2012-10-05T17:01:53+00:00
-url: /2012/10/05/dry-spell-the-cause-for-extended-sprinkler-use/
+date: 2012-10-05 17:01:53 +0000
+url: "/2012/10/05/dry-spell-the-cause-for-extended-sprinkler-use/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 “Well, it was a lovely, sunny afternoon,” reminisced Mark Angeles, ‘15, “I was leaning against a lamppost outside the library.” Angeles recalled having his laptop and a newly checked out library book right in front of him when he started to hear “a mysterious hissing noise,” right before he was shot full in the face by a sprinkler. After he threw his valuables out of the line of fire and got clear of it himself, he says, “the first thing I thought was, ‘Why are the sprinklers on at two in the afternoon?’”

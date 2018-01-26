@@ -1,13 +1,13 @@
 ---
 title: New Performing Arts Building Eagerly Anticipated
-authors: 
-  - "Shabab Mirza"
+authors:
+- Shabab Mirza
 type: post
-date: 2011-10-06T08:57:34+00:00
-url: /2011/10/06/new-performing-arts-building-eagerly-anticipated/
+date: 2011-10-06 08:57:34 +0000
+url: "/2011/10/06/new-performing-arts-building-eagerly-anticipated/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Despite financial concerns last semester, plans for erecting a new Performing Arts Building are proceeding. There have been few outward signs of progress on the building, which will bring together the Dance, Music and Theatre departments in one space for the first time, since the groundbreaking at Centennial Reunions this summer.

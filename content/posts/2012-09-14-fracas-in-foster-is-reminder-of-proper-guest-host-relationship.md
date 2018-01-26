@@ -1,14 +1,17 @@
 ---
 title: Fracas in Foster is Reminder of Proper Guest-Host Relationship
-authors: 
-  - "Rebecca Turley"
+authors:
+- Rebecca Turley
 type: post
-date: 2012-09-14T17:00:29+00:00
-excerpt: Residents of Foster I woke up on Labor Day to a nasty surprise. Chicken and refried beans were smeared on the walls, bleach powder was coated on the floor, and various uncouth phrases, including “Where da crack at?,” were sharpied on the refrigerator.
-url: /2012/09/14/fracas-in-foster-is-reminder-of-proper-guest-host-relationship/
+date: 2012-09-14 17:00:29 +0000
+excerpt: Residents of Foster I woke up on Labor Day to a nasty surprise. Chicken and
+  refried beans were smeared on the walls, bleach powder was coated on the floor,
+  and various uncouth phrases, including “Where da crack at?,” were sharpied on the
+  refrigerator.
+url: "/2012/09/14/fracas-in-foster-is-reminder-of-proper-guest-host-relationship/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 Residents of Foster I woke up on Labor Day to a nasty surprise. Chicken and refried beans were smeared on the walls, bleach powder was coated on the floor, and various uncouth phrases, including “Where da crack at?,” were sharpied on the refrigerator. It soon became apparent that a group of three non-Reedie visitors, who were not invited on campus by a Reed student, were to blame.

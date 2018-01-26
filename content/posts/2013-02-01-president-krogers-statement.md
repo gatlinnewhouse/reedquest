@@ -1,13 +1,13 @@
 ---
 title: President Kroger’s Statement
-authors: 
-  - Staff
+authors:
+- Staff
 type: post
-date: 2013-02-01T20:14:56+00:00
-url: /2013/02/01/president-krogers-statement/
+date: 2013-02-01 20:14:56 +0000
+url: "/2013/02/01/president-krogers-statement/"
 categories:
-  - Front Page
-  - News
+- Front Page
+- News
 
 ---
 As you know, I made the decision to [cancel two Paideia classes][1]. One involved the smoking of unregulated depressants, and the other was on how to trip on hallucinogens. The first class raised significant health and safety concerns; the second both health and legal issues. The college staff also asked a student to modify a class on fermentation, which promised students, including underage students, instruction on how to make all the &#8220;booze &#8230; they could ever desire.&#8221; The student was asked to teach his class without the alcohol component, again for health and safety issues.
