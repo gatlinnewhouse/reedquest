@@ -1,12 +1,10 @@
 baseURL = "https://www.reedquest.org/"
 languageCode = "en-us"
 title = "The Reed College Quest"
-
 [params]
-    description = "The Reed College Quest is the independently run student newspaper of Reed College."
-    twitter = "reedquest"
-
+description = "The Reed College Quest is the independently run student newspaper of Reed College."
+twitter = "reedquest"
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    author = "authors"
+author = "authors"
+category = "categories"
+tag = "tags"
