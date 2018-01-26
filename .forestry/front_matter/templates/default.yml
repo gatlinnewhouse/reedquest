@@ -15,4 +15,4 @@ fields:
   label: Draft
   type: boolean
   hidden: false
-  default: true
+  default: false
