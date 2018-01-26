@@ -3,7 +3,7 @@ title: 'Thesis Christ: Alberta Bleck'
 authors:
 - Rebecca Turley
 type: post
-date: -0001-11-30 00:00:00 +0000
+date: 2013-09-13
 url: "/?p=2535"
 categories:
 - Uncategorized

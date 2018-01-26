@@ -3,7 +3,7 @@ title: 'ADSAPR Position: What Comes Next?'
 authors:
 - Rebecca Turley
 type: post
-date: -0001-11-30 00:00:00 +0000
+date: 2013-09-20
 url: "/?p=2599"
 categories:
 - Left Sidebar

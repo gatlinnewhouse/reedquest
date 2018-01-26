@@ -3,7 +3,7 @@ title: LaWhore Vagistan Gives “Lessons in Drag”
 authors:
 - Jordan Yu
 type: post
-date: -0001-11-30 00:00:00 +0000
+date: 2013-11-22
 url: "/?p=3237"
 categories:
 - Events
