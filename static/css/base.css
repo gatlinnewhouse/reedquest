@@ -65,6 +65,7 @@ header {
 
 .material-icons {
     text-decoration: none;
+    color: black;
 }
 
 header a:hover {
