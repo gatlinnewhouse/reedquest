@@ -16,3 +16,6 @@ fields:
   type: boolean
   hidden: false
   default: false
+- type: file
+  label: Upload image
+  name: image
