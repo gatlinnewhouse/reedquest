@@ -39,7 +39,6 @@ fields:
   hidden: false
   default: ''
 - type: file
-  name: image
-  label: Image
-  description: Image that appears with the article on the front page and above the
-    article when you click to read the article.
+  name: thumbnail
+  label: Thumbnail image
+  description: Image that appears with the article on the front page.
