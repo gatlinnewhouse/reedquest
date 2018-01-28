@@ -1,6 +1,4 @@
 ---
-pages:
-- posts/2017-09-07-students-banned-as-tensions-rise.md
 hide_body: false
 fields:
 - name: title
@@ -38,7 +36,3 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- type: file
-  name: thumbnail
-  label: Thumbnail image
-  description: Image that appears with the article on the front page.
