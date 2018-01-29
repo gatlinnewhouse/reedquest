@@ -31,3 +31,9 @@ fields:
 - type: file
   label: Upload image
   name: image
+- type: text
+  name: type
+  label: Type
+  description: Just type "post" in here
+  config:
+    required: true
