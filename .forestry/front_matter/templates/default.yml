@@ -8,6 +8,23 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: tag_list
+  name: authors
+  label: Authors
+  description: Authors of the article (if anonymous write "Staff")
+- type: text
+  name: type
+  label: Type
+  description: Just type "post" in here
+  config:
+    required: true
+  default: post
+- type: text
+  label: URL
+  name: url
+  description: "/YYYY/MM/DD/Headline-goes-here/"
+  config:
+    required: true
 - type: datetime
   name: date
   label: Date of publication
@@ -15,10 +32,6 @@ fields:
   config:
     date_format: YYYY-MM-DD
     required: true
-- type: tag_list
-  name: authors
-  label: Authors
-  description: Authors of the article (if anonymous write "Staff")
 - type: tag_list
   name: tags
   label: Tags
@@ -28,12 +41,7 @@ fields:
   label: Categories
   description: Put article categories (News, Features, Entertainment, Editorials,
     Opinion)
+  default: []
 - type: file
   label: Upload image
   name: image
-- type: text
-  name: type
-  label: Type
-  description: Just type "post" in here
-  config:
-    required: true
