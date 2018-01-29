@@ -2,7 +2,6 @@
 pages:
 - authors/policies-of-the-quest/_index.md.md
 - authors/charlotte-andersen/_index.md.md
-- authors/david-james/_index.md.md
 hide_body: false
 fields:
 - name: title
