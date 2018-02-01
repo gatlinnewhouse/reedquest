@@ -1,7 +1,6 @@
 ---
 title: 'Letter: What is Honor?'
-authors:
-- August Wissmath
+authors: []
 type: post
 date: 2013-09-20 18:47:39 +0000
 url: "/2013/09/20/what-is-honor/"
