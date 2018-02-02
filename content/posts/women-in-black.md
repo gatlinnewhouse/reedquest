@@ -9,7 +9,11 @@ type = "post"
 url = "/2018/02/02/women-in-black"
 
 +++
-![](/uploads/2018/02/02/womensmarch.jpg)Hollywood’s biggest open secret was finally exposed last October when, following initial reporting by the _New York Times_, over one hundred women came forward to accuse Academy-Award-winning producer Harvey Weinstein of sexual harassment, assault, and rape. This behavior was facilitated for over three decades with the assistance of his employees, associates, agents, lawyers, publicists, and private investigators. The only accusations Weinstein would go on to deny were those made by women of color.
+![](/uploads/2018/02/02/womensmarch.jpg)
+
+**CW: Sexual assault mention**
+
+Hollywood’s biggest open secret was finally exposed last October when, following initial reporting by the _New York Times_, over one hundred women came forward to accuse Academy-Award-winning producer Harvey Weinstein of sexual harassment, assault, and rape. This behavior was facilitated for over three decades with the assistance of his employees, associates, agents, lawyers, publicists, and private investigators. The only accusations Weinstein would go on to deny were those made by women of color.
 
 As more and more accusations of sexual assault in the entertainment industry were brought forward, the “Me Too” movement emerged. The phrase “Me Too” was coined in 2006 by the activist Tarana Burke within a grassroots movement she founded to advocate “empowerment through empathy” for fellow women of color who had been victims of sexual assault, especially those belonging to underprivileged communities. Ten days after the _Times_ first broke the allegations against Weinstein, Alyssa Milano tweeted: "If all the women who have been sexually harassed or assaulted wrote 'Me too.' as a status, we might give people a sense of the magnitude of the problem." The phrase had soon been used by millions of women, spreading across a multitude of platforms and languages, and giving a name to a burgeoning movement. Milano later took to Twitter to acknowledge the phrase’s origin with Burke. Emboldened by #MeToo, multitudes of female-identified persons and their allies began to speak out against more than a hundred powerful men. The accused reached beyond the entertainment industry to high-profile figures within the realms of sports, news media, politics, music, food, and fashion. The accusations of sexual misconduct levelled against these men led to a dramatic change in public opinion and the suspension of many of their careers.
 
