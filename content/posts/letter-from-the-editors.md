@@ -1,6 +1,6 @@
 +++
 authors = ["The Quest Editorial Board"]
-categories = ["Letters"]
+categories = ["Editorials", "Letters"]
 date = "2018-02-02T09:00:10-08:00"
 draft = true
 image = "/uploads/2018/02/02/FAMB&W.jpg"
