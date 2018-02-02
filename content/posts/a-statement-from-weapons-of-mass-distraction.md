@@ -1,8 +1,7 @@
 +++
 authors = []
 categories = ["Letters"]
-date = "2018-02-02T09:00:26-08:00"
-draft = true
+date = "2018-02-02T09:07:26-08:00"
 image = ""
 tags = []
 title = "A Statement from Weapons of Mass Distraction"
