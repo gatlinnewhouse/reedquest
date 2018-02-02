@@ -2,7 +2,6 @@
 authors = ["Carter Fife"]
 categories = ["Entertainment"]
 date = "2018-02-02T09:00:38-08:00"
-draft = true
 image = ""
 tags = []
 title = "Album Review: JPEGMAFIA’s Veteran"
