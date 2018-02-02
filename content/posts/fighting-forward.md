@@ -2,7 +2,6 @@
 authors = ["Serafina Anne Martínez Ridgley"]
 categories = ["Opinion"]
 date = "2018-02-02T09:00:46-08:00"
-draft = true
 image = "/uploads/2018/02/02/womensmarch.jpg"
 tags = []
 title = "Fighting Forward"
