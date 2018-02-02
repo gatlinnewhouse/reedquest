@@ -19,4 +19,6 @@ We also invite you to come write for the _Quest_! The best means to increase the
 
 Sincerely,
 
-The _Quest_ Editorial Board![](/uploads/2018/02/02/editorialboard.jpg)
+The _Quest_ Editorial Board
+
+![](/uploads/2018/02/02/editorialboard.jpg)
