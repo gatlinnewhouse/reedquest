@@ -2,7 +2,6 @@
 authors = ["Purna Post-Leon"]
 categories = ["News"]
 date = "2018-02-02T09:00:50-08:00"
-draft = true
 image = ""
 tags = []
 title = "CSOs Take Test Kits"
