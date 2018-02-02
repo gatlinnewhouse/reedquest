@@ -7,7 +7,7 @@ image = ""
 tags = []
 title = "CSOs Take Test Kits"
 type = "post"
-url = "/2018/02/02/csos-take-test-kits"
+url = "/2018/02/02/csos-take-test-kits/"
 
 +++
 During Paideia, Community Safety opened up the Students for Sensible Drug Policy (SSDP) locker in the Gray Campus Center (GCC) and removed all the drug test kits and supplements present there. The materials have now been returned to SSDP and should be replaced within the locker by the end of the week.
