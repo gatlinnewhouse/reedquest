@@ -3,11 +3,11 @@ authors = ["The Quest Editorial Board"]
 categories = ["Editorials"]
 date = "2018-02-02T09:00:10-08:00"
 draft = true
-image = "/uploads/2018/02/02/FAMB&W.jpg"
+image = "/uploads/2018/02/02/editorialboard.jpg"
 tags = []
 title = "Letter from the Editors"
 type = "post"
-url = "/2018/02/02/letter-from-the-editors"
+url = "/2018/02/02/letter-from-the-editors/"
 
 +++
 Dear Reader,
