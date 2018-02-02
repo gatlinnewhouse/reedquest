@@ -2,7 +2,6 @@
 authors = ["Faculty Members of the Administration Committee"]
 categories = ["Features"]
 date = "2018-02-02T09:00:29-08:00"
-draft = true
 image = ""
 tags = []
 title = "Summary of Judicial Board and Title IX Board Cases"
