@@ -1,5 +1,5 @@
 +++
-authors = ["test"]
+authors = ["bob robertson"]
 categories = []
 date = "2018-02-02T09:00:17-08:00"
 draft = true
