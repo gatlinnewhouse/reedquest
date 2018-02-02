@@ -1,7 +1,7 @@
 +++
 authors = ["Nicole Kretekos"]
 categories = ["Health"]
-date = "2018-02-01T21:42:15+00:00"
+date = "2018-02-02T09:00:15-08:00"
 draft = true
 image = "/uploads/2018/02/02/Flu and You.JPG"
 tags = []
