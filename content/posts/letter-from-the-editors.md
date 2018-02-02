@@ -1,8 +1,7 @@
 +++
 authors = ["The Quest Editorial Board"]
 categories = ["Editorials"]
-date = "2018-02-02T09:00:10-08:00"
-draft = true
+date = "2018-02-02T09:07:10-08:00"
 image = "/uploads/2018/02/02/editorialboard.jpg"
 tags = []
 title = "Letter from the Editors"
