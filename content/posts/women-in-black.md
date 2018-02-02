@@ -2,7 +2,6 @@
 authors = ["Max Nobel"]
 categories = ["News", "Front Page"]
 date = "2018-03-02T09:08:56-08:00"
-draft = true
 image = ""
 tags = []
 title = "Women in Black"
