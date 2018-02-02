@@ -2,7 +2,6 @@
 authors = ["Claire Brase"]
 categories = ["Entertainment", "Nature"]
 date = "2018-02-02T09:00:32-08:00"
-draft = true
 image = "/uploads/2018/02/02/Tree of the week.jpg"
 tags = []
 title = "Tree of the Week: The Vollum Incense Cedar"
