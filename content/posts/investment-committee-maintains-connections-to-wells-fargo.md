@@ -1,6 +1,6 @@
 +++
-authors = ["bob robertson"]
-categories = []
+authors = ["Charlotte Andersen", "Ben Read"]
+categories = ["News", "Front Page"]
 date = "2018-02-02T09:00:17-08:00"
 draft = true
 image = ""
