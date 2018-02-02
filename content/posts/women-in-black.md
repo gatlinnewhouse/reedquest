@@ -2,7 +2,7 @@
 authors = ["Max Nobel"]
 categories = ["News", "Front Page"]
 date = "2018-03-02T09:08:56-08:00"
-image = ""
+image = "/uploads/2018/02/02/womensmarch.jpg"
 tags = []
 title = "Women in Black"
 type = "post"
