@@ -1,8 +1,7 @@
 +++
 authors = ["Ben Read"]
 categories = ["News", "Front Page"]
-date = "2018-02-02T09:00:00-08:00"
-draft = true
+date = "2018-02-02T09:08:00-08:00"
 image = ""
 tags = []
 title = "Humanities Curriculum Crosses the Atlantic"
