@@ -1,7 +1,7 @@
 +++
 authors = ["Sky Ford"]
 categories = ["News"]
-date = "2018-02-04T15:23:14+00:00"
+date = "2017-09-08T09:00:14-07:00"
 image = "/uploads/2018/02/04/ash.jpg"
 tags = []
 title = "Ash Descends over Reed Campus"
