@@ -2,7 +2,6 @@
 authors = ["Purna Post-Leon"]
 categories = ["Politics", "News", "Front Page"]
 date = "2017-09-08T09:00:50-07:00"
-draft = true
 image = ""
 tags = []
 title = "Summer of Trump"
