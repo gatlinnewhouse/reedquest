@@ -1,8 +1,7 @@
 +++
 authors = ["Sky Ford"]
-categories = []
-date = "2018-02-04T15:09:29+00:00"
-draft = true
+categories = ["News"]
+date = "2017-09-08T09:00:29-07:00"
 image = "/uploads/2018/02/04/food pantry.jpg"
 tags = []
 title = "Addressing Food Insecurity at Reed"
