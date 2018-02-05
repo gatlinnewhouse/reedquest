@@ -1,7 +1,7 @@
 +++
 authors = ["Rollo Brandon"]
-categories = []
-date = "2018-02-04T15:46:16+00:00"
+categories = ["Opinion"]
+date = "2017-09-08T09:00:16-07:00"
 image = ""
 tags = []
 title = "Enough is Enough: In Support of a 'Double Freeze' in North Korea"
