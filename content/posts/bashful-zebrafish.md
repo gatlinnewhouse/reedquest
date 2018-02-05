@@ -1,7 +1,7 @@
 +++
 authors = ["Jacob Goldsmith"]
-categories = ["Features"]
-date = "2017-09-08T09:00:29-07:00"
+categories = []
+date = "2018-02-04T15:31:29+00:00"
 image = ""
 tags = []
 title = "Bashful Zebrafish"
