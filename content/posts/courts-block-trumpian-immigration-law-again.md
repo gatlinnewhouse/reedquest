@@ -1,7 +1,7 @@
 +++
 authors = ["Ben Read"]
-categories = ["News"]
-date = "2017-09-08T09:00:08-07:00"
+categories = []
+date = "2018-02-04T15:39:08+00:00"
 image = ""
 tags = []
 title = "Courts Block Trumpian Immigration Law Again"
