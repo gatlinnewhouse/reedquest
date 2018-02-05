@@ -1,11 +1,10 @@
 +++
 authors = ["Members of the Hum 110 Faculty"]
-categories = []
-date = "2018-02-04T15:15:27+00:00"
-draft = true
+categories = ["Letters"]
+date = "2017-09-08T09:00:27-07:00"
 image = ""
 tags = []
-title = "Letter from the Hum 110 Faculty"
+title = "A Letter from the Hum 110 Faculty"
 type = "post"
 url = "/2017/09/08/letter-from-the-hum-faculty/"
 
