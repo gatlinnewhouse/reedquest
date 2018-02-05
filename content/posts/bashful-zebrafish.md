@@ -2,6 +2,7 @@
 authors = ["Jacob Goldsmith"]
 categories = ["Features"]
 date = "2017-09-08T09:00:29-07:00"
+draft = true
 image = ""
 tags = []
 title = "Bashful Zebrafish"
