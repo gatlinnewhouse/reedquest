@@ -2,6 +2,7 @@
 authors = ["Members of the Hum 110 Faculty"]
 categories = []
 date = "2018-02-04T15:15:27+00:00"
+draft = true
 image = ""
 tags = []
 title = "Letter from the Hum 110 Faculty"
