@@ -3,8 +3,8 @@ title: Students Banned as Tensions Rise
 authors:
 - David James
 type: post
-date: 2017-09-06 02:50:39 +0000
-url: "/2017/09/06/students-banned-as-tensions-rise/"
+date: 2017-09-08 19:50:39 -0700
+url: "/2017/09/08/students-banned-as-tensions-rise/"
 categories:
 - News
 tags: []
