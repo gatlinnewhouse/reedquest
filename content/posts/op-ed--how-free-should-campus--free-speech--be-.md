@@ -1,8 +1,7 @@
 +++
 authors = ["Mitzi Zitler"]
-categories = []
-date = "2018-02-04T15:27:40+00:00"
-draft = true
+categories = ["Opinion"]
+date = "2017-09-08T09:00:40-07:00"
 image = ""
 tags = []
 title = "Op-Ed: How Free Should Campus 'Free Speech' Be?"
