@@ -2,10 +2,9 @@
 authors = ["Rollo Brandon"]
 categories = ["Opinion"]
 date = "2017-09-08T09:00:16-07:00"
-draft = true
 image = ""
 tags = []
-title = "Enough is Enough: In Support of a 'Double Freeze' in North Korea"
+title = "Op-Ed: In Support of a 'Double Freeze' in North Korea"
 type = "post"
 url = "/2017/09/08/enough-is-enough/"
 
