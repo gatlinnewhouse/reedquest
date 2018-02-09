@@ -1,7 +1,7 @@
 +++
 authors = ["Nicole Kretekos"]
-categories = ["Features"]
-date = "2018-02-09T09:06:57-08:00"
+categories = []
+date = "2018-02-09T13:37:57+00:00"
 image = ""
 tags = []
 title = "Painting Reed"
