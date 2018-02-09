@@ -2,7 +2,6 @@
 authors = ["Purna Post-Leon"]
 categories = ["News", "Front Page"]
 date = "2018-02-09T09:07:20-08:00"
-draft = true
 image = ""
 tags = []
 title = "State of Disunion"
