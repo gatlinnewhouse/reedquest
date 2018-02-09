@@ -2,7 +2,6 @@
 authors = ["Alyssa Zavattero"]
 categories = ["News", "Front Page"]
 date = "2018-02-09T09:09:55-08:00"
-draft = true
 image = ""
 tags = []
 title = "House Advisors Fight for Collective Bargaining Rights"
