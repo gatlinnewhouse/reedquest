@@ -2,7 +2,6 @@
 authors = ["Claire Brase"]
 categories = ["News"]
 date = "2018-02-09T09:05:09-08:00"
-draft = true
 image = ""
 tags = []
 title = "Self-Service Gas"
