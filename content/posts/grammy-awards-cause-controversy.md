@@ -1,7 +1,7 @@
 +++
 authors = ["Max Nobel"]
-categories = ["News"]
-date = "2018-02-09T09:05:32-08:00"
+categories = []
+date = "2018-02-09T13:43:32+00:00"
 image = ""
 tags = []
 title = "Grammy Awards Cause Controversy"
