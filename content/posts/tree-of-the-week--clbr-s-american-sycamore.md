@@ -2,7 +2,6 @@
 authors = ["Claire Brase"]
 categories = ["Entertainment"]
 date = "2018-02-09T09:03:14-08:00"
-draft = true
 image = ""
 tags = []
 title = "Tree of the Week: CLBR's American Sycamore"
