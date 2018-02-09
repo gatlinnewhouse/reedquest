@@ -1,7 +1,7 @@
 +++
 authors = ["Nick Chaiyachakorn"]
-categories = ["News"]
-date = "2018-02-09T09:06:11-08:00"
+categories = []
+date = "2018-02-09T13:30:11+00:00"
 draft = true
 image = ""
 tags = []
