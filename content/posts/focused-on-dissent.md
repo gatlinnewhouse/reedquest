@@ -2,7 +2,6 @@
 authors = ["Lucía F. Calleja"]
 categories = ["News", "Front Page"]
 date = "2018-02-09T09:08:02-08:00"
-draft = true
 image = ""
 tags = []
 title = "Focused on Dissent"
