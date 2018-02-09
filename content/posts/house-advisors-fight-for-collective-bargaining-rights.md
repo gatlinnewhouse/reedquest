@@ -1,9 +1,39 @@
 +++
-categories = []
-date = "2018-02-09T13:20:55+00:00"
+authors = ["Alyssa Zavattero"]
+categories = ["News", "Front Page"]
+date = "2018-02-09T09:09:55-08:00"
 draft = true
+image = ""
+tags = []
 title = "House Advisors Fight for Collective Bargaining Rights"
 type = "post"
+url = "/2018/02/09/house-advisors-fight-for-unionization/"
 
 +++
+On January 17, 2018, Seth Douglas of the Student Workers Coalition, an on campus group that advocates for student workers, filed a Representation Petition on behalf of House Advisors (HAs) to the National Labor Relations Board (NLRB) due to Reed College’s refusal to voluntarily recognize the democratic decision of the college’s HAs to unionize. The NLRB approved the petition, resulting in a hearing to litigate issues pertaining to the matter on January 29, 2018. The hearing was held to determine whether or not the HAs have the right to vote on whether or not to unionize. HAs are pushing to unionize so that they are legally able to negotiate their contracts at the administrative level and to establish fairer and clearer disciplinary procedures.
 
+Held at the Downtown Portland office of the NLRB, the hearing lasted roughly nine hours, starting at 9:00 a.m. and ending at almost 6:00 p.m. Reed hired Kyle Abraham of Barran Liebman, LLP to represent the administration against the unionization of the HAs. The union, due to lack of funds, was self-represented by Seth Douglas, a student worker who has been involved in organizing with the Student Workers Coalition since the fall of the 2017–2018 academic year. The testimonies of the employer — in this case, the administrators who were presented as witnesses to this case — took up a majority of the hearing. Vice President of Student Services Mike Brody, Dean of Students Bruce Smith, Assistant Dean for Residence Life Amy Schuckman, Associate Treasurer and Controller Robert Trust, and Assistant Dean of Students Julie Maxfield testified as witnesses for the administration. Student workers Arek Rein-Jungwirth and Isaiah Silvers testified as witnesses for the union.
+
+After witness testimony, the college officially stated their positions in response to the Representation Petition filed by Douglas. Silvers, a student worker who serves as both an HA and a tutor, explained in an interview that the college’s first objection to the petition was that “HAs are, in fact, not common law employees. \[The college was\] simply claiming that we are students and not employees of the
+
+// jump//
+
+ college, and made claims that our training is in fact educational in the sense that it would help us with coursework, not just educational in the sense that these are skills that will help us, which is true, but educational in the sense that this will help us with our literal coursework.”
+
+The second objection by the college was that “HAs are not employees under the \[definition\] of the National Labor Relations Act; that it would not effectuate the Act to apply it to HAs,” wrote Douglas in an email detailing the hearing. Further, the college stated that if HAs were to be recognized as employees, then the appropriate bargaining unit would include, along with HAs, InterConnect Mentors, Night OWLs, SAPR Advocates, Peer Career Advisors, Peer Mentors, and Peer Tutors, for the “work they all do is functionally the same, in that it is mentorship that constitutes ‘relational’ and ‘community-building work,’” according to Douglas. 
+
+At the hearing, Silvers and Rein-Jungwirth acted as the two HA witnesses, each testifying for approximately 45 minutes, according to Silvers. Douglas, the student worker and organizer representing the union, cross-examined the administrative witnesses at the hearing. Silvers’s role, he explained, was to “testify as both an HA and a tutor, and to talk about the differences in those two jobs.” Chae Park, an HA directly involved in the unionization process, explained that the role of the college’s witnesses was to “identify that the community of interest between these student workers is the same.” 
+
+The college allegedly minimized “the disciplinary procedures that HAs are subject to” that other student workers are not subject to, said Silvers. This statement refutes the college’s claim that HAs cannot represent a community of interest independent from other student workers, for HAs do not share the same disciplinary procedures as other student workers like tutors, Peer Mentors, etc. Rein-Jungwirth testified about his experience with the disciplinary procedures from Residence Life to show that HAs are, in fact, disciplined, and submitted a probation letter to evidence.
+
+Silvers expressed that, “in the end, this hearing is a fact-finding procedure rather than a fight. Our hope is that the board will find in favor of our position, that we are indeed employees and HAs do represent a community of interest, and that we will be able to have an election. Our right to vote on this for ourselves will be established. Regardless of how that election goes, whether the majority … votes no or yes on the union, I think it’s really important that we be allowed to hold an election.”
+
+Park, Silvers, and many other HAs strongly believe in the right for HAs to unionize for several reasons. One major reason, Park stated, is the concern about “the mental health and emotional labor aspect\[s\] of this position.” Park explained that, “because of the College’s confidentiality requirements, the only people we are able to talk to about \[medical amnesty\] are our direct supervisors, and we are worried about that both in the sense that we need support and also that expressing our own troubles might affect how our supervisors view us as fit for a position.” Furthermore, Park added that there is concern because HAs “are supposed to share this information with our direct supervisors, that HAs are being asked to choose between our personal safety and our job. And for a lot of people, this job is the reason why they are able to stay at this campus, and stay here at this school. So, this creates a risk for serious bodily harm.”
+
+Park explained that unionization and collective bargaining are essential to HAs because “the change in pay structure from the previous year \[to\] this year \[in\] the contract \[means that\], after taxes, our wages do not cover room and board. So, there are some students who are having to get second, third jobs in order to pay off the difference, and they’re having to work more hours because they are in a higher tax bracket. We’re also just over the threshold where we don’t qualify for food stamps.” 
+
+According to Silvers, another objective of being recognized as a union is about “having democratic say at the \[administrative\] level when the contract is determined. We still all fully intend to work with our supervisors in the same way we have been. The close supervisor relationship is \[a\] really important part of our job.” 
+
+Park added that behavioral standards, like the term “role model,” which is used to describe one of the responsibilities of an HA, should be codified so that the disciplinary processes have a solid basis. As for now, these processes, said Park, are “very inconsistently applied.” Above all, according to Park, the HAs are pushing for these requirements “so we can do our jobs better and pay better attention to the people within our own community and really give everyone the support that they deserve living on campus.” 
+
+Unions and collective bargaining principles are also important on a larger scale and for their own sake, according to Rein-Jungwirth. They expressed, “all across the tree of life, from quorum-sensing bacteria, to ant colonies and migrating flocks of birds, to human societies and their democratic unions, bottom-up organizational structures emerge time and time again as the best way for a group to take care of its needs. I believe that a union is the most reliable way for current and future HAs to take good care of one another and maintain adaptive working conditions so that we can best serve our fellow Reedies.”
