@@ -1,8 +1,7 @@
 +++
 authors = ["Max Nobel"]
-categories = ["Features"]
-date = "2018-02-09T09:04:21-08:00"
-draft = true
+categories = []
+date = "2018-02-09T13:49:21+00:00"
 image = ""
 tags = []
 title = "Clothes for Cash"
