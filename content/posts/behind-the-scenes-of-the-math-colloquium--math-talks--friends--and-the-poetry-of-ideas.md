@@ -1,9 +1,23 @@
 +++
-categories = []
-date = "2018-02-25T21:59:27+00:00"
+authors = ["Nick Chaiyachakorn"]
+categories = ["Features"]
+date = "2018-02-23T09:06:27-08:00"
 draft = true
-title = "Behind the Scenes of the Math Colloquium: Math Talks, Friends, and the Poetry of Ideas"
+image = ""
+tags = []
+title = "Behind the Scenes of the Math Colloquium"
 type = "post"
+url = "/2018/02/23/behind-the-scenes-of-the-math-colloquium/"
 
 +++
+“How,” I asked Professor Kyle Ormsby, “would you describe the math department colloquium to the Reed community at large?” Ormsby spoke of the math department’s series of talks as an opportunity for students to experience a wide range of mathematics at a high level, raising mathematics from dry theory to conceptual thought. “The poetry of ideas,” he called it.
 
+Once a week, the math department hosts a talk by an invited visitor, open to all, on an active topic of research that interests them. An enthusiastic and diverse audience of students, professors, and locals shows up each time. Last week’s talk on the mathematical representation of colors, for example, was peppered with questions from David Griffiths, noted physics emeritus professor, who slouched in a front-row seat and gave a physicist’s take on how mathematicians (fail to) make sense of physical phenomena. The audience continues to grow: the math department originally met in a lecture room in the physics building, but has since moved to airy Eliot 314 once listeners began sitting on the floor to fit into the audience.
+
+The range of speakers, too, is always growing. Organiser Kyle Ormsby begins by sending his network of friends a shared spreadsheet before each semester and declaring open season on speaking slots. But friends pass the spreadsheet on to friends, and more and more speakers show up. The result is a diverse range of speakers representing many areas of mathematics and many paths through the world of academia. Ormsby is glad to say that the math talks are an antidote to the Reed bubble. However, he has to work at it, given how disproportionately male the major’s demographics are. Ormsby emphasises an effort toward representing women and underrepresented minorities, and both groups were represented in four out of the twelve talks last semester, respectively. 
+
+The idea of math lectures might seem abstract, but the joy is in allowing the audience to let go of the technical details. Why, I asked Ormsby, would research mathematicians ever try to describe their research to Reed undergraduates? These math talks give researchers an opportunity tell a story — their story — about an active research area in mathematics. The audience is asked to think beyond solving problems and figuring out details, and to speak instead about organising ideas and questions that form research programs in mathematics. Speakers are told, said Professor Ormsby, to assume that listeners are familiar with linear algebra and vector calculus. They can also count on an audience willing to engage with new and unfamiliar ideas and to grasp big ideas before small, technical ones. Instead of building mathematics linearly, with technical detail after technical detail like a textbook, math talks help listeners pull big objects and ideas together “like a raft,” he said, assembled from all directions. 
+
+A large part of listening to a math talk, it seems, is figuring out which details to let go of. A first-year student, Ormsby thought, might understand a good 40% of a lecture; a junior might grasp 80%. But, as past speaker Jonathan Campbell wryly observed, there’s always a point in a math talk after which only specialists are able to follow what the speaker is talking about, and then finally a point where only the speaker understands. At the very end, when the speaker begins to speculate about their topic, not even the speakers know what they’re talking about. 
+
+In the end, though, Professor Ormsby gets just as much satisfaction from the personal aspect of inviting speakers from so many different areas of the mathematics community to visit as from the talks themselves. The math department takes colloquium speakers out to dinner, giving people in the department an opportunity to learn about the lives of speakers, both mathematical and non-mathematical. The most gratifying colloquium experience that Ormsby has experienced has come from just that: getting to hear speaker Eugenia Cheng, a professor he once took a course from as an undergraduate in Chicago, talk about the niche she’s carved out for herself. She now teaches math at the School of the Art Institute of Chicago in order to run her own symposium — a music symposium — so she can play the piano for opera singers. To commit yourself to a career in mathematics, and then to find time for other forms of art: that’s a life worth living.
