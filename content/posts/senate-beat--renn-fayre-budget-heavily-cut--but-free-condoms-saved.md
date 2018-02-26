@@ -2,7 +2,6 @@
 authors = ["Nick Chaiyachakorn"]
 categories = ["News"]
 date = "2018-02-23T09:07:17-08:00"
-draft = true
 image = ""
 tags = ["Senate Beat"]
 title = "Senate Beat: Renn Fayre Budget Heavily Cut, But Free Condoms Saved"
