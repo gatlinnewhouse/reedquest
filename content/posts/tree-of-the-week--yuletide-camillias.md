@@ -2,7 +2,6 @@
 authors = ["Claire Brase"]
 categories = ["Entertainment"]
 date = "2018-02-23T09:03:37-08:00"
-draft = true
 image = "/uploads/2018/02/26/camilia.JPG"
 tags = ["Tree of the Week"]
 title = "Tree of the Week: Yuletide Camillias"
