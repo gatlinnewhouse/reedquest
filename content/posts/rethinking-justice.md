@@ -2,7 +2,6 @@
 authors = ["Io Blanchett"]
 categories = ["Front Page", "News"]
 date = "2018-02-23T21:08:14-08:00"
-draft = true
 image = ""
 tags = []
 title = "Rethinking Justice"
