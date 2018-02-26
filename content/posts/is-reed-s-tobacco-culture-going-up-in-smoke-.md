@@ -2,7 +2,6 @@
 authors = ["Nicole Kretekos"]
 categories = ["Front Page", "News"]
 date = "2018-02-23T09:08:55-08:00"
-draft = true
 image = ""
 tags = []
 title = "Is Reed's Tobacco Culture Going up in Smoke?"
