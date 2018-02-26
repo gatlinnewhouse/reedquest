@@ -2,7 +2,6 @@
 authors = ["Ben Read"]
 categories = ["Features"]
 date = "2018-02-23T09:07:13-08:00"
-draft = true
 image = ""
 tags = []
 title = "Bashir’s 'Field Theories' Receives Oregon Book Award Nomination"
