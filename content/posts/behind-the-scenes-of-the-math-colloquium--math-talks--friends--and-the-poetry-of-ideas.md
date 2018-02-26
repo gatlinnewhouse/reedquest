@@ -2,7 +2,6 @@
 authors = ["Nick Chaiyachakorn"]
 categories = ["Features"]
 date = "2018-02-23T09:06:27-08:00"
-draft = true
 image = ""
 tags = []
 title = "Behind the Scenes of the Math Colloquium"
