@@ -1,7 +1,7 @@
 +++
 authors = ["Claire Brase"]
 categories = []
-date = "2018-02-09T13:59:14+00:00"
+date = "2018-02-09T13:59:14Z"
 image = ""
 tags = []
 title = "Tree of the Week: CLBR's American Sycamore"

@@ -1,7 +1,7 @@
 +++
 authors = ["Max Nobel"]
 categories = []
-date = "2018-02-09T13:49:21+00:00"
+date = "2018-02-09T13:49:21Z"
 image = ""
 tags = []
 title = "Clothes for Cash"

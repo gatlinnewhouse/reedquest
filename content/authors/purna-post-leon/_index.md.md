@@ -1,5 +1,5 @@
 +++
-date = "2018-03-07T21:14:23+00:00"
+date = "2018-03-07T21:14:23Z"
 draft = true
 title = "Purna Post-Leon"
 
