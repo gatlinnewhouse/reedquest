@@ -2,7 +2,6 @@
 authors = ["Comrade Post-Leon"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:16-07:00"
-draft = true
 image = ""
 tags = []
 title = "Op-Ed: If Senate Is Really Socialist, They'll Abolish Themselves"
