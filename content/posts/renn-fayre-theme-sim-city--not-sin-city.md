@@ -2,7 +2,6 @@
 authors = ["Ben Read"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:06-07:00"
-draft = true
 image = ""
 tags = []
 title = "Renn Fayre Theme Sim City, Not Sin City"
