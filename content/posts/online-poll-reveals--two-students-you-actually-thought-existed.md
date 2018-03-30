@@ -2,7 +2,6 @@
 authors = ["Jane Doe"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:24-07:00"
-draft = true
 image = ""
 tags = []
 title = "Online Poll Reveals: Two Students You Actually Thought Existed"
