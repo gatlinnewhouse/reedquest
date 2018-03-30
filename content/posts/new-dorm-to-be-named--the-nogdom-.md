@@ -2,7 +2,6 @@
 authors = ["Sky Ford"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:04-07:00"
-draft = true
 image = ""
 tags = []
 title = "New Dorm to be Named \"The nOgdom\""
