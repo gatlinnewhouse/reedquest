@@ -1,5 +1,5 @@
 +++
-authors = ["Sky Ford"]
+authors = ["Jane Doe"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:24-07:00"
 draft = true
