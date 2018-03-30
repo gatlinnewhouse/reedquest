@@ -2,7 +2,6 @@
 authors = ["Seymour Butts"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:48-07:00"
-draft = true
 image = ""
 tags = []
 title = "Gary Granger Stages Coup D'etat, Proclaims End of Cannabis Odor Elusion"
