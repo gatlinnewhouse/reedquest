@@ -2,7 +2,6 @@
 authors = ["Loralee Bandy"]
 categories = ["April Fools"]
 date = "2018-04-01T04:20:23-07:00"
-draft = true
 image = ""
 tags = []
 title = "In Media Res"
