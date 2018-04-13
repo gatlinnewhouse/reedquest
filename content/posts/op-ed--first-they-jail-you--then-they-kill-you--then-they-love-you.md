@@ -2,7 +2,6 @@
 authors = ["Rollo Brandon"]
 categories = ["Opinion"]
 date = "2018-04-13T09:05:28-07:00"
-draft = true
 image = ""
 tags = []
 title = "Op-Ed: First They Jail You, Then They Kill You, Then They Love You"
