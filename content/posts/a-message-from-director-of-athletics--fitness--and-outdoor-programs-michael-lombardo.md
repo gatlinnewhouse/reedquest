@@ -2,7 +2,6 @@
 authors = ["Michael Lombardo"]
 categories = ["News"]
 date = "2018-04-13T09:05:08-07:00"
-draft = true
 image = ""
 tags = []
 title = "A Message from Director of Athletics, Fitness, and Outdoor Programs Michael Lombardo"
