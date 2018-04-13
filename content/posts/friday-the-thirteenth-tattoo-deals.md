@@ -2,7 +2,6 @@
 authors = ["Max Nobel"]
 categories = ["Features"]
 date = "2018-04-13T09:06:27-07:00"
-draft = true
 image = ""
 tags = []
 title = "Friday the Thirteenth Tattoo Deals"
