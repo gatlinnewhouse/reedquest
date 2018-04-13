@@ -2,7 +2,6 @@
 authors = ["Sky Ford", "Nick Chaiyachakorn"]
 categories = ["News", "Front Page"]
 date = "2018-04-13T09:08:51-07:00"
-draft = true
 image = ""
 tags = []
 title = "Group Requirements Overturned"
