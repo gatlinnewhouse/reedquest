@@ -1,5 +1,6 @@
 ---
 pages:
+- posts/group-requirements-overturned.md
 - posts/in-media-res.md
 - posts/op-ed--if-senate-is-really-socialist--they-ll-abolish-themselves.md
 - posts/renn-fayre-theme-sim-city--not-sin-city.md
@@ -52,6 +53,7 @@ pages:
 - posts/humanities-curriculum-crosses-the-atlantic.md
 - posts/2017-09-07-students-banned-as-tensions-rise.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

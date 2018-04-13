@@ -5,6 +5,7 @@ pages:
 - authors/policies-of-the-quest/_index.md.md
 - authors/charlotte-andersen/_index.md.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
