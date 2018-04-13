@@ -2,14 +2,15 @@
 authors = ["Loralee Bandy", "Purna Post-Leon"]
 categories = ["Front Page", "Features"]
 date = "2018-04-13T09:08:04-07:00"
-draft = true
-image = ""
+image = "/uploads/2018/04/13/humplay.jpg"
 tags = []
 title = "HumPlay MMXVIII Direktors Tell All"
 type = "post"
 url = "/2018/04/13/humplay-MMXXVIII-direktors-tell-all/"
 
 +++
+![](/uploads/2018/04/13/humplay.jpg)
+
 Behind the curtains of HumPlay MMXVIII stand five Reedies, carefully selected for their memes and dedication, diligently twisting knobs and yelling at you to go back to drunkenly watching the show. This year’s incredible group of direktors is comprised of Sienna Holmes, Dex Marcus, Claire Patzman, Paulina Poleyumptewa, and Eileen Vert. Here’s what they want you to know about HumPlay!
 
 **_Q: What was your favorite thing about HumPlay last year?_**
@@ -26,7 +27,7 @@ Behind the curtains of HumPlay MMXVIII stand five Reedies, carefully selected fo
 
 **Eileen:** I believe strongly in the power of satire to bring others together. HumPlay balances presenting real criticism of the “Western canon” with Reed in-jokes and random bits of Greek mythology, and I think that this sort of location-based comedy is unifying for those in the community who appreciate this tradition. Also, I like dick jokes, all the swears, and being hella lewd. Plus, I get twenty-five new freshman friends for free!
 
-**Claire:** HumPlay was such an important part of my freshman year, and I wanted to continue to be involved so I could bring those warm fuzzy feelings to a whole new group of people. Also, by being a direktor I hoped to finally fulfill my true desire — social approval from a bunch of freshman. 
+**Claire:** HumPlay was such an important part of my freshman year, and I wanted to continue to be involved so I could bring those warm fuzzy feelings to a whole new group of people. Also, by being a direktor I hoped to finally fulfill my true desire — social approval from a bunch of freshman.
 
 **Dex:** I knew the minute I was cast in HumPlay my freshman year that I would want to be a direktor for the following cast. Accepting this responsibility was one of the easiest decisions I’ve ever made. Although I knew that it was going to be a lot of late nights and hard work, I also knew that at the end of this process I was going to have twenty-five perfect, sweet angels to pass this wonderful legacy on to. Writing this skript, and watching the cast become these characters was the ultimate payoff.
 
@@ -86,7 +87,7 @@ Behind the curtains of HumPlay MMXVIII stand five Reedies, carefully selected fo
 
 **Claire:** Like what Eileen said, it’s likely that some of the traditions that people are most passionate about will stay, but there will also be a lot of room to introduce fresh ideas to what makes HumPlay HumPlay. Honestly, I don’t want to think about it too much because I really want to be surprised by the direction next year’s direktors take. It will be difficult to have so much freedom to make huge changes, but I’m also ridiculously excited about what new ideas the direktors will come up with.
 
-**Dex:** HumPlay is a tradition, yes, but it is also an outlet for students that MUST adapt as the curriculum does. It might be a challenge for the next set of direktors to write a skript for a syllabus of a class they’ve never taken before, but I believe in their initiative to get the job done! It might change the structure of the performance, but the spirit of HumPlau will live on no matter what the material is. No change could stop HumPlay from having their tits out!! 
+**Dex:** HumPlay is a tradition, yes, but it is also an outlet for students that MUST adapt as the curriculum does. It might be a challenge for the next set of direktors to write a skript for a syllabus of a class they’ve never taken before, but I believe in their initiative to get the job done! It might change the structure of the performance, but the spirit of HumPlau will live on no matter what the material is. No change could stop HumPlay from having their tits out!!
 
 **_Q: What is your favorite line from the skript?_**
 
