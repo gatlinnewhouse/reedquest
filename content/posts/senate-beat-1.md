@@ -2,7 +2,6 @@
 authors = ["Nick Chaiyachakorn"]
 categories = ["News"]
 date = "2018-04-13T09:06:47-07:00"
-draft = true
 image = ""
 tags = []
 title = "Senate Beat"
