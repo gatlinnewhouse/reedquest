@@ -2,7 +2,6 @@
 authors = ["Ben Read"]
 categories = ["News", "Front Page"]
 date = "2018-04-13T09:08:00-07:00"
-draft = true
 image = ""
 tags = []
 title = "Humanities 110 Enters the 20th Century"
