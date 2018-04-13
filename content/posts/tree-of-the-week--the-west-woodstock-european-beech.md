@@ -2,7 +2,6 @@
 authors = ["Claire Brase"]
 categories = ["Entertainment"]
 date = "2018-04-13T09:04:00-07:00"
-draft = true
 image = "/uploads/2018/04/13/tree2.JPG"
 tags = []
 title = "Tree of the Week: The West Woodstock European Beech"
