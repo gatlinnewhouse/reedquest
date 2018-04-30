@@ -1,9 +1,30 @@
 +++
-categories = []
-date = "2018-04-30T16:20:43-07:00"
-draft = true
-title = "Mariela"
+authors = ["Ben Read"]
+categories = ["News", "Front Page"]
+date = "2018-03-23T09:08:43-07:00"
+image = ""
+tags = []
+title = "Former Student Sues Reed College, Professor Over Allegations of Discrimination and Sexual Harassment"
 type = "post"
+url = "/2018/03/23/former-student-sues-reed/"
 
 +++
+On December 29, 2017, former Reed student Andrew Choi filed a lawsuit against Reed College and Mariela Szwarcberg Daby, who is currently Assistant Professor of Political Science and was Choi’s thesis advisor. Choi alleges that during his time at Reed and with Szwarcberg Daby, he was the target of sexual harassment and disability discrimination at multiple points during his work as her research assistant and thesis student. The official complaints include counts of a hostile school environment in violation of Title IX, disability discrimination in violation of Title IX, negligent supervision and retention, and breach of contract against Reed College, as well as counts of breach of contract and conversion against Szwarcberg Daby. Both the college and Szwarcberg Daby deny all claims.
 
+Choi claims to have had multiple sexual encounters with Szwarcberg Daby during their professional relationship, including at least once in her apartment. The lawsuit claims that after Szwarcberg Daby put an end to their sexual relationship, her rejection contributed to Choi’s depression, creating a hostile environment, which would constitute of violation of Title IX. 
+
+As the _Portland Mercury_ reported, “Reed's policies didn't explicitly ban sex between professors and students until September 2013. At the time \[the alleged relationship\] happened, policy said it was just ‘inappropriate’ and it was simply strongly discouraged.” All sexual harassment is considered a potential violation of the Honor Principle, according to Reed’s Discriminatory Harassment and Sexual Misconduct Policy, but it wasn’t until September 2013 that the policy changed to address student-teacher relationships. It was in the fall of 2013, when Szwarcberg Daby became Choi’s thesis advisor, that the lawsuit claims she told him she wanted to “keep it professional.” However, Szwarcberg Daby’s response firmly denies all claims of a sexual relationship or ever having invited students to her apartment. 
+
+Choi also alleges that Szwarcberg Daby and other Reed College officials discriminated against him based on his depression, his ADHD, and another condition called hereditary hemorrhagic telangiectasia, which causes severe nosebleeds. In addition, Choi’s computer crashed during his senior year, causing him to have to redo the work he had done up to that point on his thesis, which contributed to his depression, and the suit claims that Szwarcberg Daby was not accommodating during this period of crisis. Once he had finished in December 2013, Choi alleges that Szwarcberg Daby initially signed off on the first draft of his thesis, but then revoked her approval without explanation after he failed to attend the oral defense for his thesis due to a nosebleed. He was then offered additional time to complete a second draft, which, the lawsuit claims, he completed but was unable to turn in on time because Szwarcberg Daby was not in her office. The suit claims he was then told by Registrar Nora McLaughlin and Vice President Mike Brody that he would have to enroll for another semester and pay tuition for that semester to finish his thesis. Choi then chose to leave Reed without earning his degree.
+
+Szwarcberg Daby’s response claims that she did not revoke her approval of his thesis. Her response explains that when he failed to attend his oral defense, he was automatically given an extension. Her response also claims that the deadline for the second draft was January 22, 2014 instead of January 27, as the suit claims. 
+
+The complaint of conversion regards the work Choi performed, or, as Szwarcberg Daby’s response claims, failed to perform, as her research assistant. The suit claims Szwarcberg Daby, in violation of a contract with the Corbett Grant which provided the money she used to research and publish the book with which Choi was assisting, failed to acknowledge Choi’s work yet gave recognition to her other research assistants.
+
+Szwarcberg Daby’s response claims Choi did not perform the original research or edits he claims to have contributed to certain chapters of her book, and her response claims that on both his thesis and research assistant work, she assisted Choi “despite repeated, sometimes catastrophic, failures on his part.” Her response also claims that multiple emails submitted as evidence in the lawsuits were fabricated.
+
+In a statement to the _Mercury_, Reed spokesperson Kevin Myers said Reed “believes that the student's rights were not violated in any respect,” and that “when complaints or concerns come to Reed's attention they are investigated and addressed diligently and thoughtfully.” 
+
+Szwarcberg Daby was evaluated in the fall of 2017 for tenure before the lawsuit was filed, but the lawsuit claims Choi submitted a letter to the Committee for Advancement and Tenure in 2015, the first time he claims to have notified the school of his allegations, to be used in the review process. A senior faculty member of the political science department told the _Quest_, “I believe that the Committee on Advancement and Tenure recommended tenure. My understanding is that tenure is not officially granted until the President makes a decision to forward the recommendations to the Board of Trustees, and then the Board of Trustees votes on it. Both of those, I think, are scheduled to happen in April at the next Trustees meeting.”
+
+The lawsuit was filed by attorneys Daniela Nanau and Kevin Brague, who “are asking a for jury trial for the four counts against the school and two accounts against the professor,” according to the _Mercury._ The judge presiding over the suit is Oregon District Court Judge Michael Mosman. It is unclear at this point whether the case will go to trial. 
