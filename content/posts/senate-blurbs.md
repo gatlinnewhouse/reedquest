@@ -2,6 +2,7 @@
 authors = []
 categories = []
 date = "2018-04-30T09:00:49-07:00"
+draft = true
 image = "/uploads/2018/05/01/pax-photo.jpg"
 tags = []
 title = "Meet Your Spring 2018 Senate Candidates!"
@@ -34,3 +35,7 @@ Hello student body senate, I am Rollo Brandon. So, the reason I will be running 
 **Isabel Hoff**
 
 I would like to run for senate so that I can use the power of our organized student government to help change Reed in ways our student body finds necessary. I am personally interested in bringing an Arabic language faculty member to campus so that Reed can finally start offering Arabic courses on campus. As an inhabitant of the Arabic House, I have found that although many students have expressed interest in taking Arabic courses at Lewis and Clark, the Reed community lacks interest in engaging in Arabic cultural events and that this interest could be inspired through a greater accessibility to Arabic language courses by offering them at Reed taught by Reed faculty. This is an attempt to help Reed combat Eurocentrism, as the most widely taken language courses at Reed are of European origin, and to fight against nationally widespread Arabophobia. By holding a position in senate, I hope to raise my voice and be heard by the Reed administration in order to help instate changes on campus. Besides this one issue about which I am passionate, I intend to listen to the voices of other Reedies with concerns about Reed as an institution and how we as a student body would like to see Reed change. I am a good communicator and have the necessary organizational skills to be a strong liaison between the Reed administration and our student body. I consider myself a compassionate listener, and have the ambition and motivation to help Reedies change our school in the ways we want to see it change.
+
+**Keegan Samaniego**
+
+Hey  everyone! I’m Keegan (they/them/theirs) and I’m running for senate! I  really want to become more involved with the Reed community and make  positive influence on campus. After a year of being a student, I am  really starting to grasp the way campus works. I want to be involved  with app com, j-board, and am still really interested in working towards  a better dissent policy. I’m a low ses, queer, first gen, mixed student and could bring an  interesting perspective to senate and reed policy. I will always  advocate for marginalized students and really want them to succeed here  at Reed. I love Reed and want to do everything in my power to make it  the best it can be. Vote Samaniego for senate! :) 
