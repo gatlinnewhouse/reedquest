@@ -2,7 +2,7 @@
 authors = []
 categories = []
 date = "2018-05-01T09:00:49-07:00"
-image = ""
+image = "/uploads/2018/05/01/pax-photo.jpg"
 tags = []
 title = "Meet Your Spring 2018 Senate Candidates!"
 type = "post"
