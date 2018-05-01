@@ -2,6 +2,7 @@
 authors = []
 categories = []
 date = "2018-04-30T09:00:49-07:00"
+draft = true
 image = "/uploads/2018/05/01/pax-photo.jpg"
 tags = []
 title = "Meet Your Spring 2018 Senate Candidates!"
@@ -37,4 +38,8 @@ I would like to run for senate so that I can use the power of our organized stud
 
 **Keegan Samaniego**
 
-Hey  everyone! I’m Keegan (they/them/theirs) and I’m running for senate! I  really want to become more involved with the Reed community and make  positive influence on campus. After a year of being a student, I am  really starting to grasp the way campus works. I want to be involved  with app com, j-board, and am still really interested in working towards  a better dissent policy. I’m a low ses, queer, first gen, mixed student and could bring an  interesting perspective to senate and reed policy. I will always  advocate for marginalized students and really want them to succeed here  at Reed. I love Reed and want to do everything in my power to make it  the best it can be. Vote Samaniego for senate! :) 
+Hey  everyone! I’m Keegan (they/them/theirs) and I’m running for senate! I  really want to become more involved with the Reed community and make  positive influence on campus. After a year of being a student, I am  really starting to grasp the way campus works. I want to be involved  with app com, j-board, and am still really interested in working towards  a better dissent policy. I’m a low ses, queer, first gen, mixed student and could bring an  interesting perspective to senate and reed policy. I will always  advocate for marginalized students and really want them to succeed here  at Reed. I love Reed and want to do everything in my power to make it  the best it can be. Vote Samaniego for senate! :)
+
+**Tania Jaramillo**
+
+a concept: reed with more movable chairs and a community actively inclusive to a wider array of it's students. a candidate: me. im tania and i use they/them pronouns! im a first year student running for senate this semester and i want to make reed the best it can be for U. i love the reed community and i know we can do better. 
