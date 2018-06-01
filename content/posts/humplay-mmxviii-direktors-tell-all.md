@@ -6,7 +6,7 @@ image = "/uploads/2018/04/13/humplay.jpg"
 tags = []
 title = "HumPlay MMXVIII Direktors Tell All"
 type = "post"
-url = "/2018/04/13/humplay-MMXXVIII-direktors-tell-all/"
+url = "/2018/04/13/humplay-mmxxviii-direktors-tell-all/"
 
 +++
 ![](/uploads/2018/04/13/humplay.jpg)
