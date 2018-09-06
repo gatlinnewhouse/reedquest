@@ -8,6 +8,7 @@ url: "/2012/11/01/residence-life-refuses-chicken-coop-proposal/"
 categories:
 - Left Sidebar
 - News
+draft: true
 
 ---
 Student efforts to add a chicken coop to the student garden adjacent to the Farm Co-op were shut down by Residence Life and Facilities Services. In their proposal to Residence Life, students who use the garden asked permission to purchase four adult hens and house them beside the student garden.
