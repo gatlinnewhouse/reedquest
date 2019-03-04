@@ -1,4 +1,5 @@
 ---
+label: Author Page
 hide_body: false
 is_partial: false
 fields:
@@ -13,7 +14,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- authors/purna-post-leon/_index.md.md
-- authors/staff.md
-- authors/policies-of-the-quest/_index.md.md
-- authors/charlotte-andersen/_index.md.md
+- content/authors/policies-of-the-quest/_index.md.md
+- content/authors/charlotte-andersen/_index.md.md
+- content/authors/purna-post-leon/_index.md.md
+- content/authors/staff.md
