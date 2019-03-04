@@ -1,8 +1,9 @@
 ---
 title: About
-type: author
+layout: info
 
 ---
+
 The Reed College _Quest_ is the independently run student newspaper of 
 Reed College. The first edition of _The Quest_ was printed in 1913. The 
 print edition of _The Quest_ currently publishes every Friday throughout 

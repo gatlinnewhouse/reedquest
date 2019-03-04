@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Staff"]
 categories = []
 date = "2018-04-30T09:00:49-07:00"
 image = "/uploads/2018/05/01/pax-photo.jpg"

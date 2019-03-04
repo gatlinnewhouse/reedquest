@@ -34,32 +34,24 @@ header {
     display: flex;
     flex-direction: column;
     margin: 0px;
-    background-color: #fff;
+    background: #F5F5F5 url(/images/background/roughredcloth_@2X.png) repeat scroll 0% 0%;
     width: 100%;
-    color: #870400;
     padding: 0px 15px 0px 15px;
     box-shadow: 0 1px 4px 0px rgba(0,0,0,0.14);
 }
 
-#logo {
-    background-image: url(/images/QuestCalligraphyLogo.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    text-indent: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-    max-width: 100%;
-    display: flex;
-    flex-direction: column;
-    background-color: #fff;
-    width: 100%;
-    height: 8em;
-    color: #870400;
+.foreground-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+    max-width: 90%;
+    max-height: 8em;
 }
 
-.whitebackground {
-    background-color: #fff;
+.top-padding {
+    background: #F5F5F5 url(/images/background/roughredcloth_@2X.png) repeat scroll 0% 0%;
     padding-top: 15px;
 }
 
@@ -166,6 +158,13 @@ main {
     text-decoration: none;
 }
 
+#sidebarlinkbullet {
+    font-weight: 400;
+    font-size: 95%;
+    color: rgb(135, 4, 0);
+    text-decoration: none;
+}
+
 #sidebar-headline {
     font-family: "EB Garamond", georgia, "times new roman", serif;
     color: #000;
@@ -183,6 +182,16 @@ main {
     vertical-align: -0.05em;
     display: inline-block;
     font-size: 0.8em;
+    color: rgb(135, 4, 0)
+}
+
+/* WIP FAQ CSS */
+#frequent-question {
+    font-family: "Lato", sans-serif;
+    font-size: 90%;
+    color: #000;
+    text-decoration: none;
+    margin: 0px;
 }
 
 #section-title {

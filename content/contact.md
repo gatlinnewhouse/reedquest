@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-type: author
+layout: info
 
 ---
 If you are interested in advertising with _The Quest_ you can contact 
